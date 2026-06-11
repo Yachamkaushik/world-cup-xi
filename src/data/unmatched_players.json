@@ -1,0 +1,192 @@
+[
+  {
+    "id": "bra_2018_geromel",
+    "name": "Pedro Geromel",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "col_2018_zapata",
+    "name": "Cristián Zapata",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "col_2018_borja",
+    "name": "Miguel Borja",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "cro_2018_livakovic",
+    "name": "Dominik Livaković",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "cro_2018_bradaric",
+    "name": "Filip Bradarić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "cro_2018_vida",
+    "name": "Domagoj Vida",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "cro_2018_pivaric",
+    "name": "Josip Pivarić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "ger_2018_plattenhardt",
+    "name": "Marvin Plattenhardt",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "mar_2018_elkaabi",
+    "name": "Ayoub El Kaabi",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "mar_2018_boussoufa",
+    "name": "Mbark Boussoufa",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "mar_2018_tagnaouti",
+    "name": "Ahmed Reda Tagnaouti",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "mar_2018_carcela",
+    "name": "Mehdi Carcela",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "rus_2018_semyonov",
+    "name": "Andrei Semyonov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "rus_2018_lunyov",
+    "name": "Andrey Lunyov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "rus_2018_yerokhin",
+    "name": "Aleksandr Yerokhin",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "sen_2018_sow",
+    "name": "Moussa Sow",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "sen_2018_sabaly",
+    "name": "Youssouf Sabaly",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "uru_2018_varela",
+    "name": "Guillermo Varela",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": null,
+    "stats": {}
+  },
+  {
+    "id": "uru_2018_dearrascaeta",
+    "name": "Giorgian De Arrascaeta",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": null,
+    "stats": {}
+  }
+]
