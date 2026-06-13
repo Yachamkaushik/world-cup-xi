@@ -1,4 +1,4 @@
-import { useLocation } from 'react-router-dom'
+import { useLocation, useNavigate } from 'react-router-dom'
 import {useEffect,useState} from "react";
 import playersData from '../data/players.json'
 
@@ -14,6 +14,7 @@ function getPlayerStats(player) {
         return { 'Goals': s.goals, 'Assists': s.assists, 'Goals/90': s.goals_per90 }
 }
 export default function Draft() {
+    const navigate = useNavigate();
     const location = useLocation()
     const [round, setRound] = useState(0)
     const [selectedPlayers, setSelectedPlayers] = useState([])
@@ -43,9 +44,13 @@ export default function Draft() {
             <h2>{currentNation}</h2>
             {currentSquad.map(player => (
                 <button key={player.id} onClick={()=>{
-                    setSelectedPlayers([...selectedPlayers, player])
+                    const finalTeam = [...selectedPlayers, player]
+                    setSelectedPlayers(finalTeam)
                     setRound(round+1)
                     setCurrentSquad([])
+                    if(round+1===11) {
+                        navigate('/simulate', { state: { selectedPlayers: finalTeam, mode } })
+                    }
                 }}>
                     <div>
                     <p>{player.name}</p>
