@@ -29,6 +29,7 @@ export default function Draft() {
     const nations = [...new Set(playersData.map(p => p.nation))]
     return(
         <div>
+            <h1>Round : {round}</h1>
             <button onClick={()=>{
                 const available = nations.filter(n => !usedNations.includes(n))
                 const index=Math.floor(Math.random() * available.length)
@@ -37,17 +38,23 @@ export default function Draft() {
                 setCurrentSquad((playersData.filter(n => n.nation===picked)))
                 setUsedNations([...usedNations,picked])
             }}>Spin</button>
-            <h1>Round : {round}</h1>
+            <h1></h1>
             <h2>{positions[round]}</h2>
             <h2>{currentNation}</h2>
             {currentSquad.map(player => (
-                <div key={player.id}>
+                <button key={player.id} onClick={()=>{
+                    setSelectedPlayers([...selectedPlayers, player])
+                    setRound(round+1)
+                    setCurrentSquad([])
+                }}>
+                    <div>
                     <p>{player.name}</p>
                     <p>{player.position}</p>
                     {mode === 'classic' && Object.entries(getPlayerStats(player)).map(([key, val]) => (
                         <p key={key}>{key}: {val ?? 'N/A'}</p>
                     ))}
                 </div>
+                </button>
             ))}
         </div>
     )
