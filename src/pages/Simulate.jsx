@@ -1,11 +1,8 @@
-import {useLocation,useNavigate} from 'react-router-dom'
+import {useLocation, useNavigate} from 'react-router-dom'
+import Navbar from "../components/Navbar";
 
 function calculateTeamRatings(selectedPlayers) {
-    let gkRating=0
-    let atkRating=0
-    let defRating=0
-    let midRating=0
-    let ovr=0;
+    let gkRating=0, atkRating=0, defRating=0, midRating=0, ovr=0
     const fwds = selectedPlayers.filter(p => p.position === 'FWD')
     const defs = selectedPlayers.filter(p => p.position === 'DEF')
     const mids = selectedPlayers.filter(p => p.position === 'MID')
@@ -23,18 +20,10 @@ function calculateEffectiveRating(player){
     const s = player.wc_stats
     const m = s.minutes_played || 1
     if(m === 0) return 0
-    if(player.position === 'GK'){
-        return (player.base_rating * 0.6) + ((s.save_pct ?? 0) * 0.35) + ((s.clean_sheets ?? 0) * 4) - ((s.goals_conceded ?? 0) * 1.5)
-    }
-    if(player.position === 'FWD'){
-        return (player.base_rating * 0.6) + ((s.goals_per90 ?? 0) * 15) + (((s.shots_on_target ?? 0) / m) * 90 * 4) + ((s.assists ?? 0) * 2)
-    }
-    if(player.position === 'MID'){
-        return (player.base_rating * 0.6) + (((s.key_passes ?? 0) / m) * 90 * 8) + (((s.progressive_passes ?? 0) / m) * 90 * 5) + ((s.assists ?? 0) * 3)
-    }
-    if(player.position === 'DEF'){
-        return (player.base_rating * 0.6) + (((s.tackles ?? 0) / m) * 90 * 8) + (((s.interceptions ?? 0) / m) * 90 * 10) + (((s.clearances ?? 0) / m) * 90 * 3)
-    }
+    if(player.position === 'GK') return (player.base_rating * 0.6) + ((s.save_pct ?? 0) * 0.35) + ((s.clean_sheets ?? 0) * 4) - ((s.goals_conceded ?? 0) * 1.5)
+    if(player.position === 'FWD') return (player.base_rating * 0.6) + ((s.goals_per90 ?? 0) * 15) + (((s.shots_on_target ?? 0) / m) * 90 * 4) + ((s.assists ?? 0) * 2)
+    if(player.position === 'MID') return (player.base_rating * 0.6) + (((s.key_passes ?? 0) / m) * 90 * 8) + (((s.progressive_passes ?? 0) / m) * 90 * 5) + ((s.assists ?? 0) * 3)
+    if(player.position === 'DEF') return (player.base_rating * 0.6) + (((s.tackles ?? 0) / m) * 90 * 8) + (((s.interceptions ?? 0) / m) * 90 * 10) + (((s.clearances ?? 0) / m) * 90 * 3)
 }
 
 function calculateEffectiveTeamRatings(selectedPlayers){
@@ -79,6 +68,13 @@ function simulateMatch(myTeam, opponent){
     return { won: finalWinProb > 0.5, winProb: finalWinProb, opponent }
 }
 
+const positionColors = {
+    GK: { bg: '#78350f', text: '#fbbf24' },
+    DEF: { bg: '#1e3a5f', text: '#60a5fa' },
+    MID: { bg: '#14532d', text: '#4ade80' },
+    FWD: { bg: '#7f1d1d', text: '#f87171' },
+}
+
 export default function Simulate() {
     const navigate = useNavigate()
     const location = useLocation()
@@ -88,24 +84,57 @@ export default function Simulate() {
     const myTeam = calculateEffectiveTeamRatings(selectedPlayers)
 
     return(
-        <div>
-            <h2>Team OVR: {ratings[0]}</h2>
-            <h3>ATK: {ratings[1]}</h3>
-            <h3>MID: {ratings[2]}</h3>
-            <h3>DEF: {ratings[3]}</h3>
-            {selectedPlayers.map(p => (
-                <div key={p.id}>
-                    <p>{p.name}</p>
+        <div className="min-h-screen w-full overflow-x-hidden text-white" style={{backgroundColor: '#0d1117'}}>
+            <Navbar />
+            <div className="flex flex-col items-center px-6 py-12">
+
+                {/* header */}
+                <p className="text-sm tracking-widest mb-2" style={{color: '#F5C518'}}>YOUR SQUAD IS READY</p>
+                <h1 className="text-5xl font-black tracking-wider mb-10 text-white">WORLD CUP XI</h1>
+
+                {/* team ratings */}
+                <div className="flex gap-6 mb-12">
+                    {[
+                        { label: 'OVR', value: ratings[0] },
+                        { label: 'ATK', value: ratings[1] },
+                        { label: 'MID', value: ratings[2] },
+                        { label: 'DEF', value: ratings[3] },
+                    ].map(({ label, value }) => (
+                        <div key={label} className="flex flex-col items-center px-6 py-4 rounded-xl" style={{backgroundColor: '#111827', border: '1px solid #ffffff15'}}>
+                            <span className="text-3xl font-black" style={{color: '#F5C518'}}>{value}</span>
+                            <span className="text-xs tracking-widest mt-1" style={{color: '#9ca3af'}}>{label}</span>
+                        </div>
+                    ))}
                 </div>
-            ))}
-            <button onClick={() => {
-                const results = []
-                for(let i = 0; i < 8; i++){
-                    const opponent = generateOpponent(i)
-                    results.push(simulateMatch(myTeam, opponent))
-                }
-                navigate('/result', { state: { results, selectedPlayers, mode } })
-            }}>PLAY WORLD CUP</button>
+
+                {/* player list */}
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-3 w-full max-w-4xl mb-12">
+                    {selectedPlayers.map(p => {
+                        const colors = positionColors[p.position] || { bg: '#1f2937', text: '#9ca3af' }
+                        return (
+                            <div key={p.id} className="px-4 py-3 rounded-xl flex items-center gap-3" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
+                                <span className="text-xs font-bold px-2 py-1 rounded-full" style={{backgroundColor: colors.bg, color: colors.text}}>{p.position}</span>
+                                <span className="text-sm font-semibold text-white">{p.name}</span>
+                            </div>
+                        )
+                    })}
+                </div>
+
+                {/* play button */}
+                <button
+                    onClick={() => {
+                        const results = []
+                        for(let i = 0; i < 8; i++){
+                            const opponent = generateOpponent(i)
+                            results.push(simulateMatch(myTeam, opponent))
+                        }
+                        navigate('/result', { state: { results, selectedPlayers, mode } })
+                    }}
+                    className="px-16 py-5 rounded-full font-black tracking-widest text-lg transition-all hover:opacity-80 hover:scale-105"
+                    style={{backgroundColor: '#F5C518', color: '#0d1117'}}>
+                    START WORLD CUP
+                </button>
+            </div>
         </div>
     )
 }
