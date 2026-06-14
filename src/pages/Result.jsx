@@ -45,7 +45,7 @@ export default function Result() {
                     <h2>{roundNames[currentMatch-3]}</h2>
                     <h3>{results[currentMatch].won? 'Won' :'Loss'}</h3>
                     {results[currentMatch].won && currentMatch === 7 &&
-                        <button onClick={() => navigate('/summary', { state: { results, mode, eliminated: false } })}>
+                        <button onClick={() => navigate('/summary', { state: { results, mode, eliminated: false, eliminatedAt: 'Final' } })}>
                             🏆 You Won The World Cup!
                         </button>
                     }
@@ -55,7 +55,7 @@ export default function Result() {
                         </button>
                     }
                     {!results[currentMatch].won &&
-                        <button onClick={() => navigate('/summary', { state: { results, mode, eliminated: true } })}>
+                        <button onClick={() => navigate('/summary', { state: { results, mode, eliminated: true, eliminatedAt: roundNames[currentMatch - 3] } })}>
                             See Results
                         </button>
                     }
