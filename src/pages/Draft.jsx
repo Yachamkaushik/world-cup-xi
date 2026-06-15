@@ -2,6 +2,20 @@ import { useLocation, useNavigate } from 'react-router-dom'
 import { useEffect, useState } from "react";
 import playersData from '../data/players.json'
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+
+const positionColors = {
+    GK: { bg: '#78350f', text: '#fbbf24' },
+    DEF: { bg: '#1e3a5f', text: '#60a5fa' },
+    MID: { bg: '#14532d', text: '#4ade80' },
+    FWD: { bg: '#7f1d1d', text: '#f87171' },
+}
+
+const positionFullNames = {
+    GK: 'GOALKEEPER', RB: 'RIGHT BACK', LB: 'LEFT BACK',
+    CB: 'CENTRE BACK', CDM: 'DEFENSIVE MID', CM: 'CENTRAL MID',
+    CAM: 'ATTACKING MID', RW: 'RIGHT WING', LW: 'LEFT WING', ST: 'STRIKER'
+}
 
 function getPlayerStats(player) {
     const s = player.wc_stats
@@ -15,6 +29,13 @@ function getPlayerStats(player) {
         return { 'Goals': s.goals, 'Assists': s.assists, 'Goals/90': s.goals_per90 }
 }
 
+const nationFlags = {
+    'Brazil': '🇧🇷', 'France': '🇫🇷', 'Argentina': '🇦🇷', 'Germany': '🇩🇪',
+    'Spain': '🇪🇸', 'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Portugal': '🇵🇹', 'Belgium': '🇧🇪',
+    'Croatia': '🇭🇷', 'Uruguay': '🇺🇾', 'Colombia': '🇨🇴', 'Senegal': '🇸🇳',
+    'Japan': '🇯🇵', 'Morocco': '🇲🇦', 'Russia': '🇷🇺', 'Sweden': '🇸🇪'
+}
+
 export default function Draft() {
     const navigate = useNavigate();
     const location = useLocation()
@@ -24,7 +45,7 @@ export default function Draft() {
     const mode = location.state.mode
     const [positions, setPositions] = useState(['GK', 'RB', 'LB', 'CB', 'CB', 'CDM', 'CM', 'CAM', 'RW', 'LW', 'ST'])
     const [currentSquad, setCurrentSquad] = useState([])
-    const [currentNation, setCurrentNation] = useState()
+    const [currentNation, setCurrentNation] = useState(null)
     const nations = [...new Set(playersData.map(p => p.nation))]
 
     useEffect(() => {
@@ -32,85 +53,189 @@ export default function Draft() {
         setPositions(shuffled)
     }, [])
 
+    const currentPosition = positions[round]
+    const broadPosition = ['GK'].includes(currentPosition) ? 'GK'
+        : ['RB', 'LB', 'CB'].includes(currentPosition) ? 'DEF'
+            : ['CDM', 'CM', 'CAM'].includes(currentPosition) ? 'MID'
+                : 'FWD'
+
     return (
-        <div className="min-h-screen w-full overflow-x-hidden text-white" style={{ backgroundColor: '#0d1117' }}>
+        <div className="min-h-screen w-full overflow-x-hidden text-white" style={{ backgroundColor: '#0a0a0f' }}>
             <Navbar />
-            <div className="flex flex-col items-center px-6 py-12">
 
-                {/* round + position header */}
-                <p className="text-sm tracking-widest mb-2" style={{ color: '#9ca3af' }}>ROUND {round + 1} OF 11</p>
-                <h1 className="text-6xl font-black tracking-wider mb-6" style={{ color: '#F5C518' }}>{positions[round]}</h1>
+            <div className="px-8 py-8" style={{maxWidth: '1400px', margin: '0 auto'}}>
 
-                {/* nation */}
-                {currentNation && (
-                    <h2 className="text-2xl font-bold mb-8 text-white">{currentNation}</h2>
-                )}
-
-                {/* spin button - only show if no squad yet */}
-                {currentSquad.length === 0 && (
-                    <button
-                        onClick={() => {
-                            const available = nations.filter(n => !usedNations.includes(n))
-                            const index = Math.floor(Math.random() * available.length)
-                            const picked = available[index]
-                            setCurrentNation(picked)
-                            setCurrentSquad(playersData.filter(n => n.nation === picked))
-                            setUsedNations([...usedNations, picked])
-                        }}
-                        className="px-10 py-4 rounded-full font-bold tracking-widest text-sm transition-all hover:opacity-80"
-                        style={{ backgroundColor: '#F5C518', color: '#0d1117' }}>
-                        SPIN
-                    </button>
-                )}
-
-                {/* squad grid */}
-                {currentSquad.length > 0 && (
-                    <div className="grid grid-cols-2 md:grid-cols-4 gap-4 w-full max-w-5xl mt-8">
-                        {currentSquad.map(player => (
-                            <button
-                                key={player.id}
-                                onClick={() => {
-                                    const finalTeam = [...selectedPlayers, player]
-                                    setSelectedPlayers(finalTeam)
-                                    setRound(round + 1)
-                                    setCurrentSquad([])
-                                    if (round + 1 === 11) {
-                                        navigate('/simulate', { state: { selectedPlayers: finalTeam, mode } })
-                                    }
-                                }}
-                                className="text-left p-4 rounded-xl transition-all hover:scale-105 hover:border-yellow-400"
-                                style={{ backgroundColor: '#111827', border: '1px solid #ffffff15' }}>
-                                <p className="font-bold text-white mb-1">{player.name}</p>
-                                <p className="text-xs mb-3 px-2 py-1 rounded-full inline-block" style={{ backgroundColor: '#1f2937', color: '#9ca3af' }}>{player.position}</p>
-                                {mode === 'classic' && (
-                                    <div className="mt-2">
-                                        {Object.entries(getPlayerStats(player)).map(([key, val]) => (
-                                            <div key={key} className="flex justify-between text-xs mt-1">
-                                                <span style={{ color: '#6b7280' }}>{key}</span>
-                                                <span style={{ color: '#F5C518' }}>{val ?? 'N/A'}</span>
-                                            </div>
-                                        ))}
-                                    </div>
-                                )}
-                            </button>
-                        ))}
-                    </div>
-                )}
-
-                {/* selected players so far */}
-                {selectedPlayers.length > 0 && (
-                    <div className="mt-12 w-full max-w-5xl">
-                        <p className="text-sm tracking-widest mb-4" style={{ color: '#9ca3af' }}>YOUR XI SO FAR</p>
-                        <div className="flex flex-wrap gap-2">
-                            {selectedPlayers.map(p => (
-                                <div key={p.id} className="px-3 py-2 rounded-lg text-sm font-bold" style={{ backgroundColor: '#111827', color: '#F5C518', border: '1px solid #F5C51830' }}>
-                                    {p.name} <span style={{ color: '#6b7280' }}>· {p.position}</span>
-                                </div>
-                            ))}
+                {/* top bar */}
+                <div className="flex justify-between items-start mb-8">
+                    <div>
+                        <div className="flex items-center gap-3 mb-2">
+                            <div style={{height: '2px', width: '20px', backgroundColor: '#F5C518'}} />
+                            <p className="text-xs tracking-widest font-semibold" style={{color: '#F5C518'}}>
+                                THE DRAW · ROUND {round + 1} / 11
+                            </p>
                         </div>
+                        <h1 className="font-black" style={{fontSize: 'clamp(2rem, 5vw, 3.5rem)', color: 'white', letterSpacing: '-0.02em'}}>
+                            {positionFullNames[currentPosition] || currentPosition}
+                        </h1>
+                        <p className="text-sm mt-1" style={{color: '#4b5563'}}>
+                            Spin to reveal a nation. Pick one {currentPosition} from their 23-man squad.
+                        </p>
                     </div>
-                )}
+                    <div className="flex items-center gap-3">
+                        <span className="text-xs font-bold px-3 py-2 rounded" style={{
+                            backgroundColor: '#F5C51815',
+                            color: '#F5C518',
+                            border: '1px solid #F5C51830'
+                        }}>
+                            {mode.toUpperCase()} MODE
+                        </span>
+                    </div>
+                </div>
+
+                {/* main content */}
+                <div className="flex gap-6" style={{minHeight: '450px'}}>
+
+                    {/* left — the pot */}
+                    <div className="flex flex-col items-center justify-center rounded-2xl p-8" style={{
+                        backgroundColor: '#111827',
+                        border: '1px solid #ffffff10',
+                        minWidth: '260px',
+                        width: '260px'
+                    }}>
+                        {!currentNation ? (
+                            <div className="flex flex-col items-center gap-6">
+                                <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>THE POT</p>
+                                <div style={{
+                                    width: '80px', height: '80px', borderRadius: '50%',
+                                    border: '2px dashed #ffffff15',
+                                    display: 'flex', alignItems: 'center', justifyContent: 'center'
+                                }}>
+                                    <span style={{fontSize: '2rem', opacity: 0.3}}>?</span>
+                                </div>
+                                <button
+                                    onClick={() => {
+                                        const available = nations.filter(n => !usedNations.includes(n))
+                                        const index = Math.floor(Math.random() * available.length)
+                                        const picked = available[index]
+                                        setCurrentNation(picked)
+                                        setCurrentSquad(playersData.filter(n => n.nation === picked))
+                                        setUsedNations([...usedNations, picked])
+                                    }}
+                                    className="px-8 py-3 rounded-full font-black tracking-widest text-sm transition-all hover:opacity-80"
+                                    style={{ backgroundColor: '#F5C518', color: '#0a0a0f' }}>
+                                    SPIN
+                                </button>
+                            </div>
+                        ) : (
+                            <div className="flex flex-col items-center gap-4 text-center">
+                                <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>THE POT</p>
+                                <span style={{fontSize: '4rem'}}>{nationFlags[currentNation] || '🏳️'}</span>
+                                <h2 className="font-black text-2xl text-white">{currentNation}</h2>
+                                <p className="text-xs mt-2" style={{color: '#374151'}}>PICK A PLAYER →</p>
+                            </div>
+                        )}
+                    </div>
+
+                    {/* right — player cards */}
+                    <div className="flex-1 overflow-y-auto overflow-x-visible" style={{maxHeight: '500px', paddingRight: '8px'}}>
+                        {currentSquad.length === 0 ? (
+                            <div className="flex items-center justify-center h-full" style={{color: '#1f2937'}}>
+                                <p className="text-sm tracking-widest">SPIN TO REVEAL SQUAD</p>
+                            </div>
+                        ) : (
+                            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+                                {currentSquad.map(player => {
+                                    const colors = positionColors[player.position] || { bg: '#1f2937', text: '#9ca3af' }
+                                    const isCurrentPos = player.position === broadPosition
+                                    return (
+                                        <button
+                                            key={player.id}
+                                            onClick={() => {
+                                                if (!isCurrentPos) return
+                                                const finalTeam = [...selectedPlayers, player]
+                                                setSelectedPlayers(finalTeam)
+                                                setRound(round + 1)
+                                                setCurrentSquad([])
+                                                setCurrentNation(null)
+                                                if (round + 1 === 11) {
+                                                    navigate('/simulate', { state: { selectedPlayers: finalTeam, mode } })
+                                                }
+                                            }}
+                                            className="text-left p-4 rounded-xl transition-all"
+                                            style={{
+                                                backgroundColor: '#111827',
+                                                border: `1px solid ${isCurrentPos ? colors.text + '40' : '#ffffff08'}`,
+                                                opacity: isCurrentPos ? 1 : 0.25,
+                                                cursor: isCurrentPos ? 'pointer' : 'default',
+                                                transition: 'all 0.2s ease'
+                                            }}
+                                            onMouseEnter={e => {
+                                                if (isCurrentPos) {
+                                                    e.currentTarget.style.boxShadow = `0 0 20px ${colors.text}25`
+                                                    e.currentTarget.style.transform = 'scale(1.01)'  // smaller scale
+                                                }
+                                            }}
+                                            onMouseLeave={e => {
+                                                e.currentTarget.style.boxShadow = 'none'
+                                                e.currentTarget.style.transform = 'scale(1)'
+                                            }}>
+                                            <div className="flex justify-between items-start mb-2">
+                                                <span className="text-xs font-bold px-2 py-1 rounded-full" style={{
+                                                    backgroundColor: colors.bg,
+                                                    color: colors.text
+                                                }}>{player.position}</span>
+                                                <span className="text-xs font-black" style={{color: '#4b5563'}}>#{player.squad_number}</span>
+                                            </div>
+                                            <p className="font-bold text-white text-sm mb-2">{player.name}</p>
+                                            {mode === 'classic' && isCurrentPos && (
+                                                <div className="mt-2">
+                                                    {Object.entries(getPlayerStats(player)).map(([key, val]) => (
+                                                        <div key={key} className="flex justify-between text-xs mt-1">
+                                                            <span style={{ color: '#4b5563' }}>{key}</span>
+                                                            <span style={{ color: colors.text }}>{val ?? 'N/A'}</span>
+                                                        </div>
+                                                    ))}
+                                                </div>
+                                            )}
+                                        </button>
+                                    )
+                                })}
+                            </div>
+                        )}
+                    </div>
+                </div>
+
+                {/* bottom — position slots */}
+                <div className="mt-8">
+                    <div className="flex justify-between items-center mb-3">
+                        <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>YOUR XI · {selectedPlayers.length} / 11</p>
+                        <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>{11 - round} ROUNDS REMAINING</p>
+                    </div>
+                    <div className="grid grid-cols-11 gap-2">
+                        {positions.map((pos, i) => {
+                            const filled = selectedPlayers[i]
+                            const isCurrent = i === round
+                            return (
+                                <div key={i} className="flex flex-col items-center rounded-xl p-2 text-center" style={{
+                                    backgroundColor: '#111827',
+                                    border: `1px solid ${isCurrent ? '#F5C518' : filled ? '#ffffff15' : '#ffffff08'}`,
+                                    minHeight: '80px',
+                                    boxShadow: isCurrent ? '0 0 15px #F5C51825' : 'none'
+                                }}>
+                                    <p style={{color: isCurrent ? '#F5C518' : '#4b5563', fontSize: '0.6rem'}} className="font-bold mb-1">{pos}</p>
+                                    {filled ? (
+                                        <p className="font-bold text-white" style={{fontSize: '0.6rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
+                                    ) : (
+                                        <p className="font-black" style={{color: isCurrent ? '#F5C51860' : '#1f2937', fontSize: '0.8rem'}}>{pos}</p>
+                                    )}
+                                    <p className="mt-1" style={{color: '#374151', fontSize: '0.55rem'}}>0{i + 1}</p>
+                                </div>
+                            )
+                        })}
+                    </div>
+                </div>
             </div>
+            <Footer />
         </div>
     )
 }

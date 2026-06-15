@@ -1,5 +1,6 @@
 import {useLocation, useNavigate} from 'react-router-dom'
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 function calculateTeamRatings(selectedPlayers) {
     let gkRating=0, atkRating=0, defRating=0, midRating=0, ovr=0
@@ -68,11 +69,34 @@ function simulateMatch(myTeam, opponent){
     return { won: finalWinProb > 0.5, winProb: finalWinProb, opponent }
 }
 
-const positionColors = {
-    GK: { bg: '#78350f', text: '#fbbf24' },
-    DEF: { bg: '#1e3a5f', text: '#60a5fa' },
-    MID: { bg: '#14532d', text: '#4ade80' },
-    FWD: { bg: '#7f1d1d', text: '#f87171' },
+const dotColors = [
+    { border: '#F5C518', text: '#F5C518', glow: '#F5C51840' },
+    { border: '#60a5fa', text: '#60a5fa', glow: '#60a5fa40' },
+    { border: '#4ade80', text: '#4ade80', glow: '#4ade8040' },
+    { border: '#f87171', text: '#f87171', glow: '#f8717140' },
+    { border: '#c084fc', text: '#c084fc', glow: '#c084fc40' },
+    { border: '#fb923c', text: '#fb923c', glow: '#fb923c40' },
+]
+
+function PlayerDot({ player, colorIndex }) {
+    const color = dotColors[colorIndex % dotColors.length]
+    return (
+        <div className="flex flex-col items-center gap-1">
+            <div className="flex items-center justify-center rounded-full font-black text-xs"
+                 style={{
+                     width: '36px', height: '36px',
+                     backgroundColor: '#0a0a0f',
+                     border: `2px solid ${color.border}`,
+                     color: color.text,
+                     boxShadow: `0 0 10px ${color.glow}`
+                 }}>
+                {player.base_rating}
+            </div>
+            <p className="text-white font-semibold text-center" style={{fontSize: '0.55rem', maxWidth: '60px', lineHeight: 1.2}}>
+                {player.name.split(' ').slice(-1)[0]}
+            </p>
+        </div>
+    )
 }
 
 export default function Simulate() {
@@ -83,44 +107,106 @@ export default function Simulate() {
     const ratings = calculateTeamRatings(selectedPlayers)
     const myTeam = calculateEffectiveTeamRatings(selectedPlayers)
 
+    const gks = selectedPlayers.filter(p => p.position === 'GK')
+    const defs = selectedPlayers.filter(p => p.position === 'DEF')
+    const mids = selectedPlayers.filter(p => p.position === 'MID')
+    const fwds = selectedPlayers.filter(p => p.position === 'FWD')
+
     return(
-        <div className="min-h-screen w-full overflow-x-hidden text-white" style={{backgroundColor: '#0d1117'}}>
+        <div className="min-h-screen w-full overflow-x-hidden text-white" style={{backgroundColor: '#0a0a0f'}}>
             <Navbar />
-            <div className="flex flex-col items-center px-6 py-12">
+            <div className="flex flex-col items-center px-6 py-10">
 
                 {/* header */}
-                <p className="text-sm tracking-widest mb-2" style={{color: '#F5C518'}}>YOUR SQUAD IS READY</p>
-                <h1 className="text-5xl font-black tracking-wider mb-10 text-white">WORLD CUP XI</h1>
+                <div className="flex items-center gap-3 mb-3">
+                    <div style={{height: '1px', width: '40px', background: 'linear-gradient(to right, transparent, #F5C518)'}} />
+                    <p className="text-xs tracking-widest font-semibold" style={{color: '#F5C518'}}>THE DRAFT IS COMPLETE</p>
+                    <div style={{height: '1px', width: '40px', background: 'linear-gradient(to left, transparent, #F5C518)'}} />
+                </div>
+                <h1 className="font-black mb-2 text-center" style={{fontSize: 'clamp(2rem, 6vw, 4rem)', color: 'white', letterSpacing: '-0.02em'}}>
+                    YOUR WORLD CUP XI
+                </h1>
+                <p className="text-sm mb-8 text-center" style={{color: '#4b5563'}}>
+                    The calm before the storm. Review your squad — then send them out to face history.
+                </p>
 
-                {/* team ratings */}
-                <div className="flex gap-6 mb-12">
+                {/* rating cards */}
+                <div className="flex gap-4 mb-10">
                     {[
-                        { label: 'OVR', value: ratings[0] },
+                        { label: 'OVR', value: ratings[0], gold: true },
                         { label: 'ATK', value: ratings[1] },
                         { label: 'MID', value: ratings[2] },
                         { label: 'DEF', value: ratings[3] },
-                    ].map(({ label, value }) => (
-                        <div key={label} className="flex flex-col items-center px-6 py-4 rounded-xl" style={{backgroundColor: '#111827', border: '1px solid #ffffff15'}}>
-                            <span className="text-3xl font-black" style={{color: '#F5C518'}}>{value}</span>
-                            <span className="text-xs tracking-widest mt-1" style={{color: '#9ca3af'}}>{label}</span>
+                    ].map(({ label, value, gold }) => (
+                        <div key={label} className="flex flex-col items-center px-8 py-5 rounded-2xl" style={{
+                            backgroundColor: '#111827',
+                            border: `1px solid ${gold ? '#F5C518' : '#ffffff15'}`,
+                            boxShadow: gold ? '0 0 20px #F5C51820' : 'none'
+                        }}>
+                            <span className="text-xs tracking-widest mb-1" style={{color: '#4b5563'}}>{label}</span>
+                            <span className="text-4xl font-black" style={{color: gold ? '#F5C518' : 'white'}}>{value}</span>
                         </div>
                     ))}
                 </div>
 
-                {/* player list */}
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-3 w-full max-w-4xl mb-12">
-                    {selectedPlayers.map(p => {
-                        const colors = positionColors[p.position] || { bg: '#1f2937', text: '#9ca3af' }
-                        return (
-                            <div key={p.id} className="px-4 py-3 rounded-xl flex items-center gap-3" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
-                                <span className="text-xs font-bold px-2 py-1 rounded-full" style={{backgroundColor: colors.bg, color: colors.text}}>{p.position}</span>
-                                <span className="text-sm font-semibold text-white">{p.name}</span>
-                            </div>
-                        )
-                    })}
+                {/* pitch */}
+                <div className="relative rounded-2xl overflow-hidden mb-10" style={{
+                    width: '100%',
+                    maxWidth: '480px',
+                    aspectRatio: '2/3',
+                    background: 'linear-gradient(180deg, #0d2818 0%, #0f3320 50%, #0d2818 100%)',
+                    border: '1px solid #1a5c30'
+                }}>
+                    {/* pitch markings */}
+                    <div style={{position: 'absolute', inset: 0, pointerEvents: 'none'}}>
+                        {/* center circle */}
+                        <div style={{
+                            position: 'absolute', top: '50%', left: '50%',
+                            transform: 'translate(-50%, -50%)',
+                            width: '100px', height: '100px',
+                            borderRadius: '50%',
+                            border: '1px solid #ffffff15'
+                        }} />
+                        {/* center line */}
+                        <div style={{
+                            position: 'absolute', top: '50%', left: '5%', right: '5%',
+                            height: '1px', backgroundColor: '#ffffff15'
+                        }} />
+                        {/* bottom penalty box only */}
+                        <div style={{
+                            position: 'absolute', bottom: '3%', left: '25%', right: '25%',
+                            height: '14%', border: '1px solid #ffffff15'
+                        }} />
+                        {/* outer border */}
+                        <div style={{
+                            position: 'absolute', top: '3%', left: '4%', right: '4%', bottom: '3%',
+                            border: '1px solid #ffffff20',
+                            borderRadius: '4px'
+                        }} />
+                    </div>
+
+                    {/* FWD row */}
+                    <div className="absolute flex justify-around items-center w-full" style={{top: '8%'}}>
+                        {fwds.map((p, i) => <PlayerDot key={p.id} player={p} colorIndex={i} />)}
+                    </div>
+
+                    {/* MID row */}
+                    <div className="absolute flex justify-around items-center w-full" style={{top: '32%'}}>
+                        {mids.map((p, i) => <PlayerDot key={p.id} player={p} colorIndex={i + 2} />)}
+                    </div>
+
+                    {/* DEF row */}
+                    <div className="absolute flex justify-around items-center w-full" style={{top: '58%'}}>
+                        {defs.map((p, i) => <PlayerDot key={p.id} player={p} colorIndex={i + 1} />)}
+                    </div>
+
+                    {/* GK row */}
+                    <div className="absolute flex justify-around items-center w-full" style={{top: '80%'}}>
+                        {gks.map((p, i) => <PlayerDot key={p.id} player={p} colorIndex={0} />)}
+                    </div>
                 </div>
 
-                {/* play button */}
+                {/* start button */}
                 <button
                     onClick={() => {
                         const results = []
@@ -130,11 +216,20 @@ export default function Simulate() {
                         }
                         navigate('/result', { state: { results, selectedPlayers, mode } })
                     }}
-                    className="px-16 py-5 rounded-full font-black tracking-widest text-lg transition-all hover:opacity-80 hover:scale-105"
-                    style={{backgroundColor: '#F5C518', color: '#0d1117'}}>
+                    className="px-16 py-5 rounded-full font-black tracking-widest text-lg"
+                    style={{backgroundColor: '#F5C518', color: '#0a0a0f', transition: 'all 0.2s ease'}}
+                    onMouseEnter={e => {
+                        e.currentTarget.style.boxShadow = '0 0 40px #F5C51840'
+                        e.currentTarget.style.transform = 'scale(1.03)'
+                    }}
+                    onMouseLeave={e => {
+                        e.currentTarget.style.boxShadow = 'none'
+                        e.currentTarget.style.transform = 'scale(1)'
+                    }}>
                     START WORLD CUP
                 </button>
             </div>
+            <Footer />
         </div>
     )
 }
