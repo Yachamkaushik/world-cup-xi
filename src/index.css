@@ -3,3 +3,11 @@ body {
     background-color: #0d1117;
     margin: 0;
 }
+@keyframes float {
+    0%, 100% { transform: translateY(0px) rotate(var(--rotate)); }
+    50% { transform: translateY(-8px) rotate(var(--rotate)); }
+}
+
+.flag-float {
+    animation: float 3s ease-in-out infinite;
+}
