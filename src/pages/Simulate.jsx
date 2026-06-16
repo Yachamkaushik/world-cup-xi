@@ -1,6 +1,7 @@
 import {useLocation, useNavigate} from 'react-router-dom'
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import playersData from '../data/players.json'
 
 function calculateTeamRatings(selectedPlayers) {
     let gkRating=0, atkRating=0, defRating=0, midRating=0, ovr=0
@@ -16,7 +17,21 @@ function calculateTeamRatings(selectedPlayers) {
     })
     return [Math.ceil(ovr/11),Math.ceil(atkRating/fwds.length),Math.ceil(midRating/mids.length),Math.ceil(defRating/defs.length),gkRating]
 }
-
+function generateScoreline(winProb, won){
+    let goalDiff = (winProb - 0.5) * 6
+    let totalGoals = 2 + Math.floor(Math.random() * 3)
+    let yourGoals = Math.round((totalGoals + goalDiff) / 2)
+    let oppGoals = totalGoals - yourGoals
+    yourGoals = Math.max(0, yourGoals)
+    oppGoals = Math.max(0, oppGoals)
+    if(yourGoals === oppGoals && won === true){
+        yourGoals += 1
+    }
+    if(yourGoals === oppGoals && won === false){
+        oppGoals += 1
+    }
+    return { yourGoals, oppGoals }
+}
 function calculateEffectiveRating(player){
     const s = player.wc_stats
     const m = s.minutes_played || 1
@@ -44,7 +59,7 @@ function calculateEffectiveTeamRatings(selectedPlayers){
     return { ATK: effectiveATK, MID: effectiveMID, DEF: effectiveDEF, GK: gkRating, OVR }
 }
 
-function generateOpponent(round) {
+function generateOpponent(round, usedNations, allNations) {
     const ranges = [[70,78],[70,78],[70,78],[75,82],[78,84],[82,87],[85,89],[88,93]]
     const [min, max] = ranges[round]
     const baseOVR = Math.floor(Math.random() * (max - min + 1)) + min
@@ -55,7 +70,11 @@ function generateOpponent(round) {
     else if (style === 'defensive') { ATK=baseOVR-6; MID=baseOVR+2; DEF=baseOVR+7; GK=baseOVR+3 }
     else { ATK=baseOVR+Math.floor(Math.random()*7)-3; MID=baseOVR+Math.floor(Math.random()*7)-3; DEF=baseOVR+Math.floor(Math.random()*7)-3; GK=baseOVR+Math.floor(Math.random()*7)-3 }
     const OVR = Math.ceil((ATK*0.30)+(MID*0.25)+(DEF*0.25)+(GK*0.20))
-    return { ATK, MID, DEF, GK, OVR, style, baseOVR }
+
+    const availableNations = allNations.filter(n => !usedNations.includes(n))
+    const nation = availableNations[Math.floor(Math.random() * availableNations.length)]
+
+    return { ATK, MID, DEF, GK, OVR, style, baseOVR, nation }
 }
 
 function simulateMatch(myTeam, opponent){
@@ -66,7 +85,9 @@ function simulateMatch(myTeam, opponent){
     theirScoringChance = theirScoringChance * (1 - (myTeam.GK - 70) * 0.003)
     const winProb = yourScoringChance / (yourScoringChance + theirScoringChance)
     const finalWinProb = winProb + (Math.random() * 0.24 - 0.12)
-    return { won: finalWinProb > 0.5, winProb: finalWinProb, opponent }
+    const won = finalWinProb > 0.5
+    const { yourGoals, oppGoals } = generateScoreline(finalWinProb, won)
+    return { won, winProb: finalWinProb, opponent, yourGoals, oppGoals }
 }
 
 const dotColors = [
@@ -113,11 +134,10 @@ export default function Simulate() {
     const fwds = selectedPlayers.filter(p => p.position === 'FWD')
 
     return(
-        <div className="min-h-screen w-full overflow-x-hidden text-white" style={{backgroundColor: '#0a0a0f'}}>
+        <div className="w-full overflow-x-hidden text-white flex flex-col" style={{backgroundColor: '#0a0a0f', minHeight: '100vh'}}>
             <Navbar />
-            <div className="flex flex-col items-center px-6 py-10">
+            <div className="flex flex-col items-center px-6 py-10" style={{flex: 1}}>
 
-                {/* header */}
                 <div className="flex items-center gap-3 mb-3">
                     <div style={{height: '1px', width: '40px', background: 'linear-gradient(to right, transparent, #F5C518)'}} />
                     <p className="text-xs tracking-widest font-semibold" style={{color: '#F5C518'}}>THE DRAFT IS COMPLETE</p>
@@ -130,7 +150,6 @@ export default function Simulate() {
                     The calm before the storm. Review your squad — then send them out to face history.
                 </p>
 
-                {/* rating cards */}
                 <div className="flex gap-4 mb-10">
                     {[
                         { label: 'OVR', value: ratings[0], gold: true },
@@ -149,7 +168,6 @@ export default function Simulate() {
                     ))}
                 </div>
 
-                {/* pitch */}
                 <div className="relative rounded-2xl overflow-hidden mb-10" style={{
                     width: '100%',
                     maxWidth: '480px',
@@ -157,9 +175,7 @@ export default function Simulate() {
                     background: 'linear-gradient(180deg, #0d2818 0%, #0f3320 50%, #0d2818 100%)',
                     border: '1px solid #1a5c30'
                 }}>
-                    {/* pitch markings */}
                     <div style={{position: 'absolute', inset: 0, pointerEvents: 'none'}}>
-                        {/* center circle */}
                         <div style={{
                             position: 'absolute', top: '50%', left: '50%',
                             transform: 'translate(-50%, -50%)',
@@ -167,17 +183,14 @@ export default function Simulate() {
                             borderRadius: '50%',
                             border: '1px solid #ffffff15'
                         }} />
-                        {/* center line */}
                         <div style={{
                             position: 'absolute', top: '50%', left: '5%', right: '5%',
                             height: '1px', backgroundColor: '#ffffff15'
                         }} />
-                        {/* bottom penalty box only */}
                         <div style={{
                             position: 'absolute', bottom: '3%', left: '25%', right: '25%',
                             height: '14%', border: '1px solid #ffffff15'
                         }} />
-                        {/* outer border */}
                         <div style={{
                             position: 'absolute', top: '3%', left: '4%', right: '4%', bottom: '3%',
                             border: '1px solid #ffffff20',
@@ -185,33 +198,31 @@ export default function Simulate() {
                         }} />
                     </div>
 
-                    {/* FWD row */}
                     <div className="absolute flex justify-around items-center w-full" style={{top: '8%'}}>
                         {fwds.map((p, i) => <PlayerDot key={p.id} player={p} colorIndex={i} />)}
                     </div>
 
-                    {/* MID row */}
                     <div className="absolute flex justify-around items-center w-full" style={{top: '32%'}}>
                         {mids.map((p, i) => <PlayerDot key={p.id} player={p} colorIndex={i + 2} />)}
                     </div>
 
-                    {/* DEF row */}
                     <div className="absolute flex justify-around items-center w-full" style={{top: '58%'}}>
                         {defs.map((p, i) => <PlayerDot key={p.id} player={p} colorIndex={i + 1} />)}
                     </div>
 
-                    {/* GK row */}
                     <div className="absolute flex justify-around items-center w-full" style={{top: '80%'}}>
                         {gks.map((p, i) => <PlayerDot key={p.id} player={p} colorIndex={0} />)}
                     </div>
                 </div>
 
-                {/* start button */}
                 <button
                     onClick={() => {
+                        const allNations = [...new Set(playersData.map(p => p.nation))]
+                        const usedNations = []
                         const results = []
                         for(let i = 0; i < 8; i++){
-                            const opponent = generateOpponent(i)
+                            const opponent = generateOpponent(i, usedNations, allNations)
+                            usedNations.push(opponent.nation)
                             results.push(simulateMatch(myTeam, opponent))
                         }
                         navigate('/result', { state: { results, selectedPlayers, mode } })

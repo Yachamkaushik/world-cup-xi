@@ -6,7 +6,6 @@ export default function Footer() {
             <div className="flex gap-6">
                 <span className="cursor-pointer hover:text-gray-400 transition-colors">ABOUT</span>
                 <span className="cursor-pointer hover:text-gray-400 transition-colors">HOW TO PLAY</span>
-                <span className="cursor-pointer hover:text-gray-400 transition-colors">GITHUB</span>
             </div>
             <span style={{color: '#1f2937'}}>NOT AFFILIATED WITH FIFA</span>
         </footer>
