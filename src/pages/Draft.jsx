@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import playersData from '../data/players.json'
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import { motion } from 'framer-motion'
 
 const positionColors = {
     GK: { bg: '#78350f', text: '#fbbf24' },
@@ -47,6 +48,7 @@ export default function Draft() {
     const [currentSquad, setCurrentSquad] = useState([])
     const [currentNation, setCurrentNation] = useState(null)
     const nations = [...new Set(playersData.map(p => p.nation))]
+    const [isSpinning, setIsSpinning] = useState(false)
 
     useEffect(() => {
         const shuffled = [...positions].sort(() => Math.random() - 0.5)
@@ -74,9 +76,14 @@ export default function Draft() {
                                 THE DRAW · ROUND {round + 1} / 11
                             </p>
                         </div>
-                        <h1 className="font-black" style={{fontSize: 'clamp(2rem, 5vw, 3.5rem)', color: 'white', letterSpacing: '-0.02em'}}>
+                        <motion.h1
+                            key={round}
+                            initial={{ opacity: 0, y: -6 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.45, ease: "easeOut" }}
+                            className="font-black" style={{fontSize: 'clamp(2rem, 5vw, 3.5rem)', color: 'white', letterSpacing: '-0.02em'}}>
                             {positionFullNames[currentPosition] || currentPosition}
-                        </h1>
+                        </motion.h1>
                         <p className="text-sm mt-1" style={{color: '#4b5563'}}>
                             Spin to reveal a nation. Pick one {currentPosition} from their 23-man squad.
                         </p>
@@ -112,24 +119,44 @@ export default function Draft() {
                                 }}>
                                     <span style={{fontSize: '2rem', opacity: 0.3}}>?</span>
                                 </div>
-                                <button
-                                    onClick={() => {
-                                        const available = nations.filter(n => !usedNations.includes(n))
-                                        const index = Math.floor(Math.random() * available.length)
-                                        const picked = available[index]
-                                        setCurrentNation(picked)
-                                        setCurrentSquad(playersData.filter(n => n.nation === picked))
-                                        setUsedNations([...usedNations, picked])
-                                    }}
-                                    className="px-8 py-3 rounded-full font-black tracking-widest text-sm transition-all hover:opacity-80"
-                                    style={{ backgroundColor: '#F5C518', color: '#0a0a0f' }}>
-                                    SPIN
-                                </button>
+                                {isSpinning ? (
+                                    <motion.div
+                                        animate={{ rotate: 360 }}
+                                        transition={{ duration: 0.8, repeat: Infinity, ease: "linear" }}
+                                        style={{ fontSize: '1.2rem' }}>
+                                        ⚽
+                                    </motion.div>
+                                ) : (
+                                    <button
+                                        onClick={() => {
+                                            setIsSpinning(true)
+                                            setTimeout(() => {
+                                                const available = nations.filter(n => !usedNations.includes(n))
+                                                const index = Math.floor(Math.random() * available.length)
+                                                const picked = available[index]
+                                                setCurrentNation(picked)
+                                                setCurrentSquad(playersData.filter(n => n.nation === picked))
+                                                setUsedNations([...usedNations, picked])
+                                                setIsSpinning(false)
+                                            }, 600)
+                                        }}
+                                        className="px-8 py-3 rounded-full font-black tracking-widest text-sm transition-all hover:opacity-80"
+                                        style={{ backgroundColor: '#F5C518', color: '#0a0a0f' }}>
+                                        SPIN
+                                    </button>
+                                )}
                             </div>
                         ) : (
                             <div className="flex flex-col items-center gap-4 text-center">
                                 <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>THE POT</p>
-                                <span style={{fontSize: '4rem'}}>{nationFlags[currentNation] || '🏳️'}</span>
+                                <motion.span
+                                    key={currentNation}
+                                    initial={{ scale: 0, opacity: 0 }}
+                                    animate={{ scale: 1, opacity: 1 }}
+                                    transition={{ duration: 0.4, type: "spring", bounce: 0.5 }}
+                                    style={{fontSize: '4rem', display: 'inline-block'}}>
+                                    {nationFlags[currentNation] || '🏳️'}
+                                </motion.span>
                                 <h2 className="font-black text-2xl text-white">{currentNation}</h2>
                                 <p className="text-xs mt-2" style={{color: '#374151'}}>PICK A PLAYER →</p>
                             </div>
