@@ -1,9 +1,10 @@
 import {useLocation, useNavigate} from "react-router-dom";
-import {useEffect, useRef} from "react";
+import {useEffect, useRef, useState} from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import confetti from "canvas-confetti";
 import { motion } from 'framer-motion'
+import html2canvas from 'html2canvas'
 
 const nationFlags = {
     'Brazil': '🇧🇷', 'France': '🇫🇷', 'Argentina': '🇦🇷', 'Germany': '🇩🇪',
@@ -12,7 +13,11 @@ const nationFlags = {
     'Japan': '🇯🇵', 'Morocco': '🇲🇦', 'Russia': '🇷🇺', 'Sweden': '🇸🇪'
 }
 
+const twitterStyle = {backgroundColor: '#1d9bf020', color: '#1d9bf0', border: '1px solid #1d9bf040', borderRadius: '10px', padding: '12px 16px', fontWeight: 700, fontSize: '14px', textDecoration: 'none', textAlign: 'center'}
+const waStyle = {backgroundColor: '#25d36620', color: '#25d366', border: '1px solid #25d36640', borderRadius: '10px', padding: '12px 16px', fontWeight: 700, fontSize: '14px', textDecoration: 'none', textAlign: 'center'}
+
 export default function Summary(){
+    const cardRef = useRef(null)
     const location = useLocation();
     const navigate = useNavigate()
     const results = location.state.results
@@ -21,6 +26,8 @@ export default function Summary(){
     const eliminated = location.state.eliminated
     const eliminatedAt = location.state.eliminatedAt
     const hasSaved = useRef(false)
+    const [showShareModal, setShowShareModal] = useState(false)
+    const [shareImage, setShareImage] = useState(null)
 
     let leaguePoints = 0
     for(let i = 0; i < 3; i++){
@@ -57,11 +64,28 @@ export default function Summary(){
     const topScorer = fwds.length > 0 ? [...fwds].sort((a, b) => b.base_rating - a.base_rating)[0] : null
     const mvp = selectedPlayers ? [...selectedPlayers].sort((a, b) => b.base_rating - a.base_rating)[0] : null
 
+    const handleShare = async () => {
+        const canvas = await html2canvas(cardRef.current, { backgroundColor: '#0a0a0f' })
+        const image = canvas.toDataURL('image/png')
+        setShareImage(image)
+        if (navigator.share && navigator.canShare) {
+            canvas.toBlob(async (blob) => {
+                const file = new File([blob], 'worldcupxi.png', { type: 'image/png' })
+                if (navigator.canShare({ files: [file] })) {
+                    await navigator.share({ files: [file], title: 'World Cup XI' })
+                } else {
+                    setShowShareModal(true)
+                }
+            })
+        } else {
+            setShowShareModal(true)
+        }
+    }
+
     useEffect(() => {
         if (hasSaved.current) return
         hasSaved.current = true
 
-        // save run first, always
         const run = {
             date: new Date().toLocaleDateString(),
             eliminatedAt: eliminated ? eliminatedAt : 'Champion',
@@ -73,7 +97,6 @@ export default function Summary(){
         const updated = [run, ...existing].slice(0, 20)
         localStorage.setItem('wcxi_runs', JSON.stringify(updated))
 
-        // animations separately
         if (!eliminated) {
             confetti({ particleCount: 200, spread: 180, origin: { y: 0.6 } })
         } else {
@@ -91,6 +114,15 @@ export default function Summary(){
             return () => clearInterval(interval)
         }
     }, [])
+
+    const tweetText = encodeURIComponent(eliminated
+        ? `I got eliminated in the ${eliminatedAt} of World Cup XI. Can you do better? worldcupxi.vercel.app`
+        : `I won the World Cup in World Cup XI! 🏆 worldcupxi.vercel.app`)
+
+    const waText = encodeURIComponent(eliminated
+        ? `I got eliminated in the ${eliminatedAt} of World Cup XI. Can you do better? worldcupxi.vercel.app`
+        : `I won the World Cup in World Cup XI! 🏆 worldcupxi.vercel.app`)
+
     return(
         <div className="w-full overflow-x-hidden text-white flex flex-col" style={{backgroundColor: '#0a0a0f', minHeight: '100vh'}}>
             <Navbar />
@@ -204,22 +236,104 @@ export default function Summary(){
                         {eliminated ? 'BUILD ANOTHER' : 'PLAY AGAIN'}
                     </button>
                     <button
-                        onClick={() => {
-                            if (navigator.share) {
-                                navigator.share({
-                                    title: 'World Cup XI',
-                                    text: eliminated ? `I got eliminated in the ${eliminatedAt} of World Cup XI. Can you do better?` : `I won the World Cup in World Cup XI! 🏆`,
-                                })
-                            }
-                        }}
+                        onClick={handleShare}
                         className="px-10 py-4 rounded-full font-black tracking-widest"
                         style={{backgroundColor: '#111827', color: 'white', border: '1px solid #ffffff20', transition: 'all 0.2s ease'}}
                         onMouseEnter={e => { e.currentTarget.style.borderColor = '#ffffff50' }}
                         onMouseLeave={e => { e.currentTarget.style.borderColor = '#ffffff20' }}>
-                        SHARE
+                        SHARE CARD
                     </button>
                 </div>
             </div>
+
+            {/* hidden share card */}
+            <div ref={cardRef} style={{
+                position: 'fixed', top: '-9999px', width: '600px',
+                backgroundColor: '#0a0a0f', padding: '40px',
+                fontFamily: 'sans-serif', color: 'white'
+            }}>
+                <div style={{display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '24px'}}>
+                    <div style={{
+                        width: '36px', height: '36px', borderRadius: '50%',
+                        backgroundColor: '#F5C518', display: 'flex', alignItems: 'center',
+                        justifyContent: 'center', fontWeight: 900, color: '#0a0a0f',
+                        fontSize: '13px', letterSpacing: '0px', lineHeight: 1
+                    }}>XI</div>
+                    <span style={{fontWeight: 900, color: '#F5C518', letterSpacing: '2px', fontSize: '14px'}}>WORLD CUP XI</span>
+                </div>
+                <h2 style={{fontWeight: 900, fontSize: '48px', letterSpacing: '-1px', marginBottom: '8px'}}>
+                    {eliminated
+                        ? <><span style={{color: 'white'}}>ELIM</span><span style={{color: '#e63946'}}>INATED.</span></>
+                        : <span style={{color: '#F5C518'}}>CHAMPION.</span>
+                    }
+                </h2>
+                <p style={{color: '#6b7280', fontSize: '14px', marginBottom: '24px'}}>
+                    {eliminated ? `Eliminated in the ${eliminatedAt}` : 'Won the World Cup'} · {mode.toUpperCase()} MODE · {totalGoalsScored} goals scored
+                </p>
+                <div style={{display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px', marginBottom: '24px'}}>
+                    {selectedPlayers.map((p, i) => (
+                        <div key={i} style={{display: 'flex', alignItems: 'center', gap: '8px', backgroundColor: '#111827', padding: '8px 12px', borderRadius: '8px'}}>
+                            <span style={{fontSize: '10px', color: '#374151', width: '16px'}}>0{i+1}</span>
+                            <span style={{fontSize: '12px', fontWeight: 700, color: 'white'}}>{p.name}</span>
+                            <span style={{fontSize: '10px', color: '#4b5563', marginLeft: 'auto'}}>{p.position}</span>
+                        </div>
+                    ))}
+                </div>
+                <div style={{borderTop: '1px solid #ffffff10', paddingTop: '16px', display: 'flex', justifyContent: 'space-between'}}>
+                    <span style={{fontSize: '11px', color: '#374151'}}>worldcupxi.vercel.app</span>
+                    <span style={{fontSize: '11px', color: '#374151'}}>NOT AFFILIATED WITH FIFA</span>
+                </div>
+            </div>
+
+            {/* share modal */}
+            {showShareModal && (
+                <div
+                    onClick={() => setShowShareModal(false)}
+                    style={{
+                        position: 'fixed', inset: 0, backgroundColor: '#000000aa',
+                        display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 100
+                    }}>
+                    <div
+                        onClick={e => e.stopPropagation()}
+                        style={{
+                            backgroundColor: '#111827', border: '1px solid #ffffff15',
+                            borderRadius: '16px', padding: '32px', width: '320px',
+                            display: 'flex', flexDirection: 'column', gap: '12px'
+                        }}>
+                        <p className="font-black text-white text-lg tracking-wide mb-2">SHARE YOUR RUN</p>
+                        <a href={`https://twitter.com/intent/tweet?text=${tweetText}`} target="_blank" rel="noreferrer" style={twitterStyle}>
+                            Share on Twitter / X
+                        </a>
+                        <a href={`https://wa.me/?text=${waText}`} target="_blank" rel="noreferrer" style={waStyle}>
+                            Share on WhatsApp
+                        </a>
+                        <button
+                            onClick={() => {
+                                const link = document.createElement('a')
+                                link.download = 'worldcupxi.png'
+                                link.href = shareImage
+                                link.click()
+                            }}
+                            style={{backgroundColor: '#ffffff10', color: 'white', border: '1px solid #ffffff20', borderRadius: '10px', padding: '12px 16px', fontWeight: 700, fontSize: '14px', cursor: 'pointer'}}>
+                            Download Image
+                        </button>
+                        <button
+                            onClick={() => {
+                                navigator.clipboard.writeText('worldcupxi.vercel.app')
+                                alert('Link copied!')
+                            }}
+                            style={{backgroundColor: '#ffffff10', color: '#9ca3af', border: '1px solid #ffffff10', borderRadius: '10px', padding: '12px 16px', fontWeight: 700, fontSize: '14px', cursor: 'pointer'}}>
+                            Copy Link
+                        </button>
+                        <button
+                            onClick={() => setShowShareModal(false)}
+                            style={{color: '#4b5563', fontSize: '12px', background: 'none', border: 'none', cursor: 'pointer', marginTop: '4px'}}>
+                            Cancel
+                        </button>
+                    </div>
+                </div>
+            )}
+
             <Footer />
         </div>
     )

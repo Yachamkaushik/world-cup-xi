@@ -1,0 +1,4228 @@
+[
+  {
+    "id": "bra_2014_neymar",
+    "name": "Neymar",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 90,
+    "stats": {
+      "shooting": 93,
+      "finishing": 90,
+      "shot_power": 88,
+      "positioning": 87
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 1,
+      "shots_on_target": 14,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "bra_2014_fred",
+    "name": "Fred",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 79,
+    "stats": {
+      "shooting": 40,
+      "finishing": 42,
+      "shot_power": 40,
+      "positioning": 40
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 405,
+      "goals_per90": 0.22
+    }
+  },
+  {
+    "id": "bra_2014_oscar",
+    "name": "Oscar",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 86,
+    "stats": {
+      "passing": 76,
+      "vision": 76,
+      "short_passing": 79,
+      "stamina": 81
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 3,
+      "progressive_passes": 28,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_2014_hulk",
+    "name": "Hulk",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "passing": 85,
+      "vision": 80,
+      "short_passing": 88,
+      "stamina": 76
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 14,
+      "minutes_played": 405
+    }
+  },
+  {
+    "id": "bra_2014_willian",
+    "name": "Willian",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 81,
+    "stats": {
+      "passing": 78,
+      "vision": 73,
+      "short_passing": 81,
+      "stamina": 64
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_2014_paulinho",
+    "name": "Paulinho",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 81,
+    "stats": {
+      "passing": 78,
+      "vision": 73,
+      "short_passing": 81,
+      "stamina": 66
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_2014_luiz_gustavo",
+    "name": "Luiz Gustavo",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 82,
+    "stats": {
+      "passing": 72,
+      "vision": 67,
+      "short_passing": 75,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_2014_david_luiz",
+    "name": "David Luiz",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 83,
+    "stats": {
+      "defending": 54,
+      "standing_tackle": 52,
+      "interceptions": 50,
+      "heading_accuracy": 51
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_2014_thiago_silva",
+    "name": "Thiago Silva",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 90,
+    "stats": {
+      "defending": 47,
+      "standing_tackle": 45,
+      "interceptions": 43,
+      "heading_accuracy": 59
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_2014_dani_alves",
+    "name": "Dani Alves",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 85,
+    "stats": {
+      "defending": 53,
+      "standing_tackle": 51,
+      "interceptions": 49,
+      "heading_accuracy": 67
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_2014_marcelo",
+    "name": "Marcelo",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 83,
+    "stats": {
+      "defending": 45,
+      "standing_tackle": 43,
+      "interceptions": 41,
+      "heading_accuracy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_2014_dante",
+    "name": "Dante",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 83,
+    "stats": {
+      "defending": 58,
+      "standing_tackle": 56,
+      "interceptions": 54,
+      "heading_accuracy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_2014_jlio_csar",
+    "name": "Júlio César",
+    "nation": "Brazil",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 83,
+    "stats": {
+      "gk_reflexes": 82,
+      "gk_diving": 84,
+      "gk_handling": 79,
+      "gk_positioning": 81
+    },
+    "wc_stats": {
+      "save_pct": 62.5,
+      "clean_sheets": 2,
+      "goals_conceded": 11,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_2014_thomas_mller",
+    "name": "Thomas Müller",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 89,
+    "stats": {
+      "passing": 75,
+      "vision": 70,
+      "short_passing": 78,
+      "stamina": 90
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 8,
+      "progressive_passes": 0,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_2014_miroslav_klose",
+    "name": "Miroslav Klose",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 90,
+    "stats": {
+      "shooting": 92,
+      "finishing": 94,
+      "shot_power": 87,
+      "positioning": 92
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 290,
+      "goals_per90": 0.62
+    }
+  },
+  {
+    "id": "ger_2014_mario_gtze",
+    "name": "Mario Götze",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 87,
+    "stats": {
+      "passing": 92,
+      "vision": 92,
+      "short_passing": 95,
+      "stamina": 72
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 2,
+      "progressive_passes": 0,
+      "minutes_played": 330
+    }
+  },
+  {
+    "id": "ger_2014_andr_schrrle",
+    "name": "André Schürrle",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 83,
+      "finishing": 80,
+      "shot_power": 78,
+      "positioning": 77
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 330,
+      "goals_per90": 0.55
+    }
+  },
+  {
+    "id": "ger_2014_toni_kroos",
+    "name": "Toni Kroos",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 87,
+    "stats": {
+      "passing": 86,
+      "vision": 86,
+      "short_passing": 89,
+      "stamina": 59
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 4,
+      "progressive_passes": 52,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_2014_mesut_zil",
+    "name": "Mesut Özil",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 87,
+    "stats": {
+      "passing": 93,
+      "vision": 93,
+      "short_passing": 96,
+      "stamina": 54
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 3,
+      "progressive_passes": 35,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ger_2014_bastian_schweinsteiger",
+    "name": "Bastian Schweinsteiger",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 90,
+    "stats": {
+      "passing": 78,
+      "vision": 73,
+      "short_passing": 81,
+      "stamina": 88
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 460
+    }
+  },
+  {
+    "id": "ger_2014_sami_khedira",
+    "name": "Sami Khedira",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 85,
+    "stats": {
+      "passing": 82,
+      "vision": 77,
+      "short_passing": 85,
+      "stamina": 72
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 2,
+      "progressive_passes": 15,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_2014_philipp_lahm",
+    "name": "Philipp Lahm",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 92,
+    "stats": {
+      "defending": 88,
+      "standing_tackle": 86,
+      "interceptions": 84,
+      "heading_accuracy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_2014_mats_hummels",
+    "name": "Mats Hummels",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 89,
+    "stats": {
+      "defending": 58,
+      "standing_tackle": 56,
+      "interceptions": 54,
+      "heading_accuracy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_2014_jrme_boateng",
+    "name": "Jérôme Boateng",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 83,
+    "stats": {
+      "defending": 85,
+      "standing_tackle": 83,
+      "interceptions": 81,
+      "heading_accuracy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 9,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_2014_benedikt_hwedes",
+    "name": "Benedikt Höwedes",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 80,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 76,
+      "interceptions": 74,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_2014_per_mertesacker",
+    "name": "Per Mertesacker",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 83,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 82,
+      "interceptions": 80,
+      "heading_accuracy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ger_2014_manuel_neuer",
+    "name": "Manuel Neuer",
+    "nation": "Germany",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 89,
+    "stats": {
+      "gk_reflexes": 90,
+      "gk_diving": 91,
+      "gk_handling": 88,
+      "gk_positioning": 87
+    },
+    "wc_stats": {
+      "save_pct": 83.3,
+      "clean_sheets": 4,
+      "goals_conceded": 4,
+      "minutes_played": 690
+    }
+  },
+  {
+    "id": "arg_2014_lionel_messi",
+    "name": "Lionel Messi",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 98,
+    "stats": {
+      "shooting": 96,
+      "finishing": 98,
+      "shot_power": 91,
+      "positioning": 96
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 1,
+      "shots_on_target": 17,
+      "minutes_played": 660,
+      "goals_per90": 0.55
+    }
+  },
+  {
+    "id": "arg_2014_gonzalo_higuan",
+    "name": "Gonzalo Higuaín",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 87,
+    "stats": {
+      "shooting": 75,
+      "finishing": 77,
+      "shot_power": 70,
+      "positioning": 75
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 6,
+      "minutes_played": 510,
+      "goals_per90": 0.18
+    }
+  },
+  {
+    "id": "arg_2014_ngel_mara",
+    "name": "Ángel Di María",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 88,
+    "stats": {
+      "passing": 74,
+      "vision": 74,
+      "short_passing": 77,
+      "stamina": 72
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 3,
+      "progressive_passes": 24,
+      "minutes_played": 510
+    }
+  },
+  {
+    "id": "arg_2014_rodrigo_palacio",
+    "name": "Rodrigo Palacio",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 89,
+      "finishing": 91,
+      "shot_power": 84,
+      "positioning": 89
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 280,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2014_sergio_agero",
+    "name": "Sergio Agüero",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 88,
+    "stats": {
+      "shooting": 71,
+      "finishing": 73,
+      "shot_power": 66,
+      "positioning": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2014_javier_mascherano",
+    "name": "Javier Mascherano",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 86,
+    "stats": {
+      "passing": 82,
+      "vision": 77,
+      "short_passing": 85,
+      "stamina": 63
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 660
+    }
+  },
+  {
+    "id": "arg_2014_ezequiel_lavezzi",
+    "name": "Ezequiel Lavezzi",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 85,
+      "finishing": 82,
+      "shot_power": 80,
+      "positioning": 79
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2014_ezequiel_garay",
+    "name": "Ezequiel Garay",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 86,
+    "stats": {
+      "defending": 83,
+      "standing_tackle": 81,
+      "interceptions": 79,
+      "heading_accuracy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 600
+    }
+  },
+  {
+    "id": "arg_2014_marcos_rojo",
+    "name": "Marcos Rojo",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 75,
+    "stats": {
+      "defending": 40,
+      "standing_tackle": 40,
+      "interceptions": 40,
+      "heading_accuracy": 40
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 570
+    }
+  },
+  {
+    "id": "arg_2014_pablo_zabaleta",
+    "name": "Pablo Zabaleta",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 82,
+    "stats": {
+      "defending": 58,
+      "standing_tackle": 56,
+      "interceptions": 54,
+      "heading_accuracy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 570
+    }
+  },
+  {
+    "id": "arg_2014_federico_fernndez",
+    "name": "Federico Fernández",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "defending": 46,
+      "standing_tackle": 44,
+      "interceptions": 42,
+      "heading_accuracy": 59
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 300
+    }
+  },
+  {
+    "id": "arg_2014_sergio_romero",
+    "name": "Sergio Romero",
+    "nation": "Argentina",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "gk_reflexes": 76,
+      "gk_diving": 77,
+      "gk_handling": 74,
+      "gk_positioning": 73
+    },
+    "wc_stats": {
+      "save_pct": 78.6,
+      "clean_sheets": 5,
+      "goals_conceded": 3,
+      "minutes_played": 660
+    }
+  },
+  {
+    "id": "fra_2014_karim_benzema",
+    "name": "Karim Benzema",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "shooting": 73,
+      "finishing": 75,
+      "shot_power": 68,
+      "positioning": 73
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 9,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "fra_2014_olivier_giroud",
+    "name": "Olivier Giroud",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 81,
+    "stats": {
+      "shooting": 72,
+      "finishing": 74,
+      "shot_power": 67,
+      "positioning": 72
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 380,
+      "goals_per90": 0.24
+    }
+  },
+  {
+    "id": "fra_2014_antoine_griezmann",
+    "name": "Antoine Griezmann",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "shooting": 79,
+      "finishing": 76,
+      "shot_power": 74,
+      "positioning": 73
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2014_franck_ribry",
+    "name": "Franck Ribéry",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 88,
+    "stats": {
+      "passing": 93,
+      "vision": 88,
+      "short_passing": 96,
+      "stamina": 61
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "fra_2014_paul_pogba",
+    "name": "Paul Pogba",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 85,
+    "stats": {
+      "passing": 86,
+      "vision": 81,
+      "short_passing": 89,
+      "stamina": 61
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 2,
+      "progressive_passes": 18,
+      "minutes_played": 405
+    }
+  },
+  {
+    "id": "fra_2014_blaise_matuidi",
+    "name": "Blaise Matuidi",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 85,
+    "stats": {
+      "passing": 82,
+      "vision": 77,
+      "short_passing": 85,
+      "stamina": 64
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 2,
+      "progressive_passes": 12,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "fra_2014_mathieu_valbuena",
+    "name": "Mathieu Valbuena",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 84,
+    "stats": {
+      "passing": 72,
+      "vision": 67,
+      "short_passing": 75,
+      "stamina": 67
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 2,
+      "progressive_passes": 16,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "fra_2014_moussa_sissoko",
+    "name": "Moussa Sissoko",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "passing": 58,
+      "vision": 53,
+      "short_passing": 61,
+      "stamina": 70
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 7,
+      "minutes_played": 300
+    }
+  },
+  {
+    "id": "fra_2014_raphal_varane",
+    "name": "Raphaël Varane",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "defending": 47,
+      "standing_tackle": 45,
+      "interceptions": 43,
+      "heading_accuracy": 67
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "fra_2014_laurent_koscielny",
+    "name": "Laurent Koscielny",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "defending": 47,
+      "standing_tackle": 45,
+      "interceptions": 43,
+      "heading_accuracy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "fra_2014_patrice_evra",
+    "name": "Patrice Evra",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "defending": 54,
+      "standing_tackle": 52,
+      "interceptions": 50,
+      "heading_accuracy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "fra_2014_mathieu_debuchy",
+    "name": "Mathieu Debuchy",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "defending": 52,
+      "standing_tackle": 50,
+      "interceptions": 48,
+      "heading_accuracy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "fra_2014_hugo_lloris",
+    "name": "Hugo Lloris",
+    "nation": "France",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 87,
+    "stats": {
+      "gk_reflexes": 86,
+      "gk_diving": 85,
+      "gk_handling": 83,
+      "gk_positioning": 84
+    },
+    "wc_stats": {
+      "save_pct": 76.9,
+      "clean_sheets": 2,
+      "goals_conceded": 3,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_2014_robin_persie",
+    "name": "Robin van Persie",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 90,
+    "stats": {
+      "shooting": 85,
+      "finishing": 87,
+      "shot_power": 80,
+      "positioning": 85
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 1,
+      "shots_on_target": 12,
+      "minutes_played": 600,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "ned_2014_arjen_robben",
+    "name": "Arjen Robben",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 92,
+    "stats": {
+      "shooting": 93,
+      "finishing": 90,
+      "shot_power": 88,
+      "positioning": 87
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 11,
+      "minutes_played": 630,
+      "goals_per90": 0.43
+    }
+  },
+  {
+    "id": "ned_2014_memphis_depay",
+    "name": "Memphis Depay",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 79,
+    "stats": {
+      "shooting": 85,
+      "finishing": 82,
+      "shot_power": 80,
+      "positioning": 79
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 300,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "ned_2014_klaasjan_huntelaar",
+    "name": "Klaas-Jan Huntelaar",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 12,
+    "base_rating": 86,
+    "stats": {
+      "shooting": 78,
+      "finishing": 80,
+      "shot_power": 73,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_2014_wesley_sneijder",
+    "name": "Wesley Sneijder",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "passing": 88,
+      "vision": 88,
+      "short_passing": 91,
+      "stamina": 63
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 3,
+      "progressive_passes": 32,
+      "minutes_played": 600
+    }
+  },
+  {
+    "id": "ned_2014_daley_blind",
+    "name": "Daley Blind",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "passing": 72,
+      "vision": 67,
+      "short_passing": 75,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 2,
+      "progressive_passes": 20,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_2014_nigel_jong",
+    "name": "Nigel de Jong",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "passing": 80,
+      "vision": 75,
+      "short_passing": 83,
+      "stamina": 67
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_2014_georginio_wijnaldum",
+    "name": "Georginio Wijnaldum",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "passing": 72,
+      "vision": 67,
+      "short_passing": 75,
+      "stamina": 78
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_2014_stefan_vrij",
+    "name": "Stefan de Vrij",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "defending": 55,
+      "standing_tackle": 53,
+      "interceptions": 51,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_2014_ron_vlaar",
+    "name": "Ron Vlaar",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 79,
+    "stats": {
+      "defending": 80,
+      "standing_tackle": 78,
+      "interceptions": 76,
+      "heading_accuracy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_2014_daryl_janmaat",
+    "name": "Daryl Janmaat",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 75,
+    "stats": {
+      "defending": 45,
+      "standing_tackle": 43,
+      "interceptions": 41,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_2014_bruno_indi",
+    "name": "Bruno Martins Indi",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 74,
+      "interceptions": 72,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_2014_jasper_cillessen",
+    "name": "Jasper Cillessen",
+    "nation": "Netherlands",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "gk_reflexes": 77,
+      "gk_diving": 78,
+      "gk_handling": 74,
+      "gk_positioning": 75
+    },
+    "wc_stats": {
+      "save_pct": 71.4,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "col_2014_james_rodrguez",
+    "name": "James Rodríguez",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 89,
+    "stats": {
+      "passing": 61,
+      "vision": 56,
+      "short_passing": 64,
+      "stamina": 89
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 8,
+      "progressive_passes": 38,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "col_2014_jackson_martnez",
+    "name": "Jackson Martínez",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 70,
+      "finishing": 72,
+      "shot_power": 65,
+      "positioning": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 300,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "col_2014_tefilo_gutirrez",
+    "name": "Teófilo Gutiérrez",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 75,
+    "stats": {
+      "shooting": 69,
+      "finishing": 71,
+      "shot_power": 64,
+      "positioning": 69
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_2014_juan_cuadrado",
+    "name": "Juan Cuadrado",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "passing": 60,
+      "vision": 55,
+      "short_passing": 63,
+      "stamina": 87
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 4,
+      "progressive_passes": 24,
+      "minutes_played": 430
+    }
+  },
+  {
+    "id": "col_2014_juan_quintero",
+    "name": "Juan Fernando Quintero",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "passing": 73,
+      "vision": 73,
+      "short_passing": 76,
+      "stamina": 76
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_2014_abel_aguilar",
+    "name": "Abel Aguilar",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 77,
+    "stats": {
+      "passing": 56,
+      "vision": 51,
+      "short_passing": 59,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_2014_carlos_snchez",
+    "name": "Carlos Sánchez",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "passing": 62,
+      "vision": 57,
+      "short_passing": 65,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_2014_pablo_armero",
+    "name": "Pablo Armero",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "defending": 48,
+      "standing_tackle": 46,
+      "interceptions": 44,
+      "heading_accuracy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_2014_cristian_zapata",
+    "name": "Cristian Zapata",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 77,
+    "stats": {
+      "defending": 44,
+      "standing_tackle": 42,
+      "interceptions": 40,
+      "heading_accuracy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "col_2014_mario_yepes",
+    "name": "Mario Yepes",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 75,
+    "stats": {
+      "defending": 77,
+      "standing_tackle": 75,
+      "interceptions": 73,
+      "heading_accuracy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_2014_camilo_ziga",
+    "name": "Camilo Zúñiga",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "defending": 82,
+      "standing_tackle": 80,
+      "interceptions": 78,
+      "heading_accuracy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_2014_david_ospina",
+    "name": "David Ospina",
+    "nation": "Colombia",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "gk_reflexes": 81,
+      "gk_diving": 82,
+      "gk_handling": 78,
+      "gk_positioning": 80
+    },
+    "wc_stats": {
+      "save_pct": 76.9,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_2014_romelu_lukaku",
+    "name": "Romelu Lukaku",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "shooting": 75,
+      "finishing": 77,
+      "shot_power": 70,
+      "positioning": 75
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "bel_2014_dries_mertens",
+    "name": "Dries Mertens",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 79,
+    "stats": {
+      "shooting": 74,
+      "finishing": 71,
+      "shot_power": 69,
+      "positioning": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bel_2014_christian_benteke",
+    "name": "Christian Benteke",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 81,
+    "stats": {
+      "shooting": 65,
+      "finishing": 67,
+      "shot_power": 60,
+      "positioning": 65
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bel_2014_divock_origi",
+    "name": "Divock Origi",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 73,
+    "stats": {
+      "shooting": 74,
+      "finishing": 71,
+      "shot_power": 69,
+      "positioning": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bel_2014_eden_hazard",
+    "name": "Eden Hazard",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 92,
+    "stats": {
+      "passing": 93,
+      "vision": 88,
+      "short_passing": 96,
+      "stamina": 67
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_2014_kevin_bruyne",
+    "name": "Kevin De Bruyne",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "passing": 61,
+      "vision": 61,
+      "short_passing": 64,
+      "stamina": 88
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 3,
+      "progressive_passes": 24,
+      "minutes_played": 405
+    }
+  },
+  {
+    "id": "bel_2014_marouane_fellaini",
+    "name": "Marouane Fellaini",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "passing": 77,
+      "vision": 72,
+      "short_passing": 80,
+      "stamina": 84
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 2,
+      "progressive_passes": 8,
+      "minutes_played": 300
+    }
+  },
+  {
+    "id": "bel_2014_axel_witsel",
+    "name": "Axel Witsel",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "passing": 72,
+      "vision": 67,
+      "short_passing": 75,
+      "stamina": 54
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_2014_moussa_dembl",
+    "name": "Moussa Dembélé",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "passing": 68,
+      "vision": 63,
+      "short_passing": 71,
+      "stamina": 85
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_2014_vincent_kompany",
+    "name": "Vincent Kompany",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 86,
+    "stats": {
+      "defending": 89,
+      "standing_tackle": 87,
+      "interceptions": 85,
+      "heading_accuracy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 9,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_2014_jan_vertonghen",
+    "name": "Jan Vertonghen",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 83,
+    "stats": {
+      "defending": 59,
+      "standing_tackle": 57,
+      "interceptions": 55,
+      "heading_accuracy": 51
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_2014_toby_alderweireld",
+    "name": "Toby Alderweireld",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": 75,
+    "stats": {
+      "defending": 42,
+      "standing_tackle": 40,
+      "interceptions": 40,
+      "heading_accuracy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_2014_thibaut_courtois",
+    "name": "Thibaut Courtois",
+    "nation": "Belgium",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "gk_reflexes": 83,
+      "gk_diving": 84,
+      "gk_handling": 80,
+      "gk_positioning": 81
+    },
+    "wc_stats": {
+      "save_pct": 77.8,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "por_2014_cristiano_ronaldo",
+    "name": "Cristiano Ronaldo",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 92,
+    "stats": {
+      "shooting": 90,
+      "finishing": 87,
+      "shot_power": 85,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "por_2014_hugo_almeida",
+    "name": "Hugo Almeida",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "shooting": 77,
+      "finishing": 79,
+      "shot_power": 72,
+      "positioning": 77
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 230,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "por_2014_silvestre_varela",
+    "name": "Silvestre Varela",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "shooting": 68,
+      "finishing": 65,
+      "shot_power": 63,
+      "positioning": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 120,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "por_2014_nani",
+    "name": "Nani",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "passing": 61,
+      "vision": 56,
+      "short_passing": 64,
+      "stamina": 89
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 2,
+      "progressive_passes": 10,
+      "minutes_played": 220
+    }
+  },
+  {
+    "id": "por_2014_joo_moutinho",
+    "name": "João Moutinho",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "passing": 73,
+      "vision": 68,
+      "short_passing": 76,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "por_2014_ral_meireles",
+    "name": "Raúl Meireles",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 80,
+    "stats": {
+      "passing": 79,
+      "vision": 74,
+      "short_passing": 82,
+      "stamina": 55
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "por_2014_william_carvalho",
+    "name": "William Carvalho",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "passing": 81,
+      "vision": 76,
+      "short_passing": 84,
+      "stamina": 53
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "por_2014_pepe",
+    "name": "Pepe",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 83,
+    "stats": {
+      "defending": 58,
+      "standing_tackle": 56,
+      "interceptions": 54,
+      "heading_accuracy": 61
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "por_2014_bruno_alves",
+    "name": "Bruno Alves",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 81,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 76,
+      "interceptions": 74,
+      "heading_accuracy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "por_2014_fbio_coentro",
+    "name": "Fábio Coentrão",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 79,
+    "stats": {
+      "defending": 49,
+      "standing_tackle": 47,
+      "interceptions": 45,
+      "heading_accuracy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "por_2014_joo_pereira",
+    "name": "João Pereira",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 72,
+      "interceptions": 70,
+      "heading_accuracy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "por_2014_rui_patrcio",
+    "name": "Rui Patrício",
+    "nation": "Portugal",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 81,
+    "stats": {
+      "gk_reflexes": 80,
+      "gk_diving": 81,
+      "gk_handling": 77,
+      "gk_positioning": 79
+    },
+    "wc_stats": {
+      "save_pct": 63.6,
+      "clean_sheets": 0,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_david_villa",
+    "name": "David Villa",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "shooting": 78,
+      "finishing": 80,
+      "shot_power": 73,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "esp_2014_fernando_torres",
+    "name": "Fernando Torres",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 84,
+      "finishing": 86,
+      "shot_power": 79,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_2014_pedro",
+    "name": "Pedro",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 85,
+    "stats": {
+      "shooting": 60,
+      "finishing": 57,
+      "shot_power": 55,
+      "positioning": 54
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 200,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_2014_fernando_llorente",
+    "name": "Fernando Llorente",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "shooting": 70,
+      "finishing": 72,
+      "shot_power": 65,
+      "positioning": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_2014_xavi",
+    "name": "Xavi",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 88,
+    "stats": {
+      "passing": 82,
+      "vision": 77,
+      "short_passing": 85,
+      "stamina": 50
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 30,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_andrs_iniesta",
+    "name": "Andrés Iniesta",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 91,
+    "stats": {
+      "passing": 90,
+      "vision": 85,
+      "short_passing": 93,
+      "stamina": 70
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 1,
+      "progressive_passes": 26,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_cesc_fbregas",
+    "name": "Cesc Fàbregas",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 86,
+    "stats": {
+      "passing": 84,
+      "vision": 84,
+      "short_passing": 87,
+      "stamina": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_david_silva",
+    "name": "David Silva",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 87,
+    "stats": {
+      "passing": 86,
+      "vision": 86,
+      "short_passing": 89,
+      "stamina": 65
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_sergio_busquets",
+    "name": "Sergio Busquets",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 85,
+    "stats": {
+      "passing": 86,
+      "vision": 81,
+      "short_passing": 89,
+      "stamina": 86
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_xabi_alonso",
+    "name": "Xabi Alonso",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 85,
+    "stats": {
+      "passing": 80,
+      "vision": 75,
+      "short_passing": 83,
+      "stamina": 57
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_sergio_ramos",
+    "name": "Sergio Ramos",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 86,
+    "stats": {
+      "defending": 82,
+      "standing_tackle": 80,
+      "interceptions": 78,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_gerard_piqu",
+    "name": "Gerard Piqué",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 86,
+    "stats": {
+      "defending": 55,
+      "standing_tackle": 53,
+      "interceptions": 51,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_jordi_alba",
+    "name": "Jordi Alba",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 82,
+    "stats": {
+      "defending": 81,
+      "standing_tackle": 79,
+      "interceptions": 77,
+      "heading_accuracy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_juanfran",
+    "name": "Juanfran",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 79,
+    "stats": {
+      "defending": 57,
+      "standing_tackle": 55,
+      "interceptions": 53,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2014_iker_casillas",
+    "name": "Iker Casillas",
+    "nation": "Spain",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 86,
+    "stats": {
+      "gk_reflexes": 84,
+      "gk_diving": 85,
+      "gk_handling": 80,
+      "gk_positioning": 82
+    },
+    "wc_stats": {
+      "save_pct": 50.0,
+      "clean_sheets": 0,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "chi_2014_alexis_snchez",
+    "name": "Alexis Sánchez",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 86,
+    "stats": {
+      "shooting": 59,
+      "finishing": 61,
+      "shot_power": 54,
+      "positioning": 59
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "chi_2014_eduardo_vargas",
+    "name": "Eduardo Vargas",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "shooting": 69,
+      "finishing": 71,
+      "shot_power": 64,
+      "positioning": 69
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 350,
+      "goals_per90": 0.51
+    }
+  },
+  {
+    "id": "chi_2014_mauricio_pinilla",
+    "name": "Mauricio Pinilla",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "shooting": 75,
+      "finishing": 77,
+      "shot_power": 70,
+      "positioning": 75
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "chi_2014_arturo_vidal",
+    "name": "Arturo Vidal",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 86,
+    "stats": {
+      "passing": 85,
+      "vision": 80,
+      "short_passing": 88,
+      "stamina": 83
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 16,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "chi_2014_charles_arnguiz",
+    "name": "Charles Aránguiz",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "passing": 81,
+      "vision": 76,
+      "short_passing": 84,
+      "stamina": 54
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 12,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "chi_2014_jean_beausejour",
+    "name": "Jean Beausejour",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "passing": 75,
+      "vision": 70,
+      "short_passing": 78,
+      "stamina": 73
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 9,
+      "minutes_played": 290
+    }
+  },
+  {
+    "id": "chi_2014_jorge_valdivia",
+    "name": "Jorge Valdivia",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "passing": 67,
+      "vision": 67,
+      "short_passing": 70,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 13,
+      "minutes_played": 230
+    }
+  },
+  {
+    "id": "chi_2014_gary_medel",
+    "name": "Gary Medel",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "passing": 57,
+      "vision": 52,
+      "short_passing": 60,
+      "stamina": 90
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "chi_2014_marcelo_daz",
+    "name": "Marcelo Díaz",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 71,
+    "stats": {
+      "passing": 61,
+      "vision": 56,
+      "short_passing": 64,
+      "stamina": 62
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "chi_2014_gonzalo_jara",
+    "name": "Gonzalo Jara",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 72,
+      "interceptions": 70,
+      "heading_accuracy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "chi_2014_mauricio_isla",
+    "name": "Mauricio Isla",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 75,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 72,
+      "interceptions": 70,
+      "heading_accuracy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "chi_2014_eugenio_mena",
+    "name": "Eugenio Mena",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 70,
+    "stats": {
+      "defending": 43,
+      "standing_tackle": 41,
+      "interceptions": 40,
+      "heading_accuracy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "chi_2014_claudio_bravo",
+    "name": "Claudio Bravo",
+    "nation": "Chile",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 83,
+    "stats": {
+      "gk_reflexes": 82,
+      "gk_diving": 81,
+      "gk_handling": 79,
+      "gk_positioning": 80
+    },
+    "wc_stats": {
+      "save_pct": 73.3,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_2014_luis_surez",
+    "name": "Luis Suárez",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 92,
+    "stats": {
+      "shooting": 95,
+      "finishing": 97,
+      "shot_power": 90,
+      "positioning": 95
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "uru_2014_edinson_cavani",
+    "name": "Edinson Cavani",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 87,
+    "stats": {
+      "shooting": 89,
+      "finishing": 91,
+      "shot_power": 84,
+      "positioning": 89
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "uru_2014_diego_forln",
+    "name": "Diego Forlán",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "passing": 73,
+      "vision": 68,
+      "short_passing": 76,
+      "stamina": 69
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "uru_2014_gastn_ramrez",
+    "name": "Gastón Ramírez",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 79,
+    "stats": {
+      "passing": 77,
+      "vision": 77,
+      "short_passing": 80,
+      "stamina": 75
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "uru_2014_cristian_rodrguez",
+    "name": "Cristian Rodríguez",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 79,
+    "stats": {
+      "passing": 77,
+      "vision": 72,
+      "short_passing": 80,
+      "stamina": 60
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "uru_2014_egidio_ros",
+    "name": "Egidio Arévalo Ríos",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 73,
+    "stats": {
+      "passing": 63,
+      "vision": 58,
+      "short_passing": 66,
+      "stamina": 65
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 3,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "uru_2014_diego_godn",
+    "name": "Diego Godín",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 86,
+    "stats": {
+      "defending": 91,
+      "standing_tackle": 89,
+      "interceptions": 87,
+      "heading_accuracy": 85
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_2014_jos_gimnez",
+    "name": "José Giménez",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 71,
+    "stats": {
+      "defending": 69,
+      "standing_tackle": 67,
+      "interceptions": 65,
+      "heading_accuracy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "uru_2014_martn_cceres",
+    "name": "Martín Cáceres",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 81,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 74,
+      "interceptions": 72,
+      "heading_accuracy": 57
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_2014_maxi_pereira",
+    "name": "Maxi Pereira",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 76,
+      "interceptions": 74,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_2014_fernando_muslera",
+    "name": "Fernando Muslera",
+    "nation": "Uruguay",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "gk_reflexes": 80,
+      "gk_diving": 81,
+      "gk_handling": 77,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cro_2014_mario_manduki",
+    "name": "Mario Mandžukić",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 81,
+      "finishing": 83,
+      "shot_power": 76,
+      "positioning": 81
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "cro_2014_ivica_oli",
+    "name": "Ivica Olić",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 78,
+    "stats": {
+      "shooting": 56,
+      "finishing": 58,
+      "shot_power": 51,
+      "positioning": 56
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "cro_2014_ivan_perii",
+    "name": "Ivan Perišić",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 79,
+    "stats": {
+      "passing": 70,
+      "vision": 65,
+      "short_passing": 73,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 2,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cro_2014_ivan_rakiti",
+    "name": "Ivan Rakitić",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 81,
+    "stats": {
+      "passing": 82,
+      "vision": 77,
+      "short_passing": 85,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cro_2014_luka_modri",
+    "name": "Luka Modrić",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 85,
+    "stats": {
+      "passing": 69,
+      "vision": 64,
+      "short_passing": 72,
+      "stamina": 79
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cro_2014_mateo_kovai",
+    "name": "Mateo Kovačić",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "passing": 70,
+      "vision": 65,
+      "short_passing": 73,
+      "stamina": 60
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "cro_2014_darijo_srna",
+    "name": "Darijo Srna",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "defending": 51,
+      "standing_tackle": 49,
+      "interceptions": 47,
+      "heading_accuracy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cro_2014_dejan_lovren",
+    "name": "Dejan Lovren",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 79,
+    "stats": {
+      "defending": 72,
+      "standing_tackle": 70,
+      "interceptions": 68,
+      "heading_accuracy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cro_2014_vedran_orluka",
+    "name": "Vedran Ćorluka",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 72,
+      "interceptions": 70,
+      "heading_accuracy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cro_2014_ime_vrsaljko",
+    "name": "Šime Vrsaljko",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "defending": 66,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 59
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cro_2014_stipe_pletikosa",
+    "name": "Stipe Pletikosa",
+    "nation": "Croatia",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "gk_reflexes": 76,
+      "gk_diving": 77,
+      "gk_handling": 74,
+      "gk_positioning": 75
+    },
+    "wc_stats": {
+      "save_pct": 60.0,
+      "clean_sheets": 0,
+      "goals_conceded": 6,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sui_2014_xherdan_shaqiri",
+    "name": "Xherdan Shaqiri",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 81,
+    "stats": {
+      "shooting": 63,
+      "finishing": 60,
+      "shot_power": 58,
+      "positioning": 57
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "sui_2014_admir_mehmedi",
+    "name": "Admir Mehmedi",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 71,
+    "stats": {
+      "shooting": 40,
+      "finishing": 40,
+      "shot_power": 40,
+      "positioning": 40
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "sui_2014_haris_seferovic",
+    "name": "Haris Seferovic",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "shooting": 73,
+      "finishing": 75,
+      "shot_power": 68,
+      "positioning": 73
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "sui_2014_josip_drmi",
+    "name": "Josip Drmić",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "shooting": 75,
+      "finishing": 77,
+      "shot_power": 70,
+      "positioning": 75
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sui_2014_granit_xhaka",
+    "name": "Granit Xhaka",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "passing": 73,
+      "vision": 68,
+      "short_passing": 76,
+      "stamina": 74
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 12,
+      "minutes_played": 300
+    }
+  },
+  {
+    "id": "sui_2014_blerim_demaili",
+    "name": "Blerim Džemaili",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 77,
+    "stats": {
+      "passing": 70,
+      "vision": 65,
+      "short_passing": 73,
+      "stamina": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 10,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_2014_gkhan_inler",
+    "name": "Gökhan Inler",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 79,
+    "stats": {
+      "passing": 71,
+      "vision": 66,
+      "short_passing": 74,
+      "stamina": 44
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_2014_valentin_stocker",
+    "name": "Valentin Stocker",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "passing": 74,
+      "vision": 69,
+      "short_passing": 77,
+      "stamina": 68
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sui_2014_stephan_lichtsteiner",
+    "name": "Stephan Lichtsteiner",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "defending": 52,
+      "standing_tackle": 50,
+      "interceptions": 48,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_2014_johan_djourou",
+    "name": "Johan Djourou",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 72,
+      "interceptions": 70,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_2014_fabian_schr",
+    "name": "Fabian Schär",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "defending": 45,
+      "standing_tackle": 43,
+      "interceptions": 41,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sui_2014_ricardo_rodrguez",
+    "name": "Ricardo Rodríguez",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 79,
+    "stats": {
+      "defending": 79,
+      "standing_tackle": 77,
+      "interceptions": 75,
+      "heading_accuracy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_2014_diego_benaglio",
+    "name": "Diego Benaglio",
+    "nation": "Switzerland",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 81,
+    "stats": {
+      "gk_reflexes": 79,
+      "gk_diving": 80,
+      "gk_handling": 77,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "alg_2014_islam_slimani",
+    "name": "Islam Slimani",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 75,
+    "stats": {
+      "shooting": 71,
+      "finishing": 73,
+      "shot_power": 66,
+      "positioning": 71
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "alg_2014_abdelmoumene_djabou",
+    "name": "Abdelmoumene Djabou",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "shooting": 72,
+      "finishing": 69,
+      "shot_power": 67,
+      "positioning": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 210,
+      "goals_per90": 0.86
+    }
+  },
+  {
+    "id": "alg_2014_sofiane_feghouli",
+    "name": "Sofiane Feghouli",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 81,
+    "stats": {
+      "passing": 80,
+      "vision": 75,
+      "short_passing": 83,
+      "stamina": 74
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "alg_2014_yacine_brahimi",
+    "name": "Yacine Brahimi",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 77,
+    "stats": {
+      "passing": 63,
+      "vision": 58,
+      "short_passing": 66,
+      "stamina": 79
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 12,
+      "minutes_played": 300
+    }
+  },
+  {
+    "id": "alg_2014_nabil_bentaleb",
+    "name": "Nabil Bentaleb",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "passing": 73,
+      "vision": 68,
+      "short_passing": 76,
+      "stamina": 70
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "alg_2014_medhi_lacen",
+    "name": "Medhi Lacen",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 73,
+    "stats": {
+      "passing": 70,
+      "vision": 65,
+      "short_passing": 73,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "alg_2014_rafik_halliche",
+    "name": "Rafik Halliche",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 71,
+    "stats": {
+      "defending": 72,
+      "standing_tackle": 70,
+      "interceptions": 68,
+      "heading_accuracy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "alg_2014_carl_medjani",
+    "name": "Carl Medjani",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 71,
+    "stats": {
+      "defending": 67,
+      "standing_tackle": 65,
+      "interceptions": 63,
+      "heading_accuracy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "alg_2014_faouzi_ghoulam",
+    "name": "Faouzi Ghoulam",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 73,
+    "stats": {
+      "defending": 71,
+      "standing_tackle": 69,
+      "interceptions": 67,
+      "heading_accuracy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "alg_2014_essad_belkalem",
+    "name": "Essaïd Belkalem",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 71,
+    "stats": {
+      "defending": 40,
+      "standing_tackle": 40,
+      "interceptions": 40,
+      "heading_accuracy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "alg_2014_ras_mbolhi",
+    "name": "Raïs M'Bolhi",
+    "nation": "Algeria",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "gk_reflexes": 76,
+      "gk_diving": 77,
+      "gk_handling": 72,
+      "gk_positioning": 73
+    },
+    "wc_stats": {
+      "save_pct": 72.7,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "crc_2014_joel_campbell",
+    "name": "Joel Campbell",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "shooting": 69,
+      "finishing": 66,
+      "shot_power": 64,
+      "positioning": 63
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 405,
+      "goals_per90": 0.22
+    }
+  },
+  {
+    "id": "crc_2014_bryan_ruiz",
+    "name": "Bryan Ruiz",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 79,
+    "stats": {
+      "passing": 76,
+      "vision": 76,
+      "short_passing": 79,
+      "stamina": 70
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 3,
+      "progressive_passes": 18,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "crc_2014_marco_urea",
+    "name": "Marco Ureña",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "shooting": 71,
+      "finishing": 73,
+      "shot_power": 66,
+      "positioning": 71
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "crc_2014_lvaro_saboro",
+    "name": "Álvaro Saborío",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 73,
+    "stats": {
+      "shooting": 63,
+      "finishing": 65,
+      "shot_power": 58,
+      "positioning": 63
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "crc_2014_celso_borges",
+    "name": "Celso Borges",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "passing": 82,
+      "vision": 77,
+      "short_passing": 85,
+      "stamina": 60
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 12,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "crc_2014_yeltsin_tejeda",
+    "name": "Yeltsin Tejeda",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 58,
+    "stats": {
+      "passing": 60,
+      "vision": 55,
+      "short_passing": 63,
+      "stamina": 64
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "crc_2014_scar_duarte",
+    "name": "Óscar Duarte",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 69,
+    "stats": {
+      "defending": 55,
+      "standing_tackle": 53,
+      "interceptions": 51,
+      "heading_accuracy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "crc_2014_giancarlo_gonzlez",
+    "name": "Giancarlo González",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 70,
+    "stats": {
+      "defending": 40,
+      "standing_tackle": 40,
+      "interceptions": 40,
+      "heading_accuracy": 40
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "crc_2014_christian_gamboa",
+    "name": "Christian Gamboa",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 71,
+    "stats": {
+      "defending": 75,
+      "standing_tackle": 73,
+      "interceptions": 71,
+      "heading_accuracy": 67
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "crc_2014_jnior_daz",
+    "name": "Júnior Díaz",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 71,
+    "stats": {
+      "defending": 44,
+      "standing_tackle": 42,
+      "interceptions": 40,
+      "heading_accuracy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "crc_2014_keylor_navas",
+    "name": "Keylor Navas",
+    "nation": "Costa Rica",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "gk_reflexes": 79,
+      "gk_diving": 80,
+      "gk_handling": 76,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "save_pct": 83.3,
+      "clean_sheets": 2,
+      "goals_conceded": 2,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "mex_2014_oribe_peralta",
+    "name": "Oribe Peralta",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "shooting": 55,
+      "finishing": 57,
+      "shot_power": 50,
+      "positioning": 55
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "mex_2014_javier_hernndez",
+    "name": "Javier Hernández",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 78,
+      "finishing": 80,
+      "shot_power": 73,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 210,
+      "goals_per90": 0.43
+    }
+  },
+  {
+    "id": "mex_2014_giovani_santos",
+    "name": "Giovani dos Santos",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "passing": 69,
+      "vision": 69,
+      "short_passing": 72,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 15,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_2014_andrs_guardado",
+    "name": "Andrés Guardado",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 80,
+    "stats": {
+      "passing": 71,
+      "vision": 66,
+      "short_passing": 74,
+      "stamina": 56
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_2014_hctor_herrera",
+    "name": "Héctor Herrera",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "passing": 69,
+      "vision": 64,
+      "short_passing": 72,
+      "stamina": 56
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 300
+    }
+  },
+  {
+    "id": "mex_2014_javier_aquino",
+    "name": "Javier Aquino",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 73,
+    "stats": {
+      "passing": 66,
+      "vision": 61,
+      "short_passing": 69,
+      "stamina": 62
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_2014_rafael_mrquez",
+    "name": "Rafael Márquez",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 77,
+    "stats": {
+      "defending": 79,
+      "standing_tackle": 77,
+      "interceptions": 75,
+      "heading_accuracy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_2014_hctor_moreno",
+    "name": "Héctor Moreno",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "defending": 79,
+      "standing_tackle": 77,
+      "interceptions": 75,
+      "heading_accuracy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_2014_miguel_layn",
+    "name": "Miguel Layún",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "defending": 46,
+      "standing_tackle": 44,
+      "interceptions": 42,
+      "heading_accuracy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_2014_paul_aguilar",
+    "name": "Paul Aguilar",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 73,
+    "stats": {
+      "defending": 47,
+      "standing_tackle": 45,
+      "interceptions": 43,
+      "heading_accuracy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_2014_carlos_salcido",
+    "name": "Carlos Salcido",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "defending": 60,
+      "standing_tackle": 58,
+      "interceptions": 56,
+      "heading_accuracy": 51
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_2014_guillermo_ochoa",
+    "name": "Guillermo Ochoa",
+    "nation": "Mexico",
+    "wc_year": 2014,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "gk_reflexes": 77,
+      "gk_diving": 79,
+      "gk_handling": 74,
+      "gk_positioning": 76
+    },
+    "wc_stats": {
+      "save_pct": 78.6,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  }
+]
