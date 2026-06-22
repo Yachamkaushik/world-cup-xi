@@ -1,5 +1,5 @@
 import {useLocation, useNavigate} from "react-router-dom";
-import {useEffect} from "react";
+import {useEffect, useRef} from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import confetti from "canvas-confetti";
@@ -20,32 +20,7 @@ export default function Summary(){
     const mode = location.state.mode
     const eliminated = location.state.eliminated
     const eliminatedAt = location.state.eliminatedAt
-    useEffect(() => {
-        if (!eliminated) {
-            confetti({ particleCount: 200, spread: 180, origin: { y: 0.6 } })
-        } else {
-            const duration = 3000
-            const end = Date.now() + duration
-            const interval = setInterval(() => {
-                if (Date.now() > end) {
-                    clearInterval(interval)
-                    return
-                }
-                confetti({
-                    particleCount: 8,
-                    angle: 270,
-                    spread: 120,
-                    origin: { x: Math.random(), y: 0 },
-                    colors: ['#374151', '#1f2937', '#4b5563', '#6b7280', '#111827'],
-                    gravity: 0.4,
-                    ticks: 300,
-                    scalar: 0.7,
-                    drift: 0.2
-                })
-            }, 80)
-            return () => clearInterval(interval)
-        }
-    }, [])
+    const hasSaved = useRef(false)
 
     let leaguePoints = 0
     for(let i = 0; i < 3; i++){
@@ -54,7 +29,6 @@ export default function Summary(){
     const advanced = leaguePoints >= 4
     const stages = ['Group Stage', 'Round of 32', 'Round of 16', 'Quarter Final', 'Semi Final', 'Final']
 
-    // tournament run with cascading elimination
     let stillAlive = true
     const tournamentRun = stages.map((stage, i) => {
         let status, detail
@@ -77,17 +51,46 @@ export default function Summary(){
         return { stage, status, detail }
     })
 
-    // matches actually played (have a valid result)
     const matchesPlayed = results.slice(0, tournamentRun.filter(t => t.status !== 'DID NOT PLAY').length)
-
-    // total goals scored — split across FWDs roughly using their share of base_rating, simple approx for now
     const fwds = selectedPlayers.filter(p => p.position === 'FWD')
     const totalGoalsScored = matchesPlayed.reduce((sum, m) => sum + m.yourGoals, 0)
     const topScorer = fwds.length > 0 ? [...fwds].sort((a, b) => b.base_rating - a.base_rating)[0] : null
-
-    // MVP — highest base_rating overall
     const mvp = selectedPlayers ? [...selectedPlayers].sort((a, b) => b.base_rating - a.base_rating)[0] : null
 
+    useEffect(() => {
+        if (hasSaved.current) return
+        hasSaved.current = true
+
+        // save run first, always
+        const run = {
+            date: new Date().toLocaleDateString(),
+            eliminatedAt: eliminated ? eliminatedAt : 'Champion',
+            won: !eliminated,
+            goalsScored: totalGoalsScored,
+            nations: [...new Set(selectedPlayers.map(p => p.nation))]
+        }
+        const existing = JSON.parse(localStorage.getItem('wcxi_runs') || '[]')
+        const updated = [run, ...existing].slice(0, 20)
+        localStorage.setItem('wcxi_runs', JSON.stringify(updated))
+
+        // animations separately
+        if (!eliminated) {
+            confetti({ particleCount: 200, spread: 180, origin: { y: 0.6 } })
+        } else {
+            const duration = 3000
+            const end = Date.now() + duration
+            const interval = setInterval(() => {
+                if (Date.now() > end) { clearInterval(interval); return }
+                confetti({
+                    particleCount: 8, angle: 270, spread: 120,
+                    origin: { x: Math.random(), y: 0 },
+                    colors: ['#374151', '#1f2937', '#4b5563', '#6b7280', '#111827'],
+                    gravity: 0.4, ticks: 300, scalar: 0.7, drift: 0.2
+                })
+            }, 80)
+            return () => clearInterval(interval)
+        }
+    }, [])
     return(
         <div className="w-full overflow-x-hidden text-white flex flex-col" style={{backgroundColor: '#0a0a0f', minHeight: '100vh'}}>
             <Navbar />
@@ -95,7 +98,13 @@ export default function Summary(){
 
                 {eliminated ? (
                     <div className="flex flex-col items-center mb-10 text-center">
-                        <span style={{fontSize: '3rem'}}>💀</span>
+                        <motion.span
+                            initial={{ opacity: 0, scale: 1.2 }}
+                            animate={{ opacity: 1, scale: 1 }}
+                            transition={{ duration: 1, ease: "easeOut" }}
+                            style={{fontSize: '3rem'}}>
+                            💀
+                        </motion.span>
                         <p className="text-xs tracking-widest font-bold mt-3 mb-2" style={{color: '#e63946'}}>TOURNAMENT RESULT</p>
                         <motion.h1
                             initial={{ opacity: 0, y: 10 }}
@@ -104,9 +113,13 @@ export default function Summary(){
                             className="font-black mb-4" style={{fontSize: 'clamp(3rem, 9vw, 6rem)', letterSpacing: '-0.02em'}}>
                             <span style={{color: 'white'}}>ELIM</span><span style={{color: '#e63946'}}>INATED.</span>
                         </motion.h1>
-                        <p className="text-base max-w-md" style={{color: '#6b7280'}}>
+                        <motion.p
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{ duration: 1, delay: 0.6 }}
+                            className="text-base max-w-md" style={{color: '#6b7280'}}>
                             The dream ended in the <span style={{color: 'white', fontWeight: 700}}>{eliminatedAt}</span>. Glory is a cruel mistress. Run it back?
-                        </p>
+                        </motion.p>
                     </div>
                 ) : (
                     <div className="flex flex-col items-center mb-10 text-center">
@@ -152,7 +165,7 @@ export default function Summary(){
                     </div>
                 </div>
 
-                {/* stats row — goals scored + MVP + top scorer */}
+                {/* stats row */}
                 <div className="w-full mb-10" style={{maxWidth: '750px'}}>
                     <div className="flex items-center gap-3 mb-4">
                         <div style={{height: '2px', width: '20px', backgroundColor: '#F5C518'}} />

@@ -4,8 +4,8 @@ export default function Footer() {
                 style={{borderTop: '1px solid #ffffff10', color: '#374151'}}>
             <span>© 2026 WORLD CUP XI</span>
             <div className="flex gap-6">
-                <span className="cursor-pointer hover:text-gray-400 transition-colors">ABOUT</span>
-                <span className="cursor-pointer hover:text-gray-400 transition-colors">HOW TO PLAY</span>
+                <span onClick={() => navigate('/about')} className="cursor-pointer hover:text-gray-400 transition-colors">ABOUT</span>
+                <span onClick={() => navigate('/how-to-play')} className="cursor-pointer hover:text-gray-400 transition-colors">HOW TO PLAY</span>
             </div>
             <span style={{color: '#1f2937'}}>NOT AFFILIATED WITH FIFA</span>
         </footer>

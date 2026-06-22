@@ -13,9 +13,10 @@ const positionColors = {
 }
 
 const positionFullNames = {
-    GK: 'GOALKEEPER', RB: 'RIGHT BACK', LB: 'LEFT BACK',
-    CB: 'CENTRE BACK', CDM: 'DEFENSIVE MID', CM: 'CENTRAL MID',
-    CAM: 'ATTACKING MID', RW: 'RIGHT WING', LW: 'LEFT WING', ST: 'STRIKER'
+    GK: 'GOALKEEPER',
+    DEF: 'DEFENDER',
+    MID: 'MIDFIELDER',
+    FWD: 'FORWARD'
 }
 
 function getPlayerStats(player) {
@@ -44,7 +45,7 @@ export default function Draft() {
     const [selectedPlayers, setSelectedPlayers] = useState([])
     const [usedNations, setUsedNations] = useState([])
     const mode = location.state.mode
-    const [positions, setPositions] = useState(['GK', 'RB', 'LB', 'CB', 'CB', 'CDM', 'CM', 'CAM', 'RW', 'LW', 'ST'])
+    const [positions, setPositions] = useState(['GK', 'DEF', 'DEF', 'DEF', 'DEF', 'MID', 'MID', 'MID', 'FWD', 'FWD', 'FWD'])
     const [currentSquad, setCurrentSquad] = useState([])
     const [currentNation, setCurrentNation] = useState(null)
     const nations = [...new Set(playersData.map(p => p.nation))]
@@ -57,10 +58,7 @@ export default function Draft() {
     }, [])
 
     const currentPosition = positions[round]
-    const broadPosition = ['GK'].includes(currentPosition) ? 'GK'
-        : ['RB', 'LB', 'CB'].includes(currentPosition) ? 'DEF'
-            : ['CDM', 'CM', 'CAM'].includes(currentPosition) ? 'MID'
-                : 'FWD'
+    const broadPosition = currentPosition
 
     return (
         <div className="min-h-screen w-full overflow-x-hidden text-white" style={{ backgroundColor: '#0a0a0f' }}>
@@ -279,11 +277,12 @@ export default function Draft() {
                                     minHeight: '80px',
                                     boxShadow: isCurrent ? '0 0 15px #F5C51825' : 'none'
                                 }}>
-                                    <p style={{color: isCurrent ? '#F5C518' : '#4b5563', fontSize: '0.6rem'}} className="font-bold mb-1">{pos}</p>
-                                    {filled ? (
+                                    <p style={{color: isCurrent ? '#F5C518' : '#1f2937', fontSize: '0.6rem'}} className="font-bold mb-1">{isCurrent ? pos : filled ? pos : '?'}</p>                                    {filled ? (
                                         <p className="font-bold text-white" style={{fontSize: '0.6rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
+                                    ) : isCurrent ? (
+                                        <p className="font-black" style={{color: '#F5C51860', fontSize: '0.8rem'}}>{pos}</p>
                                     ) : (
-                                        <p className="font-black" style={{color: isCurrent ? '#F5C51860' : '#1f2937', fontSize: '0.8rem'}}>{pos}</p>
+                                        <p className="font-black" style={{color: '#1f2937', fontSize: '0.8rem'}}>?</p>
                                     )}
                                     <p className="mt-1" style={{color: '#374151', fontSize: '0.55rem'}}>0{i + 1}</p>
                                 </div>

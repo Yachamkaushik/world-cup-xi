@@ -1,4 +1,5 @@
 import { useNavigate } from 'react-router-dom'
+import { useNavigation } from "react-router-dom";
 
 export default function Navbar() {
     const navigate = useNavigate()
@@ -14,13 +15,10 @@ export default function Navbar() {
                 </div>
             </div>
             <div className="flex items-center gap-8">
-                <span className="text-sm tracking-wider cursor-pointer transition-colors text-gray-400 hover:text-white">
+                <span onClick={() => navigate('/how-to-play')} className="text-sm tracking-wider cursor-pointer transition-colors text-gray-400 hover:text-white">
                     HOW TO PLAY
                 </span>
-                <span className="text-sm tracking-wider cursor-pointer transition-colors text-gray-400 hover:text-white">
-                    LEADERBOARD
-                </span>
-                <span className="text-sm tracking-wider cursor-pointer transition-colors text-gray-400 hover:text-white">
+                <span onClick={() => navigate('/profile')} className="text-sm tracking-wider cursor-pointer transition-colors text-gray-400 hover:text-white">
                     PROFILE
                 </span>
             </div>

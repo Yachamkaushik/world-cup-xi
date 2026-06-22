@@ -8,6 +8,9 @@ import Draft from './pages/Draft'
 import Simulate from './pages/Simulate'
 import Result from './pages/Result'
 import Summary from './pages/Summary'
+import Profile from './pages/Profile'
+import HowToPlay from './pages/HowToPlay'
+import About from './pages/About'
 
 function AnimatedRoutes() {
     const location = useLocation()
@@ -25,6 +28,9 @@ function AnimatedRoutes() {
                     <Route path="/simulate" element={<Simulate />} />
                     <Route path="/result" element={<Result />} />
                     <Route path="/summary" element={<Summary />} />
+                    <Route path="/profile" element={<Profile />} />
+                    <Route path="/how-to-play" element={<HowToPlay />} />
+                    <Route path="/about" element={<About />} />
                 </Routes>
             </motion.div>
         </AnimatePresence>
@@ -32,9 +38,7 @@ function AnimatedRoutes() {
 }
 
 createRoot(document.getElementById('root')).render(
-    <StrictMode>
-        <BrowserRouter>
-            <AnimatedRoutes />
-        </BrowserRouter>
-    </StrictMode>
+    <BrowserRouter>
+        <AnimatedRoutes />
+    </BrowserRouter>
 )
