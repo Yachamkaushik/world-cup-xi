@@ -49,6 +49,7 @@ export default function Draft() {
     const [currentNation, setCurrentNation] = useState(null)
     const nations = [...new Set(playersData.map(p => p.nation))]
     const [isSpinning, setIsSpinning] = useState(false)
+    const [skipUsed, setSkipUsed] = useState(false)
 
     useEffect(() => {
         const shuffled = [...positions].sort(() => Math.random() - 0.5)
@@ -89,13 +90,42 @@ export default function Draft() {
                         </p>
                     </div>
                     <div className="flex items-center gap-3">
+                        {mode === 'classic' && (
+                            <button
+                                onClick={() => {
+                                    if (skipUsed || !currentSquad.length) return
+                                    setSkipUsed(true)
+                                    setCurrentSquad([])
+                                    setCurrentNation(null)
+                                    setIsSpinning(true)
+                                    setTimeout(() => {
+                                        const available = nations.filter(n => !usedNations.includes(n))
+                                        const index = Math.floor(Math.random() * available.length)
+                                        const picked = available[index]
+                                        setCurrentNation(picked)
+                                        setCurrentSquad(playersData.filter(p => p.nation === picked))
+                                        setUsedNations([...usedNations, picked])
+                                        setIsSpinning(false)
+                                    }, 600)
+                                }}
+                                className="text-xs font-bold px-3 py-2 rounded"
+                                style={{
+                                    backgroundColor: skipUsed ? '#1f2937' : '#e6394615',
+                                    color: skipUsed ? '#374151' : '#e63946',
+                                    border: `1px solid ${skipUsed ? '#374151' : '#e6394640'}`,
+                                    cursor: skipUsed ? 'default' : 'pointer',
+                                    transition: 'all 0.2s ease'
+                                }}>
+                                {skipUsed ? 'SKIP USED' : 'SKIP (1)'}
+                            </button>
+                        )}
                         <span className="text-xs font-bold px-3 py-2 rounded" style={{
                             backgroundColor: '#F5C51815',
                             color: '#F5C518',
                             border: '1px solid #F5C51830'
                         }}>
-                            {mode.toUpperCase()} MODE
-                        </span>
+        {mode.toUpperCase()} MODE
+    </span>
                     </div>
                 </div>
 
