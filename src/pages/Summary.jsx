@@ -1,6 +1,9 @@
 import {useLocation, useNavigate} from "react-router-dom";
+import {useEffect} from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import confetti from "canvas-confetti";
+import { motion } from 'framer-motion'
 
 const nationFlags = {
     'Brazil': '🇧🇷', 'France': '🇫🇷', 'Argentina': '🇦🇷', 'Germany': '🇩🇪',
@@ -17,6 +20,32 @@ export default function Summary(){
     const mode = location.state.mode
     const eliminated = location.state.eliminated
     const eliminatedAt = location.state.eliminatedAt
+    useEffect(() => {
+        if (!eliminated) {
+            confetti({ particleCount: 200, spread: 180, origin: { y: 0.6 } })
+        } else {
+            const duration = 3000
+            const end = Date.now() + duration
+            const interval = setInterval(() => {
+                if (Date.now() > end) {
+                    clearInterval(interval)
+                    return
+                }
+                confetti({
+                    particleCount: 8,
+                    angle: 270,
+                    spread: 120,
+                    origin: { x: Math.random(), y: 0 },
+                    colors: ['#374151', '#1f2937', '#4b5563', '#6b7280', '#111827'],
+                    gravity: 0.4,
+                    ticks: 300,
+                    scalar: 0.7,
+                    drift: 0.2
+                })
+            }, 80)
+            return () => clearInterval(interval)
+        }
+    }, [])
 
     let leaguePoints = 0
     for(let i = 0; i < 3; i++){
@@ -68,9 +97,13 @@ export default function Summary(){
                     <div className="flex flex-col items-center mb-10 text-center">
                         <span style={{fontSize: '3rem'}}>💀</span>
                         <p className="text-xs tracking-widest font-bold mt-3 mb-2" style={{color: '#e63946'}}>TOURNAMENT RESULT</p>
-                        <h1 className="font-black mb-4" style={{fontSize: 'clamp(3rem, 9vw, 6rem)', letterSpacing: '-0.02em'}}>
+                        <motion.h1
+                            initial={{ opacity: 0, y: 10 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.8, ease: "easeOut" }}
+                            className="font-black mb-4" style={{fontSize: 'clamp(3rem, 9vw, 6rem)', letterSpacing: '-0.02em'}}>
                             <span style={{color: 'white'}}>ELIM</span><span style={{color: '#e63946'}}>INATED.</span>
-                        </h1>
+                        </motion.h1>
                         <p className="text-base max-w-md" style={{color: '#6b7280'}}>
                             The dream ended in the <span style={{color: 'white', fontWeight: 700}}>{eliminatedAt}</span>. Glory is a cruel mistress. Run it back?
                         </p>
@@ -79,9 +112,13 @@ export default function Summary(){
                     <div className="flex flex-col items-center mb-10 text-center">
                         <span style={{fontSize: '3rem'}}>🏆</span>
                         <p className="text-xs tracking-widest font-bold mt-3 mb-2" style={{color: '#F5C518'}}>TOURNAMENT RESULT</p>
-                        <h1 className="font-black mb-4" style={{fontSize: 'clamp(3rem, 9vw, 6rem)', color: '#F5C518', letterSpacing: '-0.02em'}}>
+                        <motion.h1
+                            initial={{ scale: 0.5, opacity: 0 }}
+                            animate={{ scale: 1, opacity: 1 }}
+                            transition={{ type: "spring", bounce: 0.4 }}
+                            className="font-black mb-4" style={{fontSize: 'clamp(3rem, 9vw, 6rem)', color: '#F5C518', letterSpacing: '-0.02em'}}>
                             CHAMPION.
-                        </h1>
+                        </motion.h1>
                         <p className="text-base max-w-md" style={{color: '#6b7280'}}>
                             You did the impossible. The trophy is yours.
                         </p>

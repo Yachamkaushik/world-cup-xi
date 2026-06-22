@@ -2,6 +2,7 @@ import {useLocation, useNavigate} from 'react-router-dom'
 import {useState} from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import {motion} from "framer-motion";
 
 const nationFlags = {
     'Brazil': '🇧🇷', 'France': '🇫🇷', 'Argentina': '🇦🇷', 'Germany': '🇩🇪',
@@ -19,6 +20,20 @@ export default function Result() {
     const [currentMatch, setCurrentMatch] = useState(0)
     const [phase, setPhase] = useState('group')
     const roundNames = ['Round of 32', 'Round of 16', 'Quarter Final', 'Semi Final', 'Final']
+
+    const containerVariants = {
+        hidden: {},
+        visible: {
+            transition: {
+                staggerChildren: 0.15
+            }
+        }
+    }
+
+    const rowVariants = {
+        hidden: { opacity: 0, x: -20 },
+        visible: { opacity: 1, x: 0, transition: { duration: 0.4, ease: "easeOut" } }
+    }
 
     let leaguePoints = 0
     for(let i = 0; i < 3; i++){
@@ -43,12 +58,12 @@ export default function Result() {
                         </h1>
 
                         <div className="w-full rounded-2xl p-6" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
-                            <div className="flex flex-col gap-3 mb-6">
+                            <motion.div variants={containerVariants} initial="hidden" animate="visible" className="flex flex-col gap-3 mb-6">
                                 {results.slice(0,3).map((item, i) => {
                                     const badge = item.won ? 'W' : (item.yourGoals === item.oppGoals ? 'D' : 'L')
                                     const badgeColor = badge === 'W' ? '#1a9e5c' : badge === 'D' ? '#F5C518' : '#e63946'
                                     return (
-                                        <div key={i} className="flex justify-between items-center px-6 py-4 rounded-xl" style={{
+                                        <motion.div key={i} variants={rowVariants} className="flex justify-between items-center px-6 py-4 rounded-xl" style={{
                                             backgroundColor: '#0a0a0f',
                                             border: '1px solid #ffffff08'
                                         }}>
@@ -67,10 +82,10 @@ export default function Result() {
                                                     backgroundColor: badgeColor + '15'
                                                 }}>{badge}</span>
                                             </div>
-                                        </div>
+                                        </motion.div>
                                     )
                                 })}
-                            </div>
+                            </motion.div>
 
                             <div style={{height: '1px', backgroundColor: '#ffffff10'}} className="mb-6" />
 
@@ -116,7 +131,12 @@ export default function Result() {
                             {roundNames[currentMatch-3].toUpperCase()}
                         </h1>
 
-                        <div className="w-full rounded-2xl p-8 text-center" style={{
+                        <motion.div
+                            key={currentMatch}
+                            initial={{ opacity: 0, y: 20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.4, ease: "easeOut" }}
+                            className="w-full rounded-2xl p-8 text-center" style={{
                             backgroundColor: '#111827',
                             border: `1px solid ${results[currentMatch].won ? '#1a9e5c40' : '#e6394640'}`
                         }}>
@@ -135,7 +155,7 @@ export default function Result() {
                             <p className="font-black text-xl tracking-widest" style={{color: results[currentMatch].won ? '#1a9e5c' : '#e63946'}}>
                                 {results[currentMatch].won ? 'WIN' : 'LOSS'}
                             </p>
-                        </div>
+                        </motion.div>
 
                         {results[currentMatch].won && currentMatch === 7 &&
                             <button
