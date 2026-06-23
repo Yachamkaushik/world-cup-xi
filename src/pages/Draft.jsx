@@ -1,9 +1,14 @@
 import { useLocation, useNavigate } from 'react-router-dom'
 import { useEffect, useState } from "react";
 import playersData from '../data/players.json'
+import players_2002 from '../data/players_2002.json'
+import players_2006 from '../data/players_2006.json'
+import players_2010 from '../data/players_2010.json'
+import players_2014 from '../data/players_2014.json'
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { motion } from 'framer-motion'
+import { nationFlags } from '../utils/flags'
 
 const positionColors = {
     GK: { bg: '#78350f', text: '#fbbf24' },
@@ -31,26 +36,22 @@ function getPlayerStats(player) {
         return { 'Goals': s.goals, 'Assists': s.assists, 'Goals/90': s.goals_per90 }
 }
 
-const nationFlags = {
-    'Brazil': '🇧🇷', 'France': '🇫🇷', 'Argentina': '🇦🇷', 'Germany': '🇩🇪',
-    'Spain': '🇪🇸', 'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Portugal': '🇵🇹', 'Belgium': '🇧🇪',
-    'Croatia': '🇭🇷', 'Uruguay': '🇺🇾', 'Colombia': '🇨🇴', 'Senegal': '🇸🇳',
-    'Japan': '🇯🇵', 'Morocco': '🇲🇦', 'Russia': '🇷🇺', 'Sweden': '🇸🇪'
-}
-
 export default function Draft() {
     const navigate = useNavigate();
     const location = useLocation()
     const [round, setRound] = useState(0)
     const [selectedPlayers, setSelectedPlayers] = useState([])
-    const [usedNations, setUsedNations] = useState([])
+    const [usedCombos, setUsedCombos] = useState([])
+    const [currentYear, setCurrentYear] = useState(null)
     const mode = location.state.mode
     const [positions, setPositions] = useState(['GK', 'DEF', 'DEF', 'DEF', 'DEF', 'MID', 'MID', 'MID', 'FWD', 'FWD', 'FWD'])
     const [currentSquad, setCurrentSquad] = useState([])
     const [currentNation, setCurrentNation] = useState(null)
-    const nations = [...new Set(playersData.map(p => p.nation))]
     const [isSpinning, setIsSpinning] = useState(false)
     const [skipUsed, setSkipUsed] = useState(false)
+
+    const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014]
+    const allCombos = [...new Set(allPlayersData.map(p => `${p.nation}_${p.wc_year}`))]
 
     useEffect(() => {
         const shuffled = [...positions].sort(() => Math.random() - 0.5)
@@ -59,6 +60,25 @@ export default function Draft() {
 
     const currentPosition = positions[round]
     const broadPosition = currentPosition
+
+    const doSpin = (isSkip = false) => {
+        if (isSkip && (skipUsed || !currentSquad.length)) return
+        if (isSkip) setSkipUsed(true)
+        setCurrentSquad([])
+        setCurrentNation(null)
+        setIsSpinning(true)
+        setTimeout(() => {
+            const available = allCombos.filter(c => !usedCombos.includes(c))
+            const picked = available[Math.floor(Math.random() * available.length)]
+            const [nation, year] = picked.split('_')
+            const squad = allPlayersData.filter(p => p.nation === nation && p.wc_year === parseInt(year))
+            setCurrentNation(nation)
+            setCurrentYear(parseInt(year))
+            setCurrentSquad(squad)
+            setUsedCombos(prev => [...prev, picked])
+            setIsSpinning(false)
+        }, 600)
+    }
 
     return (
         <div className="min-h-screen w-full overflow-x-hidden text-white" style={{ backgroundColor: '#0a0a0f' }}>
@@ -84,28 +104,13 @@ export default function Draft() {
                             {positionFullNames[currentPosition] || currentPosition}
                         </motion.h1>
                         <p className="text-sm mt-1" style={{color: '#4b5563'}}>
-                            Spin to reveal a nation. Pick one {currentPosition} from their 23-man squad.
+                            Spin to reveal a nation. Pick one {currentPosition} from their squad.
                         </p>
                     </div>
                     <div className="flex items-center gap-3">
                         {mode === 'classic' && (
                             <button
-                                onClick={() => {
-                                    if (skipUsed || !currentSquad.length) return
-                                    setSkipUsed(true)
-                                    setCurrentSquad([])
-                                    setCurrentNation(null)
-                                    setIsSpinning(true)
-                                    setTimeout(() => {
-                                        const available = nations.filter(n => !usedNations.includes(n))
-                                        const index = Math.floor(Math.random() * available.length)
-                                        const picked = available[index]
-                                        setCurrentNation(picked)
-                                        setCurrentSquad(playersData.filter(p => p.nation === picked))
-                                        setUsedNations([...usedNations, picked])
-                                        setIsSpinning(false)
-                                    }, 600)
-                                }}
+                                onClick={() => doSpin(true)}
                                 className="text-xs font-bold px-3 py-2 rounded"
                                 style={{
                                     backgroundColor: skipUsed ? '#1f2937' : '#e6394615',
@@ -122,8 +127,8 @@ export default function Draft() {
                             color: '#F5C518',
                             border: '1px solid #F5C51830'
                         }}>
-        {mode.toUpperCase()} MODE
-    </span>
+                            {mode.toUpperCase()} MODE
+                        </span>
                     </div>
                 </div>
 
@@ -156,18 +161,7 @@ export default function Draft() {
                                     </motion.div>
                                 ) : (
                                     <button
-                                        onClick={() => {
-                                            setIsSpinning(true)
-                                            setTimeout(() => {
-                                                const available = nations.filter(n => !usedNations.includes(n))
-                                                const index = Math.floor(Math.random() * available.length)
-                                                const picked = available[index]
-                                                setCurrentNation(picked)
-                                                setCurrentSquad(playersData.filter(n => n.nation === picked))
-                                                setUsedNations([...usedNations, picked])
-                                                setIsSpinning(false)
-                                            }, 600)
-                                        }}
+                                        onClick={() => doSpin(false)}
                                         className="px-8 py-3 rounded-full font-black tracking-widest text-sm transition-all hover:opacity-80"
                                         style={{ backgroundColor: '#F5C518', color: '#0a0a0f' }}>
                                         SPIN
@@ -186,6 +180,10 @@ export default function Draft() {
                                     {nationFlags[currentNation] || '🏳️'}
                                 </motion.span>
                                 <h2 className="font-black text-2xl text-white">{currentNation}</h2>
+                                <p className="text-xs font-bold tracking-widest" style={{color: '#F5C518'}}>{currentYear}</p>
+                                <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>
+                                    SQUAD RATING · {Math.ceil(allPlayersData.filter(p => p.nation === currentNation && p.wc_year === currentYear).reduce((sum, p) => sum + p.base_rating, 0) / 23)}
+                                </p>
                                 <p className="text-xs mt-2" style={{color: '#374151'}}>PICK A PLAYER →</p>
                             </div>
                         )}
@@ -227,7 +225,7 @@ export default function Draft() {
                                             onMouseEnter={e => {
                                                 if (isCurrentPos) {
                                                     e.currentTarget.style.boxShadow = `0 0 20px ${colors.text}25`
-                                                    e.currentTarget.style.transform = 'scale(1.01)'  // smaller scale
+                                                    e.currentTarget.style.transform = 'scale(1.01)'
                                                 }
                                             }}
                                             onMouseLeave={e => {
@@ -277,7 +275,8 @@ export default function Draft() {
                                     minHeight: '80px',
                                     boxShadow: isCurrent ? '0 0 15px #F5C51825' : 'none'
                                 }}>
-                                    <p style={{color: isCurrent ? '#F5C518' : '#1f2937', fontSize: '0.6rem'}} className="font-bold mb-1">{isCurrent ? pos : filled ? pos : '?'}</p>                                    {filled ? (
+                                    <p style={{color: isCurrent ? '#F5C518' : '#1f2937', fontSize: '0.6rem'}} className="font-bold mb-1">{isCurrent ? pos : filled ? pos : '?'}</p>
+                                    {filled ? (
                                         <p className="font-bold text-white" style={{fontSize: '0.6rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
                                     ) : isCurrent ? (
                                         <p className="font-black" style={{color: '#F5C51860', fontSize: '0.8rem'}}>{pos}</p>

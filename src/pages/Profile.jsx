@@ -2,13 +2,8 @@ import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
+import { nationFlags } from '../utils/flags'
 
-const nationFlags = {
-    'Brazil': '🇧🇷', 'France': '🇫🇷', 'Argentina': '🇦🇷', 'Germany': '🇩🇪',
-    'Spain': '🇪🇸', 'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Portugal': '🇵🇹', 'Belgium': '🇧🇪',
-    'Croatia': '🇭🇷', 'Uruguay': '🇺🇾', 'Colombia': '🇨🇴', 'Senegal': '🇸🇳',
-    'Japan': '🇯🇵', 'Morocco': '🇲🇦', 'Russia': '🇷🇺', 'Sweden': '🇸🇪'
-}
 
 export default function Profile() {
     const navigate = useNavigate()

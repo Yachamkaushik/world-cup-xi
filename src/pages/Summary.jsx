@@ -5,13 +5,8 @@ import Footer from "../components/Footer";
 import confetti from "canvas-confetti";
 import { motion } from 'framer-motion'
 import html2canvas from 'html2canvas'
+import { nationFlags } from '../utils/flags'
 
-const nationFlags = {
-    'Brazil': '🇧🇷', 'France': '🇫🇷', 'Argentina': '🇦🇷', 'Germany': '🇩🇪',
-    'Spain': '🇪🇸', 'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Portugal': '🇵🇹', 'Belgium': '🇧🇪',
-    'Croatia': '🇭🇷', 'Uruguay': '🇺🇾', 'Colombia': '🇨🇴', 'Senegal': '🇸🇳',
-    'Japan': '🇯🇵', 'Morocco': '🇲🇦', 'Russia': '🇷🇺', 'Sweden': '🇸🇪'
-}
 
 const twitterStyle = {backgroundColor: '#1d9bf020', color: '#1d9bf0', border: '1px solid #1d9bf040', borderRadius: '10px', padding: '12px 16px', fontWeight: 700, fontSize: '14px', textDecoration: 'none', textAlign: 'center'}
 const waStyle = {backgroundColor: '#25d36620', color: '#25d366', border: '1px solid #25d36640', borderRadius: '10px', padding: '12px 16px', fontWeight: 700, fontSize: '14px', textDecoration: 'none', textAlign: 'center'}

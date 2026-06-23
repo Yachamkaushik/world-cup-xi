@@ -3,13 +3,8 @@ import {useState} from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import {motion} from "framer-motion";
+import { nationFlags } from '../utils/flags'
 
-const nationFlags = {
-    'Brazil': '🇧🇷', 'France': '🇫🇷', 'Argentina': '🇦🇷', 'Germany': '🇩🇪',
-    'Spain': '🇪🇸', 'England': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Portugal': '🇵🇹', 'Belgium': '🇧🇪',
-    'Croatia': '🇭🇷', 'Uruguay': '🇺🇾', 'Colombia': '🇨🇴', 'Senegal': '🇸🇳',
-    'Japan': '🇯🇵', 'Morocco': '🇲🇦', 'Russia': '🇷🇺', 'Sweden': '🇸🇪'
-}
 
 export default function Result() {
     const location = useLocation()

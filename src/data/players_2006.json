@@ -77,7 +77,7 @@
     "nation": "Germany",
     "wc_year": 2006,
     "position": "MID",
-    "squad_number": 7,
+    "squad_number": 26,
     "base_rating": 67,
     "stats": {
       "pac": 94,
@@ -169,7 +169,7 @@
     "nation": "Germany",
     "wc_year": 2006,
     "position": "MID",
-    "squad_number": 14,
+    "squad_number": 28,
     "base_rating": 69,
     "stats": {
       "pac": 76,
@@ -238,7 +238,7 @@
     "nation": "Germany",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 21,
+    "squad_number": 29,
     "base_rating": 66,
     "stats": {
       "pac": 68,
@@ -276,6 +276,215 @@
       "clean_sheets": 4,
       "goals_conceded": 6,
       "minutes_played": 690
+    }
+  },
+  {
+    "id": "ger_2006_oliver_kahn",
+    "name": "Oliver Kahn",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 88,
+    "stats": {
+      "pac": 54,
+      "sho": 20,
+      "pas": 42,
+      "dri": 32,
+      "def": 14,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_robert_enke",
+    "name": "Robert Enke",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_marcell_jansen",
+    "name": "Marcell Jansen",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 52,
+      "pas": 54,
+      "dri": 52,
+      "def": 60,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_per_mertesacker",
+    "name": "Per Mertesacker",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 46,
+      "sho": 54,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_tim_borowski",
+    "name": "Tim Borowski",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 27,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 60,
+      "pas": 58,
+      "dri": 56,
+      "def": 40,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_jens_nowotny",
+    "name": "Jens Nowotny",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 68,
+    "stats": {
+      "pac": 42,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_gerald_asamoah",
+    "name": "Gerald Asamoah",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 25,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 44,
+      "pas": 58,
+      "dri": 54,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_2006_patrick_owomoyela",
+    "name": "Patrick Owomoyela",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 46,
+      "pas": 50,
+      "dri": 48,
+      "def": 58,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_mike_hanke",
+    "name": "Mike Hanke",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 66,
+    "stats": {
+      "pac": 58,
+      "sho": 44,
+      "pas": 52,
+      "dri": 52,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
     }
   },
   {
@@ -356,7 +565,7 @@
     "nation": "Italy",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 9,
+    "squad_number": 24,
     "base_rating": 65,
     "stats": {
       "pac": 78,
@@ -380,7 +589,7 @@
     "nation": "Italy",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 19,
+    "squad_number": 25,
     "base_rating": 67,
     "stats": {
       "pac": 78,
@@ -652,6 +861,76 @@
     }
   },
   {
+    "id": "ita_2006_angelo_peruzzi",
+    "name": "Angelo Peruzzi",
+    "nation": "Italy",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 14,
+      "pas": 36,
+      "dri": 26,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2006_sebastian_frey",
+    "name": "Sebastian Frey",
+    "nation": "Italy",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 27,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2006_bernardo_corradi",
+    "name": "Bernardo Corradi",
+    "nation": "Italy",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 26,
+    "base_rating": 68,
+    "stats": {
+      "pac": 62,
+      "sho": 48,
+      "pas": 52,
+      "dri": 52,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "fra_2006_thierry_henry",
     "name": "Thierry Henry",
     "nation": "France",
@@ -866,7 +1145,7 @@
     "nation": "France",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 3,
+    "squad_number": 27,
     "base_rating": 69,
     "stats": {
       "pac": 80,
@@ -907,12 +1186,245 @@
     }
   },
   {
+    "id": "fra_2006_grgory_coupet",
+    "name": "Grégory Coupet",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2006_vikash_dhorasoo",
+    "name": "Vikash Dhorasoo",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 24,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 60,
+      "pas": 62,
+      "dri": 60,
+      "def": 40,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2006_djibril_ciss",
+    "name": "Djibril Cissé",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 62,
+      "dri": 62,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2006_sylvain_wiltord",
+    "name": "Sylvain Wiltord",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 25,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 56,
+      "pas": 62,
+      "dri": 60,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2006_gal_clichy",
+    "name": "Gaël Clichy",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 40,
+      "sho": 52,
+      "pas": 54,
+      "dri": 52,
+      "def": 60,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2006_sylvain_distin",
+    "name": "Sylvain Distin",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 44,
+      "pas": 48,
+      "dri": 46,
+      "def": 66,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2006_pascal_chimbonda",
+    "name": "Pascal Chimbonda",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 42,
+      "sho": 48,
+      "pas": 52,
+      "dri": 50,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2006_bernard_mendy",
+    "name": "Bernard Mendy",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 46,
+      "pas": 48,
+      "dri": 46,
+      "def": 58,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2006_sidney_govou",
+    "name": "Sidney Govou",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 60,
+      "sho": 52,
+      "pas": 62,
+      "dri": 60,
+      "def": 22,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2006_willy_sagnol",
+    "name": "Willy Sagnol",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 54,
+      "pas": 56,
+      "dri": 54,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
     "id": "por_2006_cristiano_ronaldo",
     "name": "Cristiano Ronaldo",
     "nation": "Portugal",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 7,
+    "squad_number": 24,
     "base_rating": 86,
     "stats": {
       "pac": 88,
@@ -984,7 +1496,7 @@
     "nation": "Portugal",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 19,
+    "squad_number": 26,
     "base_rating": 64,
     "stats": {
       "pac": 76,
@@ -1146,7 +1658,7 @@
     "nation": "Portugal",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 12,
+    "squad_number": 27,
     "base_rating": 65,
     "stats": {
       "pac": 64,
@@ -1230,6 +1742,168 @@
       "clean_sheets": 3,
       "goals_conceded": 5,
       "minutes_played": 630
+    }
+  },
+  {
+    "id": "por_2006_quim",
+    "name": "Quim",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2006_rui_patrcio",
+    "name": "Rui Patrício",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 68,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2006_jorge_andrade",
+    "name": "Jorge Andrade",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 46,
+      "pas": 46,
+      "dri": 44,
+      "def": 68,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2006_bosingwa",
+    "name": "Bosingwa",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 48,
+      "pas": 52,
+      "dri": 50,
+      "def": 64,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2006_hlder_postiga",
+    "name": "Hélder Postiga",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 25,
+    "base_rating": 66,
+    "stats": {
+      "pac": 62,
+      "sho": 46,
+      "pas": 52,
+      "dri": 52,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "por_2006_hugo_viana",
+    "name": "Hugo Viana",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 66,
+    "stats": {
+      "pac": 48,
+      "sho": 58,
+      "pas": 58,
+      "dri": 56,
+      "def": 36,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2006_nani",
+    "name": "Nani",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 58,
+      "pas": 64,
+      "dri": 62,
+      "def": 24,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
     }
   },
   {
@@ -1332,7 +2006,7 @@
     "nation": "Brazil",
     "wc_year": 2006,
     "position": "MID",
-    "squad_number": 6,
+    "squad_number": 25,
     "base_rating": 80,
     "stats": {
       "pac": 80,
@@ -1355,7 +2029,7 @@
     "nation": "Brazil",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 19,
+    "squad_number": 26,
     "base_rating": 66,
     "stats": {
       "pac": 74,
@@ -1535,6 +2209,215 @@
     }
   },
   {
+    "id": "bra_2006_hlton",
+    "name": "Hélton",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2006_fbio",
+    "name": "Fábio",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2006_cris",
+    "name": "Cris",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 29,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 46,
+      "pas": 52,
+      "dri": 50,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2006_gilberto",
+    "name": "Gilberto",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 46,
+      "pas": 48,
+      "dri": 46,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2006_ricardinho",
+    "name": "Ricardinho",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 28,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 60,
+      "pas": 62,
+      "dri": 60,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2006_gilberto_silva",
+    "name": "Gilberto Silva",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 62,
+      "pas": 58,
+      "dri": 56,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2006_robinho",
+    "name": "Robinho",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 64,
+      "pas": 82,
+      "dri": 32,
+      "def": 56,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_2006_mineiro",
+    "name": "Mineiro",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 27,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 56,
+      "pas": 56,
+      "dri": 54,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2006_alexandre_pato",
+    "name": "Alexandre Pato",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 66,
+    "stats": {
+      "pac": 62,
+      "sho": 50,
+      "pas": 60,
+      "dri": 56,
+      "def": 22,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "arg_2006_hernn_crespo",
     "name": "Hernán Crespo",
     "nation": "Argentina",
@@ -1611,7 +2494,7 @@
     "nation": "Argentina",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 10,
+    "squad_number": 26,
     "base_rating": 84,
     "stats": {
       "pac": 70,
@@ -1751,7 +2634,7 @@
     "nation": "Argentina",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 13,
+    "squad_number": 28,
     "base_rating": 66,
     "stats": {
       "pac": 68,
@@ -1774,7 +2657,7 @@
     "nation": "Argentina",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 5,
+    "squad_number": 29,
     "base_rating": 67,
     "stats": {
       "pac": 68,
@@ -1797,7 +2680,7 @@
     "nation": "Argentina",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 2,
+    "squad_number": 30,
     "base_rating": 66,
     "stats": {
       "pac": 74,
@@ -1835,6 +2718,215 @@
       "clean_sheets": 3,
       "goals_conceded": 4,
       "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_2006_diego_cavallero",
+    "name": "Diego Cavallero",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2006_nery_castillo",
+    "name": "Nery Castillo",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 68,
+    "stats": {
+      "pac": 62,
+      "sho": 52,
+      "pas": 56,
+      "dri": 56,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2006_juan_sorn",
+    "name": "Juan Pablo Sorín",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 54,
+      "pas": 52,
+      "dri": 50,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2006_nicols_burdisso",
+    "name": "Nicolás Burdisso",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 48,
+      "pas": 50,
+      "dri": 48,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2006_rodrigo_palacio",
+    "name": "Rodrigo Palacio",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 68,
+    "stats": {
+      "pac": 60,
+      "sho": 52,
+      "pas": 56,
+      "dri": 56,
+      "def": 24,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2006_pablo_aimar",
+    "name": "Pablo Aimar",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 25,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 70,
+      "pas": 72,
+      "dri": 68,
+      "def": 34,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2006_luis_gonzlez",
+    "name": "Luis González",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 60,
+      "pas": 60,
+      "dri": 58,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2006_nstor_clausen",
+    "name": "Néstor Clausen",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 27,
+    "base_rating": 64,
+    "stats": {
+      "pac": 38,
+      "sho": 46,
+      "pas": 44,
+      "dri": 42,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2006_javier_zanetti",
+    "name": "Javier Zanetti",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 62,
+      "pas": 64,
+      "dri": 62,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
     }
   },
   {
@@ -1891,7 +2983,7 @@
     "nation": "England",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 23,
+    "squad_number": 24,
     "base_rating": 78,
     "stats": {
       "pac": 58,
@@ -2007,7 +3099,7 @@
     "nation": "England",
     "wc_year": 2006,
     "position": "MID",
-    "squad_number": 16,
+    "squad_number": 28,
     "base_rating": 70,
     "stats": {
       "pac": 66,
@@ -2030,7 +3122,7 @@
     "nation": "England",
     "wc_year": 2006,
     "position": "MID",
-    "squad_number": 4,
+    "squad_number": 27,
     "base_rating": 71,
     "stats": {
       "pac": 72,
@@ -2163,6 +3255,146 @@
     }
   },
   {
+    "id": "eng_2006_scott_carson",
+    "name": "Scott Carson",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 25,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2006_wayne_bridge",
+    "name": "Wayne Bridge",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 44,
+      "sho": 52,
+      "pas": 54,
+      "dri": 52,
+      "def": 64,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2006_jamie_carragher",
+    "name": "Jamie Carragher",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2006_kieran_richardson",
+    "name": "Kieran Richardson",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 60,
+      "pas": 60,
+      "dri": 58,
+      "def": 36,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2006_jermain_defoe",
+    "name": "Jermain Defoe",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 54,
+      "pas": 62,
+      "dri": 62,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_2006_theo_walcott",
+    "name": "Theo Walcott",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 56,
+      "pas": 66,
+      "dri": 62,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "ukr_2006_andriy_shevchenko",
     "name": "Andriy Shevchenko",
     "nation": "Ukraine",
@@ -2287,7 +3519,7 @@
     "nation": "Ukraine",
     "wc_year": 2006,
     "position": "MID",
-    "squad_number": 10,
+    "squad_number": 25,
     "base_rating": 67,
     "stats": {
       "pac": 70,
@@ -2420,12 +3652,220 @@
     }
   },
   {
+    "id": "ukr_2006_andriy_pyatov",
+    "name": "Andriy Pyatov",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_andriy_dikan",
+    "name": "Andriy Dikan",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_vyacheslav_svidersky",
+    "name": "Vyacheslav Svidersky",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 64,
+    "stats": {
+      "pac": 36,
+      "sho": 42,
+      "pas": 42,
+      "dri": 40,
+      "def": 56,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_oleksandr_aliev",
+    "name": "Oleksandr Aliev",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 68,
+    "stats": {
+      "pac": 54,
+      "sho": 56,
+      "pas": 58,
+      "dri": 56,
+      "def": 32,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_maksim_kalinichenko",
+    "name": "Maksim Kalinichenko",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 64,
+    "stats": {
+      "pac": 46,
+      "sho": 52,
+      "pas": 52,
+      "dri": 50,
+      "def": 32,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_marko_devic",
+    "name": "Marko Devic",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 64,
+    "stats": {
+      "pac": 52,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 18,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ukr_2006_denys_kulakov",
+    "name": "Denys Kulakov",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 62,
+    "stats": {
+      "pac": 42,
+      "sho": 46,
+      "pas": 46,
+      "dri": 44,
+      "def": 34,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_valentin_belkevich",
+    "name": "Valentin Belkevich",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 24,
+    "base_rating": 64,
+    "stats": {
+      "pac": 46,
+      "sho": 52,
+      "pas": 52,
+      "dri": 50,
+      "def": 36,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_serhiy_valyaev",
+    "name": "Serhiy Valyaev",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 62,
+    "stats": {
+      "pac": 40,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 32,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
     "id": "esp_2006_david_villa",
     "name": "David Villa",
     "nation": "Spain",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 7,
+    "squad_number": 24,
     "base_rating": 85,
     "stats": {
       "pac": 76,
@@ -2497,7 +3937,7 @@
     "nation": "Spain",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 11,
+    "squad_number": 25,
     "base_rating": 68,
     "stats": {
       "pac": 82,
@@ -2728,7 +4168,7 @@
     "nation": "Spain",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 23,
+    "squad_number": 27,
     "base_rating": 68,
     "stats": {
       "pac": 76,
@@ -2766,6 +4206,98 @@
       "clean_sheets": 2,
       "goals_conceded": 5,
       "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2006_santiago_caizares",
+    "name": "Santiago Cañizares",
+    "nation": "Spain",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 78,
+    "stats": {
+      "pac": 48,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2006_andrs_palop",
+    "name": "Andrés Palop",
+    "nation": "Spain",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 12,
+      "pas": 32,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2006_pablo_ibez",
+    "name": "Pablo Ibáñez",
+    "nation": "Spain",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 62,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2006_lvaro_arbeloa",
+    "name": "Álvaro Arbeloa",
+    "nation": "Spain",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 46,
+      "pas": 48,
+      "dri": 46,
+      "def": 60,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
     }
   },
   {
@@ -3002,6 +4534,238 @@
     }
   },
   {
+    "id": "ned_2006_henk_timmer",
+    "name": "Henk Timmer",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2006_sander_boschker",
+    "name": "Sander Boschker",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2006_barry_opdam",
+    "name": "Barry Opdam",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 64,
+    "stats": {
+      "pac": 38,
+      "sho": 42,
+      "pas": 42,
+      "dri": 40,
+      "def": 56,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2006_tim_cler",
+    "name": "Tim de Cler",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 28,
+    "base_rating": 66,
+    "stats": {
+      "pac": 40,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 58,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2006_john_heitinga",
+    "name": "John Heitinga",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2006_rafael_vaart",
+    "name": "Rafael van der Vaart",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 24,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 72,
+      "pas": 72,
+      "dri": 70,
+      "def": 36,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2006_denny_landzaat",
+    "name": "Denny Landzaat",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 27,
+    "base_rating": 66,
+    "stats": {
+      "pac": 48,
+      "sho": 52,
+      "pas": 52,
+      "dri": 50,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2006_jan_hesselink",
+    "name": "Jan Vennegoor of Hesselink",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 25,
+    "base_rating": 68,
+    "stats": {
+      "pac": 62,
+      "sho": 48,
+      "pas": 52,
+      "dri": 52,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_2006_klaasjan_huntelaar",
+    "name": "Klaas-Jan Huntelaar",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 72,
+      "sho": 52,
+      "pas": 56,
+      "dri": 56,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_2006_wilfred_bouma",
+    "name": "Wilfred Bouma",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
     "id": "mex_2006_omar_bravo",
     "name": "Omar Bravo",
     "nation": "Mexico",
@@ -3147,7 +4911,7 @@
     "nation": "Mexico",
     "wc_year": 2006,
     "position": "MID",
-    "squad_number": 4,
+    "squad_number": 25,
     "base_rating": 69,
     "stats": {
       "pac": 68,
@@ -3280,6 +5044,240 @@
     }
   },
   {
+    "id": "mex_2006_oscar_prez",
+    "name": "Oscar Pérez",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2006_miguel_calero",
+    "name": "Miguel Calero",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 68,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2006_francisco_rodrguez",
+    "name": "Francisco Rodríguez",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 44,
+      "pas": 46,
+      "dri": 44,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2006_israel_martnez",
+    "name": "Israel Martínez",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 27,
+    "base_rating": 64,
+    "stats": {
+      "pac": 38,
+      "sho": 40,
+      "pas": 42,
+      "dri": 40,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2006_gonzalo_pineda",
+    "name": "Gonzalo Pineda",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 66,
+    "stats": {
+      "pac": 44,
+      "sho": 50,
+      "pas": 50,
+      "dri": 48,
+      "def": 36,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2006_francisco_fonseca",
+    "name": "Francisco Fonseca",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 62,
+    "stats": {
+      "pac": 54,
+      "sho": 44,
+      "pas": 48,
+      "dri": 48,
+      "def": 18,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_2006_nery_castillo",
+    "name": "Nery Castillo",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 64,
+    "stats": {
+      "pac": 46,
+      "sho": 48,
+      "pas": 50,
+      "dri": 48,
+      "def": 30,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2006_alberto_medina",
+    "name": "Alberto Medina",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 64,
+    "stats": {
+      "pac": 54,
+      "sho": 44,
+      "pas": 48,
+      "dri": 48,
+      "def": 20,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_2006_jos_fonseca",
+    "name": "José Fonseca",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 64,
+    "stats": {
+      "pac": 56,
+      "sho": 44,
+      "pas": 48,
+      "dri": 48,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_2006_guillermo_franco",
+    "name": "Guillermo Franco",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 64,
+    "stats": {
+      "pac": 58,
+      "sho": 44,
+      "pas": 48,
+      "dri": 48,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "gha_2006_asamoah_gyan",
     "name": "Asamoah Gyan",
     "nation": "Ghana",
@@ -3402,7 +5400,7 @@
     "nation": "Ghana",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 17,
+    "squad_number": 24,
     "base_rating": 65,
     "stats": {
       "pac": 86,
@@ -3449,7 +5447,7 @@
     "nation": "Ghana",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 5,
+    "squad_number": 25,
     "base_rating": 65,
     "stats": {
       "pac": 70,
@@ -3472,7 +5470,7 @@
     "nation": "Ghana",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 4,
+    "squad_number": 26,
     "base_rating": 62,
     "stats": {
       "pac": 70,
@@ -3510,6 +5508,286 @@
       "clean_sheets": 0,
       "goals_conceded": 4,
       "minutes_played": 270
+    }
+  },
+  {
+    "id": "gha_2006_richard_kingson",
+    "name": "Richard Kingson",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2006_abubakari_damba",
+    "name": "Abubakari Damba",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 62,
+    "stats": {
+      "pac": 42,
+      "sho": 10,
+      "pas": 28,
+      "dri": 18,
+      "def": 8,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2006_eric_addo",
+    "name": "Eric Addo",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 60,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2006_samuel_kuffour",
+    "name": "Samuel Osei Kuffour",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2006_habib_mohammed",
+    "name": "Habib Mohammed",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 64,
+    "stats": {
+      "pac": 38,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2006_laryea_kingston",
+    "name": "Laryea Kingston",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 52,
+      "pas": 56,
+      "dri": 54,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2006_quincy_owusuabeyie",
+    "name": "Quincy Owusu-Abeyie",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 48,
+      "pas": 60,
+      "dri": 56,
+      "def": 20,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "gha_2006_alex_tachiemensah",
+    "name": "Alex Tachie-Mensah",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 64,
+    "stats": {
+      "pac": 54,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 20,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "gha_2006_junior_agogo",
+    "name": "Junior Agogo",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 68,
+    "stats": {
+      "pac": 58,
+      "sho": 46,
+      "pas": 54,
+      "dri": 54,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "gha_2006_augustine_ahinful",
+    "name": "Augustine Ahinful",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 64,
+    "stats": {
+      "pac": 52,
+      "sho": 44,
+      "pas": 50,
+      "dri": 48,
+      "def": 20,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "gha_2006_otto_addo",
+    "name": "Otto Addo",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 64,
+    "stats": {
+      "pac": 46,
+      "sho": 50,
+      "pas": 50,
+      "dri": 48,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2006_derek_boateng",
+    "name": "Derek Boateng",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 64,
+    "stats": {
+      "pac": 44,
+      "sho": 48,
+      "pas": 50,
+      "dri": 48,
+      "def": 40,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
     }
   },
   {
@@ -3588,7 +5866,7 @@
     "nation": "Australia",
     "wc_year": 2006,
     "position": "FWD",
-    "squad_number": 21,
+    "squad_number": 24,
     "base_rating": 63,
     "stats": {
       "pac": 74,
@@ -3682,7 +5960,7 @@
     "nation": "Australia",
     "wc_year": 2006,
     "position": "MID",
-    "squad_number": 8,
+    "squad_number": 26,
     "base_rating": 66,
     "stats": {
       "pac": 76,
@@ -3766,6 +6044,261 @@
       "clean_sheets": 1,
       "goals_conceded": 5,
       "minutes_played": 360
+    }
+  },
+  {
+    "id": "aus_2006_zeljko_kalac",
+    "name": "Zeljko Kalac",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_danny_vukovic",
+    "name": "Danny Vukovic",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 64,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_tony_vidmar",
+    "name": "Tony Vidmar",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 66,
+    "stats": {
+      "pac": 40,
+      "sho": 46,
+      "pas": 46,
+      "dri": 44,
+      "def": 60,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_michael_beauchamp",
+    "name": "Michael Beauchamp",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 64,
+    "stats": {
+      "pac": 38,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_josip_skoko",
+    "name": "Josip Skoko",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 54,
+      "pas": 54,
+      "dri": 52,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_graham_arnold",
+    "name": "Graham Arnold",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 25,
+    "base_rating": 64,
+    "stats": {
+      "pac": 38,
+      "sho": 44,
+      "pas": 42,
+      "dri": 40,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_carl_valeri",
+    "name": "Carl Valeri",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 66,
+    "stats": {
+      "pac": 48,
+      "sho": 52,
+      "pas": 52,
+      "dri": 50,
+      "def": 40,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_mile_jedinak",
+    "name": "Mile Jedinak",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 52,
+      "pas": 54,
+      "dri": 52,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_ante_milicic",
+    "name": "Ante Milicic",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 64,
+    "stats": {
+      "pac": 58,
+      "sho": 46,
+      "pas": 50,
+      "dri": 50,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "aus_2006_archie_thompson",
+    "name": "Archie Thompson",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 66,
+    "stats": {
+      "pac": 60,
+      "sho": 48,
+      "pas": 52,
+      "dri": 52,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "aus_2006_richard_garcia",
+    "name": "Richard Garcia",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 64,
+    "stats": {
+      "pac": 48,
+      "sho": 50,
+      "pas": 52,
+      "dri": 50,
+      "def": 36,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
     }
   },
   {
@@ -3985,7 +6518,7 @@
     "nation": "Ecuador",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 6,
+    "squad_number": 25,
     "base_rating": 62,
     "stats": {
       "pac": 68,
@@ -4008,7 +6541,7 @@
     "nation": "Ecuador",
     "wc_year": 2006,
     "position": "DEF",
-    "squad_number": 5,
+    "squad_number": 26,
     "base_rating": 64,
     "stats": {
       "pac": 68,
@@ -4046,6 +6579,261 @@
       "clean_sheets": 0,
       "goals_conceded": 6,
       "minutes_played": 270
+    }
+  },
+  {
+    "id": "ecu_2006_jacinto_espinoza",
+    "name": "Jacinto Espinoza",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 66,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ecu_2006_marcelo_elizaga",
+    "name": "Marcelo Elizaga",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 64,
+    "stats": {
+      "pac": 42,
+      "sho": 10,
+      "pas": 28,
+      "dri": 18,
+      "def": 8,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ecu_2006_nicer_reasco",
+    "name": "Néicer Reasco",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 66,
+    "stats": {
+      "pac": 42,
+      "sho": 44,
+      "pas": 46,
+      "dri": 44,
+      "def": 60,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ecu_2006_paul_ambrossi",
+    "name": "Paul Ambrossi",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 24,
+    "base_rating": 64,
+    "stats": {
+      "pac": 38,
+      "sho": 42,
+      "pas": 42,
+      "dri": 40,
+      "def": 58,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ecu_2006_walter_ayov",
+    "name": "Walter Ayoví",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 46,
+      "pas": 48,
+      "dri": 46,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ecu_2006_edwin_tenorio",
+    "name": "Edwin Tenorio",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 66,
+    "stats": {
+      "pac": 48,
+      "sho": 52,
+      "pas": 52,
+      "dri": 50,
+      "def": 40,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ecu_2006_marlon_ayov",
+    "name": "Marlon Ayoví",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 64,
+    "stats": {
+      "pac": 46,
+      "sho": 50,
+      "pas": 50,
+      "dri": 48,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ecu_2006_patricio_urrutia",
+    "name": "Patricio Urrutia",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 64,
+    "stats": {
+      "pac": 46,
+      "sho": 50,
+      "pas": 50,
+      "dri": 48,
+      "def": 38,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ecu_2006_tanner_hernndez",
+    "name": "Tanner Hernández",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 62,
+    "stats": {
+      "pac": 54,
+      "sho": 44,
+      "pas": 48,
+      "dri": 48,
+      "def": 20,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ecu_2006_israel_tenorio",
+    "name": "Israel Tenorio",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 64,
+    "stats": {
+      "pac": 56,
+      "sho": 44,
+      "pas": 48,
+      "dri": 48,
+      "def": 22,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ecu_2006_augusto_poroso",
+    "name": "Augusto Poroso",
+    "nation": "Ecuador",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 62,
+    "stats": {
+      "pac": 36,
+      "sho": 40,
+      "pas": 40,
+      "dri": 38,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
     }
   },
   {
@@ -4304,6 +7092,239 @@
     }
   },
   {
+    "id": "sui_2006_marco_wlfli",
+    "name": "Marco Wölfli",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 12,
+      "pas": 32,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_eldin_jakupovic",
+    "name": "Eldin Jakupovic",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 64,
+    "stats": {
+      "pac": 42,
+      "sho": 10,
+      "pas": 28,
+      "dri": 18,
+      "def": 8,
+      "phy": 50
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_stphane_grichting",
+    "name": "Stéphane Grichting",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 24,
+    "base_rating": 66,
+    "stats": {
+      "pac": 38,
+      "sho": 44,
+      "pas": 42,
+      "dri": 40,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_xavier_margairaz",
+    "name": "Xavier Margairaz",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 64,
+    "stats": {
+      "pac": 44,
+      "sho": 50,
+      "pas": 50,
+      "dri": 48,
+      "def": 36,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_blerim_dzemaili",
+    "name": "Blerim Dzemaili",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 64,
+    "stats": {
+      "pac": 42,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_reto_ziegler",
+    "name": "Reto Ziegler",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 64,
+    "stats": {
+      "pac": 36,
+      "sho": 42,
+      "pas": 42,
+      "dri": 40,
+      "def": 54,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_marco_streller",
+    "name": "Marco Streller",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 66,
+    "stats": {
+      "pac": 60,
+      "sho": 48,
+      "pas": 52,
+      "dri": 52,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sui_2006_mauro_lustrinelli",
+    "name": "Mauro Lustrinelli",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 62,
+    "stats": {
+      "pac": 56,
+      "sho": 44,
+      "pas": 48,
+      "dri": 48,
+      "def": 18,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sui_2006_benjamin_huggel",
+    "name": "Benjamin Huggel",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 64,
+    "stats": {
+      "pac": 44,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_pascal_schrpf",
+    "name": "Pascal Schürpf",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 60,
+    "stats": {
+      "pac": 52,
+      "sho": 42,
+      "pas": 46,
+      "dri": 46,
+      "def": 18,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "civ_2006_didier_drogba",
     "name": "Didier Drogba",
     "nation": "Ivory Coast",
@@ -4558,6 +7579,979 @@
       "clean_sheets": 0,
       "goals_conceded": 5,
       "minutes_played": 270
+    }
+  },
+  {
+    "id": "civ_2006_grard_gnanhouan",
+    "name": "Gérard Gnanhouan",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 64,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2006_cyril_domoraud",
+    "name": "Cyril Domoraud",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 25,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 46,
+      "pas": 46,
+      "dri": 44,
+      "def": 60,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2006_siaka_tin",
+    "name": "Siaka Tiéné",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 28,
+    "base_rating": 66,
+    "stats": {
+      "pac": 38,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 58,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2006_emmanuel_gnako",
+    "name": "Emmanuel Gnako",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 62,
+    "stats": {
+      "pac": 50,
+      "sho": 42,
+      "pas": 48,
+      "dri": 48,
+      "def": 20,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "civ_2006_stphane_sessgnon",
+    "name": "Stéphane Sessègnon",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 68,
+    "stats": {
+      "pac": 52,
+      "sho": 54,
+      "pas": 60,
+      "dri": 58,
+      "def": 36,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2006_gilles_yapo",
+    "name": "Gilles Yapi Yapo",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 27,
+    "base_rating": 66,
+    "stats": {
+      "pac": 46,
+      "sho": 50,
+      "pas": 52,
+      "dri": 50,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2006_dramane_traor",
+    "name": "Dramane Traoré",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 60,
+    "stats": {
+      "pac": 48,
+      "sho": 40,
+      "pas": 46,
+      "dri": 46,
+      "def": 18,
+      "phy": 52
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "civ_2006_ibrahima_bakayoko",
+    "name": "Ibrahima Bakayoko",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 62,
+    "stats": {
+      "pac": 50,
+      "sho": 42,
+      "pas": 48,
+      "dri": 48,
+      "def": 18,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "civ_2006_blaise_kouassi",
+    "name": "Blaise Kouassi",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 64,
+    "stats": {
+      "pac": 36,
+      "sho": 42,
+      "pas": 42,
+      "dri": 40,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2006_marc_zoro",
+    "name": "Marc Zoro",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 29,
+    "base_rating": 66,
+    "stats": {
+      "pac": 38,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2006_abdoulaye_mt",
+    "name": "Abdoulaye Méïté",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 66,
+    "stats": {
+      "pac": 38,
+      "sho": 44,
+      "pas": 44,
+      "dri": 42,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2006_juan_vern",
+    "name": "Juan Sebastián Verón",
+    "nation": "Argentina",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 62,
+      "sho": 70,
+      "pas": 78,
+      "dri": 76,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aus_2006_kevin_muscat",
+    "name": "Kevin Muscat",
+    "nation": "Australia",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 10,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 54,
+      "dri": 52,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2006_cicinho",
+    "name": "Cicinho",
+    "nation": "Brazil",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 82,
+      "sho": 50,
+      "pas": 62,
+      "dri": 60,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2006_rio_ferdinand",
+    "name": "Rio Ferdinand",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 86,
+    "stats": {
+      "pac": 74,
+      "sho": 48,
+      "pas": 58,
+      "dri": 58,
+      "def": 84,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2006_phil_neville",
+    "name": "Phil Neville",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 48,
+      "pas": 58,
+      "dri": 56,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2006_stewart_downing",
+    "name": "Stewart Downing",
+    "nation": "England",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 64,
+      "pas": 66,
+      "dri": 66,
+      "def": 34,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2006_alou_diarra",
+    "name": "Alou Diarra",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 60,
+      "dri": 58,
+      "def": 66,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2006_robert_pirs",
+    "name": "Robert Pirès",
+    "nation": "France",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 72,
+      "dri": 70,
+      "def": 36,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_tobias_rau",
+    "name": "Tobias Rau",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 70,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2006_christian_wrns",
+    "name": "Christian Wörns",
+    "nation": "Germany",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 54,
+      "dri": 52,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2006_razak_pimpong",
+    "name": "Razak Pimpong",
+    "nation": "Ghana",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 72,
+    "stats": {
+      "pac": 78,
+      "sho": 62,
+      "pas": 54,
+      "dri": 60,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_2006_gennaro_gattuso",
+    "name": "Gennaro Gattuso",
+    "nation": "Italy",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 84,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 68,
+      "dri": 66,
+      "def": 76,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2006_massimo_oddo",
+    "name": "Massimo Oddo",
+    "nation": "Italy",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 80,
+      "sho": 54,
+      "pas": 64,
+      "dri": 62,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2006_cristian_zaccardo",
+    "name": "Cristian Zaccardo",
+    "nation": "Italy",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2006_marco_amelia",
+    "name": "Marco Amelia",
+    "nation": "Italy",
+    "wc_year": 2006,
+    "position": "GK",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 38,
+      "dri": 28,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2006_salomon_kalou",
+    "name": "Salomon Kalou",
+    "nation": "Ivory Coast",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 80,
+      "sho": 66,
+      "pas": 62,
+      "dri": 68,
+      "def": 26,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_2006_luis_prez",
+    "name": "Luis Pérez",
+    "nation": "Mexico",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 60,
+      "dri": 58,
+      "def": 40,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2006_dirk_kuyt",
+    "name": "Dirk Kuyt",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 66,
+      "dri": 68,
+      "def": 52,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_2006_ryan_babel",
+    "name": "Ryan Babel",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 82,
+      "sho": 64,
+      "pas": 60,
+      "dri": 68,
+      "def": 28,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_2006_phillip_cocu",
+    "name": "Phillip Cocu",
+    "nation": "Netherlands",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 62,
+      "pas": 68,
+      "dri": 66,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2006_costinha",
+    "name": "Costinha",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 58,
+      "pas": 62,
+      "dri": 60,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2006_tiago_mendes",
+    "name": "Tiago Mendes",
+    "nation": "Portugal",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 68,
+      "pas": 72,
+      "dri": 68,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2006_mchel_salgado",
+    "name": "Míchel Salgado",
+    "nation": "Spain",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 72,
+      "sho": 46,
+      "pas": 56,
+      "dri": 54,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2006_antonio_lpez",
+    "name": "Antonio López",
+    "nation": "Spain",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 70,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2006_santi_cazorla",
+    "name": "Santi Cazorla",
+    "nation": "Spain",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 70,
+      "pas": 72,
+      "dri": 68,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2006_fernando_navarro",
+    "name": "Fernando Navarro",
+    "nation": "Spain",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 68,
+    "stats": {
+      "pac": 66,
+      "sho": 42,
+      "pas": 50,
+      "dri": 48,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_gelson_fernandes",
+    "name": "Gelson Fernandes",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 58,
+      "dri": 56,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_2006_johan_djourou",
+    "name": "Johan Djourou",
+    "nation": "Switzerland",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_andriy_rusol",
+    "name": "Andriy Rusol",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_oleh_shelayev",
+    "name": "Oleh Shelayev",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 68,
+    "stats": {
+      "pac": 62,
+      "sho": 50,
+      "pas": 56,
+      "dri": 54,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ukr_2006_viktor_budko",
+    "name": "Viktor Budko",
+    "nation": "Ukraine",
+    "wc_year": 2006,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 66,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 48,
+      "dri": 46,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
     }
   }
 ]

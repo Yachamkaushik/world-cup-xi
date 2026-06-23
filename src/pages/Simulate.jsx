@@ -2,7 +2,14 @@ import {useLocation, useNavigate} from 'react-router-dom'
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import playersData from '../data/players.json'
-import {getRawScore, buildPositionScores, percentileOf, calculateEffectiveRating, calculateEffectiveTeamRatings, calculateTeamRatings, generateScoreline, generateOpponent, simulateMatch} from '../utils/Simulate.js'
+import players_2002 from '../data/players_2002.json'
+import players_2006 from '../data/players_2006.json'
+import players_2010 from '../data/players_2010.json'
+import players_2014 from '../data/players_2014.json'
+import {buildPositionScores, calculateEffectiveTeamRatings, calculateTeamRatings, generateOpponent, simulateMatch} from '../utils/simulate.js'
+
+const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014]
+
 const dotColors = [
     { border: '#F5C518', text: '#F5C518', glow: '#F5C51840' },
     { border: '#60a5fa', text: '#60a5fa', glow: '#60a5fa40' },
@@ -39,7 +46,7 @@ export default function Simulate() {
     const selectedPlayers = location.state.selectedPlayers
     const mode = location.state.mode
     const ratings = calculateTeamRatings(selectedPlayers)
-    const positionScores = buildPositionScores(playersData)
+    const positionScores = buildPositionScores(allPlayersData)
     const myTeam = calculateEffectiveTeamRatings(selectedPlayers, positionScores)
 
     const gks = selectedPlayers.filter(p => p.position === 'GK')
@@ -131,7 +138,7 @@ export default function Simulate() {
 
                 <button
                     onClick={() => {
-                        const allNations = [...new Set(playersData.map(p => p.nation))]
+                        const allNations = [...new Set(allPlayersData.map(p => p.nation))]
                         const usedNations = []
                         const results = []
                         for(let i = 0; i < 8; i++){

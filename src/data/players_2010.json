@@ -238,7 +238,7 @@
     "nation": "Spain",
     "wc_year": 2010,
     "position": "DEF",
-    "squad_number": 5,
+    "squad_number": 25,
     "base_rating": 84,
     "stats": {
       "pac": 72,
@@ -261,7 +261,7 @@
     "nation": "Spain",
     "wc_year": 2010,
     "position": "DEF",
-    "squad_number": 3,
+    "squad_number": 26,
     "base_rating": 71,
     "stats": {
       "pac": 74,
@@ -284,7 +284,7 @@
     "nation": "Spain",
     "wc_year": 2010,
     "position": "DEF",
-    "squad_number": 20,
+    "squad_number": 27,
     "base_rating": 71,
     "stats": {
       "pac": 78,
@@ -348,6 +348,122 @@
     }
   },
   {
+    "id": "esp_2010_vctor_valds",
+    "name": "Víctor Valdés",
+    "nation": "Spain",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 28,
+    "base_rating": 82,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 42,
+      "dri": 30,
+      "def": 12,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2010_pepe_reina",
+    "name": "Pepe Reina",
+    "nation": "Spain",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 82,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 40,
+      "dri": 28,
+      "def": 12,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2010_ral_albiol",
+    "name": "Raúl Albiol",
+    "nation": "Spain",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 50,
+      "pas": 52,
+      "dri": 50,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2010_fernando_llorente",
+    "name": "Fernando Llorente",
+    "nation": "Spain",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 50,
+      "dri": 54,
+      "def": 24,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_2010_juan_mata",
+    "name": "Juan Mata",
+    "nation": "Spain",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 72,
+      "pas": 74,
+      "dri": 70,
+      "def": 40,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
     "id": "ned_2010_arjen_robben",
     "name": "Arjen Robben",
     "nation": "Netherlands",
@@ -401,7 +517,7 @@
     "nation": "Netherlands",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 12,
+    "squad_number": 25,
     "base_rating": 70,
     "stats": {
       "pac": 74,
@@ -540,7 +656,7 @@
     "nation": "Netherlands",
     "wc_year": 2010,
     "position": "DEF",
-    "squad_number": 4,
+    "squad_number": 27,
     "base_rating": 71,
     "stats": {
       "pac": 74,
@@ -624,6 +740,214 @@
       "clean_sheets": 2,
       "goals_conceded": 6,
       "minutes_played": 690
+    }
+  },
+  {
+    "id": "ned_2010_henk_timmer",
+    "name": "Henk Timmer",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_sander_boschker",
+    "name": "Sander Boschker",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 12,
+      "pas": 32,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_khalid_boulahrouz",
+    "name": "Khalid Boulahrouz",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 52,
+      "pas": 52,
+      "dri": 50,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_andre_ooijer",
+    "name": "Andre Ooijer",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 66,
+    "stats": {
+      "pac": 40,
+      "sho": 48,
+      "pas": 46,
+      "dri": 44,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_edson_braafheid",
+    "name": "Edson Braafheid",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 60,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_demy_zeeuw",
+    "name": "Demy de Zeeuw",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 60,
+      "pas": 62,
+      "dri": 60,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_rafael_vaart",
+    "name": "Rafael van der Vaart",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 24,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 74,
+      "pas": 74,
+      "dri": 72,
+      "def": 38,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_ibrahim_afellay",
+    "name": "Ibrahim Afellay",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 58,
+      "sho": 62,
+      "pas": 68,
+      "dri": 66,
+      "def": 36,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_eljero_elia",
+    "name": "Eljero Elia",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 60,
+      "sho": 56,
+      "pas": 70,
+      "dri": 64,
+      "def": 26,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
     }
   },
   {
@@ -865,7 +1189,7 @@
     "nation": "Germany",
     "wc_year": 2010,
     "position": "DEF",
-    "squad_number": 21,
+    "squad_number": 28,
     "base_rating": 70,
     "stats": {
       "pac": 72,
@@ -926,6 +1250,238 @@
       "clean_sheets": 3,
       "goals_conceded": 6,
       "minutes_played": 690
+    }
+  },
+  {
+    "id": "ger_2010_tim_wiese",
+    "name": "Tim Wiese",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2010_ren_adler",
+    "name": "René Adler",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2010_jerome_boateng",
+    "name": "Jerome Boateng",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 27,
+    "base_rating": 76,
+    "stats": {
+      "pac": 46,
+      "sho": 56,
+      "pas": 58,
+      "dri": 56,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2010_dennis_aogo",
+    "name": "Dennis Aogo",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 54,
+      "pas": 56,
+      "dri": 54,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2010_stefan_kieling",
+    "name": "Stefan Kießling",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 56,
+      "dri": 58,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_2010_piotr_trochowski",
+    "name": "Piotr Trochowski",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 24,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 62,
+      "pas": 62,
+      "dri": 60,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2010_stefan_reinartz",
+    "name": "Stefan Reinartz",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 58,
+      "pas": 58,
+      "dri": 56,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2010_marko_marin",
+    "name": "Marko Marin",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 58,
+      "sho": 62,
+      "pas": 68,
+      "dri": 66,
+      "def": 36,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_2010_patrick_helmes",
+    "name": "Patrick Helmes",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 64,
+      "sho": 52,
+      "pas": 54,
+      "dri": 56,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_2010_serdar_ta",
+    "name": "Serdar Taşçı",
+    "nation": "Germany",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 25,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 52,
+      "pas": 52,
+      "dri": 50,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
     }
   },
   {
@@ -1029,7 +1585,7 @@
     "nation": "Uruguay",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 21,
+    "squad_number": 25,
     "base_rating": 64,
     "stats": {
       "pac": 68,
@@ -1053,7 +1609,7 @@
     "nation": "Uruguay",
     "wc_year": 2010,
     "position": "MID",
-    "squad_number": 8,
+    "squad_number": 26,
     "base_rating": 72,
     "stats": {
       "pac": 72,
@@ -1229,6 +1785,213 @@
       "clean_sheets": 2,
       "goals_conceded": 8,
       "minutes_played": 690
+    }
+  },
+  {
+    "id": "uru_2010_sebastian_viera",
+    "name": "Sebastian Viera",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_gustavo_munua",
+    "name": "Gustavo Munua",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 68,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_sebastin_coates",
+    "name": "Sebastián Coates",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 68,
+    "stats": {
+      "pac": 52,
+      "sho": 38,
+      "pas": 46,
+      "dri": 44,
+      "def": 64,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_andrs_scotti",
+    "name": "Andrés Scotti",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 27,
+    "base_rating": 66,
+    "stats": {
+      "pac": 44,
+      "sho": 38,
+      "pas": 44,
+      "dri": 42,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_carlos_snchez",
+    "name": "Carlos Sánchez",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 68,
+    "stats": {
+      "pac": 48,
+      "sho": 52,
+      "pas": 54,
+      "dri": 52,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_walter_gargano",
+    "name": "Walter Gargano",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 56,
+      "pas": 58,
+      "dri": 56,
+      "def": 54,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_lvaro_gonzlez",
+    "name": "Álvaro González",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 28,
+    "base_rating": 66,
+    "stats": {
+      "pac": 44,
+      "sho": 38,
+      "pas": 44,
+      "dri": 42,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_nicols_lodeiro",
+    "name": "Nicolás Lodeiro",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 24,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 60,
+      "pas": 62,
+      "dri": 60,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_ignacio_gonzlez",
+    "name": "Ignacio González",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 66,
+    "stats": {
+      "pac": 48,
+      "sho": 54,
+      "pas": 56,
+      "dri": 54,
+      "def": 40,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
     }
   },
   {
@@ -1511,6 +2274,239 @@
     }
   },
   {
+    "id": "bra_2010_doni",
+    "name": "Doni",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 38,
+      "dri": 26,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2010_gomes",
+    "name": "Gomes",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 38,
+      "dri": 26,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2010_andr_santos",
+    "name": "André Santos",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2010_gilberto",
+    "name": "Gilberto",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 44,
+      "pas": 54,
+      "dri": 52,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2010_maxwell",
+    "name": "Maxwell",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 46,
+      "pas": 58,
+      "dri": 58,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2010_josu",
+    "name": "Josué",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 25,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 60,
+      "pas": 60,
+      "dri": 58,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2010_gilberto_silva",
+    "name": "Gilberto Silva",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 64,
+      "pas": 60,
+      "dri": 58,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2010_luis_fabiano",
+    "name": "Luis Fabiano",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 82,
+    "stats": {
+      "pac": 84,
+      "sho": 58,
+      "pas": 72,
+      "dri": 26,
+      "def": 72,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_2010_grafite",
+    "name": "Grafite",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 66,
+      "dri": 24,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_2010_adriano",
+    "name": "Adriano",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 66,
+      "dri": 24,
+      "def": 64,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "arg_2010_lionel_messi",
     "name": "Lionel Messi",
     "nation": "Argentina",
@@ -1540,7 +2536,7 @@
     "nation": "Argentina",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 10,
+    "squad_number": 24,
     "base_rating": 86,
     "stats": {
       "pac": 88,
@@ -1588,7 +2584,7 @@
     "nation": "Argentina",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 22,
+    "squad_number": 25,
     "base_rating": 63,
     "stats": {
       "pac": 62,
@@ -1792,6 +2788,192 @@
     }
   },
   {
+    "id": "arg_2010_mariano_andjar",
+    "name": "Mariano Andújar",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2010_juan_carrizo",
+    "name": "Juan Pablo Carrizo",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 68,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2010_lucio_marengo",
+    "name": "Lucio Marengo",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 66,
+    "stats": {
+      "pac": 56,
+      "sho": 40,
+      "pas": 50,
+      "dri": 48,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2010_clemente_rodrguez",
+    "name": "Clemente Rodríguez",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 68,
+    "stats": {
+      "pac": 56,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2010_jons_gutirrez",
+    "name": "Jonás Gutiérrez",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 60,
+      "pas": 62,
+      "dri": 60,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2010_maxi_rodrguez",
+    "name": "Maxi Rodríguez",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 66,
+      "pas": 70,
+      "dri": 68,
+      "def": 40,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2010_rodolfo_figueroa",
+    "name": "Rodolfo Figueroa",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 66,
+    "stats": {
+      "pac": 60,
+      "sho": 52,
+      "pas": 56,
+      "dri": 56,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2010_ezequiel_lavezzi",
+    "name": "Ezequiel Lavezzi",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 74,
+      "dri": 32,
+      "def": 64,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "eng_2010_wayne_rooney",
     "name": "Wayne Rooney",
     "nation": "England",
@@ -1821,7 +3003,7 @@
     "nation": "England",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 9,
+    "squad_number": 24,
     "base_rating": 71,
     "stats": {
       "pac": 88,
@@ -1845,7 +3027,7 @@
     "nation": "England",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 23,
+    "squad_number": 25,
     "base_rating": 63,
     "stats": {
       "pac": 58,
@@ -1915,7 +3097,7 @@
     "nation": "England",
     "wc_year": 2010,
     "position": "MID",
-    "squad_number": 8,
+    "squad_number": 26,
     "base_rating": 74,
     "stats": {
       "pac": 68,
@@ -1961,7 +3143,7 @@
     "nation": "England",
     "wc_year": 2010,
     "position": "MID",
-    "squad_number": 11,
+    "squad_number": 27,
     "base_rating": 69,
     "stats": {
       "pac": 94,
@@ -2007,7 +3189,7 @@
     "nation": "England",
     "wc_year": 2010,
     "position": "DEF",
-    "squad_number": 5,
+    "squad_number": 29,
     "base_rating": 68,
     "stats": {
       "pac": 72,
@@ -2094,6 +3276,215 @@
     }
   },
   {
+    "id": "eng_2010_joe_hart",
+    "name": "Joe Hart",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 78,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 34,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2010_scott_carson",
+    "name": "Scott Carson",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 32,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2010_emile_heskey",
+    "name": "Emile Heskey",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 52,
+      "pas": 54,
+      "dri": 58,
+      "def": 22,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_2010_carlton_cole",
+    "name": "Carlton Cole",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 68,
+    "stats": {
+      "pac": 60,
+      "sho": 50,
+      "pas": 52,
+      "dri": 54,
+      "def": 22,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_2010_shaun_wrightphillips",
+    "name": "Shaun Wright-Phillips",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 60,
+      "sho": 60,
+      "pas": 68,
+      "dri": 62,
+      "def": 32,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2010_tom_huddlestone",
+    "name": "Tom Huddlestone",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 64,
+      "pas": 64,
+      "dri": 62,
+      "def": 52,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2010_michael_dawson",
+    "name": "Michael Dawson",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 28,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2010_wes_brown",
+    "name": "Wes Brown",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 40,
+      "pas": 50,
+      "dri": 48,
+      "def": 68,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2010_stephen_warnock",
+    "name": "Stephen Warnock",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 30,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
     "id": "por_2010_cristiano_ronaldo",
     "name": "Cristiano Ronaldo",
     "nation": "Portugal",
@@ -2147,7 +3538,7 @@
     "nation": "Portugal",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 14,
+    "squad_number": 26,
     "base_rating": 67,
     "stats": {
       "pac": 74,
@@ -2396,6 +3787,170 @@
     }
   },
   {
+    "id": "por_2010_daniel_fernandes",
+    "name": "Daniel Fernandes",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 68,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2010_rui_patrcio",
+    "name": "Rui Patrício",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2010_rolando",
+    "name": "Rolando",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 68,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2010_leandro",
+    "name": "Leandro",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 28,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 46,
+      "pas": 46,
+      "dri": 44,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2010_liedson",
+    "name": "Liedson",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 25,
+    "base_rating": 68,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 56,
+      "dri": 54,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "por_2010_hlder_postiga",
+    "name": "Hélder Postiga",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 68,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 52,
+      "dri": 54,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "por_2010_scar_cardozo",
+    "name": "Óscar Cardozo",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 27,
+    "base_rating": 70,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 54,
+      "dri": 54,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "chi_2010_alexis_snchez",
     "name": "Alexis Sánchez",
     "nation": "Chile",
@@ -2425,7 +3980,7 @@
     "nation": "Chile",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 9,
+    "squad_number": 24,
     "base_rating": 67,
     "stats": {
       "pac": 74,
@@ -2565,7 +4120,7 @@
     "nation": "Chile",
     "wc_year": 2010,
     "position": "MID",
-    "squad_number": 11,
+    "squad_number": 27,
     "base_rating": 69,
     "stats": {
       "pac": 82,
@@ -2657,7 +4212,7 @@
     "nation": "Chile",
     "wc_year": 2010,
     "position": "DEF",
-    "squad_number": 18,
+    "squad_number": 25,
     "base_rating": 66,
     "stats": {
       "pac": 72,
@@ -2695,6 +4250,215 @@
       "clean_sheets": 1,
       "goals_conceded": 4,
       "minutes_played": 360
+    }
+  },
+  {
+    "id": "chi_2010_luis_mago",
+    "name": "Luis Mago",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 68,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "chi_2010_johnny_herrera",
+    "name": "Johnny Herrera",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "chi_2010_pablo_contreras",
+    "name": "Pablo Contreras",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "chi_2010_mauricio_isla",
+    "name": "Mauricio Isla",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 60,
+      "sho": 48,
+      "pas": 60,
+      "dri": 58,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "chi_2010_pablo_hernndez",
+    "name": "Pablo Hernández",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 26,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 62,
+      "pas": 64,
+      "dri": 62,
+      "def": 42,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "chi_2010_fabin_orellana",
+    "name": "Fabián Orellana",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 62,
+      "pas": 68,
+      "dri": 66,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "chi_2010_nelson_valdez",
+    "name": "Nelson Haedo Valdez",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 68,
+    "stats": {
+      "pac": 62,
+      "sho": 52,
+      "pas": 56,
+      "dri": 56,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "chi_2010_esteban_paredes",
+    "name": "Esteban Paredes",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 54,
+      "dri": 58,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "chi_2010_pablo_viloche",
+    "name": "Pablo Viloche",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 66,
+    "stats": {
+      "pac": 54,
+      "sho": 40,
+      "pas": 48,
+      "dri": 46,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
     }
   },
   {
@@ -2842,7 +4606,7 @@
     "nation": "USA",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 19,
+    "squad_number": 25,
     "base_rating": 65,
     "stats": {
       "pac": 88,
@@ -2935,7 +4699,7 @@
     "nation": "USA",
     "wc_year": 2010,
     "position": "DEF",
-    "squad_number": 22,
+    "squad_number": 28,
     "base_rating": 66,
     "stats": {
       "pac": 74,
@@ -2973,6 +4737,239 @@
       "clean_sheets": 1,
       "goals_conceded": 4,
       "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2010_marcus_hahnemann",
+    "name": "Marcus Hahnemann",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2010_brad_guzan",
+    "name": "Brad Guzan",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2010_jonathan_bornstein",
+    "name": "Jonathan Bornstein",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 66,
+    "stats": {
+      "pac": 42,
+      "sho": 46,
+      "pas": 48,
+      "dri": 46,
+      "def": 58,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2010_clarence_goodson",
+    "name": "Clarence Goodson",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 68,
+    "stats": {
+      "pac": 44,
+      "sho": 44,
+      "pas": 46,
+      "dri": 44,
+      "def": 62,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2010_damarcus_beasley",
+    "name": "DaMarcus Beasley",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 74,
+    "stats": {
+      "pac": 56,
+      "sho": 54,
+      "pas": 62,
+      "dri": 58,
+      "def": 26,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2010_maurice_edu",
+    "name": "Maurice Edu",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 56,
+      "pas": 56,
+      "dri": 54,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2010_jose_torres",
+    "name": "Jose Francisco Torres",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 54,
+      "pas": 56,
+      "dri": 54,
+      "def": 42,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2010_edson_buddle",
+    "name": "Edson Buddle",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 24,
+    "base_rating": 68,
+    "stats": {
+      "pac": 60,
+      "sho": 50,
+      "pas": 54,
+      "dri": 54,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "usa_2010_herculez_gomez",
+    "name": "Herculez Gomez",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 27,
+    "base_rating": 66,
+    "stats": {
+      "pac": 58,
+      "sho": 48,
+      "pas": 52,
+      "dri": 52,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "usa_2010_charlie_davies",
+    "name": "Charlie Davies",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 50,
+      "pas": 54,
+      "dri": 54,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
     }
   },
   {
@@ -3074,7 +5071,7 @@
     "nation": "Ghana",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 19,
+    "squad_number": 26,
     "base_rating": 65,
     "stats": {
       "pac": 88,
@@ -3205,6 +5202,285 @@
       "clean_sheets": 1,
       "goals_conceded": 4,
       "minutes_played": 450
+    }
+  },
+  {
+    "id": "gha_2010_daniel_adjei",
+    "name": "Daniel Adjei",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 66,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2010_george_owu",
+    "name": "George Owu",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 68,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2010_hans_sarpei",
+    "name": "Hans Sarpei",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 24,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 52,
+      "pas": 52,
+      "dri": 50,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2010_lee_addy",
+    "name": "Lee Addy",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 27,
+    "base_rating": 66,
+    "stats": {
+      "pac": 38,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2010_quincy_owusuabeyie",
+    "name": "Quincy Owusu-Abeyie",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 54,
+      "pas": 64,
+      "dri": 58,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "gha_2010_dominic_adiyiah",
+    "name": "Dominic Adiyiah",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 52,
+      "pas": 60,
+      "dri": 54,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "gha_2010_lee_asante",
+    "name": "Lee Osei Asante",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 66,
+    "stats": {
+      "pac": 48,
+      "sho": 54,
+      "pas": 56,
+      "dri": 54,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2010_isaac_vorsah",
+    "name": "Isaac Vorsah",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 50,
+      "pas": 50,
+      "dri": 48,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2010_derek_boateng",
+    "name": "Derek Boateng",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 56,
+      "pas": 56,
+      "dri": 54,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2010_frank_acheampong",
+    "name": "Frank Acheampong",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 25,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 52,
+      "pas": 60,
+      "dri": 54,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "gha_2010_agyemang_badu",
+    "name": "Agyemang Badu",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 56,
+      "pas": 56,
+      "dri": 54,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "gha_2010_habib_habib",
+    "name": "Habib Habib",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 66,
+    "stats": {
+      "pac": 48,
+      "sho": 54,
+      "pas": 54,
+      "dri": 52,
+      "def": 42,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
     }
   },
   {
@@ -3486,6 +5762,213 @@
     }
   },
   {
+    "id": "mex_2010_oswaldo_snchez",
+    "name": "Oswaldo Sánchez",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_moiss_muoz",
+    "name": "Moisés Muñoz",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_jorge_nilo",
+    "name": "Jorge Torres Nilo",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 68,
+    "stats": {
+      "pac": 52,
+      "sho": 40,
+      "pas": 50,
+      "dri": 48,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_hctor_moreno",
+    "name": "Héctor Moreno",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_israel_martnez",
+    "name": "Israel Martínez",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 24,
+    "base_rating": 66,
+    "stats": {
+      "pac": 50,
+      "sho": 38,
+      "pas": 48,
+      "dri": 46,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_efran_jurez",
+    "name": "Efraín Juárez",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 58,
+      "pas": 58,
+      "dri": 56,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_israel_castro",
+    "name": "Israel Castro",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 25,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 56,
+      "pas": 56,
+      "dri": 54,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_francisco_rodrguez",
+    "name": "Francisco Rodríguez",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_jonny_magalln",
+    "name": "Jonny Magallón",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 27,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 40,
+      "pas": 50,
+      "dri": 48,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
     "id": "par_2010_roque_cruz",
     "name": "Roque Santa Cruz",
     "nation": "Paraguay",
@@ -3539,7 +6022,7 @@
     "nation": "Paraguay",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 19,
+    "squad_number": 24,
     "base_rating": 66,
     "stats": {
       "pac": 78,
@@ -3766,6 +6249,215 @@
     }
   },
   {
+    "id": "par_2010_diego_barreto",
+    "name": "Diego Barreto",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 68,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_jonathan_santana",
+    "name": "Jonathan Santana",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 26,
+    "base_rating": 68,
+    "stats": {
+      "pac": 52,
+      "sho": 56,
+      "pas": 58,
+      "dri": 56,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_denis_caniza",
+    "name": "Denis Caniza",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 27,
+    "base_rating": 66,
+    "stats": {
+      "pac": 40,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 60,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_aureliano_torres",
+    "name": "Aureliano Torres",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 64,
+    "stats": {
+      "pac": 38,
+      "sho": 46,
+      "pas": 46,
+      "dri": 44,
+      "def": 58,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_carlos_bonet",
+    "name": "Carlos Bonet",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 66,
+    "stats": {
+      "pac": 40,
+      "sho": 46,
+      "pas": 46,
+      "dri": 44,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_nelson_valdez_r",
+    "name": "Nelson Haedo Valdez",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 68,
+    "stats": {
+      "pac": 60,
+      "sho": 50,
+      "pas": 56,
+      "dri": 52,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "par_2010_hernn_prez",
+    "name": "Hernán Pérez",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 25,
+    "base_rating": 68,
+    "stats": {
+      "pac": 52,
+      "sho": 56,
+      "pas": 58,
+      "dri": 56,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_vctor_cceres",
+    "name": "Víctor Cáceres",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 66,
+    "stats": {
+      "pac": 50,
+      "sho": 54,
+      "pas": 54,
+      "dri": 52,
+      "def": 42,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_nlson_valdez",
+    "name": "Nélson Valdez",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 62,
+      "sho": 50,
+      "pas": 56,
+      "dri": 52,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "fra_2010_thierry_henry",
     "name": "Thierry Henry",
     "nation": "France",
@@ -3795,7 +6487,7 @@
     "nation": "France",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 9,
+    "squad_number": 25,
     "base_rating": 69,
     "stats": {
       "pac": 84,
@@ -4045,12 +6737,221 @@
     }
   },
   {
+    "id": "fra_2010_steve_mandanda",
+    "name": "Steve Mandanda",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2010_cdric_carrasso",
+    "name": "Cédric Carrasso",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 12,
+      "pas": 34,
+      "dri": 22,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2010_sidney_govou",
+    "name": "Sidney Govou",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 56,
+      "pas": 62,
+      "dri": 60,
+      "def": 24,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2010_loc_rmy",
+    "name": "Loïc Rémy",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 56,
+      "pas": 60,
+      "dri": 60,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2010_gael_clichy",
+    "name": "Gael Clichy",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 27,
+    "base_rating": 74,
+    "stats": {
+      "pac": 42,
+      "sho": 56,
+      "pas": 58,
+      "dri": 56,
+      "def": 64,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2010_bacary_sagna",
+    "name": "Bacary Sagna",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 44,
+      "sho": 56,
+      "pas": 58,
+      "dri": 56,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2010_charles_itandje",
+    "name": "Charles Itandje",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 24,
+    "base_rating": 66,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 20,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2010_alou_diarra",
+    "name": "Alou Diarra",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 28,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 58,
+      "pas": 58,
+      "dri": 56,
+      "def": 56,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2010_mathieu_valbuena",
+    "name": "Mathieu Valbuena",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 26,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 64,
+      "pas": 68,
+      "dri": 66,
+      "def": 38,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
     "id": "ita_2010_antonio_natale",
     "name": "Antonio Di Natale",
     "nation": "Italy",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 23,
+    "squad_number": 24,
     "base_rating": 67,
     "stats": {
       "pac": 76,
@@ -4074,7 +6975,7 @@
     "nation": "Italy",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 19,
+    "squad_number": 25,
     "base_rating": 66,
     "stats": {
       "pac": 80,
@@ -4122,7 +7023,7 @@
     "nation": "Italy",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 9,
+    "squad_number": 26,
     "base_rating": 65,
     "stats": {
       "pac": 68,
@@ -4348,6 +7249,192 @@
     }
   },
   {
+    "id": "ita_2010_salvatore_sirigu",
+    "name": "Salvatore Sirigu",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2010_morgan_sanctis",
+    "name": "Morgan De Sanctis",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 24,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2010_leonardo_bonucci",
+    "name": "Leonardo Bonucci",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 58,
+      "sho": 52,
+      "pas": 58,
+      "dri": 56,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2010_angelo_ogbonna",
+    "name": "Angelo Ogbonna",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 42,
+      "pas": 50,
+      "dri": 48,
+      "def": 70,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2010_mauro_camoranesi",
+    "name": "Mauro Camoranesi",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 62,
+      "pas": 66,
+      "dri": 62,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2010_simone_perrotta",
+    "name": "Simone Perrotta",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 68,
+    "stats": {
+      "pac": 54,
+      "sho": 62,
+      "pas": 60,
+      "dri": 58,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2010_antonio_cassano",
+    "name": "Antonio Cassano",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 74,
+      "dri": 66,
+      "def": 26,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_2010_giampaolo_pazzini",
+    "name": "Giampaolo Pazzini",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 27,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 60,
+      "dri": 62,
+      "def": 26,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
     "id": "civ_2010_didier_drogba",
     "name": "Didier Drogba",
     "nation": "Ivory Coast",
@@ -4401,7 +7488,7 @@
     "nation": "Ivory Coast",
     "wc_year": 2010,
     "position": "FWD",
-    "squad_number": 8,
+    "squad_number": 24,
     "base_rating": 71,
     "stats": {
       "pac": 88,
@@ -4540,7 +7627,7 @@
     "nation": "Ivory Coast",
     "wc_year": 2010,
     "position": "MID",
-    "squad_number": 16,
+    "squad_number": 27,
     "base_rating": 72,
     "stats": {
       "pac": 78,
@@ -4624,6 +7711,840 @@
       "clean_sheets": 0,
       "goals_conceded": 5,
       "minutes_played": 270
+    }
+  },
+  {
+    "id": "civ_2010_gerard_gnanhouan",
+    "name": "Gerard Gnanhouan",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 66,
+    "stats": {
+      "pac": 46,
+      "sho": 10,
+      "pas": 32,
+      "dri": 22,
+      "def": 8,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2010_aristide_zogbo",
+    "name": "Aristide Zogbo",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 64,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2010_ismael_tiote",
+    "name": "Ismael Tiote",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 56,
+      "pas": 60,
+      "dri": 58,
+      "def": 62,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2010_stphane_sessgnon",
+    "name": "Stéphane Sessègnon",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 58,
+      "sho": 62,
+      "pas": 68,
+      "dri": 66,
+      "def": 42,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2010_cheick_tiot",
+    "name": "Cheick Tioté",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 54,
+      "pas": 58,
+      "dri": 56,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2010_maxalain_gradel",
+    "name": "Max-Alain Gradel",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 54,
+      "pas": 66,
+      "dri": 60,
+      "def": 26,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "civ_2010_arouna_kon",
+    "name": "Arouna Koné",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 52,
+      "pas": 62,
+      "dri": 56,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "civ_2010_giovanni_sio",
+    "name": "Giovanni Sio",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 58,
+      "sho": 50,
+      "pas": 58,
+      "dri": 52,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "civ_2010_lamine_kon",
+    "name": "Lamine Koné",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 26,
+    "base_rating": 68,
+    "stats": {
+      "pac": 42,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2010_souleymane_bamba",
+    "name": "Souleymane Bamba",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 25,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 50,
+      "pas": 50,
+      "dri": 48,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "civ_2010_cyrille_domoraud",
+    "name": "Cyrille Domoraud",
+    "nation": "Ivory Coast",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 48,
+      "pas": 48,
+      "dri": 46,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2010_diego_milito",
+    "name": "Diego Milito",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 3,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 80,
+      "pas": 66,
+      "dri": 76,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2010_pablo_zabaleta",
+    "name": "Pablo Zabaleta",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 80,
+      "sho": 50,
+      "pas": 62,
+      "dri": 60,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_2010_juan_vern",
+    "name": "Juan Sebastián Verón",
+    "nation": "Argentina",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 58,
+      "sho": 66,
+      "pas": 72,
+      "dri": 68,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_2010_dani_alves",
+    "name": "Dani Alves",
+    "nation": "Brazil",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 84,
+      "sho": 56,
+      "pas": 68,
+      "dri": 66,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "chi_2010_rodrigo_tello",
+    "name": "Rodrigo Tello",
+    "nation": "Chile",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 62,
+      "dri": 60,
+      "def": 36,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_2010_ledley_king",
+    "name": "Ledley King",
+    "nation": "England",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 54,
+      "dri": 52,
+      "def": 76,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2010_jrmy_toulalan",
+    "name": "Jérémy Toulalan",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 52,
+      "pas": 62,
+      "dri": 60,
+      "def": 68,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_2010_djibril_ciss",
+    "name": "Djibril Cissé",
+    "nation": "France",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 80,
+      "sho": 68,
+      "pas": 56,
+      "dri": 68,
+      "def": 26,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "gha_2010_andr_ayew",
+    "name": "André Ayew",
+    "nation": "Ghana",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 66,
+      "dri": 64,
+      "def": 38,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2010_alberto_aquilani",
+    "name": "Alberto Aquilani",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 72,
+      "pas": 72,
+      "dri": 68,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_2010_federico_marchetti",
+    "name": "Federico Marchetti",
+    "nation": "Italy",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 36,
+      "dri": 26,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_adrin_aldrete",
+    "name": "Adrián Aldrete",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 7,
+    "base_rating": 68,
+    "stats": {
+      "pac": 66,
+      "sho": 42,
+      "pas": 50,
+      "dri": 48,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_2010_gerardo_torreblanca",
+    "name": "Gerardo Torreblanca",
+    "nation": "Mexico",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 68,
+    "stats": {
+      "pac": 56,
+      "sho": 54,
+      "pas": 58,
+      "dri": 56,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_michel_vorm",
+    "name": "Michel Vorm",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 38,
+      "dri": 28,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_2010_stijn_schaars",
+    "name": "Stijn Schaars",
+    "nation": "Netherlands",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 58,
+      "dri": 56,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_pablo_zeballos",
+    "name": "Pablo Zeballos",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 68,
+    "stats": {
+      "pac": 64,
+      "sho": 52,
+      "pas": 58,
+      "dri": 56,
+      "def": 36,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "par_2010_marcelo_estigarribia",
+    "name": "Marcelo Estigarribia",
+    "nation": "Paraguay",
+    "wc_year": 2010,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 72,
+    "stats": {
+      "pac": 76,
+      "sho": 62,
+      "pas": 56,
+      "dri": 64,
+      "def": 26,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "por_2010_paulo_ferreira",
+    "name": "Paulo Ferreira",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 74,
+      "sho": 48,
+      "pas": 58,
+      "dri": 56,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2010_ricardo_carvalho",
+    "name": "Ricardo Carvalho",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 48,
+      "pas": 58,
+      "dri": 56,
+      "def": 86,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_2010_deco",
+    "name": "Deco",
+    "nation": "Portugal",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 70,
+      "pas": 76,
+      "dri": 74,
+      "def": 40,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2010_david_silva",
+    "name": "David Silva",
+    "nation": "Spain",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 82,
+      "dri": 80,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2010_benny_feilhaber",
+    "name": "Benny Feilhaber",
+    "nation": "USA",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 54,
+      "pas": 62,
+      "dri": 60,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_2010_sebastin_fernndez",
+    "name": "Sebastián Fernández",
+    "nation": "Uruguay",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 58,
+      "pas": 62,
+      "dri": 60,
+      "def": 34,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2010_carlos_marchena",
+    "name": "Carlos Marchena",
+    "nation": "Spain",
+    "wc_year": 2010,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 54,
+      "dri": 52,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_2010_santi_cazorla",
+    "name": "Santi Cazorla",
+    "nation": "Spain",
+    "wc_year": 2010,
+    "position": "MID",
+    "squad_number": 12,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 70,
+      "pas": 76,
+      "dri": 74,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
     }
   }
 ]
