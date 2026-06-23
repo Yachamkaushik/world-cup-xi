@@ -15,7 +15,13 @@ export const nationFlags = {
     'Ukraine': '🇺🇦',
     // 2002
     'Poland': '🇵🇱', 'Denmark': '🇩🇰', 'Ireland': '🇮🇪',
+    'Republic of Ireland': '🇮🇪',
     'South Korea': '🇰🇷', 'Turkey': '🇹🇷',
     // 1998
-    'Nigeria': '🇳🇬', 'Romania': '🇷🇴',
+    'Nigeria': '🇳🇬', 'Romania': '🇷🇴', 'Norway': '🇳🇴', 'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+    'Yugoslavia': '🇷🇸',
+    // 1994
+    'Bulgaria': '🇧🇬',
+    // 1990
+    'West Germany': '🇩🇪', 'Cameroon': '🇨🇲', 'Czechoslovakia': '🇨🇿',
 }

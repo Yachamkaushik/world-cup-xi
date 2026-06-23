@@ -5,6 +5,9 @@ import players_2002 from '../data/players_2002.json'
 import players_2006 from '../data/players_2006.json'
 import players_2010 from '../data/players_2010.json'
 import players_2014 from '../data/players_2014.json'
+
+const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014]
+const allCombos = [...new Set(allPlayersData.map(p => `${p.nation}_${p.wc_year}`))]
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { motion } from 'framer-motion'
@@ -43,20 +46,21 @@ export default function Draft() {
     const [selectedPlayers, setSelectedPlayers] = useState([])
     const [usedCombos, setUsedCombos] = useState([])
     const [currentYear, setCurrentYear] = useState(null)
-    const mode = location.state.mode
     const [positions, setPositions] = useState(['GK', 'DEF', 'DEF', 'DEF', 'DEF', 'MID', 'MID', 'MID', 'FWD', 'FWD', 'FWD'])
     const [currentSquad, setCurrentSquad] = useState([])
     const [currentNation, setCurrentNation] = useState(null)
     const [isSpinning, setIsSpinning] = useState(false)
     const [skipUsed, setSkipUsed] = useState(false)
 
-    const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014]
-    const allCombos = [...new Set(allPlayersData.map(p => `${p.nation}_${p.wc_year}`))]
+    const mode = location.state?.mode
 
     useEffect(() => {
+        if (!mode) { navigate('/'); return }
         const shuffled = [...positions].sort(() => Math.random() - 0.5)
         setPositions(shuffled)
     }, [])
+
+    if (!mode) return null
 
     const currentPosition = positions[round]
     const broadPosition = currentPosition
@@ -67,27 +71,44 @@ export default function Draft() {
         setCurrentSquad([])
         setCurrentNation(null)
         setIsSpinning(true)
+
+        const currentUsed = [...usedCombos]
+
         setTimeout(() => {
-            const available = allCombos.filter(c => !usedCombos.includes(c))
-            const picked = available[Math.floor(Math.random() * available.length)]
-            const [nation, year] = picked.split('_')
-            const squad = allPlayersData.filter(p => p.nation === nation && p.wc_year === parseInt(year))
+            const bigNations = ['Brazil', 'Germany', 'France', 'Argentina', 'Spain', 'Portugal', 'Italy', 'Netherlands', 'England', 'Belgium']
+            const allNations = [...new Set(allPlayersData.map(p => p.nation))]
+
+            const weightedNations = allNations.flatMap(n =>
+                bigNations.includes(n) ? [n, n] : [n]
+            )
+
+            const availableWeighted = weightedNations.filter(nation => {
+                const nationCombos = allCombos.filter(c => c.startsWith(`${nation}_`))
+                return nationCombos.some(c => !currentUsed.includes(c))
+            })
+
+            const nation = availableWeighted[Math.floor(Math.random() * availableWeighted.length)]
+
+            const nationCombos = allCombos.filter(c => c.startsWith(`${nation}_`) && !currentUsed.includes(c))
+            const picked = nationCombos[Math.floor(Math.random() * nationCombos.length)]
+            const year = parseInt(picked.split('_')[1])
+
+            const squad = allPlayersData.filter(p => p.nation === nation && p.wc_year === year)
             setCurrentNation(nation)
-            setCurrentYear(parseInt(year))
+            setCurrentYear(year)
             setCurrentSquad(squad)
-            setUsedCombos(prev => [...prev, picked])
+            setUsedCombos([...currentUsed, picked])
             setIsSpinning(false)
         }, 600)
     }
-
     return (
-        <div className="min-h-screen w-full overflow-x-hidden text-white" style={{ backgroundColor: '#0a0a0f' }}>
+        <div className="h-screen w-full overflow-hidden text-white flex flex-col" style={{ backgroundColor: '#0a0a0f' }}>
             <Navbar />
 
-            <div className="px-8 py-8" style={{maxWidth: '1400px', margin: '0 auto'}}>
+            <div className="px-8 py-6 flex flex-col flex-1 overflow-hidden" style={{maxWidth: '1400px', margin: '0 auto', width: '100%'}}>
 
                 {/* top bar */}
-                <div className="flex justify-between items-start mb-8">
+                <div className="flex justify-between items-start mb-4 shrink-0">
                     <div>
                         <div className="flex items-center gap-3 mb-2">
                             <div style={{height: '2px', width: '20px', backgroundColor: '#F5C518'}} />
@@ -133,10 +154,10 @@ export default function Draft() {
                 </div>
 
                 {/* main content */}
-                <div className="flex gap-6" style={{minHeight: '450px'}}>
+                <div className="flex gap-6 flex-1 overflow-hidden" style={{minHeight: 0}}>
 
                     {/* left — the pot */}
-                    <div className="flex flex-col items-center justify-center rounded-2xl p-8" style={{
+                    <div className="flex flex-col items-center justify-center rounded-2xl p-8 overflow-y-auto" style={{
                         backgroundColor: '#111827',
                         border: '1px solid #ffffff10',
                         minWidth: '260px',
@@ -190,7 +211,7 @@ export default function Draft() {
                     </div>
 
                     {/* right — player cards */}
-                    <div className="flex-1 overflow-y-auto overflow-x-visible" style={{maxHeight: '500px', paddingRight: '8px'}}>
+                    <div className="flex-1 overflow-y-auto" style={{paddingRight: '8px', paddingLeft: '4px', paddingBottom: '4px'}}>
                         {currentSquad.length === 0 ? (
                             <div className="flex items-center justify-center h-full" style={{color: '#1f2937'}}>
                                 <p className="text-sm tracking-widest">SPIN TO REVEAL SQUAD</p>
@@ -224,13 +245,13 @@ export default function Draft() {
                                             }}
                                             onMouseEnter={e => {
                                                 if (isCurrentPos) {
-                                                    e.currentTarget.style.boxShadow = `0 0 20px ${colors.text}25`
-                                                    e.currentTarget.style.transform = 'scale(1.01)'
+                                                    e.currentTarget.style.boxShadow = `0 0 25px ${colors.text}60`
+                                                    e.currentTarget.style.border = `1px solid ${colors.text}80`
                                                 }
                                             }}
                                             onMouseLeave={e => {
                                                 e.currentTarget.style.boxShadow = 'none'
-                                                e.currentTarget.style.transform = 'scale(1)'
+                                                e.currentTarget.style.border = `1px solid ${isCurrentPos ? colors.text + '40' : '#ffffff08'}`
                                             }}>
                                             <div className="flex justify-between items-start mb-2">
                                                 <span className="text-xs font-bold px-2 py-1 rounded-full" style={{
@@ -259,7 +280,7 @@ export default function Draft() {
                 </div>
 
                 {/* bottom — position slots */}
-                <div className="mt-8">
+                <div className="mt-4 shrink-0">
                     <div className="flex justify-between items-center mb-3">
                         <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>YOUR XI · {selectedPlayers.length} / 11</p>
                         <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>{11 - round} ROUNDS REMAINING</p>
@@ -283,7 +304,7 @@ export default function Draft() {
                                     ) : (
                                         <p className="font-black" style={{color: '#1f2937', fontSize: '0.8rem'}}>?</p>
                                     )}
-                                    <p className="mt-1" style={{color: '#374151', fontSize: '0.55rem'}}>0{i + 1}</p>
+                                    <p className="mt-1" style={{color: '#374151', fontSize: '0.55rem'}}>{String(i + 1).padStart(2, '0')}</p>
                                 </div>
                             )
                         })}

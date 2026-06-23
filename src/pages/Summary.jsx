@@ -13,16 +13,18 @@ const waStyle = {backgroundColor: '#25d36620', color: '#25d366', border: '1px so
 
 export default function Summary(){
     const cardRef = useRef(null)
+    const hasSaved = useRef(false)
     const location = useLocation();
     const navigate = useNavigate()
-    const results = location.state.results
-    const selectedPlayers = location.state.selectedPlayers
-    const mode = location.state.mode
-    const eliminated = location.state.eliminated
-    const eliminatedAt = location.state.eliminatedAt
-    const hasSaved = useRef(false)
     const [showShareModal, setShowShareModal] = useState(false)
     const [shareImage, setShareImage] = useState(null)
+
+    const hasState = !!location.state?.results
+    const results = location.state?.results ?? []
+    const selectedPlayers = location.state?.selectedPlayers ?? []
+    const mode = location.state?.mode ?? ''
+    const eliminated = location.state?.eliminated ?? true
+    const eliminatedAt = location.state?.eliminatedAt ?? ''
 
     let leaguePoints = 0
     for(let i = 0; i < 3; i++){
@@ -57,7 +59,7 @@ export default function Summary(){
     const matchesPlayed = results.slice(0, tournamentRun.filter(t => t.status !== 'DID NOT PLAY').length)
     const fwds = selectedPlayers.filter(p => p.position === 'FWD')
     const totalGoalsScored = matchesPlayed.reduce((sum, m) => sum + m.yourGoals, 0)
-    const topScorer = fwds.length > 0 ? [...fwds].sort((a, b) => b.base_rating - a.base_rating)[0] : null
+    const topScorer = fwds.length > 0 ? [...fwds].sort((a, b) => (b.wc_stats?.goals ?? 0) - (a.wc_stats?.goals ?? 0))[0] : null
     const mvp = selectedPlayers ? [...selectedPlayers].sort((a, b) => b.base_rating - a.base_rating)[0] : null
 
     const handleShare = async () => {
@@ -79,6 +81,7 @@ export default function Summary(){
     }
 
     useEffect(() => {
+        if (!hasState) { navigate('/'); return }
         if (hasSaved.current) return
         hasSaved.current = true
 
@@ -110,6 +113,8 @@ export default function Summary(){
             return () => clearInterval(interval)
         }
     }, [])
+
+    if (!hasState) return null
 
     const tweetText = encodeURIComponent(eliminated
         ? `I got eliminated in the ${eliminatedAt} of World Cup XI. Can you do better? worldcupxi.vercel.app`
@@ -178,15 +183,16 @@ export default function Summary(){
                                 : status === 'ELIMINATED' ? '#e63946'
                                     : '#374151'
                             return (
-                                <div key={i} className="flex justify-between items-center px-6 py-4" style={{
+                                <div key={i} className="grid items-center px-6 py-4" style={{
+                                    gridTemplateColumns: '1fr 1fr 1fr',
                                     borderBottom: i < tournamentRun.length - 1 ? '1px solid #ffffff08' : 'none'
                                 }}>
                                     <div className="flex items-center gap-4">
-                                        <span className="text-xs font-bold" style={{color: '#374151'}}>0{i+1}</span>
+                                        <span className="text-xs font-bold" style={{color: '#374151'}}>{String(i+1).padStart(2,'0')}</span>
                                         <p className="font-bold text-white">{stage.toUpperCase()}</p>
                                     </div>
-                                    <p className="text-sm" style={{color: '#6b7280'}}>{detail}</p>
-                                    <p className="text-xs font-bold tracking-wider" style={{color}}>{status}</p>
+                                    <p className="text-sm text-center" style={{color: '#6b7280'}}>{detail}</p>
+                                    <p className="text-xs font-bold tracking-wider text-right" style={{color}}>{status}</p>
                                 </div>
                             )
                         })}

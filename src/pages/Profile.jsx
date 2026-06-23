@@ -84,15 +84,16 @@ export default function Profile() {
                             </div>
                             <div className="rounded-2xl overflow-hidden" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
                                 {last5.map((run, i) => (
-                                    <div key={i} className="flex justify-between items-center px-6 py-4" style={{
+                                    <div key={i} className="grid items-center px-6 py-4" style={{
+                                        gridTemplateColumns: '1fr 1fr 1fr',
                                         borderBottom: i < last5.length - 1 ? '1px solid #ffffff08' : 'none'
                                     }}>
                                         <div className="flex items-center gap-4">
-                                            <span className="text-xs font-bold" style={{color: '#374151'}}>0{i + 1}</span>
+                                            <span className="text-xs font-bold" style={{color: '#374151'}}>{String(i + 1).padStart(2, '0')}</span>
                                             <p className="font-bold text-white text-sm">{run.eliminatedAt}</p>
                                         </div>
-                                        <p className="text-sm" style={{color: '#6b7280'}}>{run.goalsScored} goals</p>
-                                        <div className="flex items-center gap-2">
+                                        <p className="text-sm text-center" style={{color: '#6b7280'}}>{run.goalsScored} goals</p>
+                                        <div className="flex items-center gap-2 justify-end">
                                             <span className="text-xs" style={{color: '#4b5563'}}>{run.date}</span>
                                             <span className="text-xs font-bold px-2 py-1 rounded" style={{
                                                 backgroundColor: run.won ? '#1a9e5c20' : '#e6394620',

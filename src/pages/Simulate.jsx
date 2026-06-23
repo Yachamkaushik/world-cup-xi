@@ -10,6 +10,7 @@ import {buildPositionScores, calculateEffectiveTeamRatings, calculateTeamRatings
 
 const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014]
 
+
 const dotColors = [
     { border: '#F5C518', text: '#F5C518', glow: '#F5C51840' },
     { border: '#60a5fa', text: '#60a5fa', glow: '#60a5fa40' },
@@ -43,6 +44,7 @@ function PlayerDot({ player, colorIndex }) {
 export default function Simulate() {
     const navigate = useNavigate()
     const location = useLocation()
+    if (!location.state?.selectedPlayers) { navigate('/'); return null }
     const selectedPlayers = location.state.selectedPlayers
     const mode = location.state.mode
     const ratings = calculateTeamRatings(selectedPlayers)

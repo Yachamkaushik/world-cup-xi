@@ -9,11 +9,13 @@ import { nationFlags } from '../utils/flags'
 export default function Result() {
     const location = useLocation()
     const navigate = useNavigate()
+    const [currentMatch, setCurrentMatch] = useState(0)
+    const [phase, setPhase] = useState('group')
+
+    if (!location.state?.results) { navigate('/'); return null }
     const results = location.state.results
     const selectedPlayers = location.state.selectedPlayers
     const mode = location.state.mode
-    const [currentMatch, setCurrentMatch] = useState(0)
-    const [phase, setPhase] = useState('group')
     const roundNames = ['Round of 32', 'Round of 16', 'Quarter Final', 'Semi Final', 'Final']
 
     const containerVariants = {

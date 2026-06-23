@@ -1,4 +1,7 @@
+import { useNavigate } from 'react-router-dom'
+
 export default function Footer() {
+    const navigate = useNavigate()
     return (
         <footer className="w-full px-8 py-6 flex justify-between items-center text-xs tracking-wider"
                 style={{borderTop: '1px solid #ffffff10', color: '#374151'}}>

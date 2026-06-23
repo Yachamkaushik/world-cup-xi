@@ -5,7 +5,7 @@ function getRawScore(player) {
     if (player.position === 'GK') return ((s.save_pct ?? 0) * 0.5) + ((s.clean_sheets ?? 0) * 5) - ((s.goals_conceded ?? 0) * 2)
     if (player.position === 'FWD') return (s.goals_per90 ?? 0) * 10 + ((s.shots_on_target ?? 0) / m) * 90 + (s.assists ?? 0) * 1.5
     if (player.position === 'MID') return ((s.key_passes ?? 0) / m) * 90 * 1.5 + ((s.progressive_passes ?? 0) / m) * 90 + (s.assists ?? 0) * 2
-    if (player.position === 'DEF') return ((s.tackles ?? 0) / m) * 90 * 1.5 + ((s.interceptions ?? 0) / m) * 90 * 2 + ((s.clearances ?? 0) / m) * 90 * 0.5
+    if (player.position === 'DEF') return ((s.interceptions ?? 0) / m) * 90 * 4
     return 0
 }
 

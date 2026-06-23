@@ -24,58 +24,38 @@ export default function About() {
 
                 {/* about text */}
                 <div className="w-full mb-10 rounded-2xl p-8" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
-                    <p className="text-sm mb-4" style={{color: '#9ca3af', lineHeight: 1.9}}>
-                        World Cup XI is a browser-based football draft game built for fun. The idea is simple — spin to reveal a nation, pick one player per round, build an XI from historic World Cup squads, and simulate a full tournament. Most runs end in failure. That's the point.
+                    <p className="text-sm mb-5" style={{color: '#9ca3af', lineHeight: 1.9}}>
+                        World Cup XI started as a simple question: what if you could build your dream squad from any World Cup in history, one player at a time?
                     </p>
-                    <p className="text-sm mb-4" style={{color: '#9ca3af', lineHeight: 1.9}}>
-                        The game currently uses 2018 World Cup squads — 368 players across 16 nations, with real tournament stats and FIFA-style ratings used to simulate matches. More seasons are coming in v2.
+                    <p className="text-sm mb-5" style={{color: '#9ca3af', lineHeight: 1.9}}>
+                        You spin to reveal a random nation and year — Brazil 2002, France 1998, Germany 2006 — pick one player for the current position, and repeat across 11 rounds. Then you simulate a full World Cup tournament with your XI and see how far they go. Most runs end in failure. That's the point.
                     </p>
-                    <p className="text-sm" style={{color: '#9ca3af', lineHeight: 1.9}}>
-                        Built with React, Vite, and Tailwind CSS. Player data is self-compiled. Not affiliated with FIFA.
+                    <p className="text-sm mb-8" style={{color: '#9ca3af', lineHeight: 1.9}}>
+                        The game currently covers the 2002, 2006, 2010, 2014, and 2018 World Cups — over 1,000 players across 80 nation-year combinations, with real tournament stats and FIFA-style ratings used under the hood to simulate matches.
                     </p>
-                </div>
 
-                {/* stack */}
-                <div className="w-full mb-10">
-                    <div className="flex items-center gap-3 mb-6">
-                        <div style={{height: '2px', width: '20px', backgroundColor: '#F5C518'}} />
-                        <p className="text-xs tracking-widest font-bold" style={{color: '#9ca3af'}}>BUILT WITH</p>
-                    </div>
-                    <div className="grid grid-cols-2 gap-3">
-                        {[
-                            { name: 'React 18 + Vite', desc: 'Frontend framework and build tool' },
-                            { name: 'Tailwind CSS', desc: 'Styling and layout' },
-                            { name: 'Framer Motion', desc: 'Animations and page transitions' },
-                            { name: 'canvas-confetti', desc: 'Champion and elimination effects' },
-                        ].map(({ name, desc }) => (
-                            <div key={name} className="px-5 py-4 rounded-xl" style={{backgroundColor: '#0a0a0f', border: '1px solid #ffffff08'}}>
-                                <p className="font-black text-sm text-white mb-1">{name}</p>
-                                <p className="text-xs" style={{color: '#4b5563'}}>{desc}</p>
-                            </div>
-                        ))}
-                    </div>
-                </div>
-
-                {/* v2 teaser */}
-                <div className="w-full mb-10">
-                    <div className="flex items-center gap-3 mb-6">
-                        <div style={{height: '2px', width: '20px', backgroundColor: '#F5C518'}} />
-                        <p className="text-xs tracking-widest font-bold" style={{color: '#9ca3af'}}>WHAT'S NEXT</p>
-                    </div>
-                    <div className="flex flex-col gap-3">
-                        {[
-                            'More World Cup seasons — 2014, 2010, 2006, 2002 and beyond',
-                            'Daily mode — everyone gets the same squads for 24 hours',
-                            'Share card — screenshot your XI and result',
-                            'Deeper simulation — positions, form, tactics',
-                        ].map((item, i) => (
-                            <div key={i} className="flex items-start gap-4 px-5 py-4 rounded-xl" style={{
-                                backgroundColor: '#111827', border: '1px solid #ffffff08'
-                            }}>
-                                <span style={{color: '#F5C518', fontSize: '0.6rem', marginTop: '4px'}}>✦</span>
-                                <p className="text-sm" style={{color: '#6b7280', lineHeight: 1.7}}>{item}</p>
-                            </div>
-                        ))}
+                    <div className="flex flex-col gap-5" style={{borderTop: '1px solid #ffffff08', paddingTop: '1.5rem'}}>
+                        <div>
+                            <p className="text-xs font-bold tracking-widest mb-2" style={{color: '#F5C518'}}>INSPIRED BY</p>
+                            <p className="text-sm" style={{color: '#9ca3af', lineHeight: 1.9}}>
+                                This project was directly inspired by <span style={{color: 'white', fontWeight: 600}}>82-0.com</span>, one of the most addictive sports draft games on the internet. If you haven't played it, go play it. The core loop of "spin, pick, survive" owes a lot to what they built.
+                            </p>
+                        </div>
+                        <div>
+                            <p className="text-xs font-bold tracking-widest mb-2" style={{color: '#F5C518'}}>BUILT BY</p>
+                            <p className="text-sm" style={{color: '#9ca3af', lineHeight: 1.9}}>
+                                Kaushik, a CS student who wanted to build something fun and ended up spending way too long on balance testing.
+                            </p>
+                        </div>
+                        <div>
+                            <p className="text-xs font-bold tracking-widest mb-2" style={{color: '#F5C518'}}>BUILT WITH</p>
+                            <p className="text-sm" style={{color: '#9ca3af', lineHeight: 1.9}}>
+                                React, Vite, Tailwind CSS, Framer Motion.
+                            </p>
+                        </div>
+                        <p className="text-xs" style={{color: '#374151', lineHeight: 1.8}}>
+                            Not affiliated with FIFA. Player data is self-compiled. Stats may be slightly off — it's a game, not a database.
+                        </p>
                     </div>
                 </div>
 

@@ -1,10 +1,10 @@
 import { useNavigate } from 'react-router-dom'
-import { useNavigation } from "react-router-dom";
 
 export default function Navbar() {
     const navigate = useNavigate()
     return(
-        <nav className="flex justify-between items-center px-8 py-4 sticky top-0 z-50" style={{
+        <>
+        <nav className="flex justify-between items-center px-8 py-4 fixed top-0 left-0 right-0 z-50" style={{
             backgroundColor: '#0a0a0fcc',
             borderBottom: '1px solid #ffffff10',
             backdropFilter: 'blur(10px)'
@@ -23,5 +23,7 @@ export default function Navbar() {
                 </span>
             </div>
         </nav>
+        <div style={{height: '64px'}} />
+        </>
     )
 }
