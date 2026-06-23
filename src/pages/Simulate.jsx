@@ -137,7 +137,7 @@ export default function Simulate() {
                         for(let i = 0; i < 8; i++){
                             const opponent = generateOpponent(i, usedNations, allNations)
                             usedNations.push(opponent.nation)
-                            results.push(simulateMatch(myTeam, opponent))
+                            results.push(simulateMatch(myTeam, opponent, i))
                         }
                         navigate('/result', { state: { results, selectedPlayers, mode } })
                     }}

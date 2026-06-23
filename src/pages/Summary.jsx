@@ -31,7 +31,8 @@ export default function Summary(){
 
     let leaguePoints = 0
     for(let i = 0; i < 3; i++){
-        if(results[i].won) leaguePoints += 3
+        if(results[i].outcome === 'win') leaguePoints += 3
+        else if(results[i].outcome === 'draw') leaguePoints += 1
     }
     const advanced = leaguePoints >= 4
     const stages = ['Group Stage', 'Round of 32', 'Round of 16', 'Quarter Final', 'Semi Final', 'Final']
@@ -51,7 +52,7 @@ export default function Summary(){
                 detail = '—'
             } else {
                 status = r.won ? 'WON' : 'ELIMINATED'
-                detail = `${r.yourGoals} – ${r.oppGoals} vs ${r.opponent.nation}`
+                detail = `${r.yourGoals} – ${r.oppGoals}${r.wentToPens ? ` (${r.penScore} pens)` : ''} vs ${r.opponent.nation}`
                 stillAlive = r.won
             }
         }

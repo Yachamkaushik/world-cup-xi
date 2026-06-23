@@ -37,7 +37,8 @@ export default function Result() {
 
     let leaguePoints = 0
     for(let i = 0; i < 3; i++){
-        if(results[i].won) leaguePoints += 3
+        if(results[i].outcome === 'win') leaguePoints += 3
+        else if(results[i].outcome === 'draw') leaguePoints += 1
     }
     const advanced = leaguePoints >= 4
 
@@ -60,7 +61,7 @@ export default function Result() {
                         <div className="w-full rounded-2xl p-6" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
                             <motion.div variants={containerVariants} initial="hidden" animate="visible" className="flex flex-col gap-3 mb-6">
                                 {results.slice(0,3).map((item, i) => {
-                                    const badge = item.won ? 'W' : (item.yourGoals === item.oppGoals ? 'D' : 'L')
+                                    const badge = item.outcome === 'win' ? 'W' : item.outcome === 'draw' ? 'D' : 'L'
                                     const badgeColor = badge === 'W' ? '#1a9e5c' : badge === 'D' ? '#F5C518' : '#e63946'
                                     return (
                                         <motion.div key={i} variants={rowVariants} className="flex justify-between items-center px-6 py-4 rounded-xl" style={{
@@ -152,6 +153,11 @@ export default function Result() {
                                     <span className="font-bold text-lg text-white">{results[currentMatch].opponent.nation}</span>
                                 </div>
                             </div>
+                            {results[currentMatch].wentToPens && (
+                                <p className="font-bold text-sm mb-3" style={{color: '#9ca3af'}}>
+                                    ({results[currentMatch].penScore} on penalties)
+                                </p>
+                            )}
                             <p className="font-black text-xl tracking-widest" style={{color: results[currentMatch].won ? '#1a9e5c' : '#e63946'}}>
                                 {results[currentMatch].won ? 'WIN' : 'LOSS'}
                             </p>

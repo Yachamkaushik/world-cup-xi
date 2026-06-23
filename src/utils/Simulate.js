@@ -62,20 +62,35 @@ function calculateTeamRatings(selectedPlayers) {
     return [Math.ceil(ovr/11),Math.ceil(atkRating/fwds.length),Math.ceil(midRating/mids.length),Math.ceil(defRating/defs.length),gkRating]
 }
 
-function generateScoreline(winProb, won){
+function generateScoreline(winProb, outcome){
     let goalDiff = (winProb - 0.5) * 6
     let totalGoals = 2 + Math.floor(Math.random() * 3)
     let yourGoals = Math.round((totalGoals + goalDiff) / 2)
     let oppGoals = totalGoals - yourGoals
     yourGoals = Math.max(0, yourGoals)
     oppGoals = Math.max(0, oppGoals)
-    if(yourGoals === oppGoals && won === true){
-        yourGoals += 1
+
+    if (outcome === 'draw') {
+        const avg = Math.round((yourGoals + oppGoals) / 2)
+        yourGoals = avg
+        oppGoals = avg
+    } else if (outcome === 'win' && yourGoals <= oppGoals) {
+        yourGoals = oppGoals + 1
+    } else if (outcome === 'loss' && oppGoals <= yourGoals) {
+        oppGoals = yourGoals + 1
     }
-    if(yourGoals === oppGoals && won === false){
-        oppGoals += 1
-    }
+
     return { yourGoals, oppGoals }
+}
+
+function generatePenalties(outcome) {
+    const winPens = Math.floor(Math.random() * 3) + 3  // 3-5
+    const lossPens = winPens - 1
+    if (outcome === 'win') {
+        return `${winPens}-${lossPens}`
+    } else {
+        return `${lossPens}-${winPens}`
+    }
 }
 
 function generateOpponent(round, usedNations, allNations) {
@@ -96,7 +111,7 @@ function generateOpponent(round, usedNations, allNations) {
     return { ATK, MID, DEF, GK, OVR, style, baseOVR, nation }
 }
 
-function simulateMatch(myTeam, opponent){
+function simulateMatch(myTeam, opponent, roundIndex){
     let attackingThreat = (myTeam.MID * 0.40) + (myTeam.ATK * 0.60)
     let yourScoringChance = attackingThreat / (attackingThreat + opponent.DEF)
     let theirAttackingThreat = (opponent.MID * 0.40) + (opponent.ATK * 0.60)
@@ -104,9 +119,23 @@ function simulateMatch(myTeam, opponent){
     theirScoringChance = theirScoringChance * (1 - (myTeam.GK - 70) * 0.003)
     const winProb = yourScoringChance / (yourScoringChance + theirScoringChance)
     const finalWinProb = winProb + (Math.random() * 0.24 - 0.12)
-    const won = finalWinProb > 0.5
-    const { yourGoals, oppGoals } = generateScoreline(finalWinProb, won)
-    return { won, winProb: finalWinProb, opponent, yourGoals, oppGoals }
+
+    let outcome
+    if (finalWinProb > 0.55) outcome = 'win'
+    else if (finalWinProb < 0.45) outcome = 'loss'
+    else outcome = 'draw'
+
+    let wentToPens = false
+    let penScore = null
+
+    if (outcome === 'draw' && roundIndex >= 3) {
+        outcome = Math.random() > 0.5 ? 'win' : 'loss'
+        wentToPens = true
+        penScore = generatePenalties(outcome)
+    }
+
+    const { yourGoals, oppGoals } = generateScoreline(finalWinProb, wentToPens ? 'draw' : outcome)
+    return { won: outcome === 'win', outcome, winProb: finalWinProb, opponent, yourGoals, oppGoals, wentToPens, penScore }
 }
 
 export {

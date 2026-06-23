@@ -1,0 +1,4585 @@
+[
+  {
+    "id": "bra_2002_ronaldo",
+    "name": "Ronaldo",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 94,
+    "stats": {
+      "pac": 88,
+      "sho": 94,
+      "pas": 68,
+      "dri": 90,
+      "def": 24,
+      "phy": 84
+    },
+    "wc_stats": {
+      "goals": 8,
+      "assists": 3,
+      "shots_on_target": 22,
+      "minutes_played": 630,
+      "goals_per90": 1.14
+    }
+  },
+  {
+    "id": "bra_2002_rivaldo",
+    "name": "Rivaldo",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 92,
+    "stats": {
+      "pac": 80,
+      "sho": 88,
+      "pas": 82,
+      "dri": 88,
+      "def": 32,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 15,
+      "assists": 4,
+      "progressive_passes": 48,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_2002_ronaldinho",
+    "name": "Ronaldinho",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 88,
+    "stats": {
+      "pac": 84,
+      "sho": 82,
+      "pas": 84,
+      "dri": 92,
+      "def": 30,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 4,
+      "shots_on_target": 8,
+      "minutes_played": 540,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "bra_2002_luizo",
+    "name": "Luizão",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 66,
+    "stats": {
+      "pac": 76,
+      "sho": 78,
+      "pas": 56,
+      "dri": 64,
+      "def": 22,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "bra_2002_edilson",
+    "name": "Edilson",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 82,
+      "sho": 72,
+      "pas": 66,
+      "dri": 76,
+      "def": 28,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_2002_juninho",
+    "name": "Juninho",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 76,
+      "pas": 78,
+      "dri": 72,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_2002_klberson",
+    "name": "Kléberson",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 60,
+      "pas": 68,
+      "dri": 66,
+      "def": 62,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_2002_gilberto_silva",
+    "name": "Gilberto Silva",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 68,
+      "dri": 62,
+      "def": 78,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 2,
+      "progressive_passes": 39,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_2002_cafu",
+    "name": "Cafu",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 84,
+    "stats": {
+      "pac": 82,
+      "sho": 60,
+      "pas": 70,
+      "dri": 72,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_2002_lcio",
+    "name": "Lúcio",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 54,
+      "pas": 62,
+      "dri": 60,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_2002_roque_jnior",
+    "name": "Roque Júnior",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 68,
+    "stats": {
+      "pac": 72,
+      "sho": 48,
+      "pas": 56,
+      "dri": 54,
+      "def": 78,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_2002_roberto_carlos",
+    "name": "Roberto Carlos",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 88,
+    "stats": {
+      "pac": 88,
+      "sho": 76,
+      "pas": 72,
+      "dri": 74,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_2002_marcos",
+    "name": "Marcos",
+    "nation": "Brazil",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 54,
+      "sho": 18,
+      "pas": 40,
+      "dri": 30,
+      "def": 12,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 86.4,
+      "clean_sheets": 5,
+      "goals_conceded": 4,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_2002_miroslav_klose",
+    "name": "Miroslav Klose",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 78,
+      "sho": 84,
+      "pas": 62,
+      "dri": 66,
+      "def": 30,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 15,
+      "minutes_played": 600,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "ger_2002_carsten_jancker",
+    "name": "Carsten Jancker",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 74,
+      "pas": 54,
+      "dri": 60,
+      "def": 24,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "ger_2002_oliver_bierhoff",
+    "name": "Oliver Bierhoff",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 64,
+    "stats": {
+      "pac": 66,
+      "sho": 78,
+      "pas": 58,
+      "dri": 58,
+      "def": 22,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "ger_2002_oliver_neuville",
+    "name": "Oliver Neuville",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 78,
+      "sho": 72,
+      "pas": 62,
+      "dri": 68,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "ger_2002_marco_bode",
+    "name": "Marco Bode",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 66,
+    "stats": {
+      "pac": 78,
+      "sho": 66,
+      "pas": 64,
+      "dri": 68,
+      "def": 28,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "ger_2002_gerald_asamoah",
+    "name": "Gerald Asamoah",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 65,
+    "stats": {
+      "pac": 86,
+      "sho": 66,
+      "pas": 58,
+      "dri": 68,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 2,
+      "minutes_played": 200,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_2002_michael_ballack",
+    "name": "Michael Ballack",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 86,
+    "stats": {
+      "pac": 74,
+      "sho": 82,
+      "pas": 78,
+      "dri": 76,
+      "def": 64,
+      "phy": 84
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 3,
+      "progressive_passes": 46,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_2002_bernd_schneider",
+    "name": "Bernd Schneider",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 66,
+      "pas": 68,
+      "dri": 70,
+      "def": 40,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 2,
+      "progressive_passes": 39,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_2002_torsten_frings",
+    "name": "Torsten Frings",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 68,
+      "dri": 64,
+      "def": 68,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_2002_carsten_ramelow",
+    "name": "Carsten Ramelow",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 67,
+    "stats": {
+      "pac": 70,
+      "sho": 48,
+      "pas": 58,
+      "dri": 56,
+      "def": 72,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_2002_christian_ziege",
+    "name": "Christian Ziege",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 69,
+    "stats": {
+      "pac": 76,
+      "sho": 56,
+      "pas": 62,
+      "dri": 60,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_2002_thomas_linke",
+    "name": "Thomas Linke",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 66,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 56,
+      "dri": 52,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_2002_christoph_metzelder",
+    "name": "Christoph Metzelder",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 65,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 56,
+      "dri": 52,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_2002_oliver_kahn",
+    "name": "Oliver Kahn",
+    "nation": "Germany",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 92,
+    "stats": {
+      "pac": 54,
+      "sho": 20,
+      "pas": 40,
+      "dri": 30,
+      "def": 14,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 82.6,
+      "clean_sheets": 4,
+      "goals_conceded": 6,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "tur_2002_ilhan_mansz",
+    "name": "İlhan Mansız",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 82,
+      "sho": 76,
+      "pas": 60,
+      "dri": 72,
+      "def": 20,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 500,
+      "goals_per90": 0.54
+    }
+  },
+  {
+    "id": "tur_2002_hasan_a",
+    "name": "Hasan Şaş",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 82,
+      "sho": 72,
+      "pas": 64,
+      "dri": 74,
+      "def": 26,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 540,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "tur_2002_mit_davala",
+    "name": "Ümit Davala",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 80,
+      "sho": 70,
+      "pas": 64,
+      "dri": 68,
+      "def": 36,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "tur_2002_ergun_penbe",
+    "name": "Ergun Penbe",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 64,
+    "stats": {
+      "pac": 78,
+      "sho": 62,
+      "pas": 62,
+      "dri": 64,
+      "def": 32,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "tur_2002_yldray_batrk",
+    "name": "Yıldıray Baştürk",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 72,
+      "dri": 72,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 2,
+      "progressive_passes": 33,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "tur_2002_emre_belzolu",
+    "name": "Emre Belözoğlu",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 70,
+      "pas": 74,
+      "dri": 74,
+      "def": 48,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 2,
+      "progressive_passes": 39,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "tur_2002_tugay_kerimolu",
+    "name": "Tugay Kerimoğlu",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 62,
+      "pas": 72,
+      "dri": 66,
+      "def": 60,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "tur_2002_gkdeniz_karadeniz",
+    "name": "Gökdeniz Karadeniz",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 66,
+    "stats": {
+      "pac": 84,
+      "sho": 66,
+      "pas": 64,
+      "dri": 72,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 200,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "tur_2002_alpay_zalan",
+    "name": "Alpay Özalan",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 66,
+    "stats": {
+      "pac": 70,
+      "sho": 44,
+      "pas": 52,
+      "dri": 52,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "tur_2002_blent_korkmaz",
+    "name": "Bülent Korkmaz",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 65,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 54,
+      "dri": 52,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "tur_2002_umit_zat",
+    "name": "Umit Özat",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 65,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 54,
+      "dri": 54,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "tur_2002_fatih_akyel",
+    "name": "Fatih Akyel",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 54,
+      "dri": 52,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "tur_2002_rt_reber",
+    "name": "Rüştü Reçber",
+    "nation": "Turkey",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 38,
+      "dri": 28,
+      "def": 10,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 81.8,
+      "clean_sheets": 3,
+      "goals_conceded": 5,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "kor_2002_ahn_junghwan",
+    "name": "Ahn Jung-hwan",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 74,
+    "stats": {
+      "pac": 80,
+      "sho": 72,
+      "pas": 64,
+      "dri": 72,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 9,
+      "minutes_played": 600,
+      "goals_per90": 0.3
+    }
+  },
+  {
+    "id": "kor_2002_hwang_sunhong",
+    "name": "Hwang Sun-hong",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 64,
+    "stats": {
+      "pac": 74,
+      "sho": 74,
+      "pas": 58,
+      "dri": 64,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 6,
+      "minutes_played": 450,
+      "goals_per90": 0.2
+    }
+  },
+  {
+    "id": "kor_2002_choi_taeuk",
+    "name": "Choi Tae-uk",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 62,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 56,
+      "dri": 62,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 300,
+      "goals_per90": 0.3
+    }
+  },
+  {
+    "id": "kor_2002_seol_kihyeon",
+    "name": "Seol Ki-hyeon",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 12,
+    "base_rating": 64,
+    "stats": {
+      "pac": 78,
+      "sho": 66,
+      "pas": 60,
+      "dri": 66,
+      "def": 26,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 400,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "kor_2002_park_jisung",
+    "name": "Park Ji-sung",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 80,
+      "sho": 68,
+      "pas": 68,
+      "dri": 70,
+      "def": 56,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 2,
+      "progressive_passes": 39,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "kor_2002_lee_eulyong",
+    "name": "Lee Eul-yong",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 76,
+      "sho": 62,
+      "pas": 64,
+      "dri": 66,
+      "def": 38,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 32,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "kor_2002_yoo_sangchul",
+    "name": "Yoo Sang-chul",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 62,
+      "dri": 62,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 1,
+      "progressive_passes": 38,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "kor_2002_song_chonggug",
+    "name": "Song Chong-gug",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 68,
+    "stats": {
+      "pac": 72,
+      "sho": 54,
+      "pas": 60,
+      "dri": 60,
+      "def": 66,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "kor_2002_kim_namil",
+    "name": "Kim Nam-il",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 63,
+    "stats": {
+      "pac": 72,
+      "sho": 42,
+      "pas": 52,
+      "dri": 52,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 0,
+      "progressive_passes": 30,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "kor_2002_lee_youngpyo",
+    "name": "Lee Young-pyo",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": 66,
+    "stats": {
+      "pac": 78,
+      "sho": 44,
+      "pas": 58,
+      "dri": 60,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "kor_2002_hong_myungbo",
+    "name": "Hong Myung-bo",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 56,
+      "dri": 56,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "kor_2002_choi_jincheul",
+    "name": "Choi Jin-cheul",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 63,
+    "stats": {
+      "pac": 68,
+      "sho": 40,
+      "pas": 50,
+      "dri": 50,
+      "def": 72,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "kor_2002_lee_woonjae",
+    "name": "Lee Woon-jae",
+    "nation": "South Korea",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 36,
+      "dri": 26,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 78.6,
+      "clean_sheets": 3,
+      "goals_conceded": 6,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "eng_2002_michael_owen",
+    "name": "Michael Owen",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 92,
+      "sho": 86,
+      "pas": 62,
+      "dri": 74,
+      "def": 18,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "eng_2002_emile_heskey",
+    "name": "Emile Heskey",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 70,
+      "pas": 58,
+      "dri": 60,
+      "def": 24,
+      "phy": 82
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "eng_2002_teddy_sheringham",
+    "name": "Teddy Sheringham",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 66,
+    "stats": {
+      "pac": 62,
+      "sho": 78,
+      "pas": 72,
+      "dri": 68,
+      "def": 28,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_2002_david_beckham",
+    "name": "David Beckham",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 88,
+      "dri": 72,
+      "def": 46,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 3,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_2002_steven_gerrard",
+    "name": "Steven Gerrard",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 76,
+      "dri": 74,
+      "def": 60,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 21,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_2002_paul_scholes",
+    "name": "Paul Scholes",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 86,
+    "stats": {
+      "pac": 68,
+      "sho": 74,
+      "pas": 82,
+      "dri": 72,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 330
+    }
+  },
+  {
+    "id": "eng_2002_joe_cole",
+    "name": "Joe Cole",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 70,
+    "stats": {
+      "pac": 82,
+      "sho": 70,
+      "pas": 70,
+      "dri": 78,
+      "def": 32,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 15,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "eng_2002_nicky_butt",
+    "name": "Nicky Butt",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 69,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 64,
+      "dri": 60,
+      "def": 66,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_2002_owen_hargreaves",
+    "name": "Owen Hargreaves",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 69,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 64,
+      "dri": 60,
+      "def": 68,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_2002_rio_ferdinand",
+    "name": "Rio Ferdinand",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 46,
+      "pas": 58,
+      "dri": 58,
+      "def": 84,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_2002_sol_campbell",
+    "name": "Sol Campbell",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 46,
+      "pas": 54,
+      "dri": 56,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_2002_ashley_cole",
+    "name": "Ashley Cole",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 82,
+    "stats": {
+      "pac": 84,
+      "sho": 50,
+      "pas": 64,
+      "dri": 70,
+      "def": 76,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_2002_danny_mills",
+    "name": "Danny Mills",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 54,
+      "dri": 52,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_2002_david_seaman",
+    "name": "David Seaman",
+    "nation": "England",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 83,
+    "stats": {
+      "pac": 50,
+      "sho": 16,
+      "pas": 38,
+      "dri": 28,
+      "def": 12,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 74.1,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_2002_fernando_morientes",
+    "name": "Fernando Morientes",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 82,
+      "pas": 64,
+      "dri": 68,
+      "def": 24,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 270,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "esp_2002_ral",
+    "name": "Raúl",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 89,
+    "stats": {
+      "pac": 78,
+      "sho": 82,
+      "pas": 74,
+      "dri": 80,
+      "def": 30,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 270,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "esp_2002_joaqun",
+    "name": "Joaquín",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 86,
+      "sho": 66,
+      "pas": 66,
+      "dri": 76,
+      "def": 26,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "esp_2002_gaizka_mendieta",
+    "name": "Gaizka Mendieta",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 69,
+    "stats": {
+      "pac": 76,
+      "sho": 70,
+      "pas": 72,
+      "dri": 72,
+      "def": 34,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "esp_2002_juan_valern",
+    "name": "Juan Carlos Valerón",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 74,
+      "pas": 80,
+      "dri": 76,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 21,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2002_xabi_alonso",
+    "name": "Xabi Alonso",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 84,
+      "dri": 72,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_2002_rubn_baraja",
+    "name": "Rubén Baraja",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 68,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 66,
+      "dri": 62,
+      "def": 56,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_2002_david_albelda",
+    "name": "David Albelda",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 68,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 66,
+      "dri": 60,
+      "def": 66,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "esp_2002_fernando_hierro",
+    "name": "Fernando Hierro",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 66,
+      "sho": 68,
+      "pas": 62,
+      "dri": 58,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2002_carles_puyol",
+    "name": "Carles Puyol",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 46,
+      "pas": 60,
+      "dri": 60,
+      "def": 84,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2002_michel_salgado",
+    "name": "Michel Salgado",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 68,
+    "stats": {
+      "pac": 76,
+      "sho": 48,
+      "pas": 60,
+      "dri": 60,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_2002_juanfran",
+    "name": "Juanfran",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 65,
+    "stats": {
+      "pac": 74,
+      "sho": 44,
+      "pas": 58,
+      "dri": 56,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_2002_iker_casillas",
+    "name": "Iker Casillas",
+    "nation": "Spain",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 54,
+      "sho": 20,
+      "pas": 42,
+      "dri": 30,
+      "def": 12,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 77.3,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sen_2002_papa_diop",
+    "name": "Papa Bouba Diop",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 58,
+      "dri": 62,
+      "def": 38,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 32,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "sen_2002_el_diouf",
+    "name": "El Hadji Diouf",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 82,
+      "sho": 70,
+      "pas": 62,
+      "dri": 74,
+      "def": 26,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 2,
+      "shots_on_target": 4,
+      "minutes_played": 450,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sen_2002_henri_camara",
+    "name": "Henri Camara",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 84,
+      "sho": 68,
+      "pas": 60,
+      "dri": 70,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 7,
+      "minutes_played": 380,
+      "goals_per90": 0.47
+    }
+  },
+  {
+    "id": "sen_2002_khalilou_fadiga",
+    "name": "Khalilou Fadiga",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 63,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 62,
+      "dri": 64,
+      "def": 30,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 25,
+      "minutes_played": 380
+    }
+  },
+  {
+    "id": "sen_2002_salif_diao",
+    "name": "Salif Diao",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 78,
+      "sho": 60,
+      "pas": 64,
+      "dri": 64,
+      "def": 58,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 2,
+      "progressive_passes": 28,
+      "minutes_played": 380
+    }
+  },
+  {
+    "id": "sen_2002_moussa_ndiaye",
+    "name": "Moussa N'Diaye",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 66,
+    "stats": {
+      "pac": 74,
+      "sho": 56,
+      "pas": 58,
+      "dri": 60,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 25,
+      "minutes_played": 380
+    }
+  },
+  {
+    "id": "sen_2002_pape_thiaw",
+    "name": "Pape Thiaw",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 63,
+    "stats": {
+      "pac": 72,
+      "sho": 66,
+      "pas": 60,
+      "dri": 62,
+      "def": 28,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "sen_2002_lamine_diatta",
+    "name": "Lamine Diatta",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 64,
+    "stats": {
+      "pac": 70,
+      "sho": 44,
+      "pas": 52,
+      "dri": 52,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "sen_2002_abdoulaye_diagnefaye",
+    "name": "Abdoulaye Diagne-Faye",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 380
+    }
+  },
+  {
+    "id": "sen_2002_aliou_ciss",
+    "name": "Aliou Cissé",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 67,
+    "stats": {
+      "pac": 70,
+      "sho": 50,
+      "pas": 60,
+      "dri": 58,
+      "def": 68,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 23,
+      "minutes_played": 350
+    }
+  },
+  {
+    "id": "sen_2002_ferdinand_coly",
+    "name": "Ferdinand Coly",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 74,
+      "sho": 44,
+      "pas": 56,
+      "dri": 56,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 380
+    }
+  },
+  {
+    "id": "sen_2002_tony_sylva",
+    "name": "Tony Sylva",
+    "nation": "Senegal",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 36,
+      "dri": 26,
+      "def": 10,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 77.8,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "usa_2002_landon_donovan",
+    "name": "Landon Donovan",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 80,
+      "sho": 72,
+      "pas": 64,
+      "dri": 72,
+      "def": 26,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 2,
+      "progressive_passes": 27,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2002_brian_mcbride",
+    "name": "Brian McBride",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 74,
+      "pas": 56,
+      "dri": 58,
+      "def": 24,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "usa_2002_clint_mathis",
+    "name": "Clint Mathis",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 74,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 60,
+      "dri": 66,
+      "def": 20,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "usa_2002_damarcus_beasley",
+    "name": "DaMarcus Beasley",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 66,
+    "stats": {
+      "pac": 84,
+      "sho": 66,
+      "pas": 64,
+      "dri": 72,
+      "def": 28,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 2,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "usa_2002_ernie_stewart",
+    "name": "Ernie Stewart",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 62,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 58,
+      "dri": 62,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "usa_2002_claudio_reyna",
+    "name": "Claudio Reyna",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 70,
+      "dri": 64,
+      "def": 60,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2002_john_obrien",
+    "name": "John O'Brien",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 66,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 64,
+      "dri": 60,
+      "def": 56,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_2002_pablo_mastroeni",
+    "name": "Pablo Mastroeni",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 66,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 60,
+      "dri": 58,
+      "def": 62,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_2002_carlos_bocanegra",
+    "name": "Carlos Bocanegra",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 66,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 56,
+      "dri": 56,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_2002_jeff_agoos",
+    "name": "Jeff Agoos",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 62,
+    "stats": {
+      "pac": 68,
+      "sho": 40,
+      "pas": 52,
+      "dri": 50,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_2002_tony_sanneh",
+    "name": "Tony Sanneh",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 76,
+      "sho": 44,
+      "pas": 54,
+      "dri": 54,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2002_cory_gibbs",
+    "name": "Cory Gibbs",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 62,
+    "stats": {
+      "pac": 70,
+      "sho": 40,
+      "pas": 52,
+      "dri": 50,
+      "def": 66,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_2002_brad_friedel",
+    "name": "Brad Friedel",
+    "nation": "USA",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 38,
+      "dri": 28,
+      "def": 12,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 80.0,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "jpn_2002_junichi_inamoto",
+    "name": "Junichi Inamoto",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 74,
+      "sho": 66,
+      "pas": 64,
+      "dri": 64,
+      "def": 52,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "jpn_2002_takayuki_suzuki",
+    "name": "Takayuki Suzuki",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 63,
+    "stats": {
+      "pac": 78,
+      "sho": 68,
+      "pas": 58,
+      "dri": 64,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "jpn_2002_hiroaki_morishima",
+    "name": "Hiroaki Morishima",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 62,
+    "stats": {
+      "pac": 74,
+      "sho": 66,
+      "pas": 60,
+      "dri": 64,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "jpn_2002_atsushi_yanagisawa",
+    "name": "Atsushi Yanagisawa",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 61,
+    "stats": {
+      "pac": 76,
+      "sho": 66,
+      "pas": 56,
+      "dri": 62,
+      "def": 20,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "jpn_2002_hidetoshi_nakata",
+    "name": "Hidetoshi Nakata",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 76,
+      "dri": 72,
+      "def": 46,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 21,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "jpn_2002_shinji_ono",
+    "name": "Shinji Ono",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 64,
+      "pas": 70,
+      "dri": 68,
+      "def": 40,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "jpn_2002_santos",
+    "name": "Santos",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 64,
+    "stats": {
+      "pac": 76,
+      "sho": 62,
+      "pas": 62,
+      "dri": 64,
+      "def": 36,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "jpn_2002_tsuneyasu_miyamoto",
+    "name": "Tsuneyasu Miyamoto",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 63,
+    "stats": {
+      "pac": 68,
+      "sho": 40,
+      "pas": 52,
+      "dri": 50,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "jpn_2002_naoki_matsuda",
+    "name": "Naoki Matsuda",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 62,
+    "stats": {
+      "pac": 70,
+      "sho": 40,
+      "pas": 50,
+      "dri": 50,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "jpn_2002_akira_narahashi",
+    "name": "Akira Narahashi",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 62,
+    "stats": {
+      "pac": 72,
+      "sho": 42,
+      "pas": 52,
+      "dri": 52,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "jpn_2002_seigo_narazaki",
+    "name": "Seigo Narazaki",
+    "nation": "Japan",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 36,
+      "dri": 26,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 71.4,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_henrik_larsson",
+    "name": "Henrik Larsson",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 88,
+    "stats": {
+      "pac": 80,
+      "sho": 84,
+      "pas": 66,
+      "dri": 76,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 270,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "swe_2002_zlatan_ibrahimovi",
+    "name": "Zlatan Ibrahimović",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 82,
+      "sho": 82,
+      "pas": 72,
+      "dri": 82,
+      "def": 24,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 200,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "swe_2002_marcus_allbck",
+    "name": "Marcus Allbäck",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 63,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 58,
+      "dri": 62,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 200,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "swe_2002_fredrik_ljungberg",
+    "name": "Fredrik Ljungberg",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 80,
+      "sho": 70,
+      "pas": 66,
+      "dri": 74,
+      "def": 42,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_niclas_alexandersson",
+    "name": "Niclas Alexandersson",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 62,
+      "pas": 66,
+      "dri": 66,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 21,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_anders_svensson",
+    "name": "Anders Svensson",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 67,
+    "stats": {
+      "pac": 72,
+      "sho": 66,
+      "pas": 68,
+      "dri": 66,
+      "def": 42,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_tobias_linderoth",
+    "name": "Tobias Linderoth",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 66,
+    "stats": {
+      "pac": 72,
+      "sho": 52,
+      "pas": 60,
+      "dri": 58,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_teddy_lucic",
+    "name": "Teddy Lucic",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 64,
+    "stats": {
+      "pac": 70,
+      "sho": 42,
+      "pas": 52,
+      "dri": 52,
+      "def": 72,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_olof_mellberg",
+    "name": "Olof Mellberg",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 66,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 54,
+      "dri": 52,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_erik_edman",
+    "name": "Erik Edman",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 64,
+    "stats": {
+      "pac": 74,
+      "sho": 42,
+      "pas": 54,
+      "dri": 54,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_niclas_jensen",
+    "name": "Niclas Jensen",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 46,
+      "pas": 58,
+      "dri": 56,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_2002_magnus_hedman",
+    "name": "Magnus Hedman",
+    "nation": "Sweden",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 38,
+      "dri": 28,
+      "def": 10,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 73.3,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_2002_jared_borgetti",
+    "name": "Jared Borgetti",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 76,
+      "pas": 56,
+      "dri": 60,
+      "def": 20,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "mex_2002_luis_hernndez",
+    "name": "Luis Hernández",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 64,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 56,
+      "dri": 64,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_2002_cuauhtmoc_blanco",
+    "name": "Cuauhtémoc Blanco",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 80,
+    "stats": {
+      "pac": 58,
+      "sho": 74,
+      "pas": 70,
+      "dri": 72,
+      "def": 26,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 2,
+      "progressive_passes": 24,
+      "minutes_played": 310
+    }
+  },
+  {
+    "id": "mex_2002_gerardo_torrado",
+    "name": "Gerardo Torrado",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 66,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 62,
+      "dri": 58,
+      "def": 62,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 21,
+      "minutes_played": 310
+    }
+  },
+  {
+    "id": "mex_2002_pavel_pardo",
+    "name": "Pavel Pardo",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 65,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 62,
+      "dri": 58,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 26,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_2002_ramn_morales",
+    "name": "Ramón Morales",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 63,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 60,
+      "dri": 64,
+      "def": 28,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_2002_alberto_aspe",
+    "name": "Alberto García Aspe",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 64,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 64,
+      "dri": 60,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_2002_rafael_mrquez",
+    "name": "Rafael Márquez",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 66,
+      "dri": 60,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_2002_claudio_surez",
+    "name": "Claudio Suárez",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 62,
+    "stats": {
+      "pac": 64,
+      "sho": 40,
+      "pas": 52,
+      "dri": 50,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_2002_carlos_salcido",
+    "name": "Carlos Salcido",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 72,
+    "stats": {
+      "pac": 79,
+      "sho": 60,
+      "pas": 76,
+      "dri": 75,
+      "def": 60,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_2002_oswaldo_snchez",
+    "name": "Oswaldo Sánchez",
+    "nation": "Mexico",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "pac": 50,
+      "sho": 12,
+      "pas": 34,
+      "dri": 24,
+      "def": 10,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 72.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "den_2002_jon_tomasson",
+    "name": "Jon Dahl Tomasson",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 82,
+      "pas": 62,
+      "dri": 66,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 270,
+      "goals_per90": 1.33
+    }
+  },
+  {
+    "id": "den_2002_ebbe_sand",
+    "name": "Ebbe Sand",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 78,
+      "pas": 58,
+      "dri": 64,
+      "def": 22,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "den_2002_dennis_rommedahl",
+    "name": "Dennis Rommedahl",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 92,
+      "sho": 62,
+      "pas": 60,
+      "dri": 70,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "den_2002_thomas_gravesen",
+    "name": "Thomas Gravesen",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 66,
+      "dri": 62,
+      "def": 62,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_2002_martin_jrgensen",
+    "name": "Martin Jørgensen",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 65,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 64,
+      "dri": 66,
+      "def": 38,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_2002_stig_tfting",
+    "name": "Stig Tøfting",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 68,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 60,
+      "dri": 58,
+      "def": 62,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_2002_jan_heintze",
+    "name": "Jan Heintze",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 63,
+    "stats": {
+      "pac": 70,
+      "sho": 42,
+      "pas": 54,
+      "dri": 52,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_2002_ren_henriksen",
+    "name": "René Henriksen",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 64,
+    "stats": {
+      "pac": 68,
+      "sho": 42,
+      "pas": 54,
+      "dri": 52,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_2002_martin_laursen",
+    "name": "Martin Laursen",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 65,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 76,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "den_2002_niclas_jensen",
+    "name": "Niclas Jensen",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 46,
+      "pas": 58,
+      "dri": 56,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "den_2002_thomas_srensen",
+    "name": "Thomas Sørensen",
+    "nation": "Denmark",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 38,
+      "dri": 28,
+      "def": 10,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 76.9,
+      "clean_sheets": 2,
+      "goals_conceded": 3,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_2002_marc_wilmots",
+    "name": "Marc Wilmots",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 76,
+      "pas": 64,
+      "dri": 66,
+      "def": 48,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 21,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_2002_wesley_sonck",
+    "name": "Wesley Sonck",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 78,
+      "sho": 74,
+      "pas": 58,
+      "dri": 64,
+      "def": 20,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "bel_2002_gilles_bilde",
+    "name": "Gilles De Bilde",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 63,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 58,
+      "dri": 62,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "bel_2002_bart_goor",
+    "name": "Bart Goor",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 62,
+      "dri": 60,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_2002_timmy_simons",
+    "name": "Timmy Simons",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 68,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 66,
+      "dri": 62,
+      "def": 60,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_2002_vincent_kompany",
+    "name": "Vincent Kompany",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 67,
+    "stats": {
+      "pac": 72,
+      "sho": 46,
+      "pas": 56,
+      "dri": 54,
+      "def": 72,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "bel_2002_daniel_buyten",
+    "name": "Daniel Van Buyten",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 48,
+      "pas": 54,
+      "dri": 52,
+      "def": 78,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_2002_peter_heyden",
+    "name": "Peter Van Der Heyden",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 63,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "bel_2002_ric_deflandre",
+    "name": "Éric Deflandre",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 56,
+      "dri": 52,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_2002_glen_boeck",
+    "name": "Glen De Boeck",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 63,
+    "stats": {
+      "pac": 68,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "bel_2002_geert_vlieger",
+    "name": "Geert De Vlieger",
+    "nation": "Belgium",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 36,
+      "dri": 26,
+      "def": 10,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 75.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "par_2002_roque_cruz",
+    "name": "Roque Santa Cruz",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 80,
+      "sho": 78,
+      "pas": 62,
+      "dri": 70,
+      "def": 26,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "par_2002_nelson_cuevas",
+    "name": "Nelson Cuevas",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 58,
+      "dri": 64,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 200,
+      "goals_per90": 0.9
+    }
+  },
+  {
+    "id": "par_2002_jorge_campos",
+    "name": "Jorge Campos",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 62,
+    "stats": {
+      "pac": 74,
+      "sho": 66,
+      "pas": 58,
+      "dri": 62,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 200,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "par_2002_diego_gaviln",
+    "name": "Diego Gavilán",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 64,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 62,
+      "dri": 62,
+      "def": 40,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "par_2002_roberto_acua",
+    "name": "Roberto Acuña",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 66,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 60,
+      "dri": 60,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "par_2002_carlos_paredes",
+    "name": "Carlos Paredes",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 66,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 60,
+      "dri": 58,
+      "def": 64,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "par_2002_denis_caniza",
+    "name": "Denis Caniza",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 56,
+      "dri": 54,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "par_2002_carlos_gamarra",
+    "name": "Carlos Gamarra",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 65,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 78,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "par_2002_celso_ayala",
+    "name": "Celso Ayala",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 62,
+    "stats": {
+      "pac": 68,
+      "sho": 40,
+      "pas": 50,
+      "dri": 48,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "par_2002_jos_chilavert",
+    "name": "José Luis Chilavert",
+    "nation": "Paraguay",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 50,
+      "sho": 20,
+      "pas": 38,
+      "dri": 28,
+      "def": 10,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 74.1,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ire_2002_robbie_keane",
+    "name": "Robbie Keane",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "pac": 80,
+      "sho": 80,
+      "pas": 66,
+      "dri": 76,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 270,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "ire_2002_damien_duff",
+    "name": "Damien Duff",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 86,
+      "sho": 70,
+      "pas": 68,
+      "dri": 80,
+      "def": 26,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "ire_2002_niall_quinn",
+    "name": "Niall Quinn",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 60,
+    "stats": {
+      "pac": 58,
+      "sho": 68,
+      "pas": 56,
+      "dri": 50,
+      "def": 24,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 200,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ire_2002_roy_keane",
+    "name": "Roy Keane",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 66,
+      "pas": 72,
+      "dri": 68,
+      "def": 66,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 2,
+      "progressive_passes": 9,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ire_2002_matt_holland",
+    "name": "Matt Holland",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 67,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 62,
+      "dri": 58,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ire_2002_mark_kinsella",
+    "name": "Mark Kinsella",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 64,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 60,
+      "dri": 56,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "ire_2002_kevin_kilbane",
+    "name": "Kevin Kilbane",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 3,
+    "base_rating": 65,
+    "stats": {
+      "pac": 76,
+      "sho": 56,
+      "pas": 62,
+      "dri": 62,
+      "def": 38,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ire_2002_steve_finnan",
+    "name": "Steve Finnan",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 74,
+      "sho": 44,
+      "pas": 56,
+      "dri": 54,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ire_2002_gary_breen",
+    "name": "Gary Breen",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 63,
+    "stats": {
+      "pac": 68,
+      "sho": 42,
+      "pas": 52,
+      "dri": 50,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ire_2002_steve_staunton",
+    "name": "Steve Staunton",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 63,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 60,
+      "dri": 54,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ire_2002_ian_harte",
+    "name": "Ian Harte",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 65,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 62,
+      "dri": 54,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "ire_2002_shay_given",
+    "name": "Shay Given",
+    "nation": "Ireland",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 38,
+      "dri": 28,
+      "def": 10,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 70.6,
+      "clean_sheets": 1,
+      "goals_conceded": 5,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_2002_christian_vieri",
+    "name": "Christian Vieri",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 89,
+    "stats": {
+      "pac": 78,
+      "sho": 88,
+      "pas": 60,
+      "dri": 72,
+      "def": 24,
+      "phy": 82
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 270,
+      "goals_per90": 1.33
+    }
+  },
+  {
+    "id": "ita_2002_filippo_inzaghi",
+    "name": "Filippo Inzaghi",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 8,
+    "base_rating": 65,
+    "stats": {
+      "pac": 78,
+      "sho": 84,
+      "pas": 54,
+      "dri": 62,
+      "def": 18,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_2002_francesco_totti",
+    "name": "Francesco Totti",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 70,
+      "sho": 84,
+      "pas": 82,
+      "dri": 84,
+      "def": 36,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 3,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_2002_alessandro_piero",
+    "name": "Alessandro Del Piero",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 88,
+    "stats": {
+      "pac": 76,
+      "sho": 86,
+      "pas": 78,
+      "dri": 82,
+      "def": 28,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 1,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_2002_cristiano_doni",
+    "name": "Cristiano Doni",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 66,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 64,
+      "dri": 64,
+      "def": 44,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_2002_andrea_pirlo",
+    "name": "Andrea Pirlo",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 82,
+    "stats": {
+      "pac": 62,
+      "sho": 72,
+      "pas": 88,
+      "dri": 76,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 21,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_2002_gennaro_gattuso",
+    "name": "Gennaro Gattuso",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 66,
+      "dri": 66,
+      "def": 76,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_2002_damiano_tommasi",
+    "name": "Damiano Tommasi",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 66,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 64,
+      "dri": 60,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 200
+    }
+  },
+  {
+    "id": "ita_2002_paolo_maldini",
+    "name": "Paolo Maldini",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 88,
+    "stats": {
+      "pac": 74,
+      "sho": 48,
+      "pas": 62,
+      "dri": 64,
+      "def": 88,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_2002_fabio_cannavaro",
+    "name": "Fabio Cannavaro",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 86,
+    "stats": {
+      "pac": 74,
+      "sho": 46,
+      "pas": 58,
+      "dri": 58,
+      "def": 88,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_2002_alessandro_nesta",
+    "name": "Alessandro Nesta",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 46,
+      "pas": 58,
+      "dri": 56,
+      "def": 90,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_2002_marco_materazzi",
+    "name": "Marco Materazzi",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 56,
+      "dri": 52,
+      "def": 80,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_2002_francesco_coco",
+    "name": "Francesco Coco",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 64,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 56,
+      "dri": 56,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_2002_gianluigi_buffon",
+    "name": "Gianluigi Buffon",
+    "nation": "Italy",
+    "wc_year": 2002,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 88,
+    "stats": {
+      "pac": 52,
+      "sho": 18,
+      "pas": 44,
+      "dri": 32,
+      "def": 16,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 73.3,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  }
+]
