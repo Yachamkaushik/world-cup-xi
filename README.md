@@ -5,7 +5,7 @@ Draft a World Cup squad one player at a time, then watch them compete through a 
 
 ---
 
-![World Cup XI](screenshots/home.png)
+![World Cup XI](screenshots/homepage.png)
 
 ---
 
