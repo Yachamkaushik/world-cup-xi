@@ -5,8 +5,11 @@ import players_2002 from '../data/players_2002.json'
 import players_2006 from '../data/players_2006.json'
 import players_2010 from '../data/players_2010.json'
 import players_2014 from '../data/players_2014.json'
+import players_1994 from '../data/players_1994.json'
+import players_1998 from '../data/players_1998.json'
+import players_2022 from '../data/players_2022.json'
 
-const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014]
+const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014, ...players_1994, ...players_1998, ...players_2022]
 const allCombos = [...new Set(allPlayersData.map(p => `${p.nation}_${p.wc_year}`))]
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";

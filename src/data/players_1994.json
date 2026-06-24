@@ -1,0 +1,8538 @@
+[
+  {
+    "id": "bra_1994_taffarel",
+    "name": "Taffarel",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 52,
+      "dri": 40,
+      "def": 72,
+      "phy": 76
+    },
+    "wc_stats": {
+      "save_pct": 74.2,
+      "clean_sheets": 3,
+      "goals_conceded": 3,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_1994_cafu",
+    "name": "Cafu",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 84,
+    "stats": {
+      "pac": 92,
+      "sho": 60,
+      "pas": 74,
+      "dri": 80,
+      "def": 78,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_1994_marcio_santos",
+    "name": "Marcio Santos",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 81,
+    "stats": {
+      "pac": 70,
+      "sho": 38,
+      "pas": 60,
+      "dri": 54,
+      "def": 83,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 15,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_1994_aldair",
+    "name": "Aldair",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 83,
+    "stats": {
+      "pac": 72,
+      "sho": 40,
+      "pas": 64,
+      "dri": 58,
+      "def": 85,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_1994_mazinho",
+    "name": "Mazinho",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 55,
+      "pas": 74,
+      "dri": 70,
+      "def": 72,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_1994_branco",
+    "name": "Branco",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 62,
+      "pas": 70,
+      "dri": 66,
+      "def": 78,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 11,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_1994_viola",
+    "name": "Viola",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 80,
+      "sho": 72,
+      "pas": 62,
+      "dri": 74,
+      "def": 28,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bra_1994_mauro_silva",
+    "name": "Mauro Silva",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 77,
+    "stats": {
+      "pac": 70,
+      "sho": 50,
+      "pas": 72,
+      "dri": 66,
+      "def": 74,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 34,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1994_bebeto",
+    "name": "Bebeto",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 88,
+    "stats": {
+      "pac": 84,
+      "sho": 86,
+      "pas": 70,
+      "dri": 84,
+      "def": 30,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 4,
+      "shots_on_target": 12,
+      "minutes_played": 630,
+      "goals_per90": 0.43
+    }
+  },
+  {
+    "id": "bra_1994_rai",
+    "name": "Rai",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 81,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 80,
+      "dri": 78,
+      "def": 50,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1994_romario",
+    "name": "Romario",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 92,
+    "stats": {
+      "pac": 88,
+      "sho": 92,
+      "pas": 66,
+      "dri": 90,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 16,
+      "minutes_played": 630,
+      "goals_per90": 0.71
+    }
+  },
+  {
+    "id": "bra_1994_edinho",
+    "name": "Edinho",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 70,
+      "dri": 64,
+      "def": 56,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bra_1994_carlos_alberto",
+    "name": "Carlos Alberto",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 58,
+      "dri": 52,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1994_dante",
+    "name": "Dante",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 36,
+      "pas": 56,
+      "dri": 50,
+      "def": 76,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bra_1994_zinho",
+    "name": "Zinho",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 66,
+      "pas": 82,
+      "dri": 76,
+      "def": 58,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 3,
+      "progressive_passes": 52,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_1994_paulo_sergio",
+    "name": "Paulo Sergio",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 64,
+      "pas": 70,
+      "dri": 72,
+      "def": 50,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_1994_gilmar",
+    "name": "Gilmar Rinaldi",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 66,
+      "dri": 64,
+      "def": 48,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 135
+    }
+  },
+  {
+    "id": "bra_1994_flavio",
+    "name": "Flavio Conceicao",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 54,
+      "pas": 68,
+      "dri": 66,
+      "def": 52,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1994_caio",
+    "name": "Caio",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 78,
+      "sho": 68,
+      "pas": 58,
+      "dri": 70,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_1994_sergio_pompeia",
+    "name": "Sergio Pompeia",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 32,
+      "pas": 54,
+      "dri": 48,
+      "def": 72,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1994_zetti",
+    "name": "Zetti",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 46,
+      "dri": 36,
+      "def": 66,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1994_ronaldo",
+    "name": "Ronaldo",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 83,
+    "stats": {
+      "pac": 90,
+      "sho": 80,
+      "pas": 60,
+      "dri": 86,
+      "def": 22,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_1994_andre_cruz",
+    "name": "Andre Cruz",
+    "nation": "Brazil",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1994_pagliuca",
+    "name": "Gianluca Pagliuca",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 85,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 50,
+      "dri": 38,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "save_pct": 73.5,
+      "clean_sheets": 3,
+      "goals_conceded": 4,
+      "minutes_played": 570
+    }
+  },
+  {
+    "id": "ita_1994_benarrivo",
+    "name": "Antonio Benarrivo",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "pac": 80,
+      "sho": 44,
+      "pas": 66,
+      "dri": 66,
+      "def": 78,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1994_maldini",
+    "name": "Paolo Maldini",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 90,
+    "stats": {
+      "pac": 82,
+      "sho": 48,
+      "pas": 76,
+      "dri": 72,
+      "def": 90,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 20,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1994_mussi",
+    "name": "Roberto Mussi",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 77,
+    "stats": {
+      "pac": 76,
+      "sho": 38,
+      "pas": 60,
+      "dri": 58,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ita_1994_costacurta",
+    "name": "Alessandro Costacurta",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 85,
+    "stats": {
+      "pac": 74,
+      "sho": 40,
+      "pas": 66,
+      "dri": 58,
+      "def": 88,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1994_baresi",
+    "name": "Franco Baresi",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 90,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 72,
+      "dri": 66,
+      "def": 92,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 22,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1994_casiraghi",
+    "name": "Pierluigi Casiraghi",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 58,
+      "dri": 66,
+      "def": 30,
+      "phy": 80
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "ita_1994_albertini",
+    "name": "Demetrio Albertini",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 66,
+      "sho": 58,
+      "pas": 86,
+      "dri": 74,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 2,
+      "progressive_passes": 56,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1994_signori",
+    "name": "Giuseppe Signori",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 83,
+    "stats": {
+      "pac": 80,
+      "sho": 86,
+      "pas": 68,
+      "dri": 78,
+      "def": 28,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 9,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ita_1994_roberto_baggio",
+    "name": "Roberto Baggio",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 92,
+    "stats": {
+      "pac": 78,
+      "sho": 90,
+      "pas": 82,
+      "dri": 90,
+      "def": 36,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 18,
+      "minutes_played": 630,
+      "goals_per90": 0.71
+    }
+  },
+  {
+    "id": "ita_1994_donadoni",
+    "name": "Roberto Donadoni",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 78,
+      "dri": 72,
+      "def": 66,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1994_marchegiani",
+    "name": "Luca Marchegiani",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 80,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 1,
+      "minutes_played": 60
+    }
+  },
+  {
+    "id": "ita_1994_berti",
+    "name": "Nicola Berti",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 74,
+      "dri": 68,
+      "def": 62,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 225
+    }
+  },
+  {
+    "id": "ita_1994_apolloni",
+    "name": "Luigi Apolloni",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 36,
+      "pas": 56,
+      "dri": 50,
+      "def": 78,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1994_dino_baggio",
+    "name": "Dino Baggio",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 74,
+      "dri": 68,
+      "def": 64,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 38,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1994_lentini",
+    "name": "Gianluigi Lentini",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "pac": 80,
+      "sho": 66,
+      "pas": 70,
+      "dri": 76,
+      "def": 44,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1994_evani",
+    "name": "Alberico Evani",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 74,
+      "dri": 68,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1994_massaro",
+    "name": "Daniele Massaro",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 77,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 60,
+      "dri": 70,
+      "def": 28,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ita_1994_ferri",
+    "name": "Riccardo Ferri",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 52,
+      "dri": 48,
+      "def": 76,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1994_zola",
+    "name": "Gianfranco Zola",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 82,
+      "pas": 80,
+      "dri": 86,
+      "def": 32,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_1994_cravero",
+    "name": "Roberto Cravero",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 75,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1994_bonomi",
+    "name": "Mauro Bonomi",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 66,
+      "dri": 62,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ita_1994_peruzzi",
+    "name": "Angelo Peruzzi",
+    "nation": "Italy",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 78,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 68,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "swe_1994_ravelli",
+    "name": "Thomas Ravelli",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 83,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 50,
+      "dri": 38,
+      "def": 72,
+      "phy": 74
+    },
+    "wc_stats": {
+      "save_pct": 72.0,
+      "clean_sheets": 2,
+      "goals_conceded": 8,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "swe_1994_nilsson",
+    "name": "Roland Nilsson",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 80,
+      "sho": 44,
+      "pas": 68,
+      "dri": 64,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "swe_1994_bjornebye",
+    "name": "Stig Inge Bjornebye",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 42,
+      "pas": 66,
+      "dri": 62,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 11,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "swe_1994_patrik_andersson",
+    "name": "Patrik Andersson",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 40,
+      "pas": 64,
+      "dri": 56,
+      "def": 82,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "swe_1994_lucic",
+    "name": "Miroslav Lucic",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 77,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 80,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "swe_1994_schwarz",
+    "name": "Stefan Schwarz",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 81,
+    "stats": {
+      "pac": 74,
+      "sho": 64,
+      "pas": 78,
+      "dri": 70,
+      "def": 66,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 46,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "swe_1994_kennet_andersson",
+    "name": "Kennet Andersson",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 78,
+      "pas": 56,
+      "dri": 68,
+      "def": 26,
+      "phy": 84
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 10,
+      "minutes_played": 540,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "swe_1994_ingesson",
+    "name": "Klas Ingesson",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 62,
+      "pas": 74,
+      "dri": 66,
+      "def": 64,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 38,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "swe_1994_dahlin",
+    "name": "Martin Dahlin",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 83,
+    "stats": {
+      "pac": 84,
+      "sho": 80,
+      "pas": 62,
+      "dri": 78,
+      "def": 28,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 14,
+      "minutes_played": 630,
+      "goals_per90": 0.57
+    }
+  },
+  {
+    "id": "swe_1994_brolin",
+    "name": "Tomas Brolin",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 80,
+      "dri": 78,
+      "def": 52,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 4,
+      "progressive_passes": 52,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "swe_1994_mild",
+    "name": "Janne Mild",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 76,
+      "dri": 72,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 3,
+      "progressive_passes": 42,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "swe_1994_stromberg",
+    "name": "Glenn Stromberg",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 66,
+      "dri": 60,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "swe_1994_erlingmark",
+    "name": "Mikael Erlingmark",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 68,
+      "dri": 62,
+      "def": 52,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "swe_1994_limpar",
+    "name": "Anders Limpar",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "pac": 80,
+      "sho": 68,
+      "pas": 74,
+      "dri": 80,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "swe_1994_ljung",
+    "name": "Roger Ljung",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "swe_1994_thern",
+    "name": "Jonas Thern",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 76,
+      "dri": 68,
+      "def": 62,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 0,
+      "progressive_passes": 34,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "swe_1994_larsson",
+    "name": "Henrik Larsson",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "pac": 82,
+      "sho": 76,
+      "pas": 62,
+      "dri": 76,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 135,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "swe_1994_eriksson",
+    "name": "Jan Eriksson",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 48,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "swe_1994_bjorklund",
+    "name": "Joachim Bjorklund",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "swe_1994_andersson_r",
+    "name": "Robert Andersson",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 76,
+      "sho": 66,
+      "pas": 52,
+      "dri": 64,
+      "def": 22,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "swe_1994_ravelli_a",
+    "name": "Andreas Ravelli",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 64,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "swe_1994_kamark",
+    "name": "Pontus Kamark",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 62,
+      "dri": 58,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "swe_1994_larsson_p",
+    "name": "Peter Larsson",
+    "nation": "Sweden",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 52,
+      "dri": 46,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1994_mihailov",
+    "name": "Borislav Mihailov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 48,
+      "dri": 36,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 70.5,
+      "clean_sheets": 2,
+      "goals_conceded": 7,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "bul_1994_kremenliev",
+    "name": "Tzanko Kremenliev",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 38,
+      "pas": 58,
+      "dri": 52,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bul_1994_hubchev",
+    "name": "Petar Hubchev",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 36,
+      "pas": 60,
+      "dri": 52,
+      "def": 78,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "bul_1994_kishishev",
+    "name": "Radostin Kishishev",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 74,
+      "sho": 36,
+      "pas": 60,
+      "dri": 56,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bul_1994_kirilov",
+    "name": "Emil Kremenliev",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bul_1994_ivanov",
+    "name": "Trifon Ivanov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 40,
+      "pas": 58,
+      "dri": 50,
+      "def": 80,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "bul_1994_yankov",
+    "name": "Zlatko Yankov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 77,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 72,
+      "dri": 66,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 36,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bul_1994_stoichkov",
+    "name": "Hristo Stoichkov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 8,
+    "base_rating": 90,
+    "stats": {
+      "pac": 82,
+      "sho": 88,
+      "pas": 74,
+      "dri": 86,
+      "def": 36,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 3,
+      "shots_on_target": 18,
+      "minutes_played": 720,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "bul_1994_kostadinov",
+    "name": "Emil Kostadinov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 78,
+      "pas": 62,
+      "dri": 72,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 540,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "bul_1994_letchkov",
+    "name": "Jordan Letchkov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 66,
+      "pas": 78,
+      "dri": 72,
+      "def": 56,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "bul_1994_balakov",
+    "name": "Krassimir Balakov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 82,
+      "dri": 76,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 3,
+      "progressive_passes": 52,
+      "minutes_played": 720
+    }
+  },
+  {
+    "id": "bul_1994_zdravkov",
+    "name": "Zdravko Zdravkov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 62,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bul_1994_guentchev",
+    "name": "Bontcho Guentchev",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 58,
+      "dri": 66,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bul_1994_yordanov",
+    "name": "Milen Yordanov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 68,
+      "dri": 62,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bul_1994_todorov",
+    "name": "Stoycho Mladenov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 66,
+      "dri": 60,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bul_1994_donkov",
+    "name": "Georgi Donkov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 52,
+      "dri": 46,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bul_1994_borimirov",
+    "name": "Daniel Borimirov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 66,
+      "dri": 60,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bul_1994_iliev",
+    "name": "Ilian Iliev",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 62,
+      "dri": 58,
+      "def": 48,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1994_mihtarski",
+    "name": "Petar Mihtarski",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 54,
+      "dri": 62,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bul_1994_penev",
+    "name": "Luboslav Penev",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 60,
+      "dri": 70,
+      "def": 28,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bul_1994_kolev",
+    "name": "Stoyan Kolev",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 71,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1994_gospodinov2",
+    "name": "Stoyan Gospodinov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1994_gospodinov",
+    "name": "Hristo Gospodinov",
+    "nation": "Bulgaria",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_1994_de_goey",
+    "name": "Ed de Goey",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 48,
+      "dri": 36,
+      "def": 72,
+      "phy": 74
+    },
+    "wc_stats": {
+      "save_pct": 71.0,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1994_reiziger",
+    "name": "Michael Reiziger",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 82,
+      "sho": 42,
+      "pas": 66,
+      "dri": 66,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_1994_koeman",
+    "name": "Ronald Koeman",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 88,
+    "stats": {
+      "pac": 66,
+      "sho": 70,
+      "pas": 82,
+      "dri": 66,
+      "def": 86,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1994_blind",
+    "name": "Danny Blind",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 36,
+      "pas": 62,
+      "dri": 54,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_1994_numan",
+    "name": "Arthur Numan",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 79,
+    "stats": {
+      "pac": 78,
+      "sho": 42,
+      "pas": 66,
+      "dri": 64,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ned_1994_frank_de_boer",
+    "name": "Frank de Boer",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 83,
+    "stats": {
+      "pac": 74,
+      "sho": 46,
+      "pas": 74,
+      "dri": 62,
+      "def": 84,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1994_roy",
+    "name": "Bryan Roy",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 79,
+    "stats": {
+      "pac": 88,
+      "sho": 72,
+      "pas": 64,
+      "dri": 80,
+      "def": 26,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "ned_1994_rob_de_boer",
+    "name": "Ronald de Boer",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 78,
+      "sho": 68,
+      "pas": 78,
+      "dri": 76,
+      "def": 56,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 38,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_1994_bergkamp",
+    "name": "Dennis Bergkamp",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 90,
+    "stats": {
+      "pac": 76,
+      "sho": 88,
+      "pas": 84,
+      "dri": 88,
+      "def": 36,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 4,
+      "shots_on_target": 12,
+      "minutes_played": 540,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ned_1994_davids",
+    "name": "Edgar Davids",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "pac": 82,
+      "sho": 64,
+      "pas": 74,
+      "dri": 80,
+      "def": 72,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 40,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_1994_overmars",
+    "name": "Marc Overmars",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 94,
+      "sho": 76,
+      "pas": 72,
+      "dri": 86,
+      "def": 30,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 3,
+      "shots_on_target": 9,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "ned_1994_van_der_sar",
+    "name": "Edwin van der Sar",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 68,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 66.0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ned_1994_bogarde",
+    "name": "Winston Bogarde",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 32,
+      "pas": 52,
+      "dri": 48,
+      "def": 74,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ned_1994_rijkaard",
+    "name": "Frank Rijkaard",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 80,
+      "dri": 72,
+      "def": 74,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 1,
+      "progressive_passes": 42,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1994_jonk",
+    "name": "Wim Jonk",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 80,
+      "dri": 72,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 46,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1994_winter",
+    "name": "Aron Winter",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 76,
+      "dri": 68,
+      "def": 60,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 36,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_1994_taument",
+    "name": "Gaston Taument",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 75,
+    "stats": {
+      "pac": 80,
+      "sho": 60,
+      "pas": 66,
+      "dri": 74,
+      "def": 40,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 16,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ned_1994_kluivert",
+    "name": "Patrick Kluivert",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 77,
+    "stats": {
+      "pac": 80,
+      "sho": 76,
+      "pas": 62,
+      "dri": 72,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_1994_van_vossen",
+    "name": "Peter van Vossen",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 76,
+      "sho": 70,
+      "pas": 56,
+      "dri": 66,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_1994_seedorf",
+    "name": "Clarence Seedorf",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 66,
+      "pas": 78,
+      "dri": 76,
+      "def": 58,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_1994_hesp",
+    "name": "Ruud Hesp",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 64,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_1994_cocu",
+    "name": "Phillip Cocu",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 76,
+      "dri": 70,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ned_1994_hoekstra",
+    "name": "Peter Hoekstra",
+    "nation": "Netherlands",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "pac": 74,
+      "sho": 58,
+      "pas": 66,
+      "dri": 68,
+      "def": 42,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ger_1994_illgner",
+    "name": "Bodo Illgner",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 83,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 48,
+      "dri": 36,
+      "def": 72,
+      "phy": 74
+    },
+    "wc_stats": {
+      "save_pct": 72.0,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_1994_woerns",
+    "name": "Christian Worns",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 58,
+      "dri": 50,
+      "def": 80,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_1994_brehme",
+    "name": "Andreas Brehme",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 56,
+      "pas": 72,
+      "dri": 66,
+      "def": 82,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_1994_kohler",
+    "name": "Jurgen Kohler",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 85,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 62,
+      "dri": 54,
+      "def": 88,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_1994_sammer",
+    "name": "Matthias Sammer",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 87,
+    "stats": {
+      "pac": 76,
+      "sho": 58,
+      "pas": 76,
+      "dri": 70,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_1994_helmer",
+    "name": "Thomas Helmer",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 40,
+      "pas": 62,
+      "dri": 56,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_1994_hassler",
+    "name": "Thomas Hassler",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 80,
+      "dri": 74,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 46,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_1994_buchwald",
+    "name": "Guido Buchwald",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 72,
+      "dri": 66,
+      "def": 66,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ger_1994_klinsmann",
+    "name": "Jurgen Klinsmann",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 88,
+    "stats": {
+      "pac": 82,
+      "sho": 86,
+      "pas": 66,
+      "dri": 76,
+      "def": 32,
+      "phy": 80
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 16,
+      "minutes_played": 630,
+      "goals_per90": 0.71
+    }
+  },
+  {
+    "id": "ger_1994_matthaeus",
+    "name": "Lothar Matthaus",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 90,
+    "stats": {
+      "pac": 74,
+      "sho": 78,
+      "pas": 84,
+      "dri": 78,
+      "def": 72,
+      "phy": 84
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 3,
+      "progressive_passes": 56,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ger_1994_voller",
+    "name": "Rudi Voller",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 82,
+      "pas": 60,
+      "dri": 72,
+      "def": 28,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "ger_1994_kahn",
+    "name": "Oliver Kahn",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 80,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 70,
+      "phy": 74
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_1994_heinrich",
+    "name": "Jorg Heinrich",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 38,
+      "pas": 60,
+      "dri": 54,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ger_1994_moller",
+    "name": "Andreas Moller",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 68,
+      "pas": 80,
+      "dri": 76,
+      "def": 48,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 38,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ger_1994_ziege",
+    "name": "Christian Ziege",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 66,
+      "pas": 72,
+      "dri": 70,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 2,
+      "progressive_passes": 34,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_1994_strunz",
+    "name": "Thomas Strunz",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 70,
+      "dri": 64,
+      "def": 56,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_1994_scholl",
+    "name": "Mehmet Scholl",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 81,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 78,
+      "dri": 76,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_1994_freund",
+    "name": "Steffen Freund",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 50,
+      "pas": 68,
+      "dri": 60,
+      "def": 66,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ger_1994_riedle",
+    "name": "Karl-Heinz Riedle",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 78,
+      "pas": 58,
+      "dri": 66,
+      "def": 26,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "ger_1994_bobic",
+    "name": "Fredi Bobic",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 54,
+      "dri": 66,
+      "def": 22,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_1994_babbel",
+    "name": "Markus Babbel",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 78,
+      "sho": 40,
+      "pas": 62,
+      "dri": 58,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ger_1994_kirsten",
+    "name": "Ulf Kirsten",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 56,
+      "dri": 66,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_1994_kopke",
+    "name": "Andreas Kopke",
+    "nation": "Germany",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 79,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 68,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "rou_1994_stelea",
+    "name": "Bogdan Stelea",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 68,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 69.0,
+      "clean_sheets": 1,
+      "goals_conceded": 5,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "rou_1994_petrescu",
+    "name": "Dan Petrescu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "pac": 80,
+      "sho": 48,
+      "pas": 70,
+      "dri": 68,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "rou_1994_belodedici",
+    "name": "Miodrag Belodedici",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 64,
+      "dri": 54,
+      "def": 82,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "rou_1994_prodan",
+    "name": "Ovidiu Stanga",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1994_mihail",
+    "name": "Mihai Prodan",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "rou_1994_popescu",
+    "name": "Gheorghe Popescu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 83,
+    "stats": {
+      "pac": 70,
+      "sho": 44,
+      "pas": 72,
+      "dri": 62,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "rou_1994_lacatus",
+    "name": "Marius Lacatus",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 60,
+      "dri": 74,
+      "def": 28,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "rou_1994_galca",
+    "name": "Cosmin Contra",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 75,
+    "stats": {
+      "pac": 74,
+      "sho": 54,
+      "pas": 68,
+      "dri": 64,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "rou_1994_raducioiu",
+    "name": "Florin Raducioiu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 80,
+      "sho": 80,
+      "pas": 60,
+      "dri": 74,
+      "def": 26,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "rou_1994_hagi",
+    "name": "Gheorghe Hagi",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 89,
+    "stats": {
+      "pac": 72,
+      "sho": 78,
+      "pas": 88,
+      "dri": 84,
+      "def": 44,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 26,
+      "assists": 4,
+      "progressive_passes": 60,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "rou_1994_dumitrescu",
+    "name": "Ilie Dumitrescu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 78,
+      "dri": 76,
+      "def": 48,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 3,
+      "progressive_passes": 44,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "rou_1994_prunea",
+    "name": "Florin Prunea",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 75,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 64,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "rou_1994_iordanescu",
+    "name": "Cristian Iordanescu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "rou_1994_lupescu",
+    "name": "Ioan Lupescu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 70,
+      "dri": 62,
+      "def": 62,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "rou_1994_selymes",
+    "name": "Tibor Selymes",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 72,
+      "dri": 64,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "rou_1994_filipescu",
+    "name": "Daniel Prodan",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 75,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "rou_1994_ilie",
+    "name": "Adrian Ilie",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 80,
+      "sho": 68,
+      "pas": 56,
+      "dri": 72,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "rou_1994_munteanu",
+    "name": "Dorinel Munteanu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 77,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 70,
+      "dri": 64,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1994_ionut",
+    "name": "Ionut Lupescu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "rou_1994_moldovan",
+    "name": "Viorel Moldovan",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 75,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 54,
+      "dri": 64,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "rou_1994_majearu",
+    "name": "Mihai Majearu",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "rou_1994_galca2",
+    "name": "Constantin Galca",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 64,
+      "dri": 58,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "rou_1994_mihali",
+    "name": "Gheorghe Mihali",
+    "nation": "Romania",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 26,
+      "pas": 46,
+      "dri": 40,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1994_zubizarreta",
+    "name": "Andoni Zubizarreta",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 48,
+      "dri": 36,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 71.0,
+      "clean_sheets": 1,
+      "goals_conceded": 5,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1994_ferrer",
+    "name": "Albert Ferrer",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 36,
+      "pas": 62,
+      "dri": 58,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1994_sergi",
+    "name": "Sergi Barjuan",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 79,
+    "stats": {
+      "pac": 82,
+      "sho": 42,
+      "pas": 66,
+      "dri": 64,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1994_goikoetxea",
+    "name": "Andoni Goikoetxea",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 78,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1994_abelardo",
+    "name": "Abelardo Fernandez",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 38,
+      "pas": 60,
+      "dri": 54,
+      "def": 82,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1994_hierro",
+    "name": "Fernando Hierro",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 72,
+      "dri": 60,
+      "def": 88,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1994_guardiola",
+    "name": "Pep Guardiola",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 85,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 88,
+      "dri": 74,
+      "def": 64,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 2,
+      "progressive_passes": 56,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1994_bakero",
+    "name": "Jose Bakero",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 78,
+      "dri": 68,
+      "def": 60,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 38,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1994_salinas",
+    "name": "Julio Salinas",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 56,
+      "dri": 66,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_1994_begiristain",
+    "name": "Txiki Begiristain",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 66,
+      "dri": 74,
+      "def": 26,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "esp_1994_luis_enrique",
+    "name": "Luis Enrique",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "pac": 82,
+      "sho": 72,
+      "pas": 74,
+      "dri": 78,
+      "def": 52,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 3,
+      "progressive_passes": 42,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1994_molina",
+    "name": "Jose Molina",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 0,
+      "goals_conceded": 3,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_1994_uralde",
+    "name": "Ion Andoni Uralde",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1994_alkorta",
+    "name": "Rafael Alkorta",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 56,
+      "dri": 48,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1994_amor",
+    "name": "Guillermo Amor",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 76,
+      "dri": 66,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1994_caminero",
+    "name": "Jose Caminero",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 64,
+      "pas": 72,
+      "dri": 68,
+      "def": 52,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 26,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1994_kiko",
+    "name": "Kiko Narvaez",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 60,
+      "dri": 70,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_1994_belsue",
+    "name": "Alberto Belsue",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 32,
+      "pas": 52,
+      "dri": 46,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1994_manjarin",
+    "name": "Juan Manjarin",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 64,
+      "dri": 58,
+      "def": 48,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1994_alfonso",
+    "name": "Alfonso Perez",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 56,
+      "dri": 68,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_1994_morientes",
+    "name": "Fernando Morientes",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 54,
+      "dri": 64,
+      "def": 24,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_1994_eusebio",
+    "name": "Eusebio Sacristan",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 70,
+      "dri": 60,
+      "def": 54,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1994_unzue",
+    "name": "Juan Carlos Unzue",
+    "nation": "Spain",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 62,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nga_1994_rufai",
+    "name": "Peter Rufai",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 68,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 69.5,
+      "clean_sheets": 2,
+      "goals_conceded": 6,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "nga_1994_eguavoen",
+    "name": "Augustine Eguavoen",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "nga_1994_west",
+    "name": "Taribo West",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 38,
+      "pas": 56,
+      "dri": 52,
+      "def": 82,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "nga_1994_okpara",
+    "name": "Uche Okpara",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "nga_1994_nwosu",
+    "name": "Stephen Nwosu",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "nga_1994_okechukwu",
+    "name": "Uche Okechukwu",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 68,
+      "dri": 60,
+      "def": 62,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 30,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "nga_1994_adepoju",
+    "name": "Mutiu Adepoju",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 68,
+      "dri": 62,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "nga_1994_okocha",
+    "name": "Jay-Jay Okocha",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 70,
+      "pas": 80,
+      "dri": 84,
+      "def": 44,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 3,
+      "progressive_passes": 44,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "nga_1994_yekini",
+    "name": "Rashidi Yekini",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 83,
+    "stats": {
+      "pac": 74,
+      "sho": 82,
+      "pas": 58,
+      "dri": 68,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 1,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "nga_1994_kanu",
+    "name": "Nwankwo Kanu",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 78,
+      "pas": 70,
+      "dri": 80,
+      "def": 28,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "nga_1994_finidi",
+    "name": "Finidi George",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 86,
+      "sho": 72,
+      "pas": 64,
+      "dri": 80,
+      "def": 26,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 3,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "nga_1994_dosu",
+    "name": "Dosu Joseph",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 73,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 62,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 0,
+      "goals_conceded": 2,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nga_1994_babayaro",
+    "name": "Celestine Babayaro",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 40,
+      "pas": 60,
+      "dri": 60,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nga_1994_amunike",
+    "name": "Emmanuel Amunike",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 78,
+      "sho": 64,
+      "pas": 68,
+      "dri": 72,
+      "def": 42,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 2,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "nga_1994_nwofor",
+    "name": "Chidi Nwofor",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 44,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nga_1994_oruma",
+    "name": "Wilson Oruma",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 66,
+      "dri": 62,
+      "def": 48,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nga_1994_amokachi",
+    "name": "Daniel Amokachi",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "pac": 80,
+      "sho": 78,
+      "pas": 58,
+      "dri": 72,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "nga_1994_lawal",
+    "name": "Garba Lawal",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 64,
+      "dri": 60,
+      "def": 54,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nga_1994_ikpeba",
+    "name": "Victor Ikpeba",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 78,
+    "stats": {
+      "pac": 82,
+      "sho": 72,
+      "pas": 60,
+      "dri": 74,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "nga_1994_shorunmu",
+    "name": "Ike Shorunmu",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 71,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 42,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nga_1994_james",
+    "name": "Alloy Agu",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nga_1994_babangida",
+    "name": "Mohammed Babangida",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 78,
+      "sho": 58,
+      "pas": 62,
+      "dri": 70,
+      "def": 40,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nga_1994_nwosu2",
+    "name": "Nduka Ugbade",
+    "nation": "Nigeria",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 26,
+      "pas": 48,
+      "dri": 42,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1994_campos",
+    "name": "Jorge Campos",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 50,
+      "dri": 42,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_1994_gutierrez",
+    "name": "Claudio Suarez",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 60,
+      "dri": 54,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "mex_1994_davino",
+    "name": "Salvador Davino",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_1994_suarez",
+    "name": "Juan de Dios Ramirez",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 75,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_1994_ambriz",
+    "name": "Ignacio Ambriz",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 74,
+      "sho": 40,
+      "pas": 60,
+      "dri": 56,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1994_galindo",
+    "name": "Alberto Galindo",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 64,
+      "dri": 58,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1994_bernal",
+    "name": "Marcelino Bernal",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 52,
+      "dri": 62,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_1994_garcia_aspe",
+    "name": "Alberto Garcia Aspe",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 76,
+      "dri": 68,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 36,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "mex_1994_hermosillo",
+    "name": "Carlos Hermosillo",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 54,
+      "dri": 64,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "mex_1994_garcia_aspe2",
+    "name": "Ramon Ramirez",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 74,
+      "dri": 66,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 30,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_1994_luis_garcia",
+    "name": "Luis Garcia",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 79,
+    "stats": {
+      "pac": 80,
+      "sho": 74,
+      "pas": 62,
+      "dri": 74,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "mex_1994_sanchez",
+    "name": "Adolfo Lopez",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 73,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 60,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_1994_pena",
+    "name": "Luis Pena",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mex_1994_alves",
+    "name": "Joaquin del Olmo",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 64,
+      "dri": 58,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1994_rodriguez",
+    "name": "Oscar Ruggeri",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1994_pardo",
+    "name": "Pavel Pardo",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 66,
+      "dri": 62,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1994_medina",
+    "name": "Juan Villalvazo",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mex_1994_palencia",
+    "name": "Francisco Palencia",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 74,
+      "sho": 56,
+      "pas": 64,
+      "dri": 62,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mex_1994_zamorano2",
+    "name": "Zague",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 70,
+      "pas": 52,
+      "dri": 62,
+      "def": 22,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "mex_1994_alba",
+    "name": "Gerardo Torres",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 26,
+      "pas": 46,
+      "dri": 40,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1994_briones",
+    "name": "Felix Fernandez",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 58,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1994_espana",
+    "name": "Antonio Carlos Santos",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 60,
+      "dri": 54,
+      "def": 48,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mex_1994_lapuente",
+    "name": "Jorge Rodarte",
+    "nation": "Mexico",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1994_goycochea",
+    "name": "Sergio Goycochea",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 2,
+      "goals_conceded": 3,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1994_sensini",
+    "name": "Roberto Sensini",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 40,
+      "pas": 62,
+      "dri": 58,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1994_chamot",
+    "name": "Jose Chamot",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1994_ruggeri",
+    "name": "Oscar Ruggeri",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 38,
+      "pas": 58,
+      "dri": 50,
+      "def": 82,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1994_ayala",
+    "name": "Roberto Ayala",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 38,
+      "pas": 60,
+      "dri": 52,
+      "def": 82,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1994_zanetti",
+    "name": "Javier Zanetti",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 83,
+    "stats": {
+      "pac": 82,
+      "sho": 44,
+      "pas": 68,
+      "dri": 68,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1994_balbo",
+    "name": "Abel Balbo",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 58,
+      "dri": 64,
+      "def": 28,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 1,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1994_redondo",
+    "name": "Fernando Redondo",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 86,
+      "dri": 78,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 50,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1994_batistuta",
+    "name": "Gabriel Batistuta",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 91,
+    "stats": {
+      "pac": 78,
+      "sho": 92,
+      "pas": 62,
+      "dri": 78,
+      "def": 32,
+      "phy": 82
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 0,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "arg_1994_maradona",
+    "name": "Diego Maradona",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 78,
+      "pas": 88,
+      "dri": 88,
+      "def": 40,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1994_caniggia",
+    "name": "Claudio Caniggia",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 90,
+      "sho": 80,
+      "pas": 62,
+      "dri": 82,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "arg_1994_mancuso",
+    "name": "Hector Mancuso",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 62,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1994_almeyda",
+    "name": "Matias Almeyda",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 68,
+      "dri": 62,
+      "def": 58,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "arg_1994_simeone",
+    "name": "Diego Simeone",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 83,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 72,
+      "dri": 66,
+      "def": 72,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1994_crespo",
+    "name": "Hernan Crespo",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 15,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 80,
+      "pas": 58,
+      "dri": 68,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "arg_1994_veron",
+    "name": "Juan Veron",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 82,
+      "dri": 74,
+      "def": 52,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 2,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1994_ortega",
+    "name": "Ariel Ortega",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 66,
+      "pas": 74,
+      "dri": 76,
+      "def": 40,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "arg_1994_lopez",
+    "name": "Claudio Lopez",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 77,
+    "stats": {
+      "pac": 82,
+      "sho": 72,
+      "pas": 58,
+      "dri": 74,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "arg_1994_pineda",
+    "name": "Hugo Pineda",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 50,
+      "dri": 60,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_1994_dezotti",
+    "name": "Gustavo Dezotti",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 60,
+      "dri": 58,
+      "def": 42,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1994_burgos",
+    "name": "German Burgos",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 62,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1994_berti",
+    "name": "Nestor Berti",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1994_monzon",
+    "name": "Pedro Monzon",
+    "nation": "Argentina",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "usa_1994_meola",
+    "name": "Tony Meola",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_1994_lalas",
+    "name": "Alexi Lalas",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 34,
+      "pas": 54,
+      "dri": 48,
+      "def": 72,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_1994_ramos",
+    "name": "Tab Ramos",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 44,
+      "pas": 62,
+      "dri": 60,
+      "def": 60,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_1994_balboa",
+    "name": "Marcelo Balboa",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 34,
+      "pas": 54,
+      "dri": 48,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_1994_caligiuri",
+    "name": "Paul Caligiuri",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 42,
+      "pas": 60,
+      "dri": 58,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_1994_harkes",
+    "name": "John Harkes",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 54,
+      "pas": 68,
+      "dri": 62,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_1994_sorber",
+    "name": "Mike Sorber",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 62,
+      "dri": 56,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_1994_jones",
+    "name": "Cobi Jones",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 80,
+      "sho": 54,
+      "pas": 62,
+      "dri": 72,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_1994_wegerle",
+    "name": "Roy Wegerle",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 75,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 58,
+      "dri": 68,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "usa_1994_dooley",
+    "name": "Thomas Dooley",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 75,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 64,
+      "dri": 58,
+      "def": 62,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_1994_wynalda",
+    "name": "Eric Wynalda",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 77,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 60,
+      "dri": 66,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "usa_1994_keller",
+    "name": "Kasey Keller",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 1,
+      "goals_conceded": 2,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_1994_lapper",
+    "name": "Mike Lapper",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "usa_1994_agoos",
+    "name": "Jeff Agoos",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_1994_reyna",
+    "name": "Claudio Reyna",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 54,
+      "pas": 70,
+      "dri": 64,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_1994_moore",
+    "name": "Joe-Max Moore",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 56,
+      "dri": 60,
+      "def": 28,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "usa_1994_perez",
+    "name": "Hugo Perez",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 56,
+      "dri": 58,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "usa_1994_woods",
+    "name": "Desmond Armstrong",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "usa_1994_vermes",
+    "name": "Peter Vermes",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 58,
+      "dri": 54,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "usa_1994_gallagher",
+    "name": "Frank Klopas",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 62,
+      "pas": 52,
+      "dri": 58,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "usa_1994_friedel",
+    "name": "Brad Friedel",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_1994_llamosa",
+    "name": "Carlos Llamosa",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "usa_1994_burns",
+    "name": "Michael Burns",
+    "nation": "United States",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 56,
+      "dri": 52,
+      "def": 40,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "col_1994_higuita",
+    "name": "Rene Higuita",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 52,
+      "dri": 44,
+      "def": 64,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 66.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1994_escobar",
+    "name": "Andres Escobar",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 38,
+      "pas": 60,
+      "dri": 52,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_1994_cordoba",
+    "name": "Ivan Cordoba",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 54,
+      "dri": 48,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1994_alvarez",
+    "name": "Leonel Alvarez",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 34,
+      "pas": 58,
+      "dri": 50,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_1994_herrera",
+    "name": "Hernan Gaviria",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1994_rincon",
+    "name": "Freddy Rincon",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 76,
+      "dri": 68,
+      "def": 58,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 34,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_1994_lozano",
+    "name": "Giovanni Cordoba",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 48,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1994_alvarez2",
+    "name": "Carlos Valderrama",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 54,
+      "pas": 72,
+      "dri": 64,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 30,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_1994_asprilla",
+    "name": "Faustino Asprilla",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 85,
+    "stats": {
+      "pac": 84,
+      "sho": 80,
+      "pas": 64,
+      "dri": 82,
+      "def": 28,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "col_1994_valderrama",
+    "name": "Carlos Valderrama Sr",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 87,
+    "stats": {
+      "pac": 64,
+      "sho": 56,
+      "pas": 88,
+      "dri": 78,
+      "def": 36,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 4,
+      "progressive_passes": 54,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_1994_bustos",
+    "name": "John Jairo Trellez",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 74,
+    "stats": {
+      "pac": 78,
+      "sho": 68,
+      "pas": 54,
+      "dri": 66,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_1994_mondragon",
+    "name": "Faryd Mondragon",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "col_1994_bermudez",
+    "name": "Jorge Bermudez",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1994_perez",
+    "name": "Adolfo Valencia",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 78,
+      "sho": 64,
+      "pas": 60,
+      "dri": 70,
+      "def": 28,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1994_mendez",
+    "name": "Wilson Perez",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "col_1994_turbay",
+    "name": "Harold Lozano",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 58,
+      "dri": 54,
+      "def": 42,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "col_1994_riascos",
+    "name": "Harold Moreno",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 52,
+      "dri": 62,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_1994_lara",
+    "name": "Alexis Garcia",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 58,
+      "dri": 52,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "col_1994_palacios",
+    "name": "Francisco Maturana",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 24,
+      "pas": 44,
+      "dri": 38,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "col_1994_trellez",
+    "name": "Adolfo Bernal",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "pac": 74,
+      "sho": 66,
+      "pas": 52,
+      "dri": 62,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_1994_calero",
+    "name": "Miguel Calero",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "col_1994_pelaez",
+    "name": "Henry Pelaez",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 44,
+      "dri": 36,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "col_1994_daza",
+    "name": "Vladimir Bejarano",
+    "nation": "Colombia",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 42,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "irl_1994_bonner",
+    "name": "Pat Bonner",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "irl_1994_irwin",
+    "name": "Denis Irwin",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "pac": 78,
+      "sho": 42,
+      "pas": 66,
+      "dri": 62,
+      "def": 78,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "irl_1994_staunton",
+    "name": "Steve Staunton",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 79,
+    "stats": {
+      "pac": 72,
+      "sho": 40,
+      "pas": 62,
+      "dri": 58,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "irl_1994_mcgrath",
+    "name": "Paul McGrath",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 85,
+    "stats": {
+      "pac": 72,
+      "sho": 40,
+      "pas": 60,
+      "dri": 56,
+      "def": 86,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "irl_1994_babb",
+    "name": "Phil Babb",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "irl_1994_houghton",
+    "name": "Ray Houghton",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 68,
+      "dri": 62,
+      "def": 58,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 2,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "irl_1994_townsend",
+    "name": "Andy Townsend",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 68,
+      "dri": 62,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "irl_1994_roy_keane",
+    "name": "Roy Keane",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 66,
+      "pas": 74,
+      "dri": 72,
+      "def": 72,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 2,
+      "progressive_passes": 38,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "irl_1994_quinn",
+    "name": "Niall Quinn",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 79,
+    "stats": {
+      "pac": 66,
+      "sho": 72,
+      "pas": 54,
+      "dri": 58,
+      "def": 28,
+      "phy": 80
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "irl_1994_sheridan",
+    "name": "John Sheridan",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 70,
+      "dri": 62,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "irl_1994_aldridge",
+    "name": "John Aldridge",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 74,
+      "pas": 54,
+      "dri": 58,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "irl_1994_kelly",
+    "name": "Alan Kelly",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "irl_1994_whelan",
+    "name": "Ronnie Whelan",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 64,
+      "dri": 56,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "irl_1994_kernaghan",
+    "name": "Alan Kernaghan",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "irl_1994_mcateer",
+    "name": "Jason McAteer",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 44,
+      "pas": 58,
+      "dri": 60,
+      "def": 60,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "irl_1994_coyne",
+    "name": "Tommy Coyne",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 56,
+      "pas": 50,
+      "dri": 52,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "irl_1994_cascarino",
+    "name": "Tony Cascarino",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 68,
+      "pas": 50,
+      "dri": 54,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "irl_1994_phelan",
+    "name": "Terry Phelan",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 76,
+      "sho": 36,
+      "pas": 54,
+      "dri": 56,
+      "def": 58,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "irl_1994_mcmahon",
+    "name": "Steve McMahon",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 60,
+      "dri": 54,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "irl_1994_byrne",
+    "name": "David Kelly",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 62,
+      "pas": 48,
+      "dri": 54,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "irl_1994_peyton",
+    "name": "Gerry Peyton",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 56,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "irl_1994_ormonde",
+    "name": "Kevin Moran",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 73,
+    "stats": {
+      "pac": 62,
+      "sho": 28,
+      "pas": 46,
+      "dri": 40,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "irl_1994_mcclair",
+    "name": "Brian McClair",
+    "nation": "Republic of Ireland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 58,
+      "dri": 52,
+      "def": 42,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "sui_1994_pascolo",
+    "name": "Marco Pascolo",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_1994_hottiger",
+    "name": "Marc Hottiger",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 78,
+      "sho": 40,
+      "pas": 62,
+      "dri": 58,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "sui_1994_quentin",
+    "name": "Dominique Herr",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_1994_ohrel",
+    "name": "Alain Sutter",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 34,
+      "pas": 54,
+      "dri": 52,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sui_1994_geiger",
+    "name": "Yvan Quentin",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_1994_sforza",
+    "name": "Ciriaco Sforza",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 76,
+      "dri": 68,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 34,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "sui_1994_knup",
+    "name": "Adrian Knup",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 58,
+      "dri": 68,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 9,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "sui_1994_sutter",
+    "name": "Beat Sutter",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 64,
+      "dri": 58,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_1994_chapuisat",
+    "name": "Stephane Chapuisat",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 83,
+    "stats": {
+      "pac": 78,
+      "sho": 80,
+      "pas": 62,
+      "dri": 74,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "sui_1994_bregy",
+    "name": "Georges Bregy",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 72,
+      "dri": 64,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "sui_1994_sutter2",
+    "name": "Alain Sutter",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 50,
+      "pas": 62,
+      "dri": 58,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sui_1994_huber",
+    "name": "Stefan Huber",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 38,
+      "dri": 28,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_1994_koller",
+    "name": "Johann Koller",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 60,
+      "dri": 56,
+      "def": 48,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "sui_1994_herr",
+    "name": "Dominique Quentin",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "sui_1994_bickel",
+    "name": "Hanspeter Bickel",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 58,
+      "dri": 54,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "sui_1994_sylvestre",
+    "name": "Sylvain Sylvestre",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "sui_1994_turkyilmaz",
+    "name": "Kubilay Turkyilmaz",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 54,
+      "dri": 62,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "sui_1994_ldefenders",
+    "name": "David Sesa",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 71,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 42,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "sui_1994_rothenbuhler",
+    "name": "Raphael Wicky",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 54,
+      "dri": 50,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "sui_1994_bonvin",
+    "name": "St\u00e9phane Chapuisat2",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 50,
+      "dri": 58,
+      "def": 20,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sui_1994_brunner",
+    "name": "Jorg Stiel",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 73,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "sui_1994_fournier",
+    "name": "Pascal Reusser",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 64,
+      "sho": 42,
+      "pas": 54,
+      "dri": 50,
+      "def": 42,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "sui_1994_zuberbuehler",
+    "name": "Pascal Zuberbuehler",
+    "nation": "Switzerland",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1994_preud_homme",
+    "name": "Michel Preud'homme",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 48,
+      "dri": 36,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 72.0,
+      "clean_sheets": 2,
+      "goals_conceded": 3,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_1994_emmers",
+    "name": "Danny Boffin",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 54,
+      "dri": 48,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_1994_grun",
+    "name": "Georges Grun",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 36,
+      "pas": 60,
+      "dri": 52,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_1994_albert",
+    "name": "Philippe Albert",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 48,
+      "pas": 70,
+      "dri": 62,
+      "def": 80,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_1994_medved",
+    "name": "Eric Medved",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1994_van_der_elst",
+    "name": "Leo van der Elst",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1994_scifo",
+    "name": "Enzo Scifo",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 83,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 82,
+      "dri": 74,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_1994_staelens",
+    "name": "Lorenzo Staelens",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 70,
+      "dri": 64,
+      "def": 56,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_1994_nilis",
+    "name": "Luc Nilis",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 80,
+      "pas": 62,
+      "dri": 72,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bel_1994_wilmots",
+    "name": "Marc Wilmots",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 79,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 66,
+      "dri": 62,
+      "def": 58,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_1994_degryse",
+    "name": "Marc Degryse",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 64,
+      "dri": 70,
+      "def": 26,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "bel_1994_de_wilde",
+    "name": "Filip de Wilde",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1994_borkelmans",
+    "name": "Vital Borkelmans",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 60,
+      "dri": 56,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1994_claes",
+    "name": "John Bosman",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 62,
+      "dri": 58,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bel_1994_vervoort",
+    "name": "Wesley Sonck",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 60,
+      "dri": 56,
+      "def": 40,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1994_smidts",
+    "name": "Rudi Smidts",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bel_1994_weber",
+    "name": "Ludo Coeck",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 62,
+      "pas": 52,
+      "dri": 58,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bel_1994_desaer",
+    "name": "Frank Desaer",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 56,
+      "dri": 52,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1994_deflandre",
+    "name": "Eric Deflandre",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 32,
+      "pas": 52,
+      "dri": 48,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bel_1994_claessens",
+    "name": "Franky van der Elst",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 54,
+      "dri": 58,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bel_1994_munaron",
+    "name": "Jean-Marie Munaron",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 56,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1994_claes2",
+    "name": "Regis Genaux",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 72,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1994_nilis2",
+    "name": "Glen de Boeck",
+    "nation": "Belgium",
+    "wc_year": 1994,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  }
+]

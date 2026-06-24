@@ -1,0 +1,8540 @@
+[
+  {
+    "id": "fra_1998_barthez",
+    "name": "Fabien Barthez",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 88,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 54,
+      "dri": 42,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "save_pct": 76.0,
+      "clean_sheets": 6,
+      "goals_conceded": 2,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "fra_1998_thuram",
+    "name": "Lilian Thuram",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 87,
+    "stats": {
+      "pac": 82,
+      "sho": 54,
+      "pas": 72,
+      "dri": 70,
+      "def": 86,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 22,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "fra_1998_desailly",
+    "name": "Marcel Desailly",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 88,
+    "stats": {
+      "pac": 74,
+      "sho": 44,
+      "pas": 68,
+      "dri": 60,
+      "def": 90,
+      "phy": 86
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 20,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "fra_1998_blanc",
+    "name": "Laurent Blanc",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 72,
+      "dri": 62,
+      "def": 88,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1998_lizarazu",
+    "name": "Bixente Lizarazu",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 84,
+    "stats": {
+      "pac": 80,
+      "sho": 46,
+      "pas": 68,
+      "dri": 68,
+      "def": 80,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "fra_1998_deschamps",
+    "name": "Didier Deschamps",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 85,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 78,
+      "dri": 68,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 46,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "fra_1998_vieira",
+    "name": "Patrick Vieira",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 87,
+    "stats": {
+      "pac": 78,
+      "sho": 64,
+      "pas": 76,
+      "dri": 74,
+      "def": 76,
+      "phy": 84
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 2,
+      "progressive_passes": 50,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1998_zidane",
+    "name": "Zinedine Zidane",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 94,
+    "stats": {
+      "pac": 74,
+      "sho": 80,
+      "pas": 92,
+      "dri": 88,
+      "def": 52,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 30,
+      "assists": 4,
+      "progressive_passes": 70,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1998_petit",
+    "name": "Emmanuel Petit",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 74,
+      "dri": 68,
+      "def": 68,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1998_djorkaeff",
+    "name": "Youri Djorkaeff",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 85,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 80,
+      "dri": 78,
+      "def": 48,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 48,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1998_guivarc_h",
+    "name": "Stephane Guivarc'h",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 70,
+      "pas": 52,
+      "dri": 58,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 450,
+      "goals_per90": 0.2
+    }
+  },
+  {
+    "id": "fra_1998_lama",
+    "name": "Bernard Lama",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_1998_pires",
+    "name": "Robert Pires",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 83,
+    "stats": {
+      "pac": 78,
+      "sho": 70,
+      "pas": 76,
+      "dri": 78,
+      "def": 44,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 2,
+      "progressive_passes": 26,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "fra_1998_leboeuf",
+    "name": "Frank Leboeuf",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 81,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 66,
+      "dri": 56,
+      "def": 82,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "fra_1998_karembeu",
+    "name": "Christian Karembeu",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 54,
+      "pas": 66,
+      "dri": 66,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "fra_1998_henry",
+    "name": "Thierry Henry",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 85,
+    "stats": {
+      "pac": 92,
+      "sho": 80,
+      "pas": 70,
+      "dri": 86,
+      "def": 34,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "fra_1998_dugarry",
+    "name": "Christophe Dugarry",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 72,
+      "pas": 60,
+      "dri": 70,
+      "def": 28,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "fra_1998_boghossian",
+    "name": "Alain Boghossian",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 50,
+      "pas": 64,
+      "dri": 60,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "fra_1998_candela",
+    "name": "Vincent Candela",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 78,
+    "stats": {
+      "pac": 78,
+      "sho": 38,
+      "pas": 60,
+      "dri": 60,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "fra_1998_trezeguet",
+    "name": "David Trezeguet",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 83,
+    "stats": {
+      "pac": 74,
+      "sho": 84,
+      "pas": 58,
+      "dri": 70,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 180,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "fra_1998_cool",
+    "name": "Lionel Letizi",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_1998_charvet",
+    "name": "Laurent Charvet",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 32,
+      "pas": 52,
+      "dri": 48,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_1998_lamouchi",
+    "name": "Sabri Lamouchi",
+    "nation": "France",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 58,
+      "dri": 54,
+      "def": 48,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1998_taffarel",
+    "name": "Taffarel",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 85,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 52,
+      "dri": 40,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "save_pct": 73.0,
+      "clean_sheets": 4,
+      "goals_conceded": 4,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_1998_cafu",
+    "name": "Cafu",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 86,
+    "stats": {
+      "pac": 92,
+      "sho": 62,
+      "pas": 76,
+      "dri": 82,
+      "def": 80,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_1998_roberto_carlos",
+    "name": "Roberto Carlos",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 88,
+    "stats": {
+      "pac": 86,
+      "sho": 66,
+      "pas": 76,
+      "dri": 82,
+      "def": 78,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_1998_junior_baiano",
+    "name": "Junior Baiano",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 58,
+      "dri": 50,
+      "def": 80,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_1998_emerson",
+    "name": "Emerson",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 52,
+      "pas": 68,
+      "dri": 62,
+      "def": 64,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1998_aldair",
+    "name": "Aldair",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 38,
+      "pas": 62,
+      "dri": 54,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_1998_ze_roberto",
+    "name": "Ze Roberto",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 58,
+      "pas": 72,
+      "dri": 72,
+      "def": 52,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1998_dunga",
+    "name": "Dunga",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 72,
+      "dri": 62,
+      "def": 68,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 0,
+      "progressive_passes": 30,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_1998_ronaldo",
+    "name": "Ronaldo",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 96,
+    "stats": {
+      "pac": 88,
+      "sho": 94,
+      "pas": 70,
+      "dri": 94,
+      "def": 26,
+      "phy": 82
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 3,
+      "shots_on_target": 18,
+      "minutes_played": 630,
+      "goals_per90": 0.57
+    }
+  },
+  {
+    "id": "bra_1998_rivaldo",
+    "name": "Rivaldo",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 93,
+    "stats": {
+      "pac": 78,
+      "sho": 86,
+      "pas": 86,
+      "dri": 88,
+      "def": 44,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 26,
+      "assists": 4,
+      "progressive_passes": 56,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bra_1998_leonardo",
+    "name": "Leonardo",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 80,
+      "sho": 66,
+      "pas": 78,
+      "dri": 74,
+      "def": 50,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bra_1998_dida",
+    "name": "Dida",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 64,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1998_cesar_sampaio",
+    "name": "Cesar Sampaio",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 66,
+      "dri": 60,
+      "def": 62,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1998_aldair2",
+    "name": "Aldair reserve",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1998_bebeto",
+    "name": "Bebeto",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 80,
+      "sho": 82,
+      "pas": 68,
+      "dri": 78,
+      "def": 28,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "bra_1998_denilson",
+    "name": "Denilson",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 79,
+    "stats": {
+      "pac": 88,
+      "sho": 62,
+      "pas": 64,
+      "dri": 84,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_1998_flavio_conceicao",
+    "name": "Flavio Conceicao",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 64,
+      "dri": 60,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bra_1998_roberto_carlos2",
+    "name": "Cleo",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1998_jardel",
+    "name": "Mario Jardel",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 79,
+    "stats": {
+      "pac": 72,
+      "sho": 82,
+      "pas": 52,
+      "dri": 62,
+      "def": 22,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_1998_doriva",
+    "name": "Doriva",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 48,
+      "pas": 60,
+      "dri": 54,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1998_marcos",
+    "name": "Marcos",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1998_gamarra",
+    "name": "Carlos Gamarra",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bra_1998_giovanni",
+    "name": "Giovanni",
+    "nation": "Brazil",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 76,
+      "sho": 58,
+      "pas": 62,
+      "dri": 68,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cro_1998_ladic",
+    "name": "Drazen Ladic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 48,
+      "dri": 36,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 3,
+      "goals_conceded": 6,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "cro_1998_simic",
+    "name": "Dario Simic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "pac": 74,
+      "sho": 38,
+      "pas": 60,
+      "dri": 56,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "cro_1998_jarni",
+    "name": "Robert Jarni",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 42,
+      "pas": 64,
+      "dri": 62,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "cro_1998_stimac",
+    "name": "Igor Stimac",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 36,
+      "pas": 58,
+      "dri": 50,
+      "def": 82,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "cro_1998_bilic",
+    "name": "Slaven Bilic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 40,
+      "pas": 62,
+      "dri": 52,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "cro_1998_stanic",
+    "name": "Mario Stanic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 78,
+      "sho": 54,
+      "pas": 66,
+      "dri": 66,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cro_1998_asanovic",
+    "name": "Aljosa Asanovic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 76,
+      "dri": 68,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 34,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "cro_1998_boban",
+    "name": "Zvonimir Boban",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 66,
+      "pas": 84,
+      "dri": 76,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 48,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "cro_1998_prosinecki",
+    "name": "Robert Prosinecki",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 68,
+      "pas": 82,
+      "dri": 76,
+      "def": 48,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "cro_1998_suker",
+    "name": "Davor Suker",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 89,
+    "stats": {
+      "pac": 80,
+      "sho": 90,
+      "pas": 64,
+      "dri": 80,
+      "def": 28,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 2,
+      "shots_on_target": 18,
+      "minutes_played": 630,
+      "goals_per90": 0.86
+    }
+  },
+  {
+    "id": "cro_1998_vlaovic",
+    "name": "Goran Vlaovic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 74,
+      "pas": 58,
+      "dri": 68,
+      "def": 26,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 9,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "cro_1998_butina",
+    "name": "Marjan Mrmic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cro_1998_soldo",
+    "name": "Zvonimir Soldo",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 68,
+      "dri": 60,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cro_1998_kovac_r",
+    "name": "Robert Kovac",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cro_1998_kovac_n",
+    "name": "Niko Kovac",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 66,
+      "dri": 60,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cro_1998_boksic",
+    "name": "Alen Boksic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 82,
+    "stats": {
+      "pac": 78,
+      "sho": 78,
+      "pas": 60,
+      "dri": 72,
+      "def": 26,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "cro_1998_jerkan",
+    "name": "Nikola Jerkan",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cro_1998_simic2",
+    "name": "Josip Simunic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cro_1998_rapaic",
+    "name": "Milan Rapaic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 75,
+    "stats": {
+      "pac": 72,
+      "sho": 54,
+      "pas": 62,
+      "dri": 60,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cro_1998_cvitanovic",
+    "name": "Igor Cvitanovic",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 52,
+      "dri": 58,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "cro_1998_pletikosa",
+    "name": "Stipe Pletikosa",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 73,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cro_1998_saric",
+    "name": "Goran Saric",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cro_1998_mujcin",
+    "name": "Sasa Mujcin",
+    "nation": "Croatia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 52,
+      "dri": 46,
+      "def": 40,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ned_1998_van_der_sar",
+    "name": "Edwin van der Sar",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 86,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 52,
+      "dri": 38,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 73.0,
+      "clean_sheets": 3,
+      "goals_conceded": 6,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ned_1998_reiziger",
+    "name": "Michael Reiziger",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "pac": 82,
+      "sho": 44,
+      "pas": 66,
+      "dri": 66,
+      "def": 80,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ned_1998_numan",
+    "name": "Arthur Numan",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 81,
+    "stats": {
+      "pac": 78,
+      "sho": 42,
+      "pas": 66,
+      "dri": 64,
+      "def": 80,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1998_stam",
+    "name": "Jaap Stam",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 89,
+    "stats": {
+      "pac": 76,
+      "sho": 40,
+      "pas": 62,
+      "dri": 56,
+      "def": 92,
+      "phy": 86
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 22,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ned_1998_frank_de_boer",
+    "name": "Frank de Boer",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 86,
+    "stats": {
+      "pac": 74,
+      "sho": 46,
+      "pas": 74,
+      "dri": 62,
+      "def": 86,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ned_1998_davids",
+    "name": "Edgar Davids",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 85,
+    "stats": {
+      "pac": 82,
+      "sho": 64,
+      "pas": 74,
+      "dri": 80,
+      "def": 74,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1998_seedorf",
+    "name": "Clarence Seedorf",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 86,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 80,
+      "dri": 76,
+      "def": 60,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 2,
+      "progressive_passes": 48,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1998_rob_de_boer",
+    "name": "Ronald de Boer",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "pac": 78,
+      "sho": 68,
+      "pas": 78,
+      "dri": 76,
+      "def": 56,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 2,
+      "progressive_passes": 40,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1998_bergkamp",
+    "name": "Dennis Bergkamp",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 92,
+    "stats": {
+      "pac": 76,
+      "sho": 90,
+      "pas": 86,
+      "dri": 90,
+      "def": 34,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 3,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "ned_1998_overmars",
+    "name": "Marc Overmars",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 85,
+    "stats": {
+      "pac": 94,
+      "sho": 76,
+      "pas": 72,
+      "dri": 86,
+      "def": 30,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 3,
+      "shots_on_target": 10,
+      "minutes_played": 540,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ned_1998_kluivert",
+    "name": "Patrick Kluivert",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 86,
+    "stats": {
+      "pac": 80,
+      "sho": 84,
+      "pas": 66,
+      "dri": 76,
+      "def": 26,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "ned_1998_waterreus",
+    "name": "Ronald Waterreus",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_1998_cocu",
+    "name": "Phillip Cocu",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 81,
+    "stats": {
+      "pac": 74,
+      "sho": 64,
+      "pas": 78,
+      "dri": 72,
+      "def": 62,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 30,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_1998_zenden",
+    "name": "Boudewijn Zenden",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 79,
+    "stats": {
+      "pac": 80,
+      "sho": 62,
+      "pas": 68,
+      "dri": 74,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_1998_bogarde",
+    "name": "Winston Bogarde",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 32,
+      "pas": 52,
+      "dri": 48,
+      "def": 74,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_1998_van_hooijdonk",
+    "name": "Pierre van Hooijdonk",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 79,
+    "stats": {
+      "pac": 72,
+      "sho": 76,
+      "pas": 60,
+      "dri": 64,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 5,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_1998_jonk",
+    "name": "Wim Jonk",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 80,
+      "dri": 72,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_1998_heintze",
+    "name": "Jan Heintze",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 52,
+      "dri": 46,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ned_1998_van_der_meyde",
+    "name": "Andy van der Meyde",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 80,
+      "sho": 56,
+      "pas": 58,
+      "dri": 66,
+      "def": 34,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ned_1998_hasselbaink",
+    "name": "Jimmy Floyd Hasselbaink",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 12,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 84,
+      "pas": 58,
+      "dri": 68,
+      "def": 26,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_1998_de_vlieger",
+    "name": "Gilles de Vlieger",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_1998_nilis",
+    "name": "Luc Nilis",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 56,
+      "dri": 54,
+      "def": 28,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ned_1998_konterman",
+    "name": "Bert Konterman",
+    "nation": "Netherlands",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1998_roa",
+    "name": "Carlos Roa",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1998_zanetti",
+    "name": "Javier Zanetti",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 85,
+    "stats": {
+      "pac": 82,
+      "sho": 46,
+      "pas": 70,
+      "dri": 70,
+      "def": 78,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1998_chamot",
+    "name": "Jose Chamot",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1998_ayala",
+    "name": "Roberto Ayala",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 38,
+      "pas": 60,
+      "dri": 52,
+      "def": 84,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1998_simeone",
+    "name": "Diego Simeone",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 72,
+      "dri": 66,
+      "def": 74,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 1,
+      "progressive_passes": 38,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1998_sensini",
+    "name": "Roberto Sensini",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 40,
+      "pas": 62,
+      "dri": 58,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1998_veron",
+    "name": "Juan Veron",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 66,
+      "pas": 84,
+      "dri": 76,
+      "def": 54,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 48,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1998_batistuta",
+    "name": "Gabriel Batistuta",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 92,
+    "stats": {
+      "pac": 78,
+      "sho": 92,
+      "pas": 64,
+      "dri": 78,
+      "def": 32,
+      "phy": 82
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 1,
+      "shots_on_target": 16,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "arg_1998_ortega",
+    "name": "Ariel Ortega",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 66,
+      "pas": 74,
+      "dri": 78,
+      "def": 40,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 34,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1998_lopez",
+    "name": "Claudio Lopez",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 84,
+      "sho": 74,
+      "pas": 60,
+      "dri": 76,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 9,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "arg_1998_caniggia",
+    "name": "Claudio Caniggia",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 88,
+      "sho": 76,
+      "pas": 60,
+      "dri": 80,
+      "def": 24,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "arg_1998_cavallero",
+    "name": "Pablo Cavallero",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1998_crespo",
+    "name": "Hernan Crespo",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 82,
+      "pas": 58,
+      "dri": 68,
+      "def": 26,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "arg_1998_almeyda",
+    "name": "Matias Almeyda",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 68,
+      "dri": 62,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1998_pineda",
+    "name": "Hugo Pineda",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 56,
+      "dri": 50,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1998_redondo",
+    "name": "Fernando Redondo",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 86,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 86,
+      "dri": 76,
+      "def": 60,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 36,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1998_berti",
+    "name": "Juan Berti",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 52,
+      "dri": 54,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_1998_gallardo",
+    "name": "Marcelo Gallardo",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 68,
+      "dri": 64,
+      "def": 42,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "arg_1998_coloccini",
+    "name": "Fabricio Coloccini",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 32,
+      "pas": 52,
+      "dri": 46,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1998_aimar",
+    "name": "Pablo Aimar",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 72,
+      "dri": 72,
+      "def": 36,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1998_cordoba_gk",
+    "name": "Jose Luis Chilavert",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 14,
+      "pas": 46,
+      "dri": 36,
+      "def": 62,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1998_paz",
+    "name": "Mauricio Pochettino",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 34,
+      "pas": 54,
+      "dri": 50,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1998_placente",
+    "name": "Diego Placente",
+    "nation": "Argentina",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ger_1998_kopke",
+    "name": "Andreas Kopke",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 48,
+      "dri": 36,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 70.5,
+      "clean_sheets": 2,
+      "goals_conceded": 6,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_1998_ziege",
+    "name": "Christian Ziege",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 81,
+    "stats": {
+      "pac": 78,
+      "sho": 54,
+      "pas": 68,
+      "dri": 66,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ger_1998_worns",
+    "name": "Christian Worns",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 58,
+      "dri": 50,
+      "def": 80,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ger_1998_kohler",
+    "name": "Jurgen Kohler",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 62,
+      "dri": 54,
+      "def": 88,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_1998_schneider",
+    "name": "Bernd Schneider",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 50,
+      "pas": 64,
+      "dri": 62,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ger_1998_hamann",
+    "name": "Didi Hamann",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 76,
+      "dri": 66,
+      "def": 68,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 34,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_1998_hassler",
+    "name": "Thomas Hassler",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 78,
+      "dri": 72,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 30,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ger_1998_matthaeus",
+    "name": "Lothar Matthaus",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 82,
+      "dri": 74,
+      "def": 68,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_1998_klinsmann",
+    "name": "Jurgen Klinsmann",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 80,
+      "sho": 84,
+      "pas": 64,
+      "dri": 74,
+      "def": 28,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 9,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "ger_1998_bierhoff",
+    "name": "Oliver Bierhoff",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 82,
+      "pas": 58,
+      "dri": 64,
+      "def": 30,
+      "phy": 80
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "ger_1998_scholl",
+    "name": "Mehmet Scholl",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 70,
+      "pas": 78,
+      "dri": 76,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 2,
+      "progressive_passes": 30,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ger_1998_kahn",
+    "name": "Oliver Kahn",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 84,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 48,
+      "dri": 36,
+      "def": 72,
+      "phy": 76
+    },
+    "wc_stats": {
+      "save_pct": 71.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ger_1998_heinrich",
+    "name": "Jorg Heinrich",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 38,
+      "pas": 60,
+      "dri": 54,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_1998_bode",
+    "name": "Marco Bode",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 77,
+    "stats": {
+      "pac": 76,
+      "sho": 62,
+      "pas": 64,
+      "dri": 68,
+      "def": 40,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_1998_moller",
+    "name": "Andreas Moller",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 66,
+      "pas": 78,
+      "dri": 72,
+      "def": 46,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_1998_babbel",
+    "name": "Markus Babbel",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "pac": 78,
+      "sho": 40,
+      "pas": 62,
+      "dri": 58,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_1998_bobic",
+    "name": "Fredi Bobic",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 54,
+      "dri": 66,
+      "def": 22,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ger_1998_freund",
+    "name": "Steffen Freund",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 77,
+    "stats": {
+      "pac": 72,
+      "sho": 50,
+      "pas": 68,
+      "dri": 60,
+      "def": 68,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ger_1998_linke",
+    "name": "Thomas Linke",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 54,
+      "dri": 44,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ger_1998_kirsten",
+    "name": "Ulf Kirsten",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 77,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 54,
+      "dri": 62,
+      "def": 22,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_1998_rost",
+    "name": "Frank Rost",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 28,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ger_1998_ziege2",
+    "name": "Jens Jeremies",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 64,
+      "dri": 58,
+      "def": 64,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ger_1998_jancker",
+    "name": "Carsten Jancker",
+    "nation": "Germany",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 48,
+      "dri": 56,
+      "def": 22,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_1998_pagliuca",
+    "name": "Gianluca Pagliuca",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 50,
+      "dri": 38,
+      "def": 74,
+      "phy": 74
+    },
+    "wc_stats": {
+      "save_pct": 72.0,
+      "clean_sheets": 3,
+      "goals_conceded": 4,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1998_maldini",
+    "name": "Paolo Maldini",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 92,
+    "stats": {
+      "pac": 82,
+      "sho": 50,
+      "pas": 78,
+      "dri": 72,
+      "def": 92,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 22,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1998_costacurta",
+    "name": "Alessandro Costacurta",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 40,
+      "pas": 66,
+      "dri": 58,
+      "def": 88,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1998_nesta",
+    "name": "Alessandro Nesta",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 87,
+    "stats": {
+      "pac": 76,
+      "sho": 42,
+      "pas": 68,
+      "dri": 60,
+      "def": 90,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1998_cannavaro",
+    "name": "Fabio Cannavaro",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 85,
+    "stats": {
+      "pac": 74,
+      "sho": 40,
+      "pas": 64,
+      "dri": 58,
+      "def": 88,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1998_di_livio",
+    "name": "Angelo Di Livio",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 52,
+      "pas": 66,
+      "dri": 64,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 0,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ita_1998_albertini",
+    "name": "Demetrio Albertini",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "pac": 66,
+      "sho": 58,
+      "pas": 88,
+      "dri": 74,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 2,
+      "progressive_passes": 56,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1998_vieri",
+    "name": "Christian Vieri",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 87,
+    "stats": {
+      "pac": 76,
+      "sho": 88,
+      "pas": 58,
+      "dri": 72,
+      "def": 30,
+      "phy": 84
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 1,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "ita_1998_roberto_baggio",
+    "name": "Roberto Baggio",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 89,
+    "stats": {
+      "pac": 76,
+      "sho": 88,
+      "pas": 80,
+      "dri": 88,
+      "def": 34,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ita_1998_del_piero",
+    "name": "Alessandro Del Piero",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 89,
+    "stats": {
+      "pac": 76,
+      "sho": 88,
+      "pas": 76,
+      "dri": 86,
+      "def": 32,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 3,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ita_1998_inzaghi",
+    "name": "Filippo Inzaghi",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 86,
+      "pas": 52,
+      "dri": 68,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "ita_1998_peruzzi",
+    "name": "Angelo Peruzzi",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 68,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1998_pessotto",
+    "name": "Gianluca Pessotto",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ita_1998_bergomi",
+    "name": "Giuseppe Bergomi",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 36,
+      "pas": 58,
+      "dri": 50,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1998_baggio_d",
+    "name": "Dino Baggio",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 68,
+      "pas": 72,
+      "dri": 64,
+      "def": 62,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1998_zanetti",
+    "name": "Cristiano Zanetti",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 64,
+      "dri": 58,
+      "def": 54,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1998_fiore",
+    "name": "Stefano Fiore",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 77,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 70,
+      "dri": 66,
+      "def": 48,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1998_di_biagio",
+    "name": "Luigi Di Biagio",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 66,
+      "dri": 62,
+      "def": 56,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1998_casiraghi",
+    "name": "Pierluigi Casiraghi",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 54,
+      "dri": 60,
+      "def": 26,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_1998_apolloni",
+    "name": "Luigi Apolloni",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 44,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1998_toldo",
+    "name": "Francesco Toldo",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1998_fuser",
+    "name": "Diego Fuser",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 50,
+      "pas": 60,
+      "dri": 56,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ita_1998_serena",
+    "name": "Aldo Serena",
+    "nation": "Italy",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "den_1998_schmeichel",
+    "name": "Peter Schmeichel",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 93,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 54,
+      "dri": 42,
+      "def": 80,
+      "phy": 78
+    },
+    "wc_stats": {
+      "save_pct": 76.0,
+      "clean_sheets": 3,
+      "goals_conceded": 5,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "den_1998_helveg",
+    "name": "Thomas Helveg",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "pac": 78,
+      "sho": 42,
+      "pas": 62,
+      "dri": 58,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "den_1998_heintze",
+    "name": "Jan Heintze",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 75,
+    "stats": {
+      "pac": 68,
+      "sho": 32,
+      "pas": 54,
+      "dri": 48,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "den_1998_rieper",
+    "name": "Marc Rieper",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 82,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "den_1998_colding",
+    "name": "Stig Tofting",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 60,
+      "dri": 54,
+      "def": 70,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "den_1998_nielsen",
+    "name": "Allan Nielsen",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 62,
+      "dri": 56,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "den_1998_wieghorst",
+    "name": "Morten Wieghorst",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 75,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 64,
+      "dri": 58,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "den_1998_michael_laudrup",
+    "name": "Michael Laudrup",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 92,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 88,
+      "dri": 86,
+      "def": 44,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 26,
+      "assists": 5,
+      "progressive_passes": 58,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "den_1998_sand",
+    "name": "Ebbe Sand",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 56,
+      "dri": 64,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 12,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "den_1998_brian_laudrup",
+    "name": "Brian Laudrup",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 89,
+    "stats": {
+      "pac": 84,
+      "sho": 76,
+      "pas": 80,
+      "dri": 84,
+      "def": 40,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 4,
+      "progressive_passes": 48,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "den_1998_tomasson",
+    "name": "Jon Dahl Tomasson",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 60,
+      "dri": 66,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 1,
+      "shots_on_target": 10,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "den_1998_krogh",
+    "name": "Mogens Krogh",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "den_1998_molnar",
+    "name": "Claus Thomsen",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 62,
+      "dri": 54,
+      "def": 50,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_1998_laursen",
+    "name": "Martin Laursen",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 56,
+      "dri": 50,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_1998_kjeldberg",
+    "name": "Jakob Kjeldberg",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "den_1998_frandsen",
+    "name": "Per Frandsen",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 75,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 64,
+      "dri": 56,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "den_1998_beck",
+    "name": "Mikkel Beck",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 75,
+    "stats": {
+      "pac": 74,
+      "sho": 68,
+      "pas": 52,
+      "dri": 60,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "den_1998_jorgensen",
+    "name": "Martin Jorgensen",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 52,
+      "pas": 62,
+      "dri": 58,
+      "def": 42,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "den_1998_henriksen",
+    "name": "Brian Henriksen",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 48,
+      "dri": 40,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "den_1998_pedersen",
+    "name": "Henrik Pedersen",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 48,
+      "dri": 54,
+      "def": 20,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "den_1998_warmby",
+    "name": "Lars Warmby",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "den_1998_bisgaard",
+    "name": "Mads Bisgaard",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "den_1998_hogh",
+    "name": "Erik Hogh",
+    "nation": "Denmark",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 52,
+      "dri": 46,
+      "def": 40,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "eng_1998_seaman",
+    "name": "David Seaman",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 85,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 52,
+      "dri": 38,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 73.0,
+      "clean_sheets": 2,
+      "goals_conceded": 3,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1998_g_neville",
+    "name": "Gary Neville",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 38,
+      "pas": 62,
+      "dri": 56,
+      "def": 80,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1998_le_saux",
+    "name": "Graeme Le Saux",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 42,
+      "pas": 64,
+      "dri": 62,
+      "def": 76,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "eng_1998_adams",
+    "name": "Tony Adams",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 85,
+    "stats": {
+      "pac": 72,
+      "sho": 38,
+      "pas": 60,
+      "dri": 52,
+      "def": 88,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1998_campbell",
+    "name": "Sol Campbell",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 38,
+      "pas": 60,
+      "dri": 52,
+      "def": 86,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1998_ince",
+    "name": "Paul Ince",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 72,
+      "dri": 64,
+      "def": 70,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 34,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "eng_1998_beckham",
+    "name": "David Beckham",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 86,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 88,
+      "dri": 80,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 24,
+      "assists": 4,
+      "progressive_passes": 58,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1998_scholes",
+    "name": "Paul Scholes",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 74,
+      "pas": 78,
+      "dri": 72,
+      "def": 54,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 34,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "eng_1998_sheringham",
+    "name": "Teddy Sheringham",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 66,
+      "sho": 78,
+      "pas": 68,
+      "dri": 66,
+      "def": 28,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "eng_1998_shearer",
+    "name": "Alan Shearer",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 90,
+    "stats": {
+      "pac": 74,
+      "sho": 90,
+      "pas": 58,
+      "dri": 68,
+      "def": 30,
+      "phy": 84
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "eng_1998_owen",
+    "name": "Michael Owen",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 85,
+    "stats": {
+      "pac": 92,
+      "sho": 80,
+      "pas": 62,
+      "dri": 80,
+      "def": 28,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "eng_1998_flowers",
+    "name": "Ron Flowers",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1998_anderton",
+    "name": "Darren Anderton",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 66,
+      "dri": 66,
+      "def": 46,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1998_p_neville",
+    "name": "Phil Neville",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 32,
+      "pas": 56,
+      "dri": 50,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_1998_batty",
+    "name": "David Batty",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 48,
+      "pas": 64,
+      "dri": 56,
+      "def": 66,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1998_mcmanaman",
+    "name": "Steve McManaman",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 81,
+    "stats": {
+      "pac": 80,
+      "sho": 60,
+      "pas": 70,
+      "dri": 76,
+      "def": 42,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1998_fowler",
+    "name": "Robbie Fowler",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 83,
+    "stats": {
+      "pac": 76,
+      "sho": 82,
+      "pas": 60,
+      "dri": 72,
+      "def": 26,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_1998_butt",
+    "name": "Nicky Butt",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 62,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1998_southgate",
+    "name": "Gareth Southgate",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 54,
+      "dri": 46,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1998_wrighty",
+    "name": "Ian Wright",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 80,
+      "pas": 56,
+      "dri": 68,
+      "def": 26,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_1998_martyn",
+    "name": "Nigel Martyn",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 80,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 32,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1998_hinchcliffe",
+    "name": "Andy Hinchcliffe",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "eng_1998_ferdinand",
+    "name": "Les Ferdinand",
+    "nation": "England",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 76,
+      "pas": 52,
+      "dri": 60,
+      "def": 24,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "yug_1998_kralj",
+    "name": "Ivica Kralj",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 5,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "yug_1998_mihajlovic",
+    "name": "Sinisa Mihajlovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 83,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 72,
+      "dri": 64,
+      "def": 82,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "yug_1998_djukic",
+    "name": "Miroslav Djukic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 77,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "yug_1998_komljenovic",
+    "name": "Goran Djorovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 75,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "yug_1998_jokanovic",
+    "name": "Slavisa Jokanovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 66,
+      "dri": 58,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "yug_1998_jugovic",
+    "name": "Vladimir Jugovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 74,
+      "dri": 66,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "yug_1998_savicevic",
+    "name": "Dejan Savicevic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 85,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 78,
+      "dri": 82,
+      "def": 38,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 3,
+      "progressive_passes": 38,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "yug_1998_stojkovic",
+    "name": "Dragan Stojkovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 84,
+      "dri": 80,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 3,
+      "progressive_passes": 50,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "yug_1998_mijatovic",
+    "name": "Predrag Mijatovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 82,
+      "pas": 62,
+      "dri": 74,
+      "def": 26,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 9,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "yug_1998_stanovic",
+    "name": "Vladimir Beara",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 66,
+      "dri": 58,
+      "def": 50,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "yug_1998_kovacevic",
+    "name": "Sasa Kovacevic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 79,
+    "stats": {
+      "pac": 78,
+      "sho": 74,
+      "pas": 56,
+      "dri": 66,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "yug_1998_jevric",
+    "name": "Dragoslav Jevric",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1998_drulovic",
+    "name": "Ljubinko Drulovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 52,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "yug_1998_dordevic",
+    "name": "Sinisa Dordevic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 48,
+      "dri": 40,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "yug_1998_djordjevic",
+    "name": "Dejan Govedarica",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 56,
+      "dri": 52,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "yug_1998_krstajic",
+    "name": "Mladen Krstajic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 44,
+      "dri": 38,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "yug_1998_brnovic",
+    "name": "Dragoslav Brnovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 50,
+      "dri": 56,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "yug_1998_acimovic",
+    "name": "Milenko Acimovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 60,
+      "dri": 56,
+      "def": 42,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "yug_1998_djordjevic2",
+    "name": "Goran Bunjevcevic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "yug_1998_vulic",
+    "name": "Sasa Ilic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 52,
+      "dri": 54,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "yug_1998_brnovic_gk",
+    "name": "Aleksandar Kocic",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 56,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1998_sakic",
+    "name": "Miroslav Djukic2",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 42,
+      "dri": 34,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1998_bjelica",
+    "name": "Nenad Bjelica",
+    "nation": "Yugoslavia",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 42,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "rou_1998_stelea",
+    "name": "Bogdan Stelea",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 7,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "rou_1998_petrescu",
+    "name": "Dan Petrescu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "pac": 80,
+      "sho": 48,
+      "pas": 70,
+      "dri": 68,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "rou_1998_ciobotariu",
+    "name": "Liviu Ciobotariu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "rou_1998_filipescu",
+    "name": "Mihai Filipescu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 75,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 52,
+      "dri": 44,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "rou_1998_popescu",
+    "name": "Gheorghe Popescu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 83,
+    "stats": {
+      "pac": 70,
+      "sho": 44,
+      "pas": 72,
+      "dri": 62,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "rou_1998_galca",
+    "name": "Xavier Galca",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 54,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1998_hagi",
+    "name": "Gheorghe Hagi",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 87,
+    "stats": {
+      "pac": 70,
+      "sho": 74,
+      "pas": 88,
+      "dri": 82,
+      "def": 42,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 24,
+      "assists": 3,
+      "progressive_passes": 54,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "rou_1998_munteanu",
+    "name": "Dorinel Munteanu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 70,
+      "dri": 64,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "rou_1998_selymes",
+    "name": "Tibor Selymes",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 66,
+      "dri": 58,
+      "def": 50,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1998_moldovan",
+    "name": "Viorel Moldovan",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 58,
+      "dri": 66,
+      "def": 26,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "rou_1998_ilie",
+    "name": "Adrian Ilie",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 82,
+      "sho": 70,
+      "pas": 58,
+      "dri": 74,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "rou_1998_prunea",
+    "name": "Florin Prunea",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 75,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 62,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "rou_1998_rotariu",
+    "name": "Dorinel Rotariu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 56,
+      "dri": 50,
+      "def": 46,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "rou_1998_belodedici",
+    "name": "Miodrag Belodedici",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 60,
+      "dri": 50,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1998_lupescu",
+    "name": "Ioan Lupescu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 68,
+      "dri": 60,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1998_contra",
+    "name": "Cosmin Contra",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 76,
+      "sho": 50,
+      "pas": 62,
+      "dri": 60,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "rou_1998_raducioiu",
+    "name": "Florin Raducioiu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 76,
+      "pas": 58,
+      "dri": 68,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "rou_1998_prodan",
+    "name": "Daniel Prodan",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 75,
+    "stats": {
+      "pac": 64,
+      "sho": 30,
+      "pas": 50,
+      "dri": 42,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "rou_1998_lacatus",
+    "name": "Marius Lacatus",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 58,
+      "dri": 62,
+      "def": 30,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "rou_1998_craioveanu",
+    "name": "Iulian Craioveanu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 50,
+      "dri": 56,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "rou_1998_iordanescu",
+    "name": "Cristian Iordanescu",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "rou_1998_stan",
+    "name": "Gheorghe Stan",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "rou_1998_ganea",
+    "name": "Ion Ganea",
+    "nation": "Romania",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 56,
+      "pas": 52,
+      "dri": 54,
+      "def": 28,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1998_zubizarreta",
+    "name": "Andoni Zubizarreta",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 6,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1998_ferrer",
+    "name": "Albert Ferrer",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 38,
+      "pas": 62,
+      "dri": 58,
+      "def": 76,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1998_sergi",
+    "name": "Sergi Barjuan",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 82,
+      "sho": 42,
+      "pas": 66,
+      "dri": 64,
+      "def": 76,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1998_abelardo",
+    "name": "Abelardo Fernandez",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 81,
+    "stats": {
+      "pac": 70,
+      "sho": 38,
+      "pas": 60,
+      "dri": 54,
+      "def": 82,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1998_hierro",
+    "name": "Fernando Hierro",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 87,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 72,
+      "dri": 60,
+      "def": 88,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1998_guardiola",
+    "name": "Pep Guardiola",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 84,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 88,
+      "dri": 74,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 1,
+      "progressive_passes": 50,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1998_luis_enrique",
+    "name": "Luis Enrique",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "pac": 80,
+      "sho": 70,
+      "pas": 72,
+      "dri": 76,
+      "def": 50,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1998_morientes",
+    "name": "Fernando Morientes",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 9,
+    "base_rating": 81,
+    "stats": {
+      "pac": 70,
+      "sho": 76,
+      "pas": 58,
+      "dri": 62,
+      "def": 28,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 1,
+      "progressive_passes": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1998_raul",
+    "name": "Raul",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 88,
+    "stats": {
+      "pac": 76,
+      "sho": 86,
+      "pas": 74,
+      "dri": 82,
+      "def": 32,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "esp_1998_kiko",
+    "name": "Kiko Narvaez",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 60,
+      "dri": 66,
+      "def": 30,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1998_alfonso",
+    "name": "Alfonso Perez",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 77,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 56,
+      "dri": 68,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_1998_molina",
+    "name": "Jose Molina",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 77,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1998_alkorta",
+    "name": "Rafael Alkorta",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 77,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1998_nadal",
+    "name": "Miguel Nadal",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1998_amor",
+    "name": "Guillermo Amor",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 72,
+      "dri": 62,
+      "def": 54,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1998_caminero",
+    "name": "Jose Caminero",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 68,
+      "dri": 64,
+      "def": 48,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_1998_urzaiz",
+    "name": "Ismael Urzaiz",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 70,
+      "pas": 50,
+      "dri": 58,
+      "def": 22,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_1998_belsue",
+    "name": "Julen Guerrero",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 58,
+      "pas": 62,
+      "dri": 64,
+      "def": 40,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1998_aguilera",
+    "name": "Juan Carlos Aguilera",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1998_etxeberria",
+    "name": "Joseba Etxeberria",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 75,
+    "stats": {
+      "pac": 78,
+      "sho": 66,
+      "pas": 58,
+      "dri": 68,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_1998_canizares",
+    "name": "Santiago Canizares",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 79,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_1998_pizzi",
+    "name": "Juan Antonio Pizzi",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 58,
+      "dri": 58,
+      "def": 30,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1998_llorente",
+    "name": "Aitor Karanka",
+    "nation": "Spain",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nga_1998_rufai",
+    "name": "Peter Rufai",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 1,
+      "goals_conceded": 5,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "nga_1998_babayaro",
+    "name": "Celestine Babayaro",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 42,
+      "pas": 62,
+      "dri": 62,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "nga_1998_west",
+    "name": "Taribo West",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 38,
+      "pas": 56,
+      "dri": 52,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "nga_1998_okpara",
+    "name": "Uche Okpara",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nga_1998_lawal",
+    "name": "Garba Lawal",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 42,
+      "pas": 58,
+      "dri": 52,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nga_1998_oruma",
+    "name": "Wilson Oruma",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 62,
+      "dri": 58,
+      "def": 46,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nga_1998_oliseh",
+    "name": "Sunday Oliseh",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 68,
+      "dri": 62,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "nga_1998_okocha",
+    "name": "Jay-Jay Okocha",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 86,
+    "stats": {
+      "pac": 76,
+      "sho": 70,
+      "pas": 80,
+      "dri": 86,
+      "def": 42,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 46,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "nga_1998_ikpeba",
+    "name": "Victor Ikpeba",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 80,
+      "sho": 72,
+      "pas": 60,
+      "dri": 72,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 360,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "nga_1998_kanu",
+    "name": "Nwankwo Kanu",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 80,
+      "pas": 72,
+      "dri": 82,
+      "def": 28,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 3,
+      "shots_on_target": 14,
+      "minutes_played": 360,
+      "goals_per90": 1.25
+    }
+  },
+  {
+    "id": "nga_1998_babangida",
+    "name": "Mohammed Babangida",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 84,
+      "sho": 60,
+      "pas": 62,
+      "dri": 72,
+      "def": 26,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "nga_1998_dosu",
+    "name": "Dosu Joseph",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 69.0,
+      "clean_sheets": 1,
+      "goals_conceded": 2,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nga_1998_adepoju",
+    "name": "Mutiu Adepoju",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 62,
+      "dri": 58,
+      "def": 48,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nga_1998_amunike",
+    "name": "Emmanuel Amunike",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 77,
+    "stats": {
+      "pac": 76,
+      "sho": 58,
+      "pas": 64,
+      "dri": 66,
+      "def": 38,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nga_1998_eguavoen",
+    "name": "Augustine Eguavoen",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nga_1998_finidi",
+    "name": "Finidi George",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "pac": 84,
+      "sho": 66,
+      "pas": 62,
+      "dri": 76,
+      "def": 28,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 1,
+      "progressive_passes": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nga_1998_lawal2",
+    "name": "Emmanuel Amuneke",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 52,
+      "dri": 58,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "nga_1998_okeke",
+    "name": "Chris Okeke",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nga_1998_nduka",
+    "name": "Nduka Ugbade",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 71,
+    "stats": {
+      "pac": 64,
+      "sho": 40,
+      "pas": 50,
+      "dri": 44,
+      "def": 38,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nga_1998_amokachi",
+    "name": "Daniel Amokachi",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 78,
+    "stats": {
+      "pac": 78,
+      "sho": 74,
+      "pas": 54,
+      "dri": 66,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "nga_1998_enyeama",
+    "name": "Vincent Enyeama",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 52,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nga_1998_shorunmu",
+    "name": "Ike Shorunmu",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 64,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nga_1998_george",
+    "name": "Mutiu George",
+    "nation": "Nigeria",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 38,
+      "pas": 46,
+      "dri": 42,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1998_campos",
+    "name": "Jorge Campos",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 50,
+      "dri": 44,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 7,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "mex_1998_davino",
+    "name": "Salvador Davino",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_1998_suarez",
+    "name": "Claudio Suarez",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 58,
+      "dri": 50,
+      "def": 80,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "mex_1998_ramirez",
+    "name": "Juan de Dios Ramirez",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1998_rodriguez",
+    "name": "German Villa",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mex_1998_pardo",
+    "name": "Pavel Pardo",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 77,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 64,
+      "dri": 58,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_1998_garcia_aspe",
+    "name": "Alberto Garcia Aspe",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 72,
+      "dri": 64,
+      "def": 52,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_1998_ramon_ramirez",
+    "name": "Ramon Ramirez",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 70,
+      "dri": 62,
+      "def": 50,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mex_1998_hernandez",
+    "name": "Jared Borgetti",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 76,
+      "pas": 54,
+      "dri": 62,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "mex_1998_blanco",
+    "name": "Cuauhtemoc Blanco",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "pac": 74,
+      "sho": 74,
+      "pas": 64,
+      "dri": 78,
+      "def": 28,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "mex_1998_palencia",
+    "name": "Francisco Palencia",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 75,
+    "stats": {
+      "pac": 74,
+      "sho": 64,
+      "pas": 58,
+      "dri": 64,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "mex_1998_sanchez",
+    "name": "Adolfo Lopez",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_1998_luna",
+    "name": "Roberto Bernal",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 56,
+      "dri": 52,
+      "def": 40,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mex_1998_ambriz",
+    "name": "Ignacio Ambriz",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 56,
+      "dri": 50,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mex_1998_vidrio",
+    "name": "Mario Vidrio",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 44,
+      "dri": 36,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mex_1998_sanchez2",
+    "name": "Alberto Medina",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 56,
+      "dri": 52,
+      "def": 38,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mex_1998_garcia",
+    "name": "Braulio Luna",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 71,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 48,
+      "dri": 52,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_1998_osorno",
+    "name": "Carlos Hermosillo",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 50,
+      "dri": 56,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_1998_abundis",
+    "name": "Oscar Ruggeri",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 48,
+      "dri": 44,
+      "def": 38,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1998_zague",
+    "name": "Zague",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 48,
+      "dri": 58,
+      "def": 20,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_1998_briones",
+    "name": "Felix Fernandez",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 0,
+      "goals_conceded": 2,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mex_1998_lapuente",
+    "name": "Jorge Rodarte",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 20,
+      "pas": 40,
+      "dri": 32,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1998_torrado",
+    "name": "Gerardo Torrado",
+    "nation": "Mexico",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 56,
+      "dri": 52,
+      "def": 46,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "sco_1998_leighton",
+    "name": "Jim Leighton",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 32,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 0,
+      "goals_conceded": 6,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sco_1998_mcnamara",
+    "name": "Jackie McNamara",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 34,
+      "pas": 54,
+      "dri": 50,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "sco_1998_dailly",
+    "name": "Christian Dailly",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 75,
+    "stats": {
+      "pac": 66,
+      "sho": 32,
+      "pas": 52,
+      "dri": 46,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sco_1998_weir",
+    "name": "David Weir",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 77,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 54,
+      "dri": 46,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sco_1998_hendry",
+    "name": "Colin Hendry",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 54,
+      "dri": 46,
+      "def": 80,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sco_1998_burley",
+    "name": "Craig Burley",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 66,
+      "dri": 58,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sco_1998_collins",
+    "name": "John Collins",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 72,
+      "dri": 62,
+      "def": 52,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sco_1998_mccall",
+    "name": "Stuart McCall",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 62,
+      "dri": 56,
+      "def": 56,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sco_1998_boyd",
+    "name": "Kevin Gallacher",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 78,
+      "sho": 70,
+      "pas": 54,
+      "dri": 64,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "sco_1998_lambert",
+    "name": "Paul Lambert",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 54,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "sco_1998_gallacher",
+    "name": "Kevin Gallacher2",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 75,
+    "stats": {
+      "pac": 76,
+      "sho": 66,
+      "pas": 52,
+      "dri": 60,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sco_1998_sullivan",
+    "name": "Neil Sullivan",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 8,
+      "pas": 42,
+      "dri": 30,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 0,
+      "goals_conceded": 3,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "sco_1998_calderwood",
+    "name": "Colin Calderwood",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 40,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "sco_1998_lamont",
+    "name": "Scot Gemmill",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 58,
+      "dri": 52,
+      "def": 46,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "sco_1998_durie",
+    "name": "Gordon Durie",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 50,
+      "dri": 56,
+      "def": 20,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sco_1998_mcleish",
+    "name": "Barry Ferguson",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 46,
+      "pas": 56,
+      "dri": 50,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "sco_1998_johnston",
+    "name": "Mo Johnston",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 48,
+      "dri": 52,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sco_1998_ritchie",
+    "name": "Paul Ritchie",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 71,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 44,
+      "dri": 36,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "sco_1998_clark",
+    "name": "Robert Clark",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 48,
+      "dri": 44,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "sco_1998_spencer",
+    "name": "John Spencer",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 71,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 46,
+      "dri": 50,
+      "def": 18,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sco_1998_gould",
+    "name": "Jonathan Gould",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 58,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 66.0,
+      "clean_sheets": 0,
+      "goals_conceded": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "sco_1998_whyte",
+    "name": "Derek Whyte",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "sco_1998_hartson",
+    "name": "John Hartson",
+    "nation": "Scotland",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 62,
+      "pas": 50,
+      "dri": 52,
+      "def": 24,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nor_1998_grodas",
+    "name": "Frode Grodas",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nor_1998_stensaas",
+    "name": "Stale Stensaas",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 34,
+      "pas": 54,
+      "dri": 50,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nor_1998_riseth",
+    "name": "Vidar Riseth",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nor_1998_johnsen",
+    "name": "Ronny Johnsen",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 82,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nor_1998_berg",
+    "name": "Henning Berg",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 56,
+      "dri": 48,
+      "def": 80,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nor_1998_bohinen",
+    "name": "Lars Bohinen",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 66,
+      "dri": 58,
+      "def": 52,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nor_1998_mykland",
+    "name": "Erik Mykland",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 68,
+      "dri": 62,
+      "def": 46,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nor_1998_solbakken",
+    "name": "Stale Solbakken",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 48,
+      "pas": 60,
+      "dri": 54,
+      "def": 48,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nor_1998_flo",
+    "name": "Tore Andre Flo",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 81,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 54,
+      "dri": 62,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "nor_1998_rekdal",
+    "name": "Kjetil Rekdal",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 66,
+      "dri": 60,
+      "def": 52,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "nor_1998_leonhardsen",
+    "name": "Oyvind Leonhardsen",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 60,
+      "pas": 62,
+      "dri": 64,
+      "def": 36,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "nor_1998_myhre",
+    "name": "Thomas Myhre",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 69.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nor_1998_halle",
+    "name": "Gunnar Halle",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 42,
+      "pas": 56,
+      "dri": 52,
+      "def": 46,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nor_1998_eggen",
+    "name": "Oyvind Leonhardsen2",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nor_1998_pedersen",
+    "name": "Frode Pedersen",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 40,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nor_1998_fjortoft",
+    "name": "Jan Aage Fjortoft",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 50,
+      "dri": 56,
+      "def": 22,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "nor_1998_berg2",
+    "name": "Jostein Flo",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 52,
+      "dri": 48,
+      "def": 36,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nor_1998_kvarme",
+    "name": "Bjorn Tore Kvarme",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 44,
+      "dri": 36,
+      "def": 64,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nor_1998_strand",
+    "name": "Roar Strand",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 42,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nor_1998_carew",
+    "name": "John Carew",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 50,
+      "dri": 58,
+      "def": 22,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "nor_1998_olsen",
+    "name": "Espen Baardsen",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nor_1998_lundekvam",
+    "name": "Claus Lundekvam",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 48,
+      "dri": 40,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nor_1998_solskjaer",
+    "name": "Ole Gunnar Solskjaer",
+    "nation": "Norway",
+    "wc_year": 1998,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 60,
+      "dri": 68,
+      "def": 26,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 1,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  }
+]

@@ -9,7 +9,7 @@ export const nationFlags = {
     'Mexico': '🇲🇽', 'Netherlands': '🇳🇱', 'Switzerland': '🇨🇭',
     // 2010
     'Ghana': '🇬🇭', 'Ivory Coast': '🇨🇮', 'Paraguay': '🇵🇾',
-    'USA': '🇺🇸',
+    'USA': '🇺🇸', 'United States': '🇺🇸',
     // 2006
     'Australia': '🇦🇺', 'Ecuador': '🇪🇨', 'Italy': '🇮🇹',
     'Ukraine': '🇺🇦',
@@ -20,6 +20,9 @@ export const nationFlags = {
     // 1998
     'Nigeria': '🇳🇬', 'Romania': '🇷🇴', 'Norway': '🇳🇴', 'Scotland': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
     'Yugoslavia': '🇷🇸',
+    // 2022
+    'Qatar': '🇶🇦', 'Saudi Arabia': '🇸🇦', 'Iran': '🇮🇷', 'Canada': '🇨🇦',
+    'Tunisia': '🇹🇳', 'Wales': '🏴󠁧󠁢󠁷󠁬󠁳󠁿', 'Serbia': '🇷🇸',
     // 1994
     'Bulgaria': '🇧🇬',
     // 1990

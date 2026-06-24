@@ -1,0 +1,8555 @@
+[
+  {
+    "id": "argentina_2022_franco_armani",
+    "name": "Franco Armani",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "argentina_2022_juan_foyth",
+    "name": "Juan Foyth",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "pac": 72,
+      "sho": 46,
+      "pas": 69,
+      "dri": 72,
+      "def": 80,
+      "phy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "argentina_2022_nicolas_tagliafico",
+    "name": "Nicolas Tagliafico",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 81,
+    "stats": {
+      "pac": 79,
+      "sho": 56,
+      "pas": 72,
+      "dri": 75,
+      "def": 80,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 13,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "argentina_2022_gonzalo_montiel",
+    "name": "Gonzalo Montiel",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 79,
+    "stats": {
+      "pac": 83,
+      "sho": 62,
+      "pas": 70,
+      "dri": 75,
+      "def": 75,
+      "phy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "argentina_2022_leandro_paredes",
+    "name": "Leandro Paredes",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "pac": 67,
+      "sho": 66,
+      "pas": 83,
+      "dri": 81,
+      "def": 75,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "argentina_2022_german_pezzella",
+    "name": "German Pezzella",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 77,
+    "stats": {
+      "pac": 51,
+      "sho": 49,
+      "pas": 49,
+      "dri": 56,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "argentina_2022_rodrigo_paul",
+    "name": "Rodrigo De Paul",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 77,
+      "pas": 83,
+      "dri": 82,
+      "def": 75,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 21,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "argentina_2022_marcos_acuna",
+    "name": "Marcos Acuna",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 8,
+    "base_rating": 85,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 83,
+      "dri": 86,
+      "def": 81,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "argentina_2022_julian_alvarez",
+    "name": "Julian Alvarez",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 79,
+    "stats": {
+      "pac": 79,
+      "sho": 80,
+      "pas": 75,
+      "dri": 83,
+      "def": 55,
+      "phy": 75
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 0,
+      "shots_on_target": 6,
+      "minutes_played": 630,
+      "goals_per90": 0.57
+    }
+  },
+  {
+    "id": "argentina_2022_lionel_messi",
+    "name": "Lionel Messi \ud83d\udc10",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 91,
+    "stats": {
+      "pac": 81,
+      "sho": 89,
+      "pas": 90,
+      "dri": 94,
+      "def": 34,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 7,
+      "assists": 3,
+      "shots_on_target": 40,
+      "minutes_played": 630,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "argentina_2022_angel_maria",
+    "name": "Angel Di Maria",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 79,
+      "sho": 78,
+      "pas": 86,
+      "dri": 88,
+      "def": 48,
+      "phy": 67
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 51,
+      "minutes_played": 450,
+      "goals_per90": 0.2
+    }
+  },
+  {
+    "id": "argentina_2022_geronimo_rulli",
+    "name": "Geronimo Rulli",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "argentina_2022_cristian_romero",
+    "name": "Cristian Romero",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 83,
+    "stats": {
+      "pac": 73,
+      "sho": 46,
+      "pas": 59,
+      "dri": 66,
+      "def": 85,
+      "phy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "argentina_2022_exequiel_palacios",
+    "name": "Exequiel Palacios",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 79,
+    "stats": {
+      "pac": 66,
+      "sho": 73,
+      "pas": 76,
+      "dri": 79,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 21,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "argentina_2022_angel_correa",
+    "name": "Angel Correa",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 15,
+    "base_rating": 83,
+    "stats": {
+      "pac": 85,
+      "sho": 84,
+      "pas": 77,
+      "dri": 87,
+      "def": 50,
+      "phy": 73
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "argentina_2022_thiago_almada",
+    "name": "Thiago Almada",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 85,
+      "sho": 72,
+      "pas": 71,
+      "dri": 82,
+      "def": 52,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "argentina_2022_alejandro_gomez",
+    "name": "Alejandro Gomez",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 84,
+    "stats": {
+      "pac": 84,
+      "sho": 77,
+      "pas": 82,
+      "dri": 86,
+      "def": 39,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "argentina_2022_guido_rodriguez",
+    "name": "Guido Rodriguez",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 82,
+    "stats": {
+      "pac": 55,
+      "sho": 58,
+      "pas": 71,
+      "dri": 68,
+      "def": 84,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "argentina_2022_nicolas_otamendi",
+    "name": "Nicolas Otamendi",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 81,
+    "stats": {
+      "pac": 64,
+      "sho": 57,
+      "pas": 64,
+      "dri": 59,
+      "def": 83,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "argentina_2022_alexis_allister",
+    "name": "Alexis Mac Allister",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 78,
+    "stats": {
+      "pac": 69,
+      "sho": 78,
+      "pas": 80,
+      "dri": 78,
+      "def": 67,
+      "phy": 69
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 16,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "argentina_2022_paulo_dybala",
+    "name": "Paulo Dybala",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 86,
+    "stats": {
+      "pac": 80,
+      "sho": 85,
+      "pas": 85,
+      "dri": 90,
+      "def": 40,
+      "phy": 59
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 17,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "argentina_2022_lautaro_martinez",
+    "name": "Lautaro Martinez",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 86,
+    "stats": {
+      "pac": 83,
+      "sho": 83,
+      "pas": 72,
+      "dri": 85,
+      "def": 48,
+      "phy": 84
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 17,
+      "minutes_played": 540,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "argentina_2022_emiliano_martinez",
+    "name": "Emiliano Martinez",
+    "nation": "Argentina",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 85,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 46.67,
+      "clean_sheets": 43,
+      "goals_conceded": 0,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "france_2022_hugo_lloris",
+    "name": "Hugo Lloris",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 87,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 70.83,
+      "clean_sheets": 17,
+      "goals_conceded": 0,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "france_2022_benjamin_pavard",
+    "name": "Benjamin Pavard",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 81,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 72,
+      "dri": 71,
+      "def": 83,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "france_2022_axel_disasi",
+    "name": "Axel Disasi",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 53,
+      "sho": 29,
+      "pas": 53,
+      "dri": 55,
+      "def": 79,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "france_2022_raphael_varane",
+    "name": "Raphael Varane",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 85,
+    "stats": {
+      "pac": 81,
+      "sho": 49,
+      "pas": 64,
+      "dri": 66,
+      "def": 86,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "france_2022_jules_kounde",
+    "name": "Jules Kounde",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 84,
+    "stats": {
+      "pac": 84,
+      "sho": 45,
+      "pas": 64,
+      "dri": 74,
+      "def": 85,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "france_2022_matteo_guendouzi",
+    "name": "Matteo Guendouzi",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 79,
+      "dri": 78,
+      "def": 77,
+      "phy": 81
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "france_2022_antoine_griezmann",
+    "name": "Antoine Griezmann",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 83,
+      "pas": 83,
+      "dri": 85,
+      "def": 57,
+      "phy": 73
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 3,
+      "shots_on_target": 16,
+      "minutes_played": 630,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "france_2022_aurelien_tchouameni",
+    "name": "Aurelien Tchouam\u00e9ni",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "pac": 73,
+      "sho": 70,
+      "pas": 79,
+      "dri": 78,
+      "def": 81,
+      "phy": 81
+    },
+    "wc_stats": {
+      "key_passes": 17,
+      "assists": 0,
+      "progressive_passes": 35,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "france_2022_olivier_giroud",
+    "name": "Olivier Giroud",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 42,
+      "sho": 83,
+      "pas": 72,
+      "dri": 73,
+      "def": 42,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 540,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "france_2022_kylian_mbappe",
+    "name": "Kylian Mbappe",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 91,
+    "stats": {
+      "pac": 97,
+      "sho": 89,
+      "pas": 80,
+      "dri": 92,
+      "def": 36,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 8,
+      "assists": 2,
+      "shots_on_target": 76,
+      "minutes_played": 630,
+      "goals_per90": 1.14
+    }
+  },
+  {
+    "id": "france_2022_ousmane_dembele",
+    "name": "Ousmane Dembele",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "pac": 93,
+      "sho": 77,
+      "pas": 79,
+      "dri": 87,
+      "def": 36,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 2,
+      "shots_on_target": 41,
+      "minutes_played": 630,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "france_2022_randal_muani",
+    "name": "Randal Kolo Muani",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 12,
+    "base_rating": 81,
+    "stats": {
+      "pac": 87,
+      "sho": 74,
+      "pas": 68,
+      "dri": 82,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 16,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "france_2022_ibrahima_konate",
+    "name": "Ibrahima Konate",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 81,
+    "stats": {
+      "pac": 77,
+      "sho": 34,
+      "pas": 57,
+      "dri": 67,
+      "def": 82,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 11,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "france_2022_adrien_rabiot",
+    "name": "Adrien Rabiot",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 81,
+    "stats": {
+      "pac": 76,
+      "sho": 73,
+      "pas": 78,
+      "dri": 79,
+      "def": 78,
+      "phy": 81
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "france_2022_jordan_veretout",
+    "name": "Jordan Veretout",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 75,
+      "pas": 76,
+      "dri": 78,
+      "def": 75,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "france_2022_steve_mandanda",
+    "name": "Steve Mandanda",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 66.67,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "france_2022_william_saliba",
+    "name": "William Saliba",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 81,
+    "stats": {
+      "pac": 81,
+      "sho": 39,
+      "pas": 67,
+      "dri": 72,
+      "def": 82,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "france_2022_dayot_upamecano",
+    "name": "Dayot Upamecano",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 83,
+    "stats": {
+      "pac": 82,
+      "sho": 43,
+      "pas": 62,
+      "dri": 70,
+      "def": 82,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "france_2022_youssouf_fofana",
+    "name": "Youssouf Fofana",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 80,
+    "stats": {
+      "pac": 71,
+      "sho": 67,
+      "pas": 74,
+      "dri": 77,
+      "def": 76,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "france_2022_kingsley_coman",
+    "name": "Kingsley Coman",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 86,
+    "stats": {
+      "pac": 92,
+      "sho": 77,
+      "pas": 79,
+      "dri": 87,
+      "def": 30,
+      "phy": 61
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 44,
+      "minutes_played": 540,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "france_2022_lucas_hernandez",
+    "name": "Lucas Hernandez",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 84,
+    "stats": {
+      "pac": 77,
+      "sho": 54,
+      "pas": 70,
+      "dri": 71,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "france_2022_theo_hernandez",
+    "name": "Theo Hernandez",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 85,
+    "stats": {
+      "pac": 93,
+      "sho": 72,
+      "pas": 76,
+      "dri": 81,
+      "def": 78,
+      "phy": 83
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "france_2022_alphonse_areola",
+    "name": "Alphonse Areola",
+    "nation": "France",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 81,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "croatia_2022_dominik_livakovic",
+    "name": "Dominik Livakovic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 81,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 78.12,
+      "clean_sheets": 28,
+      "goals_conceded": 0,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "croatia_2022_josip_stanisic",
+    "name": "Josip Stanisic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 73,
+    "stats": {
+      "pac": 71,
+      "sho": 39,
+      "pas": 56,
+      "dri": 64,
+      "def": 74,
+      "phy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "croatia_2022_borna_barisic",
+    "name": "Borna Barisic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 61,
+      "pas": 74,
+      "dri": 70,
+      "def": 69,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "croatia_2022_ivan_perisic",
+    "name": "Ivan Perisic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 81,
+      "pas": 79,
+      "dri": 82,
+      "def": 74,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 3,
+      "shots_on_target": 17,
+      "minutes_played": 630,
+      "goals_per90": 0.14
+    }
+  },
+  {
+    "id": "croatia_2022_martin_erlic",
+    "name": "Martin Erlic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 34,
+      "pas": 49,
+      "dri": 52,
+      "def": 74,
+      "phy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "croatia_2022_dejan_lovren",
+    "name": "Dejan Lovren",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 53,
+      "sho": 40,
+      "pas": 60,
+      "dri": 62,
+      "def": 80,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "croatia_2022_lovro_majer",
+    "name": "Lovro Majer",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 69,
+      "sho": 73,
+      "pas": 81,
+      "dri": 83,
+      "def": 60,
+      "phy": 67
+    },
+    "wc_stats": {
+      "key_passes": 13,
+      "assists": 0,
+      "progressive_passes": 27,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "croatia_2022_mateo_kovacic",
+    "name": "Mateo Kovacic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 69,
+      "pas": 83,
+      "dri": 88,
+      "def": 71,
+      "phy": 71
+    },
+    "wc_stats": {
+      "key_passes": 19,
+      "assists": 0,
+      "progressive_passes": 37,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "croatia_2022_andrej_kramaric",
+    "name": "Andrej Kramaric",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 71,
+      "sho": 80,
+      "pas": 79,
+      "dri": 85,
+      "def": 30,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 14,
+      "minutes_played": 630,
+      "goals_per90": 0.29
+    }
+  },
+  {
+    "id": "croatia_2022_luka_modric",
+    "name": "Luka Modric",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 73,
+      "sho": 76,
+      "pas": 89,
+      "dri": 88,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 0,
+      "progressive_passes": 33,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "croatia_2022_marcelo_brozovic",
+    "name": "Marcelo Brozovic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 86,
+    "stats": {
+      "pac": 69,
+      "sho": 74,
+      "pas": 81,
+      "dri": 81,
+      "def": 81,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 0,
+      "progressive_passes": 17,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "croatia_2022_ivo_grbic",
+    "name": "Ivo Grbic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "croatia_2022_nikola_vlasic",
+    "name": "Nikola Vlasic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 79,
+      "sho": 76,
+      "pas": 75,
+      "dri": 81,
+      "def": 47,
+      "phy": 69
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 0,
+      "progressive_passes": 28,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "croatia_2022_marko_livaja",
+    "name": "Marko Livaja",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 77,
+    "stats": {
+      "pac": 78,
+      "sho": 78,
+      "pas": 70,
+      "dri": 78,
+      "def": 38,
+      "phy": 82
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 7,
+      "minutes_played": 540,
+      "goals_per90": 0.17
+    }
+  },
+  {
+    "id": "croatia_2022_mario_pasalic",
+    "name": "Mario Pasalic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 81,
+    "stats": {
+      "pac": 75,
+      "sho": 79,
+      "pas": 76,
+      "dri": 81,
+      "def": 67,
+      "phy": 77
+    },
+    "wc_stats": {
+      "key_passes": 15,
+      "assists": 0,
+      "progressive_passes": 30,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "croatia_2022_bruno_petkovic",
+    "name": "Bruno Petkovic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 75,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 76,
+      "dri": 78,
+      "def": 39,
+      "phy": 75
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 11,
+      "minutes_played": 540,
+      "goals_per90": 0.17
+    }
+  },
+  {
+    "id": "croatia_2022_ante_budimir",
+    "name": "Ante Budimir",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 76,
+      "pas": 49,
+      "dri": 72,
+      "def": 35,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "croatia_2022_mislav_orsic",
+    "name": "Mislav Orsic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 78,
+    "stats": {
+      "pac": 89,
+      "sho": 83,
+      "pas": 72,
+      "dri": 76,
+      "def": 59,
+      "phy": 63
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 15,
+      "minutes_played": 540,
+      "goals_per90": 0.17
+    }
+  },
+  {
+    "id": "croatia_2022_borna_sosa",
+    "name": "Borna Sosa",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 79,
+    "stats": {
+      "pac": 79,
+      "sho": 53,
+      "pas": 78,
+      "dri": 78,
+      "def": 73,
+      "phy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "croatia_2022_josko_gvardiol",
+    "name": "Josko Gvardiol",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 82,
+    "stats": {
+      "pac": 81,
+      "sho": 54,
+      "pas": 69,
+      "dri": 74,
+      "def": 82,
+      "phy": 83
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 11,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "croatia_2022_domagoj_vida",
+    "name": "Domagoj Vida",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 40,
+      "pas": 58,
+      "dri": 59,
+      "def": 78,
+      "phy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "croatia_2022_josip_juranovic",
+    "name": "Josip Juranovic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 75,
+    "stats": {
+      "pac": 86,
+      "sho": 64,
+      "pas": 73,
+      "dri": 74,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "croatia_2022_ivica_ivusic",
+    "name": "Ivica Ivusic",
+    "nation": "Croatia",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "morocco_2022_yassine_bounou",
+    "name": "Yassine Bounou",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 85,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 58.33,
+      "clean_sheets": 50,
+      "goals_conceded": 0,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "morocco_2022_achraf_hakimi",
+    "name": "Achraf Hakimi",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 84,
+    "stats": {
+      "pac": 92,
+      "sho": 75,
+      "pas": 79,
+      "dri": 80,
+      "def": 75,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 9,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "morocco_2022_noussair_mazraoui",
+    "name": "Noussair Mazraoui",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 82,
+    "stats": {
+      "pac": 81,
+      "sho": 66,
+      "pas": 77,
+      "dri": 82,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "morocco_2022_sofyan_amrabat",
+    "name": "Sofyan Amrabat",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 71,
+      "pas": 70,
+      "dri": 75,
+      "def": 73,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "morocco_2022_nayef_aguerd",
+    "name": "Nayef Aguerd",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "pac": 73,
+      "sho": 50,
+      "pas": 64,
+      "dri": 65,
+      "def": 80,
+      "phy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "morocco_2022_roman_saiss",
+    "name": "Roman Saiss",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 61,
+      "sho": 56,
+      "pas": 70,
+      "dri": 66,
+      "def": 78,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "morocco_2022_hakim_ziyech",
+    "name": "Hakim Ziyech",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 83,
+    "stats": {
+      "pac": 76,
+      "sho": 77,
+      "pas": 87,
+      "dri": 83,
+      "def": 50,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 39,
+      "minutes_played": 630,
+      "goals_per90": 0.14
+    }
+  },
+  {
+    "id": "morocco_2022_azzedine_ounahi",
+    "name": "Azzedine Ounahi",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 73,
+    "stats": {
+      "pac": 65,
+      "sho": 62,
+      "pas": 71,
+      "dri": 74,
+      "def": 61,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 0,
+      "progressive_passes": 36,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "morocco_2022_abderrazak_hamdallah",
+    "name": "Abderrazak Hamdallah",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 76,
+      "pas": 70,
+      "dri": 75,
+      "def": 30,
+      "phy": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 25,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "morocco_2022_anass_zaroury",
+    "name": "Anass Zaroury",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 72,
+    "stats": {
+      "pac": 83,
+      "sho": 66,
+      "pas": 66,
+      "dri": 76,
+      "def": 27,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "morocco_2022_abdelhamid_sabiri",
+    "name": "Abdelhamid Sabiri",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 69,
+      "pas": 69,
+      "dri": 77,
+      "def": 56,
+      "phy": 65
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 0,
+      "progressive_passes": 36,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "morocco_2022_munir_mohamedi",
+    "name": "Munir Mohamedi",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 100.0,
+      "clean_sheets": 100,
+      "goals_conceded": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "morocco_2022_ilias_chair",
+    "name": "Ilias Chair",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 76,
+      "sho": 67,
+      "pas": 69,
+      "dri": 74,
+      "def": 32,
+      "phy": 48
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "morocco_2022_zakaria_aboukhlal",
+    "name": "Zakaria Aboukhlal",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 86,
+      "sho": 70,
+      "pas": 67,
+      "dri": 73,
+      "def": 41,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "morocco_2022_selim_amallah",
+    "name": "Selim Amallah",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 75,
+      "pas": 72,
+      "dri": 74,
+      "def": 63,
+      "phy": 75
+    },
+    "wc_stats": {
+      "key_passes": 15,
+      "assists": 0,
+      "progressive_passes": 30,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "morocco_2022_abde_ezzalzouli",
+    "name": "Abde Ezzalzouli",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 80,
+      "sho": 62,
+      "pas": 62,
+      "dri": 77,
+      "def": 27,
+      "phy": 48
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "morocco_2022_sofiane_boufal",
+    "name": "Sofiane Boufal",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "pac": 79,
+      "sho": 71,
+      "pas": 75,
+      "dri": 84,
+      "def": 30,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 43,
+      "minutes_played": 630,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "morocco_2022_jawad_yamiq",
+    "name": "Jawad El Yamiq",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 75,
+    "stats": {
+      "pac": 86,
+      "sho": 48,
+      "pas": 52,
+      "dri": 62,
+      "def": 75,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 9,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "morocco_2022_youssef_nesyri",
+    "name": "Youssef En-Nesyri",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 80,
+    "stats": {
+      "pac": 81,
+      "sho": 80,
+      "pas": 60,
+      "dri": 74,
+      "def": 35,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 12,
+      "minutes_played": 630,
+      "goals_per90": 0.29
+    }
+  },
+  {
+    "id": "morocco_2022_achraf_dari",
+    "name": "Achraf Dari",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 69,
+    "stats": {
+      "pac": 62,
+      "sho": 31,
+      "pas": 49,
+      "dri": 51,
+      "def": 71,
+      "phy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 9,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "morocco_2022_walid_cheddira",
+    "name": "Walid Cheddira",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 69,
+    "stats": {
+      "pac": 78,
+      "sho": 69,
+      "pas": 62,
+      "dri": 65,
+      "def": 40,
+      "phy": 73
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "morocco_2022_ahmed_tagnaouti",
+    "name": "Ahmed Reda Tagnaouti",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "morocco_2022_bilal_khannous",
+    "name": "Bilal El Khannous",
+    "nation": "Morocco",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 65,
+    "stats": {
+      "pac": 72,
+      "sho": 48,
+      "pas": 68,
+      "dri": 72,
+      "def": 34,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "england_2022_jordan_pickford",
+    "name": "Jordan Pickford",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 63.64,
+      "clean_sheets": 60,
+      "goals_conceded": 0,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "england_2022_kyle_walker",
+    "name": "Kyle Walker",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 85,
+    "stats": {
+      "pac": 91,
+      "sho": 63,
+      "pas": 77,
+      "dri": 78,
+      "def": 80,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "england_2022_luke_shaw",
+    "name": "Luke Shaw",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 81,
+    "stats": {
+      "pac": 76,
+      "sho": 56,
+      "pas": 80,
+      "dri": 79,
+      "def": 80,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "england_2022_declan_rice",
+    "name": "Declan Rice",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "pac": 71,
+      "sho": 65,
+      "pas": 75,
+      "dri": 76,
+      "def": 82,
+      "phy": 83
+    },
+    "wc_stats": {
+      "key_passes": 13,
+      "assists": 0,
+      "progressive_passes": 25,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "england_2022_john_stones",
+    "name": "John Stones",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 83,
+    "stats": {
+      "pac": 72,
+      "sho": 51,
+      "pas": 71,
+      "dri": 75,
+      "def": 84,
+      "phy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "england_2022_harry_maguire",
+    "name": "Harry Maguire",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 81,
+    "stats": {
+      "pac": 48,
+      "sho": 57,
+      "pas": 68,
+      "dri": 67,
+      "def": 80,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "england_2022_jack_grealish",
+    "name": "Jack Grealish",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 83,
+      "dri": 87,
+      "def": 46,
+      "phy": 69
+    },
+    "wc_stats": {
+      "key_passes": 40,
+      "assists": 0,
+      "progressive_passes": 79,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "england_2022_jordan_henderson",
+    "name": "Jordan Henderson",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "pac": 66,
+      "sho": 74,
+      "pas": 83,
+      "dri": 78,
+      "def": 78,
+      "phy": 81
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "england_2022_harry_kane",
+    "name": "Harry Kane",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 89,
+    "stats": {
+      "pac": 69,
+      "sho": 91,
+      "pas": 83,
+      "dri": 83,
+      "def": 47,
+      "phy": 82
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 3,
+      "shots_on_target": 12,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "england_2022_raheem_sterling",
+    "name": "Raheem Sterling",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 86,
+    "stats": {
+      "pac": 90,
+      "sho": 80,
+      "pas": 78,
+      "dri": 86,
+      "def": 45,
+      "phy": 67
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "england_2022_marcus_rashford",
+    "name": "Marcus Rashford",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "pac": 88,
+      "sho": 82,
+      "pas": 76,
+      "dri": 83,
+      "def": 42,
+      "phy": 73
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 39,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "england_2022_kieran_trippier",
+    "name": "Kieran Trippier",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 65,
+      "pas": 84,
+      "dri": 77,
+      "def": 81,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "england_2022_nick_pope",
+    "name": "Nick Pope",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 83,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "england_2022_kalvin_phillips",
+    "name": "Kalvin Phillips",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 81,
+    "stats": {
+      "pac": 66,
+      "sho": 65,
+      "pas": 77,
+      "dri": 76,
+      "def": 79,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 1,
+      "progressive_passes": 0,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "england_2022_eric_dier",
+    "name": "Eric Dier",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 54,
+      "sho": 64,
+      "pas": 70,
+      "dri": 64,
+      "def": 79,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "england_2022_conor_coady",
+    "name": "Conor Coady",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "pac": 47,
+      "sho": 57,
+      "pas": 75,
+      "dri": 66,
+      "def": 80,
+      "phy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "england_2022_bukayo_saka",
+    "name": "Bukayo Saka",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 83,
+    "stats": {
+      "pac": 85,
+      "sho": 74,
+      "pas": 78,
+      "dri": 84,
+      "def": 65,
+      "phy": 65
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 15,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "england_2022_trent_arnold",
+    "name": "Trent Alexander-Arnold",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 87,
+    "stats": {
+      "pac": 76,
+      "sho": 69,
+      "pas": 89,
+      "dri": 80,
+      "def": 80,
+      "phy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "england_2022_mason_mount",
+    "name": "Mason Mount",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 84,
+    "stats": {
+      "pac": 74,
+      "sho": 81,
+      "pas": 85,
+      "dri": 82,
+      "def": 55,
+      "phy": 67
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "england_2022_phil_foden",
+    "name": "Phil Foden",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 85,
+    "stats": {
+      "pac": 82,
+      "sho": 78,
+      "pas": 83,
+      "dri": 88,
+      "def": 57,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 13,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "england_2022_conor_gallagher",
+    "name": "Conor Gallagher",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 79,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 75,
+      "dri": 78,
+      "def": 67,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "england_2022_jude_bellingham",
+    "name": "Jude Bellingham",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 85,
+    "stats": {
+      "pac": 72,
+      "sho": 75,
+      "pas": 79,
+      "dri": 84,
+      "def": 78,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 1,
+      "progressive_passes": 39,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "england_2022_aaron_ramsdale",
+    "name": "Aaron Ramsdale",
+    "nation": "England",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "netherlands_2022_remko_pasveer",
+    "name": "Remko Pasveer",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "netherlands_2022_jurrien_timber",
+    "name": "Jurrien Timber",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 81,
+      "sho": 47,
+      "pas": 67,
+      "dri": 77,
+      "def": 81,
+      "phy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "netherlands_2022_matthijs_ligt",
+    "name": "Matthijs de Ligt",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 85,
+    "stats": {
+      "pac": 70,
+      "sho": 59,
+      "pas": 61,
+      "dri": 68,
+      "def": 84,
+      "phy": 87
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "netherlands_2022_virgil_dijk",
+    "name": "Virgil van Dijk",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 90,
+    "stats": {
+      "pac": 81,
+      "sho": 60,
+      "pas": 71,
+      "dri": 72,
+      "def": 91,
+      "phy": 86
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "netherlands_2022_nathan_ake",
+    "name": "Nathan Ake",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 53,
+      "pas": 70,
+      "dri": 71,
+      "def": 80,
+      "phy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "netherlands_2022_stefan_vrij",
+    "name": "Stefan de Vrij",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 68,
+      "sho": 41,
+      "pas": 65,
+      "dri": 69,
+      "def": 87,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "netherlands_2022_steven_bergwijn",
+    "name": "Steven Bergwijn",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 81,
+    "stats": {
+      "pac": 86,
+      "sho": 79,
+      "pas": 75,
+      "dri": 83,
+      "def": 42,
+      "phy": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "netherlands_2022_cody_gakpo",
+    "name": "Cody Gakpo",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "pac": 85,
+      "sho": 82,
+      "pas": 77,
+      "dri": 84,
+      "def": 42,
+      "phy": 73
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 13,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "netherlands_2022_luuk_jong",
+    "name": "Luuk de Jong",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 79,
+    "stats": {
+      "pac": 45,
+      "sho": 78,
+      "pas": 71,
+      "dri": 70,
+      "def": 46,
+      "phy": 77
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "netherlands_2022_memphis_depay",
+    "name": "Memphis Depay",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 85,
+    "stats": {
+      "pac": 83,
+      "sho": 84,
+      "pas": 82,
+      "dri": 86,
+      "def": 30,
+      "phy": 79
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 12,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "netherlands_2022_steven_berghuis",
+    "name": "Steven Berghuis",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "pac": 78,
+      "sho": 82,
+      "pas": 83,
+      "dri": 82,
+      "def": 40,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 13,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "netherlands_2022_noa_lang",
+    "name": "Noa Lang",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 86,
+      "sho": 73,
+      "pas": 72,
+      "dri": 83,
+      "def": 50,
+      "phy": 67
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "netherlands_2022_justin_bijlow",
+    "name": "Justin Bijlow",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "netherlands_2022_davy_klaassen",
+    "name": "Davy Klaassen",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 79,
+    "stats": {
+      "pac": 68,
+      "sho": 80,
+      "pas": 74,
+      "dri": 76,
+      "def": 73,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 2,
+      "progressive_passes": 7,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "netherlands_2022_maarten_roon",
+    "name": "Maarten de Roon",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 68,
+      "pas": 70,
+      "dri": 71,
+      "def": 82,
+      "phy": 83
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "netherlands_2022_tyrell_malacia",
+    "name": "Tyrell Malacia",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "pac": 85,
+      "sho": 56,
+      "pas": 66,
+      "dri": 77,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "netherlands_2022_daley_blind",
+    "name": "Daley Blind",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "pac": 42,
+      "sho": 62,
+      "pas": 82,
+      "dri": 79,
+      "def": 81,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "netherlands_2022_vincent_janssen",
+    "name": "Vincent Janssen",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 75,
+    "stats": {
+      "pac": 73,
+      "sho": 74,
+      "pas": 61,
+      "dri": 69,
+      "def": 41,
+      "phy": 83
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "netherlands_2022_wout_weghorst",
+    "name": "Wout Weghorst",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 79,
+    "stats": {
+      "pac": 59,
+      "sho": 77,
+      "pas": 60,
+      "dri": 69,
+      "def": 52,
+      "phy": 87
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "netherlands_2022_teun_koopmeiners",
+    "name": "Teun Koopmeiners",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 80,
+      "dri": 76,
+      "def": 76,
+      "phy": 77
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 15,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "netherlands_2022_frenkie_jong",
+    "name": "Frenkie de Jong",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 87,
+    "stats": {
+      "pac": 82,
+      "sho": 69,
+      "pas": 86,
+      "dri": 87,
+      "def": 77,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "netherlands_2022_denzel_dumfries",
+    "name": "Denzel Dumfries",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 82,
+    "stats": {
+      "pac": 83,
+      "sho": 63,
+      "pas": 70,
+      "dri": 73,
+      "def": 78,
+      "phy": 89
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "netherlands_2022_andries_noppert",
+    "name": "Andries Noppert",
+    "nation": "Netherlands",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 81.82,
+      "clean_sheets": 40,
+      "goals_conceded": 0,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "brazil_2022_alisson",
+    "name": "Alisson",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 89,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 71.43,
+      "clean_sheets": 50,
+      "goals_conceded": 0,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "brazil_2022_danilo",
+    "name": "Danilo",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 81,
+    "stats": {
+      "pac": 73,
+      "sho": 67,
+      "pas": 73,
+      "dri": 74,
+      "def": 82,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "brazil_2022_thiago_silva",
+    "name": "Thiago Silva",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 86,
+    "stats": {
+      "pac": 49,
+      "sho": 54,
+      "pas": 73,
+      "dri": 72,
+      "def": 87,
+      "phy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "brazil_2022_marquinhos",
+    "name": "Marquinhos",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 88,
+    "stats": {
+      "pac": 79,
+      "sho": 56,
+      "pas": 75,
+      "dri": 74,
+      "def": 89,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "brazil_2022_casemiro",
+    "name": "Casemiro",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 89,
+    "stats": {
+      "pac": 63,
+      "sho": 73,
+      "pas": 78,
+      "dri": 73,
+      "def": 88,
+      "phy": 89
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "brazil_2022_alex_sandro",
+    "name": "Alex Sandro",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 75,
+      "sho": 65,
+      "pas": 74,
+      "dri": 79,
+      "def": 76,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "brazil_2022_lucas_paqueta",
+    "name": "Lucas Paqueta",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 77,
+      "pas": 79,
+      "dri": 85,
+      "def": 69,
+      "phy": 77
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 1,
+      "progressive_passes": 6,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "brazil_2022_fred",
+    "name": "Fred",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 67,
+      "pas": 78,
+      "dri": 81,
+      "def": 75,
+      "phy": 71
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "brazil_2022_richarlison",
+    "name": "Richarlison",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 81,
+    "stats": {
+      "pac": 82,
+      "sho": 79,
+      "pas": 72,
+      "dri": 82,
+      "def": 53,
+      "phy": 79
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "brazil_2022_neymar",
+    "name": "Neymar",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 89,
+    "stats": {
+      "pac": 87,
+      "sho": 83,
+      "pas": 85,
+      "dri": 93,
+      "def": 37,
+      "phy": 61
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 26,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "brazil_2022_raphinha",
+    "name": "Raphinha",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "pac": 91,
+      "sho": 79,
+      "pas": 77,
+      "dri": 85,
+      "def": 50,
+      "phy": 73
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 21,
+      "minutes_played": 450,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "brazil_2022_weverton",
+    "name": "Weverton",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "brazil_2022_dani_alves",
+    "name": "Dani Alves",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 71,
+      "sho": 76,
+      "pas": 61,
+      "dri": 73,
+      "def": 41,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "brazil_2022_eder_militao",
+    "name": "Eder Militao",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 84,
+    "stats": {
+      "pac": 86,
+      "sho": 50,
+      "pas": 70,
+      "dri": 72,
+      "def": 85,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "brazil_2022_fabinho",
+    "name": "Fabinho",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 87,
+    "stats": {
+      "pac": 66,
+      "sho": 69,
+      "pas": 78,
+      "dri": 77,
+      "def": 86,
+      "phy": 83
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "brazil_2022_alex_telles",
+    "name": "Alex Telles",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 79,
+      "sho": 74,
+      "pas": 81,
+      "dri": 77,
+      "def": 75,
+      "phy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "brazil_2022_bruno_guimaraes",
+    "name": "Bruno Guimaraes",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 83,
+    "stats": {
+      "pac": 69,
+      "sho": 69,
+      "pas": 80,
+      "dri": 83,
+      "def": 79,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "brazil_2022_gabriel_jesus",
+    "name": "Gabriel Jesus",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 84,
+    "stats": {
+      "pac": 84,
+      "sho": 82,
+      "pas": 75,
+      "dri": 88,
+      "def": 40,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 9,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "brazil_2022_antony",
+    "name": "Antony",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 82,
+    "stats": {
+      "pac": 90,
+      "sho": 75,
+      "pas": 75,
+      "dri": 86,
+      "def": 46,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 41,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "brazil_2022_vinicius_jr",
+    "name": "Vinicius Jr",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 86,
+    "stats": {
+      "pac": 95,
+      "sho": 79,
+      "pas": 74,
+      "dri": 90,
+      "def": 29,
+      "phy": 67
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 23,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "brazil_2022_rodrygo",
+    "name": "Rodrygo",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 81,
+    "stats": {
+      "pac": 88,
+      "sho": 77,
+      "pas": 74,
+      "dri": 84,
+      "def": 32,
+      "phy": 61
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 23,
+      "minutes_played": 450,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "brazil_2022_everton_ribeiro",
+    "name": "Everton Ribeiro",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 73,
+      "dri": 74,
+      "def": 75,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "brazil_2022_ederson",
+    "name": "Ederson",
+    "nation": "Brazil",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 89,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 66.67,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "portugal_2022_rui_patricio",
+    "name": "Rui Patricio",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "portugal_2022_diogo_dalot",
+    "name": "Diogo Dalot",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 83,
+      "sho": 61,
+      "pas": 77,
+      "dri": 79,
+      "def": 76,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "portugal_2022_pepe",
+    "name": "Pepe",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 81,
+    "stats": {
+      "pac": 77,
+      "sho": 51,
+      "pas": 60,
+      "dri": 61,
+      "def": 81,
+      "phy": 87
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "portugal_2022_ruben_dias",
+    "name": "Ruben Dias",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 88,
+    "stats": {
+      "pac": 63,
+      "sho": 39,
+      "pas": 66,
+      "dri": 68,
+      "def": 88,
+      "phy": 88
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "portugal_2022_raphael_guerreiro",
+    "name": "Raphael Guerreiro",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 82,
+    "stats": {
+      "pac": 73,
+      "sho": 78,
+      "pas": 86,
+      "dri": 87,
+      "def": 75,
+      "phy": 55
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "portugal_2022_joao_palhinha",
+    "name": "Joao Palhinha",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 81,
+    "stats": {
+      "pac": 59,
+      "sho": 65,
+      "pas": 70,
+      "dri": 72,
+      "def": 82,
+      "phy": 89
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 0,
+      "progressive_passes": 28,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "portugal_2022_cristiano_ronaldo",
+    "name": "Cristiano Ronaldo \ud83d\udc10",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 90,
+    "stats": {
+      "pac": 81,
+      "sho": 91,
+      "pas": 78,
+      "dri": 85,
+      "def": 34,
+      "phy": 73
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 450,
+      "goals_per90": 0.2
+    }
+  },
+  {
+    "id": "portugal_2022_bruno_fernandes",
+    "name": "Bruno Fernandes",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 86,
+      "pas": 87,
+      "dri": 81,
+      "def": 68,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 3,
+      "progressive_passes": 9,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "portugal_2022_antonio_silva",
+    "name": "Antonio Silva",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 9,
+    "base_rating": 75,
+    "stats": {
+      "pac": 79,
+      "sho": 31,
+      "pas": 62,
+      "dri": 68,
+      "def": 76,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "portugal_2022_bernardo_silva",
+    "name": "Bernardo Silva",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 74,
+      "sho": 78,
+      "pas": 84,
+      "dri": 92,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "portugal_2022_joao_felix",
+    "name": "Joao Felix",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 83,
+      "sho": 80,
+      "pas": 81,
+      "dri": 88,
+      "def": 40,
+      "phy": 67
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 13,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "portugal_2022_jose_sa",
+    "name": "Jose Sa",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 81,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "portugal_2022_danilo_pereira",
+    "name": "Danilo Pereira",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 80,
+    "stats": {
+      "pac": 56,
+      "sho": 63,
+      "pas": 70,
+      "dri": 71,
+      "def": 79,
+      "phy": 85
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "portugal_2022_william_carvalho",
+    "name": "William Carvalho",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 81,
+    "stats": {
+      "pac": 43,
+      "sho": 66,
+      "pas": 78,
+      "dri": 75,
+      "def": 76,
+      "phy": 83
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "portugal_2022_rafael_leao",
+    "name": "Rafael Leao",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 15,
+    "base_rating": 84,
+    "stats": {
+      "pac": 91,
+      "sho": 77,
+      "pas": 73,
+      "dri": 86,
+      "def": 27,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 49,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "portugal_2022_vitinha",
+    "name": "Vitinha",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "pac": 73,
+      "sho": 68,
+      "pas": 79,
+      "dri": 83,
+      "def": 67,
+      "phy": 55
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "portugal_2022_joao_mario",
+    "name": "Joao Mario",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 81,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 82,
+      "dri": 83,
+      "def": 69,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "portugal_2022_ruben_neves",
+    "name": "Ruben Neves",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 84,
+    "stats": {
+      "pac": 59,
+      "sho": 74,
+      "pas": 86,
+      "dri": 77,
+      "def": 76,
+      "phy": 73
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "portugal_2022_nuno_mendes",
+    "name": "Nuno Mendes",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 80,
+    "stats": {
+      "pac": 89,
+      "sho": 57,
+      "pas": 73,
+      "dri": 78,
+      "def": 74,
+      "phy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "portugal_2022_joao_cancelo",
+    "name": "Joao Cancelo",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 88,
+    "stats": {
+      "pac": 85,
+      "sho": 73,
+      "pas": 85,
+      "dri": 85,
+      "def": 81,
+      "phy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "portugal_2022_ricardo_horta",
+    "name": "Ricardo Horta",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 81,
+    "stats": {
+      "pac": 79,
+      "sho": 82,
+      "pas": 79,
+      "dri": 80,
+      "def": 43,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "portugal_2022_diogo_costa",
+    "name": "Diogo Costa",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 81,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 64.17,
+      "clean_sheets": 20,
+      "goals_conceded": 0,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "portugal_2022_matheus_nunes",
+    "name": "Matheus Nunes",
+    "nation": "Portugal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 79,
+    "stats": {
+      "pac": 84,
+      "sho": 71,
+      "pas": 73,
+      "dri": 82,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "spain_2022_robert_sanchez",
+    "name": "Robert Sanchez",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "spain_2022_cesar_azpilicueta",
+    "name": "Cesar Azpilicueta",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "pac": 64,
+      "sho": 55,
+      "pas": 76,
+      "dri": 72,
+      "def": 84,
+      "phy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "spain_2022_eric_garcia",
+    "name": "Eric Garcia",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 77,
+    "stats": {
+      "pac": 62,
+      "sho": 44,
+      "pas": 71,
+      "dri": 68,
+      "def": 78,
+      "phy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "spain_2022_pau_torrres",
+    "name": "Pau Torrres",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 83,
+    "stats": {
+      "pac": 74,
+      "sho": 35,
+      "pas": 68,
+      "dri": 64,
+      "def": 83,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "spain_2022_sergio_busquets",
+    "name": "Sergio Busquets",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 85,
+    "stats": {
+      "pac": 42,
+      "sho": 62,
+      "pas": 79,
+      "dri": 79,
+      "def": 82,
+      "phy": 73
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "spain_2022_marcos_llorente",
+    "name": "Marcos Llorente",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 88,
+      "sho": 79,
+      "pas": 80,
+      "dri": 82,
+      "def": 78,
+      "phy": 81
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "spain_2022_alvaro_morata",
+    "name": "Alvaro Morata",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 83,
+      "sho": 81,
+      "pas": 72,
+      "dri": 78,
+      "def": 31,
+      "phy": 78
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 9,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "spain_2022_koke",
+    "name": "Koke",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 84,
+      "dri": 79,
+      "def": 79,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "spain_2022_gavi",
+    "name": "Gavi",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 64,
+      "pas": 77,
+      "dri": 83,
+      "def": 65,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "spain_2022_marco_asensio",
+    "name": "Marco Asensio",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "pac": 82,
+      "sho": 80,
+      "pas": 81,
+      "dri": 83,
+      "def": 43,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "spain_2022_ferran_torres",
+    "name": "Ferran Torres",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "pac": 84,
+      "sho": 79,
+      "pas": 79,
+      "dri": 83,
+      "def": 35,
+      "phy": 67
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 27,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "spain_2022_nico_williams",
+    "name": "Nico Williams",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 92,
+      "sho": 71,
+      "pas": 67,
+      "dri": 80,
+      "def": 33,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 48,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "spain_2022_david_raya",
+    "name": "David Raya",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "spain_2022_alejandro_balde",
+    "name": "Alejandro Balde",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 87,
+      "sho": 48,
+      "pas": 70,
+      "dri": 75,
+      "def": 66,
+      "phy": 61
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "spain_2022_hugo_guillamon",
+    "name": "Hugo Guillamon",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 75,
+    "stats": {
+      "pac": 58,
+      "sho": 53,
+      "pas": 68,
+      "dri": 65,
+      "def": 75,
+      "phy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "spain_2022_rodri",
+    "name": "Rodri",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 87,
+    "stats": {
+      "pac": 58,
+      "sho": 72,
+      "pas": 78,
+      "dri": 79,
+      "def": 83,
+      "phy": 84
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "spain_2022_yeremy_pino",
+    "name": "Yeremy Pino",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 79,
+    "stats": {
+      "pac": 77,
+      "sho": 73,
+      "pas": 76,
+      "dri": 79,
+      "def": 38,
+      "phy": 45
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "spain_2022_jordi_alba",
+    "name": "Jordi Alba",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 85,
+    "stats": {
+      "pac": 84,
+      "sho": 70,
+      "pas": 82,
+      "dri": 82,
+      "def": 77,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "spain_2022_carlos_soler",
+    "name": "Carlos Soler",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 83,
+    "stats": {
+      "pac": 80,
+      "sho": 77,
+      "pas": 83,
+      "dri": 80,
+      "def": 71,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "spain_2022_dani_carvajal",
+    "name": "Dani Carvajal",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 84,
+    "stats": {
+      "pac": 82,
+      "sho": 54,
+      "pas": 77,
+      "dri": 80,
+      "def": 78,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "spain_2022_dani_olmo",
+    "name": "Dani Olmo",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 82,
+    "stats": {
+      "pac": 67,
+      "sho": 76,
+      "pas": 81,
+      "dri": 86,
+      "def": 50,
+      "phy": 59
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 23,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "spain_2022_pablo_sarabia",
+    "name": "Pablo Sarabia",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 81,
+    "stats": {
+      "pac": 73,
+      "sho": 76,
+      "pas": 82,
+      "dri": 82,
+      "def": 57,
+      "phy": 59
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "spain_2022_unai_simon",
+    "name": "Unai Simon",
+    "nation": "Spain",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 83,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 66.67,
+      "clean_sheets": 50,
+      "goals_conceded": 0,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "germany_2022_manuel_neuer",
+    "name": "Manuel Neuer",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 90,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 61.54,
+      "clean_sheets": 0,
+      "goals_conceded": 3,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "germany_2022_antonio_rudiger",
+    "name": "Antonio Rudiger",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 87,
+    "stats": {
+      "pac": 82,
+      "sho": 53,
+      "pas": 71,
+      "dri": 67,
+      "def": 86,
+      "phy": 85
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "germany_2022_david_raum",
+    "name": "David Raum",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 81,
+    "stats": {
+      "pac": 87,
+      "sho": 59,
+      "pas": 77,
+      "dri": 78,
+      "def": 71,
+      "phy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "germany_2022_matthias_ginter",
+    "name": "Matthias Ginter",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 83,
+    "stats": {
+      "pac": 60,
+      "sho": 59,
+      "pas": 71,
+      "dri": 66,
+      "def": 84,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "germany_2022_thilo_kehrer",
+    "name": "Thilo Kehrer",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 73,
+      "sho": 44,
+      "pas": 65,
+      "dri": 66,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "germany_2022_joshua_kimmich",
+    "name": "Joshua Kimmich",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 89,
+    "stats": {
+      "pac": 68,
+      "sho": 72,
+      "pas": 87,
+      "dri": 84,
+      "def": 83,
+      "phy": 79
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "germany_2022_kai_havertz",
+    "name": "Kai Havertz",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 81,
+      "sho": 79,
+      "pas": 79,
+      "dri": 84,
+      "def": 45,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 3,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "germany_2022_leon_goretzka",
+    "name": "Leon Goretzka",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 87,
+    "stats": {
+      "pac": 78,
+      "sho": 82,
+      "pas": 82,
+      "dri": 83,
+      "def": 81,
+      "phy": 86
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 3,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "germany_2022_niclas_fullkrug",
+    "name": "Niclas Fullkrug",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 61,
+      "sho": 80,
+      "pas": 65,
+      "dri": 72,
+      "def": 36,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "germany_2022_serge_gnabry",
+    "name": "Serge Gnabry",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 85,
+    "stats": {
+      "pac": 82,
+      "sho": 84,
+      "pas": 79,
+      "dri": 85,
+      "def": 43,
+      "phy": 69
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "germany_2022_mario_gotze",
+    "name": "Mario Gotze",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "pac": 67,
+      "sho": 75,
+      "pas": 83,
+      "dri": 84,
+      "def": 55,
+      "phy": 67
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "germany_2022_kevin_trapp",
+    "name": "Kevin Trapp",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "germany_2022_thomas_muller",
+    "name": "Thomas Muller",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 87,
+    "stats": {
+      "pac": 69,
+      "sho": 84,
+      "pas": 83,
+      "dri": 80,
+      "def": 56,
+      "phy": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "germany_2022_jamal_musiala",
+    "name": "Jamal Musiala",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 83,
+    "stats": {
+      "pac": 80,
+      "sho": 72,
+      "pas": 74,
+      "dri": 89,
+      "def": 63,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 28,
+      "assists": 1,
+      "progressive_passes": 56,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "germany_2022_niklas_sule",
+    "name": "Niklas Sule",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 85,
+    "stats": {
+      "pac": 72,
+      "sho": 48,
+      "pas": 66,
+      "dri": 59,
+      "def": 85,
+      "phy": 83
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "germany_2022_lukas_klostermann",
+    "name": "Lukas Klostermann",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 86,
+      "sho": 50,
+      "pas": 64,
+      "dri": 71,
+      "def": 82,
+      "phy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "germany_2022_julian_brandt",
+    "name": "Julian Brandt",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 78,
+      "pas": 82,
+      "dri": 85,
+      "def": 49,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "germany_2022_jonas_hofmann",
+    "name": "Jonas Hofmann",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 81,
+    "stats": {
+      "pac": 73,
+      "sho": 76,
+      "pas": 80,
+      "dri": 80,
+      "def": 64,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "germany_2022_leroy_sane",
+    "name": "Leroy Sane",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 84,
+    "stats": {
+      "pac": 90,
+      "sho": 81,
+      "pas": 80,
+      "dri": 85,
+      "def": 38,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 12,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "germany_2022_christian_gunter",
+    "name": "Christian Gunter",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 80,
+    "stats": {
+      "pac": 80,
+      "sho": 58,
+      "pas": 71,
+      "dri": 71,
+      "def": 75,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "germany_2022_ilkay_gundogan",
+    "name": "Ilkay Gundogan",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 85,
+    "stats": {
+      "pac": 64,
+      "sho": 80,
+      "pas": 85,
+      "dri": 85,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "germany_2022_marc_stegen",
+    "name": "Marc-Andre ter Stegen",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 88,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "germany_2022_nico_schlotterbeck",
+    "name": "Nico Schlotterbeck",
+    "nation": "Germany",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 56,
+      "pas": 65,
+      "dri": 72,
+      "def": 83,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "japan_2022_eiji_kawashima",
+    "name": "Eiji Kawashima",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 72,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "japan_2022_miki_yamane",
+    "name": "Miki Yamane",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "japan_2022_shogo_taniguchi",
+    "name": "Shogo Taniguchi",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "japan_2022_hiroki_ito",
+    "name": "Hiroki Ito",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 73,
+    "stats": {
+      "pac": 84,
+      "sho": 54,
+      "pas": 66,
+      "dri": 67,
+      "def": 75,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "japan_2022_yuto_nagatomo",
+    "name": "Yuto Nagatomo",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "japan_2022_wataru_endo",
+    "name": "Wataru Endo",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 79,
+    "stats": {
+      "pac": 67,
+      "sho": 66,
+      "pas": 71,
+      "dri": 79,
+      "def": 79,
+      "phy": 75
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "japan_2022_gaku_shibasaki",
+    "name": "Gaku Shibasaki",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 69,
+    "stats": {
+      "pac": 69,
+      "sho": 61,
+      "pas": 68,
+      "dri": 71,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "japan_2022_ritsu_doan",
+    "name": "Ritsu Doan",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 79,
+      "sho": 71,
+      "pas": 75,
+      "dri": 82,
+      "def": 40,
+      "phy": 59
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 0,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "japan_2022_kaoru_mitoma",
+    "name": "Kaoru Mitoma",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 9,
+    "base_rating": 75,
+    "stats": {
+      "pac": 82,
+      "sho": 70,
+      "pas": 68,
+      "dri": 80,
+      "def": 56,
+      "phy": 63
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "japan_2022_takumi_minamino",
+    "name": "Takumi Minamino",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 75,
+    "stats": {
+      "pac": 78,
+      "sho": 74,
+      "pas": 69,
+      "dri": 81,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "japan_2022_yuki_soma",
+    "name": "Yuki Soma",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "japan_2022_shuichi_gonda",
+    "name": "Shuichi Gonda",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 78.95,
+      "clean_sheets": 0,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "japan_2022_hidemasa_morita",
+    "name": "Hidemasa Morita",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 67,
+      "sho": 67,
+      "pas": 75,
+      "dri": 76,
+      "def": 72,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "japan_2022_junya_ito",
+    "name": "Junya Ito",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 89,
+      "sho": 71,
+      "pas": 73,
+      "dri": 78,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "japan_2022_daichi_kamada",
+    "name": "Daichi Kamada",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 83,
+    "stats": {
+      "pac": 79,
+      "sho": 74,
+      "pas": 82,
+      "dri": 84,
+      "def": 46,
+      "phy": 61
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "japan_2022_takehiro_tomiyasu",
+    "name": "Takehiro Tomiyasu",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "pac": 74,
+      "sho": 33,
+      "pas": 67,
+      "dri": 71,
+      "def": 80,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "japan_2022_ao_tanaka",
+    "name": "Ao Tanaka",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 67,
+      "sho": 66,
+      "pas": 68,
+      "dri": 70,
+      "def": 69,
+      "phy": 69
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "japan_2022_takuma_asano",
+    "name": "Takuma Asano",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "pac": 88,
+      "sho": 67,
+      "pas": 61,
+      "dri": 77,
+      "def": 30,
+      "phy": 67
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "japan_2022_hiroki_sakai",
+    "name": "Hiroki Sakai",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "japan_2022_shuto_machino",
+    "name": "Shuto Machino",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 75,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "japan_2022_ayase_ueda",
+    "name": "Ayase Ueda",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 81,
+      "sho": 71,
+      "pas": 52,
+      "dri": 64,
+      "def": 27,
+      "phy": 69
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "japan_2022_maya_yoshida",
+    "name": "Maya Yoshida",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 73,
+    "stats": {
+      "pac": 52,
+      "sho": 41,
+      "pas": 51,
+      "dri": 64,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "japan_2022_daniel_schmidt",
+    "name": "Daniel Schmidt",
+    "nation": "Japan",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "south_korea_2022_kim_gyu",
+    "name": "Kim Seung-gyu",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 72,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 57.89,
+      "clean_sheets": 25,
+      "goals_conceded": 0,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "south_korea_2022_yoon_gyu",
+    "name": "Yoon Jong-gyu",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 65,
+    "stats": {
+      "pac": 79,
+      "sho": 38,
+      "pas": 57,
+      "dri": 62,
+      "def": 61,
+      "phy": 61
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "south_korea_2022_kim_su",
+    "name": "Kim Jin-su",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 71,
+    "stats": {
+      "pac": 83,
+      "sho": 40,
+      "pas": 64,
+      "dri": 68,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "south_korea_2022_kim_jae",
+    "name": "Kim Min-jae",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 79,
+    "stats": {
+      "pac": 80,
+      "sho": 33,
+      "pas": 57,
+      "dri": 62,
+      "def": 80,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "south_korea_2022_jung_young",
+    "name": "Jung Woo-young",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 80,
+      "sho": 63,
+      "pas": 66,
+      "dri": 77,
+      "def": 36,
+      "phy": 63
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "south_korea_2022_hwang_beom",
+    "name": "Hwang In-beom",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 62,
+    "stats": {
+      "pac": 54,
+      "sho": 28,
+      "pas": 50,
+      "dri": 56,
+      "def": 61,
+      "phy": 67
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "south_korea_2022_son_min",
+    "name": "Son Heung-min",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 89,
+    "stats": {
+      "pac": 88,
+      "sho": 89,
+      "pas": 81,
+      "dri": 85,
+      "def": 42,
+      "phy": 69
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 20,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "south_korea_2022_paik_ho",
+    "name": "Paik Seung-ho",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 70,
+    "stats": {
+      "pac": 67,
+      "sho": 62,
+      "pas": 68,
+      "dri": 72,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "south_korea_2022_cho_sung",
+    "name": "Cho Gue-sung",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 71,
+    "stats": {
+      "pac": 81,
+      "sho": 70,
+      "pas": 51,
+      "dri": 66,
+      "def": 28,
+      "phy": 79
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "south_korea_2022_lee_sung",
+    "name": "Lee Jae-sung",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 64,
+      "pas": 75,
+      "dri": 81,
+      "def": 57,
+      "phy": 61
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "south_korea_2022_hwang_chan",
+    "name": "Hwang Hee-chan",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 77,
+    "stats": {
+      "pac": 81,
+      "sho": 75,
+      "pas": 70,
+      "dri": 78,
+      "def": 36,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 21,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "south_korea_2022_song_keun",
+    "name": "Song Bum-keun",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "south_korea_2022_son_ho",
+    "name": "Son Jun-ho",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 69,
+      "dri": 70,
+      "def": 67,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 21,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "south_korea_2022_hong_chul",
+    "name": "Hong Chul",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 71,
+    "stats": {
+      "pac": 85,
+      "sho": 49,
+      "pas": 65,
+      "dri": 69,
+      "def": 63,
+      "phy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "south_korea_2022_kim_hwan",
+    "name": "Kim Moon-hwan",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 86,
+      "sho": 54,
+      "pas": 61,
+      "dri": 70,
+      "def": 63,
+      "phy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "south_korea_2022_hwang_jo",
+    "name": "Hwang Ui-jo",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 75,
+    "stats": {
+      "pac": 77,
+      "sho": 78,
+      "pas": 65,
+      "dri": 73,
+      "def": 42,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "south_korea_2022_na_ho",
+    "name": "Na Sang-ho",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 87,
+      "sho": 68,
+      "pas": 60,
+      "dri": 70,
+      "def": 33,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 11,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "south_korea_2022_lee_in",
+    "name": "Lee Kang-in",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "pac": 75,
+      "sho": 72,
+      "pas": 77,
+      "dri": 79,
+      "def": 30,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "south_korea_2022_kim_gwon",
+    "name": "Kim Young-gwon",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 63,
+      "dri": 60,
+      "def": 71,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "south_korea_2022_kwon_won",
+    "name": "Kwon Kyung-won",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 74,
+      "sho": 65,
+      "pas": 70,
+      "dri": 73,
+      "def": 59,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "south_korea_2022_jo_woon",
+    "name": "Jo Hyeon-woon",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "south_korea_2022_kwon_hoon",
+    "name": "Kwon Chang-hoon",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 66,
+    "stats": {
+      "pac": 65,
+      "sho": 63,
+      "pas": 64,
+      "dri": 71,
+      "def": 48,
+      "phy": 55
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "south_korea_2022_kim_hwan",
+    "name": "Kim Tae-hwan",
+    "nation": "South Korea",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 87,
+      "sho": 53,
+      "pas": 62,
+      "dri": 67,
+      "def": 64,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "senegal_2022_seny_dieng",
+    "name": "Seny Dieng",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 72,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "senegal_2022_formose_mendy",
+    "name": "Formose Mendy",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 65,
+    "stats": {
+      "pac": 74,
+      "sho": 32,
+      "pas": 51,
+      "dri": 55,
+      "def": 64,
+      "phy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "senegal_2022_kalidou_koulibaly",
+    "name": "Kalidou Koulibaly",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 87,
+    "stats": {
+      "pac": 82,
+      "sho": 48,
+      "pas": 62,
+      "dri": 68,
+      "def": 88,
+      "phy": 85
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "senegal_2022_papa_cisse",
+    "name": "Papa Abou Cisse",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 68,
+    "stats": {
+      "pac": 50,
+      "sho": 72,
+      "pas": 64,
+      "dri": 68,
+      "def": 32,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "senegal_2022_papa_gueye",
+    "name": "Papa Gueye",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 63,
+      "sho": 48,
+      "pas": 66,
+      "dri": 70,
+      "def": 73,
+      "phy": 79
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "senegal_2022_nampalys_mendy",
+    "name": "Nampalys Mendy",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 54,
+      "pas": 69,
+      "dri": 75,
+      "def": 73,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "senegal_2022_nicolas_jackson",
+    "name": "Nicolas Jackson",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 73,
+    "stats": {
+      "pac": 76,
+      "sho": 73,
+      "pas": 57,
+      "dri": 73,
+      "def": 42,
+      "phy": 69
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "senegal_2022_moustapha_name",
+    "name": "Moustapha Name",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 71,
+    "stats": {
+      "pac": 69,
+      "sho": 63,
+      "pas": 69,
+      "dri": 70,
+      "def": 65,
+      "phy": 75
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "senegal_2022_boulaye_dia",
+    "name": "Boulaye Dia",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 79,
+    "stats": {
+      "pac": 83,
+      "sho": 78,
+      "pas": 62,
+      "dri": 76,
+      "def": 27,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "senegal_2022_moussa_ndiaye",
+    "name": "Moussa Ndiaye",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 10,
+    "base_rating": 64,
+    "stats": {
+      "pac": 78,
+      "sho": 27,
+      "pas": 55,
+      "dri": 68,
+      "def": 59,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "senegal_2022_pathe_ciss",
+    "name": "Pathe Ciss",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 73,
+    "stats": {
+      "pac": 63,
+      "sho": 56,
+      "pas": 61,
+      "dri": 62,
+      "def": 71,
+      "phy": 83
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "senegal_2022_fode_toure",
+    "name": "Fode Ballo-Toure",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 85,
+      "sho": 51,
+      "pas": 67,
+      "dri": 71,
+      "def": 67,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "senegal_2022_iliman_ndiaye",
+    "name": "Iliman Ndiaye",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 71,
+    "stats": {
+      "pac": 81,
+      "sho": 68,
+      "pas": 62,
+      "dri": 76,
+      "def": 33,
+      "phy": 57
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 21,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "senegal_2022_ismail_jakobs",
+    "name": "Ismail Jakobs",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 85,
+      "sho": 59,
+      "pas": 60,
+      "dri": 73,
+      "def": 65,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "senegal_2022_krepin_diatta",
+    "name": "Krepin Diatta",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 75,
+    "stats": {
+      "pac": 91,
+      "sho": 69,
+      "pas": 66,
+      "dri": 78,
+      "def": 47,
+      "phy": 67
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 11,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "senegal_2022_edouard_mendy",
+    "name": "Edouard Mendy",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 16,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 50.0,
+      "clean_sheets": 0,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "senegal_2022_pape_sarr",
+    "name": "Pape Matar Sarr",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 71,
+    "stats": {
+      "pac": 67,
+      "sho": 63,
+      "pas": 68,
+      "dri": 72,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "senegal_2022_ismalia_sarr",
+    "name": "Ismalia Sarr",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 77,
+    "stats": {
+      "pac": 94,
+      "sho": 76,
+      "pas": 67,
+      "dri": 80,
+      "def": 22,
+      "phy": 67
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 20,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "senegal_2022_famara_diedhiou",
+    "name": "Famara Diedhiou",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 69,
+      "pas": 48,
+      "dri": 66,
+      "def": 31,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "senegal_2022_bamba_dieng",
+    "name": "Bamba Dieng",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 82,
+      "sho": 75,
+      "pas": 60,
+      "dri": 71,
+      "def": 33,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "senegal_2022_youssouf_sabaly",
+    "name": "Youssouf Sabaly",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 77,
+    "stats": {
+      "pac": 79,
+      "sho": 50,
+      "pas": 65,
+      "dri": 73,
+      "def": 74,
+      "phy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "senegal_2022_abdou_diallo",
+    "name": "Abdou Diallo",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 39,
+      "pas": 71,
+      "dri": 74,
+      "def": 78,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "senegal_2022_alfred_gomis",
+    "name": "Alfred Gomis",
+    "nation": "Senegal",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 77,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "switzerland_2022_yann_sommer",
+    "name": "Yann Sommer",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 63.16,
+      "clean_sheets": 33,
+      "goals_conceded": 0,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "switzerland_2022_edimilson_fernandes",
+    "name": "Edimilson Fernandes",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 2,
+    "base_rating": 73,
+    "stats": {
+      "pac": 68,
+      "sho": 65,
+      "pas": 69,
+      "dri": 73,
+      "def": 76,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "switzerland_2022_philipp_kohn",
+    "name": "Philipp Kohn",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 3,
+    "base_rating": 71,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "switzerland_2022_nico_elvedi",
+    "name": "Nico Elvedi",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 39,
+      "pas": 64,
+      "dri": 68,
+      "def": 79,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "switzerland_2022_manuel_akanji",
+    "name": "Manuel Akanji",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 81,
+    "stats": {
+      "pac": 77,
+      "sho": 48,
+      "pas": 70,
+      "dri": 74,
+      "def": 83,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "switzerland_2022_denis_zakaria",
+    "name": "Denis Zakaria",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 81,
+    "stats": {
+      "pac": 82,
+      "sho": 64,
+      "pas": 73,
+      "dri": 77,
+      "def": 80,
+      "phy": 84
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 23,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "switzerland_2022_breel_embolo",
+    "name": "Breel Embolo",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 84,
+      "sho": 76,
+      "pas": 70,
+      "dri": 74,
+      "def": 51,
+      "phy": 82
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "switzerland_2022_remo_freuler",
+    "name": "Remo Freuler",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 71,
+      "pas": 75,
+      "dri": 77,
+      "def": 75,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "switzerland_2022_haris_seferovic",
+    "name": "Haris Seferovic",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 69,
+      "sho": 76,
+      "pas": 67,
+      "dri": 71,
+      "def": 47,
+      "phy": 83
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "switzerland_2022_granit_xhaka",
+    "name": "Granit Xhaka",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 81,
+    "stats": {
+      "pac": 49,
+      "sho": 72,
+      "pas": 80,
+      "dri": 71,
+      "def": 72,
+      "phy": 81
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "switzerland_2022_renato_steffen",
+    "name": "Renato Steffen",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 85,
+      "sho": 71,
+      "pas": 71,
+      "dri": 78,
+      "def": 54,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "switzerland_2022_jonas_omlin",
+    "name": "Jonas Omlin",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 79,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "switzerland_2022_ricardo_rodriguez",
+    "name": "Ricardo Rodriguez",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 67,
+      "pas": 74,
+      "dri": 74,
+      "def": 75,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "switzerland_2022_michel_aebischer",
+    "name": "Michel Aebischer",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 75,
+    "stats": {
+      "pac": 71,
+      "sho": 65,
+      "pas": 75,
+      "dri": 75,
+      "def": 65,
+      "phy": 74
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "switzerland_2022_djibril_sow",
+    "name": "Djibril Sow",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 77,
+      "sho": 69,
+      "pas": 77,
+      "dri": 78,
+      "def": 77,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "switzerland_2022_christian_fassnacht",
+    "name": "Christian Fassnacht",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 82,
+      "sho": 70,
+      "pas": 70,
+      "dri": 75,
+      "def": 37,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "switzerland_2022_ruben_vargas",
+    "name": "Ruben Vargas",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 75,
+    "stats": {
+      "pac": 89,
+      "sho": 69,
+      "pas": 67,
+      "dri": 79,
+      "def": 54,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 9,
+      "minutes_played": 360,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "switzerland_2022_eray_comert",
+    "name": "Eray Comert",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 74,
+      "sho": 49,
+      "pas": 61,
+      "dri": 57,
+      "def": 73,
+      "phy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "switzerland_2022_noah_okafor",
+    "name": "Noah Okafor",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 93,
+      "sho": 74,
+      "pas": 68,
+      "dri": 76,
+      "def": 31,
+      "phy": 75
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 10,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "switzerland_2022_fabian_frei",
+    "name": "Fabian Frei",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 71,
+    "stats": {
+      "pac": 55,
+      "sho": 69,
+      "pas": 70,
+      "dri": 69,
+      "def": 72,
+      "phy": 73
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 15,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "switzerland_2022_gregor_kobel",
+    "name": "Gregor Kobel",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 85,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 50.0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "switzerland_2022_fabian_schar",
+    "name": "Fabian Schar",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 79,
+    "stats": {
+      "pac": 54,
+      "sho": 67,
+      "pas": 72,
+      "dri": 70,
+      "def": 81,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "switzerland_2022_xherdan_shaqiri",
+    "name": "Xherdan Shaqiri",
+    "nation": "Switzerland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 76,
+    "stats": {
+      "pac": 69,
+      "sho": 75,
+      "pas": 79,
+      "dri": 79,
+      "def": 45,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "usa_2022_matt_turner",
+    "name": "Matt Turner",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 53.33,
+      "clean_sheets": 50,
+      "goals_conceded": 0,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_sergino_dest",
+    "name": "Sergi\u00f1o Dest",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 77,
+    "stats": {
+      "pac": 86,
+      "sho": 59,
+      "pas": 74,
+      "dri": 81,
+      "def": 69,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_walker_zimmerman",
+    "name": "Walker Zimmerman",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 57,
+      "sho": 50,
+      "pas": 55,
+      "dri": 56,
+      "def": 74,
+      "phy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_tyler_adams",
+    "name": "Tyler Adams",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 81,
+      "sho": 48,
+      "pas": 68,
+      "dri": 74,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_antonee_robinson",
+    "name": "Antonee Robinson",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 75,
+    "stats": {
+      "pac": 87,
+      "sho": 47,
+      "pas": 66,
+      "dri": 74,
+      "def": 69,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_yunus_musah",
+    "name": "Yunus Musah",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 85,
+      "sho": 69,
+      "pas": 70,
+      "dri": 74,
+      "def": 64,
+      "phy": 67
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_gio_reyna",
+    "name": "Gio Reyna",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 77,
+    "stats": {
+      "pac": 78,
+      "sho": 71,
+      "pas": 74,
+      "dri": 82,
+      "def": 37,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "usa_2022_weston_mckennie",
+    "name": "Weston McKennie",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 82,
+      "sho": 74,
+      "pas": 76,
+      "dri": 80,
+      "def": 78,
+      "phy": 83
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_jesus_ferreira",
+    "name": "Jes\u00fas Ferreira",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 75,
+    "stats": {
+      "pac": 82,
+      "sho": 74,
+      "pas": 70,
+      "dri": 76,
+      "def": 45,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "usa_2022_christian_pulisic",
+    "name": "Christian Pulisic",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "pac": 87,
+      "sho": 71,
+      "pas": 73,
+      "dri": 86,
+      "def": 37,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 12,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "usa_2022_brenden_aaronson",
+    "name": "Brenden Aaronson",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 75,
+    "stats": {
+      "pac": 81,
+      "sho": 66,
+      "pas": 70,
+      "dri": 79,
+      "def": 54,
+      "phy": 63
+    },
+    "wc_stats": {
+      "key_passes": 25,
+      "assists": 0,
+      "progressive_passes": 50,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_ethan_horvath",
+    "name": "Ethan Horvath",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 71,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2022_tim_ream",
+    "name": "Tim Ream",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 71,
+    "stats": {
+      "pac": 54,
+      "sho": 43,
+      "pas": 68,
+      "dri": 68,
+      "def": 73,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "usa_2022_luca_torre",
+    "name": "Luca de la Torre",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 71,
+    "stats": {
+      "pac": 65,
+      "sho": 56,
+      "pas": 70,
+      "dri": 74,
+      "def": 59,
+      "phy": 61
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2022_aaron_long",
+    "name": "Aaron Long",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 73,
+    "stats": {
+      "pac": 78,
+      "sho": 39,
+      "pas": 54,
+      "dri": 62,
+      "def": 70,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2022_jordan_morris",
+    "name": "Jordan Morris",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 84,
+      "sho": 68,
+      "pas": 67,
+      "dri": 71,
+      "def": 38,
+      "phy": 80
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "usa_2022_cristian_roldan",
+    "name": "Cristian Roldan",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 75,
+    "stats": {
+      "pac": 75,
+      "sho": 68,
+      "pas": 72,
+      "dri": 74,
+      "def": 70,
+      "phy": 81
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "usa_2022_shaq_moore",
+    "name": "Shaq Moore",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 90,
+      "sho": 59,
+      "pas": 62,
+      "dri": 70,
+      "def": 62,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "usa_2022_haji_wright",
+    "name": "Haji Wright",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 71,
+    "stats": {
+      "pac": 81,
+      "sho": 69,
+      "pas": 53,
+      "dri": 65,
+      "def": 23,
+      "phy": 75
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "usa_2022_cameron_vickers",
+    "name": "Cameron Carter-Vickers",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 75,
+    "stats": {
+      "pac": 74,
+      "sho": 30,
+      "pas": 56,
+      "dri": 66,
+      "def": 74,
+      "phy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "usa_2022_tim_weah",
+    "name": "Tim Weah",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 86,
+      "sho": 71,
+      "pas": 67,
+      "dri": 75,
+      "def": 45,
+      "phy": 61
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "usa_2022_deandre_yedlin",
+    "name": "DeAndre Yedlin",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 90,
+      "sho": 51,
+      "pas": 58,
+      "dri": 65,
+      "def": 64,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "usa_2022_kellyn_acosta",
+    "name": "Kellyn Acosta",
+    "nation": "USA",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 76,
+      "sho": 67,
+      "pas": 72,
+      "dri": 72,
+      "def": 66,
+      "phy": 77
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "poland_2022_wojciech_szczesny",
+    "name": "Wojciech Szczesny",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 82.14,
+      "clean_sheets": 50,
+      "goals_conceded": 0,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_matty_cash",
+    "name": "Matty Cash",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "pac": 80,
+      "sho": 67,
+      "pas": 71,
+      "dri": 75,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_artur_jedrzejczyk",
+    "name": "Artur Jedrzejczyk",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 70,
+    "stats": {
+      "pac": 55,
+      "sho": 48,
+      "pas": 57,
+      "dri": 60,
+      "def": 69,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "poland_2022_mateusz_wieteska",
+    "name": "Mateusz Wieteska",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 68,
+    "stats": {
+      "pac": 61,
+      "sho": 33,
+      "pas": 46,
+      "dri": 49,
+      "def": 67,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "poland_2022_jan_bednarek",
+    "name": "Jan Bednarek",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 22,
+      "pas": 55,
+      "dri": 55,
+      "def": 77,
+      "phy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "poland_2022_krystian_bielik",
+    "name": "Krystian Bielik",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 71,
+    "stats": {
+      "pac": 59,
+      "sho": 45,
+      "pas": 63,
+      "dri": 67,
+      "def": 70,
+      "phy": 73
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 21,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_arkadiusz_milik",
+    "name": "Arkadiusz Milik",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 61,
+      "sho": 83,
+      "pas": 72,
+      "dri": 76,
+      "def": 40,
+      "phy": 73
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "poland_2022_damian_szymanski",
+    "name": "Damian Szymanski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 67,
+      "pas": 66,
+      "dri": 69,
+      "def": 71,
+      "phy": 78
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "poland_2022_robert_lewandowski",
+    "name": "Robert Lewandowski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 91,
+    "stats": {
+      "pac": 75,
+      "sho": 91,
+      "pas": 79,
+      "dri": 86,
+      "def": 44,
+      "phy": 83
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 17,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "poland_2022_grzegorz_krychowiak",
+    "name": "Grzegorz Krychowiak",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 48,
+      "sho": 75,
+      "pas": 72,
+      "dri": 68,
+      "def": 76,
+      "phy": 79
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_kamil_grosicki",
+    "name": "Kamil Grosicki",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 73,
+    "stats": {
+      "pac": 85,
+      "sho": 68,
+      "pas": 69,
+      "dri": 73,
+      "def": 37,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "poland_2022_lukasz_skorupski",
+    "name": "Lukasz Skorupski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "poland_2022_jakub_kaminski",
+    "name": "Jakub Kaminski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 89,
+      "sho": 67,
+      "pas": 66,
+      "dri": 77,
+      "def": 47,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 11,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_jakub_kiwior",
+    "name": "Jakub Kiwior",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 65,
+      "sho": 37,
+      "pas": 59,
+      "dri": 61,
+      "def": 73,
+      "phy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_kamil_glik",
+    "name": "Kamil Glik",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 71,
+    "stats": {
+      "pac": 35,
+      "sho": 32,
+      "pas": 44,
+      "dri": 52,
+      "def": 71,
+      "phy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_karol_swiderski",
+    "name": "Karol Swiderski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 74,
+      "pas": 62,
+      "dri": 71,
+      "def": 32,
+      "phy": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "poland_2022_szymon_zurkowski",
+    "name": "Szymon Zurkowski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 82,
+      "sho": 73,
+      "pas": 73,
+      "dri": 77,
+      "def": 71,
+      "phy": 80
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "poland_2022_bartosz_bereszynski",
+    "name": "Bartosz Bereszynski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "pac": 82,
+      "sho": 56,
+      "pas": 64,
+      "dri": 69,
+      "def": 67,
+      "phy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_sebastian_szymanski",
+    "name": "Sebastian Szymanski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 83,
+      "sho": 69,
+      "pas": 77,
+      "dri": 76,
+      "def": 39,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "poland_2022_piotr_zielinski",
+    "name": "Piotr Zielinski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 83,
+    "stats": {
+      "pac": 81,
+      "sho": 77,
+      "pas": 81,
+      "dri": 86,
+      "def": 70,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "poland_2022_nicola_zalewski",
+    "name": "Nicola Zalewski",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 75,
+    "stats": {
+      "pac": 86,
+      "sho": 59,
+      "pas": 70,
+      "dri": 76,
+      "def": 55,
+      "phy": 55
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "poland_2022_kamil_grabara",
+    "name": "Kamil Grabara",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 65,
+      "dri": 65,
+      "def": 60,
+      "phy": 65
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "poland_2022_krzysztof_piatek",
+    "name": "Krzysztof Piatek",
+    "nation": "Poland",
+    "wc_year": 2022,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 75,
+    "stats": {
+      "pac": 72,
+      "sho": 76,
+      "pas": 54,
+      "dri": 72,
+      "def": 37,
+      "phy": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  }
+]
