@@ -28,10 +28,10 @@ export default function About() {
                         World Cup XI started as a simple question: what if you could build your dream squad from any World Cup in history, one player at a time?
                     </p>
                     <p className="text-sm mb-5" style={{color: '#9ca3af', lineHeight: 1.9}}>
-                        You spin to reveal a random nation and year — Brazil 2002, France 1998, Germany 2006 — pick one player for the current position, and repeat across 11 rounds. Then you simulate a full World Cup tournament with your XI and see how far they go. Most runs end in failure. That's the point.
+                        You spin to reveal a random nation and year — Brazil 2002, France 1998, Argentina 1986 — pick one player for the current position, and repeat across 11 rounds. Then you simulate a full World Cup tournament with your XI and see how far they go. Most runs end in failure. That's the point.
                     </p>
                     <p className="text-sm mb-8" style={{color: '#9ca3af', lineHeight: 1.9}}>
-                        The game currently covers the 2002, 2006, 2010, 2014, and 2018 World Cups — over 1,000 players across 80 nation-year combinations, with real tournament stats and FIFA-style ratings used under the hood to simulate matches.
+                        The game currently covers ten World Cups from 1982 to 2022 — over 4,000 players across 160+ nation-year combinations, with real tournament stats and FIFA-style ratings used under the hood to simulate matches.
                     </p>
 
                     <div className="flex flex-col gap-5" style={{borderTop: '1px solid #ffffff08', paddingTop: '1.5rem'}}>

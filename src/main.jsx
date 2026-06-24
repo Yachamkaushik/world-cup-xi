@@ -11,6 +11,7 @@ import Summary from './pages/Summary'
 import Profile from './pages/Profile'
 import HowToPlay from './pages/HowToPlay'
 import About from './pages/About'
+import NotFound from './pages/NotFound'
 
 function AnimatedRoutes() {
     const location = useLocation()
@@ -31,6 +32,7 @@ function AnimatedRoutes() {
                     <Route path="/profile" element={<Profile />} />
                     <Route path="/how-to-play" element={<HowToPlay />} />
                     <Route path="/about" element={<About />} />
+                    <Route path="*" element={<NotFound />} />
                 </Routes>
             </motion.div>
         </AnimatePresence>

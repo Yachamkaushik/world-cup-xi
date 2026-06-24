@@ -3,10 +3,10 @@ import { useNavigate } from 'react-router-dom'
 export default function Footer() {
     const navigate = useNavigate()
     return (
-        <footer className="w-full px-8 py-6 flex justify-between items-center text-xs tracking-wider"
+        <footer className="w-full px-8 py-6 flex flex-col sm:flex-row justify-between items-center gap-3 text-xs tracking-wider"
                 style={{borderTop: '1px solid #ffffff10', color: '#374151'}}>
             <span>© 2026 WORLD CUP XI</span>
-            <div className="flex gap-6">
+            <div className="flex gap-6 items-center">
                 <span onClick={() => navigate('/about')} className="cursor-pointer hover:text-gray-400 transition-colors">ABOUT</span>
                 <span onClick={() => navigate('/how-to-play')} className="cursor-pointer hover:text-gray-400 transition-colors">HOW TO PLAY</span>
             </div>

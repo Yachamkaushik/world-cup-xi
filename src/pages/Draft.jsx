@@ -180,24 +180,24 @@ export default function Draft() {
         const filled = selectedPlayers[i]
         const isCurrent = i === round
         return (
-            <div key={i} className="flex flex-col items-center rounded-xl p-2 text-center flex-shrink-0" style={{
+            <div key={i} className="flex flex-col items-center rounded-xl text-center py-2 px-1" style={{
                 backgroundColor: '#111827',
                 border: `1px solid ${isCurrent ? accentColor : filled ? '#ffffff15' : '#ffffff08'}`,
-                minHeight: '76px', minWidth: '68px',
+                minHeight: '82px',
                 boxShadow: isCurrent ? `0 0 12px ${accentGlow}` : 'none'
             }}>
-                <p style={{color: isCurrent ? accentColor : '#1f2937', fontSize: '0.55rem'}} className="font-bold mb-1">{isCurrent ? pos : filled ? pos : '?'}</p>
+                <p style={{color: isCurrent ? accentColor : '#1f2937', fontSize: '0.6rem'}} className="font-bold mb-1">{isCurrent ? pos : filled ? pos : '?'}</p>
                 {filled ? (
                     <>
-                        <p className="font-bold text-white" style={{fontSize: '0.55rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
-                        <p style={{color: '#4b5563', fontSize: '0.48rem', marginTop: '2px'}}>{filled.nation.split(' ').slice(-1)[0]} '{String(filled.wc_year).slice(2)}</p>
+                        <p className="font-bold text-white" style={{fontSize: '0.6rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
+                        <p style={{color: '#4b5563', fontSize: '0.52rem', marginTop: '2px'}}>{filled.nation.split(' ').slice(-1)[0]} '{String(filled.wc_year).slice(2)}</p>
                     </>
                 ) : isCurrent ? (
-                    <p className="font-black" style={{color: accentColor + '99', fontSize: '0.75rem'}}>{pos}</p>
+                    <p className="font-black" style={{color: accentColor + '99', fontSize: '0.85rem'}}>{pos}</p>
                 ) : (
-                    <p className="font-black" style={{color: '#1f2937', fontSize: '0.75rem'}}>?</p>
+                    <p className="font-black" style={{color: '#1f2937', fontSize: '0.85rem'}}>?</p>
                 )}
-                <p className="mt-auto" style={{color: '#374151', fontSize: '0.5rem'}}>{String(i + 1).padStart(2, '0')}</p>
+                <p className="mt-auto" style={{color: '#374151', fontSize: '0.55rem'}}>{String(i + 1).padStart(2, '0')}</p>
             </div>
         )
     }
@@ -307,7 +307,7 @@ export default function Draft() {
                         <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>YOUR XI · {selectedPlayers.length} / 11</p>
                         <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>{11 - round} ROUNDS REMAINING</p>
                     </div>
-                    <div className="flex gap-2 overflow-x-auto pb-1">
+                    <div className="grid gap-2" style={{gridTemplateColumns: 'repeat(11, 1fr)'}}>
                         {positions.map((pos, i) => renderSlot(pos, i))}
                     </div>
                 </div>

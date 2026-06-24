@@ -30,7 +30,7 @@ const tips = [
     'In Classic mode, check Goals/90 and Assists for forwards, not just the base rating.',
     'A nation\'s squad rating is averaged across all 23 players, not just the starters.',
     'The Final opponent is rated 88–93. You need a strong squad across every position to get there.',
-    'Only around 10% of runs end in a trophy. Getting eliminated early is normal.',
+    'Only a few of runs end in a trophy. Getting eliminated early is normal.',
 ]
 
 export default function HowToPlay() {
