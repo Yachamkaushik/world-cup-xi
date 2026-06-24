@@ -118,7 +118,7 @@ export default function Result() {
                     </div>
                 )}
 
-                {phase === 'knockout' && (
+                {phase === 'knockout' && results[currentMatch] && (
                     <div className="flex flex-col items-center w-full" style={{maxWidth: '700px'}}>
                         <div className="flex items-center gap-3 mb-3">
                             <div style={{height: '1px', width: '40px', background: 'linear-gradient(to right, transparent, #F5C518)'}} />

@@ -1,7 +1,7 @@
 import {useLocation, useNavigate} from 'react-router-dom'
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import playersData from '../data/players.json'
+import playersData from '../data/players_2018.json'
 import players_2002 from '../data/players_2002.json'
 import players_2006 from '../data/players_2006.json'
 import players_2010 from '../data/players_2010.json'
@@ -9,9 +9,12 @@ import players_2014 from '../data/players_2014.json'
 import players_1994 from '../data/players_1994.json'
 import players_1998 from '../data/players_1998.json'
 import players_2022 from '../data/players_2022.json'
+import players_1990 from '../data/players_1990.json'
+import players_1986 from '../data/players_1986.json'
+import players_1982 from '../data/players_1982.json'
 import {buildPositionScores, calculateEffectiveTeamRatings, calculateTeamRatings, generateOpponent, simulateMatch} from '../utils/simulate.js'
 
-const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014, ...players_1994, ...players_1998, ...players_2022]
+const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014, ...players_1994, ...players_1998, ...players_2022, ...players_1990, ...players_1986, ...players_1982]
 
 
 const dotColors = [

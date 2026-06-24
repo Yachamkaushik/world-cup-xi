@@ -1,0 +1,7860 @@
+[
+  {
+    "id": "arg_2018_messi",
+    "name": "Lionel Messi",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 93,
+    "stats": {
+      "shooting": 88,
+      "finishing": 95,
+      "shot_power": 85,
+      "positioning": 93
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "arg_2018_higuain",
+    "name": "Gonzalo Higuaín",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 90,
+    "stats": {
+      "shooting": 87,
+      "finishing": 91,
+      "shot_power": 88,
+      "positioning": 92
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 134,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2018_aguero",
+    "name": "Sergio Agüero",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 89,
+    "stats": {
+      "shooting": 86,
+      "finishing": 90,
+      "shot_power": 88,
+      "positioning": 91
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 179,
+      "goals_per90": 1.01
+    }
+  },
+  {
+    "id": "arg_2018_dybala",
+    "name": "Paulo Dybala",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 88,
+    "stats": {
+      "shooting": 86,
+      "finishing": 85,
+      "shot_power": 82,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 23,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_2018_dimaria",
+    "name": "Ángel Di María",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 85,
+    "stats": {
+      "passing": 81,
+      "vision": 81,
+      "short_passing": 83,
+      "stamina": 78
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 235
+    }
+  },
+  {
+    "id": "arg_2018_biglia",
+    "name": "Lucas Biglia",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 83,
+    "stats": {
+      "passing": 85,
+      "vision": 80,
+      "short_passing": 86,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 53
+    }
+  },
+  {
+    "id": "arg_2018_banega",
+    "name": "Éver Banega",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 83,
+    "stats": {
+      "passing": 86,
+      "vision": 85,
+      "short_passing": 88,
+      "stamina": 66
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 2,
+      "progressive_passes": 23,
+      "minutes_played": 217
+    }
+  },
+  {
+    "id": "arg_2018_mascherano",
+    "name": "Javier Mascherano",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 83,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 83,
+      "interceptions": 88,
+      "heading_accuracy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_2018_otamendi",
+    "name": "Nicolás Otamendi",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 83,
+    "stats": {
+      "defending": 83,
+      "standing_tackle": 83,
+      "interceptions": 85,
+      "heading_accuracy": 83
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_2018_fazio",
+    "name": "Federico Fazio",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "defending": 83,
+      "standing_tackle": 84,
+      "interceptions": 83,
+      "heading_accuracy": 89
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_2018_rojo",
+    "name": "Marcos Rojo",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 82,
+    "stats": {
+      "defending": 80,
+      "standing_tackle": 82,
+      "interceptions": 80,
+      "heading_accuracy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 225
+    }
+  },
+  {
+    "id": "arg_2018_salvio",
+    "name": "Eduardo Salvio",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 80,
+    "stats": {
+      "defending": 41,
+      "standing_tackle": 38,
+      "interceptions": 52,
+      "heading_accuracy": 67
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 145
+    }
+  },
+  {
+    "id": "arg_2018_tagliafico",
+    "name": "Nicolás Tagliafico",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 79,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 78,
+      "interceptions": 77,
+      "heading_accuracy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 349
+    }
+  },
+  {
+    "id": "arg_2018_ansaldi",
+    "name": "Cristian Ansaldi",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 79,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 79,
+      "interceptions": 75,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 155
+    }
+  },
+  {
+    "id": "arg_2018_acuna",
+    "name": "Marcos Acuña",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 8,
+    "base_rating": 79,
+    "stats": {
+      "defending": 57,
+      "standing_tackle": 58,
+      "interceptions": 63,
+      "heading_accuracy": 55
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_2018_caballero",
+    "name": "Willy Caballero",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 79,
+    "stats": {
+      "gk_reflexes": 81,
+      "gk_diving": 80,
+      "gk_handling": 76,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "save_pct": 42.9,
+      "clean_sheets": 0,
+      "goals_conceded": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "arg_2018_perez",
+    "name": "Enzo Pérez",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 78,
+    "stats": {
+      "passing": 79,
+      "vision": 73,
+      "short_passing": 85,
+      "stamina": 90
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 192
+    }
+  },
+  {
+    "id": "arg_2018_armani",
+    "name": "Franco Armani",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 77,
+    "stats": {
+      "gk_reflexes": 79,
+      "gk_diving": 76,
+      "gk_handling": 73,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "save_pct": 57.1,
+      "clean_sheets": 0,
+      "goals_conceded": 5,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "arg_2018_mercado",
+    "name": "Gabriel Mercado",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "defending": 75,
+      "standing_tackle": 75,
+      "interceptions": 78,
+      "heading_accuracy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "arg_2018_pavon",
+    "name": "Cristian Pavón",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 75,
+    "stats": {
+      "passing": 71,
+      "vision": 66,
+      "short_passing": 76,
+      "stamina": 78
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 3,
+      "minutes_played": 155
+    }
+  },
+  {
+    "id": "arg_2018_locelso",
+    "name": "Giovani Lo Celso",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "passing": 76,
+      "vision": 80,
+      "short_passing": 78,
+      "stamina": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "arg_2018_meza",
+    "name": "Maximiliano Meza",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 73,
+    "stats": {
+      "passing": 68,
+      "vision": 71,
+      "short_passing": 71,
+      "stamina": 75
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 208
+    }
+  },
+  {
+    "id": "arg_2018_guzman",
+    "name": "Nahuel Guzmán",
+    "nation": "Argentina",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 64,
+    "stats": {
+      "gk_reflexes": 12,
+      "gk_diving": 10,
+      "gk_handling": 12,
+      "gk_positioning": 10
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "bel_2018_hazard",
+    "name": "Eden Hazard",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 90,
+    "stats": {
+      "shooting": 81,
+      "finishing": 83,
+      "shot_power": 79,
+      "positioning": 85
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 5,
+      "minutes_played": 517,
+      "goals_per90": 0.52
+    }
+  },
+  {
+    "id": "bel_2018_courtois",
+    "name": "Thibaut Courtois",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 89,
+    "stats": {
+      "gk_reflexes": 88,
+      "gk_diving": 85,
+      "gk_handling": 91,
+      "gk_positioning": 86
+    },
+    "wc_stats": {
+      "save_pct": 80.6,
+      "clean_sheets": 3,
+      "goals_conceded": 6,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bel_2018_debruyne",
+    "name": "Kevin De Bruyne",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 89,
+    "stats": {
+      "passing": 87,
+      "vision": 90,
+      "short_passing": 90,
+      "stamina": 87
+    },
+    "wc_stats": {
+      "key_passes": 19,
+      "assists": 2,
+      "progressive_passes": 37,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bel_2018_alderweireld",
+    "name": "Toby Alderweireld",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 86,
+    "stats": {
+      "defending": 87,
+      "standing_tackle": 90,
+      "interceptions": 84,
+      "heading_accuracy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bel_2018_lukaku",
+    "name": "Romelu Lukaku",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 86,
+    "stats": {
+      "shooting": 82,
+      "finishing": 89,
+      "shot_power": 88,
+      "positioning": 87
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 473,
+      "goals_per90": 0.76
+    }
+  },
+  {
+    "id": "bel_2018_mertens",
+    "name": "Dries Mertens",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 86,
+    "stats": {
+      "shooting": 79,
+      "finishing": 85,
+      "shot_power": 80,
+      "positioning": 85
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 298,
+      "goals_per90": 0.3
+    }
+  },
+  {
+    "id": "bel_2018_kompany",
+    "name": "Vincent Kompany",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 85,
+    "stats": {
+      "defending": 83,
+      "standing_tackle": 85,
+      "interceptions": 80,
+      "heading_accuracy": 84
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 377
+    }
+  },
+  {
+    "id": "bel_2018_vertonghen",
+    "name": "Jan Vertonghen",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 85,
+    "stats": {
+      "defending": 86,
+      "standing_tackle": 86,
+      "interceptions": 86,
+      "heading_accuracy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bel_2018_carrasco",
+    "name": "Yannick Carrasco",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 85,
+    "stats": {
+      "passing": 76,
+      "vision": 74,
+      "short_passing": 79,
+      "stamina": 73
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 11,
+      "minutes_played": 238
+    }
+  },
+  {
+    "id": "bel_2018_dembele",
+    "name": "Mousa Dembélé",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 83,
+    "stats": {
+      "passing": 84,
+      "vision": 79,
+      "short_passing": 86,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 179
+    }
+  },
+  {
+    "id": "bel_2018_witsel",
+    "name": "Axel Witsel",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "passing": 80,
+      "vision": 78,
+      "short_passing": 83,
+      "stamina": 85
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 11,
+      "minutes_played": 539
+    }
+  },
+  {
+    "id": "bel_2018_mignolet",
+    "name": "Simon Mignolet",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 81,
+    "stats": {
+      "gk_reflexes": 84,
+      "gk_diving": 80,
+      "gk_handling": 76,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "bel_2018_meunier",
+    "name": "Thomas Meunier",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 81,
+    "stats": {
+      "defending": 79,
+      "standing_tackle": 82,
+      "interceptions": 74,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_2018_hazard",
+    "name": "Thorgan Hazard",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "passing": 75,
+      "vision": 81,
+      "short_passing": 79,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 98
+    }
+  },
+  {
+    "id": "bel_2018_tielemans",
+    "name": "Youri Tielemans",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "passing": 80,
+      "vision": 83,
+      "short_passing": 80,
+      "stamina": 73
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 2,
+      "progressive_passes": 5,
+      "minutes_played": 176
+    }
+  },
+  {
+    "id": "bel_2018_batshuayi",
+    "name": "Michy Batshuayi",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 80,
+    "stats": {
+      "shooting": 79,
+      "finishing": 83,
+      "shot_power": 83,
+      "positioning": 83
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 114,
+      "goals_per90": 0.79
+    }
+  },
+  {
+    "id": "bel_2018_fellaini",
+    "name": "Marouane Fellaini",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 79,
+    "stats": {
+      "passing": 74,
+      "vision": 72,
+      "short_passing": 81,
+      "stamina": 83
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 317
+    }
+  },
+  {
+    "id": "bel_2018_dendoncker",
+    "name": "Leander Dendoncker",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 79,
+    "stats": {
+      "defending": 77,
+      "standing_tackle": 80,
+      "interceptions": 78,
+      "heading_accuracy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_2018_vermaelen",
+    "name": "Thomas Vermaelen",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 77,
+      "interceptions": 73,
+      "heading_accuracy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 133
+    }
+  },
+  {
+    "id": "bel_2018_casteels",
+    "name": "Koen Casteels",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "gk_reflexes": 82,
+      "gk_diving": 80,
+      "gk_handling": 69,
+      "gk_positioning": 75
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "bel_2018_chadli",
+    "name": "Nacer Chadli",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 78,
+    "stats": {
+      "passing": 72,
+      "vision": 76,
+      "short_passing": 77,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 11,
+      "minutes_played": 326
+    }
+  },
+  {
+    "id": "bel_2018_januzaj",
+    "name": "Adnan Januzaj",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 77,
+    "stats": {
+      "shooting": 65,
+      "finishing": 69,
+      "shot_power": 58,
+      "positioning": 69
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 85,
+      "goals_per90": 1.06
+    }
+  },
+  {
+    "id": "bel_2018_boyata",
+    "name": "Dedryck Boyata",
+    "nation": "Belgium",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "defending": 69,
+      "standing_tackle": 71,
+      "interceptions": 68,
+      "heading_accuracy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_2018_neymar",
+    "name": "Neymar",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 92,
+    "stats": {
+      "shooting": 82,
+      "finishing": 89,
+      "shot_power": 80,
+      "positioning": 90
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 13,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "bra_2018_silva",
+    "name": "Thiago Silva",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 88,
+    "stats": {
+      "defending": 89,
+      "standing_tackle": 89,
+      "interceptions": 89,
+      "heading_accuracy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_2018_marcelo",
+    "name": "Marcelo",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": 87,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 85,
+      "interceptions": 83,
+      "heading_accuracy": 71
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 279
+    }
+  },
+  {
+    "id": "bra_2018_miranda",
+    "name": "Miranda",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 86,
+    "stats": {
+      "defending": 88,
+      "standing_tackle": 90,
+      "interceptions": 88,
+      "heading_accuracy": 83
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_2018_coutinho",
+    "name": "Philippe Coutinho",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 86,
+    "stats": {
+      "passing": 82,
+      "vision": 87,
+      "short_passing": 85,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 13,
+      "assists": 2,
+      "progressive_passes": 31,
+      "minutes_played": 434
+    }
+  },
+  {
+    "id": "bra_2018_casemiro",
+    "name": "Casemiro",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 85,
+    "stats": {
+      "passing": 83,
+      "vision": 76,
+      "short_passing": 82,
+      "stamina": 85
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 24,
+      "minutes_played": 329
+    }
+  },
+  {
+    "id": "bra_2018_luis",
+    "name": "Filipe Luís",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 85,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 83,
+      "interceptions": 82,
+      "heading_accuracy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 171
+    }
+  },
+  {
+    "id": "bra_2018_willian",
+    "name": "Willian",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 84,
+    "stats": {
+      "passing": 80,
+      "vision": 83,
+      "short_passing": 82,
+      "stamina": 87
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 10,
+      "minutes_played": 359
+    }
+  },
+  {
+    "id": "bra_2018_marquinhos",
+    "name": "Marquinhos",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 83,
+    "stats": {
+      "defending": 85,
+      "standing_tackle": 85,
+      "interceptions": 84,
+      "heading_accuracy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 1
+    }
+  },
+  {
+    "id": "bra_2018_firmino",
+    "name": "Roberto Firmino",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 80,
+      "finishing": 83,
+      "shot_power": 79,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 85,
+      "goals_per90": 1.06
+    }
+  },
+  {
+    "id": "bra_2018_ederson",
+    "name": "Ederson",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 83,
+    "stats": {
+      "gk_reflexes": 87,
+      "gk_diving": 81,
+      "gk_handling": 76,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "bra_2018_costa",
+    "name": "Douglas Costa",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 78,
+      "finishing": 71,
+      "shot_power": 86,
+      "positioning": 77
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 78,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_2018_fernandinho",
+    "name": "Fernandinho",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 82,
+    "stats": {
+      "passing": 80,
+      "vision": 75,
+      "short_passing": 82,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 158
+    }
+  },
+  {
+    "id": "bra_2018_taison",
+    "name": "Taison",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 81,
+      "finishing": 76,
+      "shot_power": 83,
+      "positioning": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 450,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_2018_jesus",
+    "name": "Gabriel Jesus",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 81,
+    "stats": {
+      "shooting": 75,
+      "finishing": 83,
+      "shot_power": 78,
+      "positioning": 83
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 1,
+      "minutes_played": 404,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_2018_paulinho",
+    "name": "Paulinho",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 81,
+    "stats": {
+      "passing": 78,
+      "vision": 75,
+      "short_passing": 81,
+      "stamina": 92
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 3,
+      "minutes_played": 349
+    }
+  },
+  {
+    "id": "bra_2018_alisson",
+    "name": "Alisson",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "gk_reflexes": 86,
+      "gk_diving": 75,
+      "gk_handling": 76,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "save_pct": 57.1,
+      "clean_sheets": 3,
+      "goals_conceded": 3,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_2018_augusto",
+    "name": "Renato Augusto",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "passing": 81,
+      "vision": 81,
+      "short_passing": 81,
+      "stamina": 71
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 53
+    }
+  },
+  {
+    "id": "bra_2018_fred",
+    "name": "Fred",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 80,
+    "stats": {
+      "passing": 81,
+      "vision": 76,
+      "short_passing": 85,
+      "stamina": 88
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "bra_2018_danilo",
+    "name": "Danilo",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 79,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 84,
+      "interceptions": 86,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_2018_cassio",
+    "name": "Cássio",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 16,
+    "base_rating": 75,
+    "stats": {
+      "gk_reflexes": 74,
+      "gk_diving": 77,
+      "gk_handling": 72,
+      "gk_positioning": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "bra_2018_fagner",
+    "name": "Fagner",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "defending": 14,
+      "standing_tackle": 11,
+      "interceptions": 19,
+      "heading_accuracy": 18
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 9,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_2018_geromel",
+    "name": "Pedro Geromel",
+    "nation": "Brazil",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 65,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "col_2018_rodriguez",
+    "name": "James Rodríguez",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 86,
+    "stats": {
+      "passing": 82,
+      "vision": 86,
+      "short_passing": 84,
+      "stamina": 68
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 2,
+      "progressive_passes": 8,
+      "minutes_played": 152
+    }
+  },
+  {
+    "id": "col_2018_falcao",
+    "name": "Radamel Falcao",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "shooting": 82,
+      "finishing": 87,
+      "shot_power": 79,
+      "positioning": 85
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 375,
+      "goals_per90": 0.24
+    }
+  },
+  {
+    "id": "col_2018_bacca",
+    "name": "Carlos Bacca",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 76,
+      "finishing": 87,
+      "shot_power": 76,
+      "positioning": 87
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 94,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_2018_cuadrado",
+    "name": "Juan Cuadrado",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "passing": 73,
+      "vision": 72,
+      "short_passing": 77,
+      "stamina": 75
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 12,
+      "minutes_played": 330
+    }
+  },
+  {
+    "id": "col_2018_cuadrado",
+    "name": "José Fernando Cuadrado",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 82,
+    "stats": {
+      "gk_reflexes": 9,
+      "gk_diving": 5,
+      "gk_handling": 5,
+      "gk_positioning": 6
+    },
+    "wc_stats": {
+      "save_pct": null,
+      "clean_sheets": null,
+      "goals_conceded": null,
+      "minutes_played": 330
+    }
+  },
+  {
+    "id": "col_2018_sanchez",
+    "name": "Davinson Sánchez",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 81,
+    "stats": {
+      "defending": 81,
+      "standing_tackle": 82,
+      "interceptions": 76,
+      "heading_accuracy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "col_2018_muriel",
+    "name": "Luis Muriel",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "shooting": 76,
+      "finishing": 80,
+      "shot_power": 82,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 93,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_2018_ospina",
+    "name": "David Ospina",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "gk_reflexes": 84,
+      "gk_diving": 83,
+      "gk_handling": 71,
+      "gk_positioning": 77
+    },
+    "wc_stats": {
+      "save_pct": 92.3,
+      "clean_sheets": 2,
+      "goals_conceded": 3,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "col_2018_izquierdo",
+    "name": "José Izquierdo",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "shooting": 70,
+      "finishing": 71,
+      "shot_power": 80,
+      "positioning": 75
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 69,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_2018_arias",
+    "name": "Santiago Arias",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 77,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 74,
+      "interceptions": 70,
+      "heading_accuracy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 385
+    }
+  },
+  {
+    "id": "col_2018_sanchez",
+    "name": "Carlos Sánchez",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 77,
+    "stats": {
+      "passing": 77,
+      "vision": 68,
+      "short_passing": 78,
+      "stamina": 84
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 170
+    }
+  },
+  {
+    "id": "col_2018_quintero",
+    "name": "Juan Fernando Quintero",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 77,
+    "stats": {
+      "passing": 76,
+      "vision": 77,
+      "short_passing": 78,
+      "stamina": 47
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 29,
+      "minutes_played": 307
+    }
+  },
+  {
+    "id": "col_2018_murillo",
+    "name": "Óscar Murillo",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 77,
+      "interceptions": 79,
+      "heading_accuracy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "col_2018_aguilar",
+    "name": "Abel Aguilar",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 75,
+    "stats": {
+      "passing": 72,
+      "vision": 70,
+      "short_passing": 75,
+      "stamina": 73
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 31
+    }
+  },
+  {
+    "id": "col_2018_vargas",
+    "name": "Camilo Vargas",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 75,
+    "stats": {
+      "gk_reflexes": 77,
+      "gk_diving": 77,
+      "gk_handling": 75,
+      "gk_positioning": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "col_2018_lerma",
+    "name": "Jefferson Lerma",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 75,
+    "stats": {
+      "passing": 74,
+      "vision": 68,
+      "short_passing": 76,
+      "stamina": 90
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 176
+    }
+  },
+  {
+    "id": "col_2018_barrios",
+    "name": "Wilmar Barrios",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "passing": 68,
+      "vision": 65,
+      "short_passing": 70,
+      "stamina": 90
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_2018_uribe",
+    "name": "Mateus Uribe",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 73,
+    "stats": {
+      "passing": 76,
+      "vision": 66,
+      "short_passing": 75,
+      "stamina": 91
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 183
+    }
+  },
+  {
+    "id": "col_2018_diaz",
+    "name": "Farid Díaz",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "defending": 70,
+      "standing_tackle": 69,
+      "interceptions": 62,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "col_2018_mojica",
+    "name": "Johan Mojica",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 66,
+      "interceptions": 59,
+      "heading_accuracy": 55
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "col_2018_mina",
+    "name": "Yerry Mina",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 67,
+    "stats": {
+      "defending": 14,
+      "standing_tackle": 11,
+      "interceptions": 19,
+      "heading_accuracy": 16
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 300
+    }
+  },
+  {
+    "id": "col_2018_zapata",
+    "name": "Cristián Zapata",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 65,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 5
+    }
+  },
+  {
+    "id": "col_2018_borja",
+    "name": "Miguel Borja",
+    "nation": "Colombia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 65,
+    "stats": {
+      "shooting": 62,
+      "finishing": 61,
+      "shot_power": 63,
+      "positioning": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 2,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "cro_2018_modric",
+    "name": "Luka Modrić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 89,
+    "stats": {
+      "passing": 88,
+      "vision": 90,
+      "short_passing": 92,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 1,
+      "progressive_passes": 51,
+      "minutes_played": 691
+    }
+  },
+  {
+    "id": "cro_2018_rakitic",
+    "name": "Ivan Rakitić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 87,
+    "stats": {
+      "passing": 90,
+      "vision": 87,
+      "short_passing": 87,
+      "stamina": 76
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 35,
+      "minutes_played": 640
+    }
+  },
+  {
+    "id": "cro_2018_subasic",
+    "name": "Danijel Subašić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 85,
+    "stats": {
+      "gk_reflexes": 87,
+      "gk_diving": 84,
+      "gk_handling": 79,
+      "gk_positioning": 85
+    },
+    "wc_stats": {
+      "save_pct": 65.0,
+      "clean_sheets": 2,
+      "goals_conceded": 8,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "cro_2018_perisic",
+    "name": "Ivan Perišić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "shooting": 80,
+      "finishing": 79,
+      "shot_power": 83,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 629,
+      "goals_per90": 0.43
+    }
+  },
+  {
+    "id": "cro_2018_mandzukic",
+    "name": "Mario Mandžukić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 76,
+      "finishing": 84,
+      "shot_power": 78,
+      "positioning": 89
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 605,
+      "goals_per90": 0.45
+    }
+  },
+  {
+    "id": "cro_2018_corluka",
+    "name": "Vedran Ćorluka",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 82,
+    "stats": {
+      "defending": 81,
+      "standing_tackle": 83,
+      "interceptions": 77,
+      "heading_accuracy": 83
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 121
+    }
+  },
+  {
+    "id": "cro_2018_kovacic",
+    "name": "Mateo Kovačić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "passing": 84,
+      "vision": 88,
+      "short_passing": 87,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 5,
+      "minutes_played": 185
+    }
+  },
+  {
+    "id": "cro_2018_lovren",
+    "name": "Dejan Lovren",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 81,
+    "stats": {
+      "defending": 82,
+      "standing_tackle": 82,
+      "interceptions": 82,
+      "heading_accuracy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 651
+    }
+  },
+  {
+    "id": "cro_2018_kramaric",
+    "name": "Andrej Kramarić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 81,
+    "stats": {
+      "shooting": 80,
+      "finishing": 82,
+      "shot_power": 82,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 334,
+      "goals_per90": 0.27
+    }
+  },
+  {
+    "id": "cro_2018_brozovic",
+    "name": "Marcelo Brozović",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 81,
+    "stats": {
+      "passing": 82,
+      "vision": 81,
+      "short_passing": 83,
+      "stamina": 83
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 21,
+      "minutes_played": 459
+    }
+  },
+  {
+    "id": "cro_2018_kalinic",
+    "name": "Nikola Kalinić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 81,
+    "stats": {
+      "shooting": 78,
+      "finishing": 85,
+      "shot_power": 78,
+      "positioning": 90
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "cro_2018_vrsaljko",
+    "name": "Šime Vrsaljko",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "defending": 77,
+      "standing_tackle": 78,
+      "interceptions": 79,
+      "heading_accuracy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 11,
+      "clearances": null,
+      "minutes_played": 606
+    }
+  },
+  {
+    "id": "cro_2018_badelj",
+    "name": "Milan Badelj",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 78,
+    "stats": {
+      "passing": 82,
+      "vision": 78,
+      "short_passing": 82,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 1,
+      "progressive_passes": 7,
+      "minutes_played": 106
+    }
+  },
+  {
+    "id": "cro_2018_kalinic",
+    "name": "Lovre Kalinić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 77,
+    "stats": {
+      "gk_reflexes": 80,
+      "gk_diving": 81,
+      "gk_handling": 73,
+      "gk_positioning": 74
+    },
+    "wc_stats": {
+      "save_pct": 100.0,
+      "clean_sheets": 0,
+      "goals_conceded": 1,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cro_2018_jedvaj",
+    "name": "Tin Jedvaj",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 77,
+      "interceptions": 76,
+      "heading_accuracy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cro_2018_pjaca",
+    "name": "Marko Pjaca",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "shooting": 70,
+      "finishing": 61,
+      "shot_power": 76,
+      "positioning": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 83,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "cro_2018_strinic",
+    "name": "Ivan Strinić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 75,
+    "stats": {
+      "defending": 75,
+      "standing_tackle": 75,
+      "interceptions": 75,
+      "heading_accuracy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 508
+    }
+  },
+  {
+    "id": "cro_2018_rebic",
+    "name": "Ante Rebić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "shooting": 74,
+      "finishing": 70,
+      "shot_power": 80,
+      "positioning": 69
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 6,
+      "minutes_played": 543,
+      "goals_per90": 0.17
+    }
+  },
+  {
+    "id": "cro_2018_caletacar",
+    "name": "Duje Ćaleta-Car",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 71,
+    "stats": {
+      "defending": 70,
+      "standing_tackle": 75,
+      "interceptions": 63,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cro_2018_livakovic",
+    "name": "Dominik Livaković",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 65,
+    "stats": {
+      "gk_reflexes": 62,
+      "gk_diving": 61,
+      "gk_handling": 63,
+      "gk_positioning": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "cro_2018_bradaric",
+    "name": "Filip Bradarić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 65,
+    "stats": {
+      "passing": 63,
+      "vision": 61,
+      "short_passing": 64,
+      "stamina": 65
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 26
+    }
+  },
+  {
+    "id": "cro_2018_vida",
+    "name": "Domagoj Vida",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 65,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "cro_2018_pivaric",
+    "name": "Josip Pivarić",
+    "nation": "Croatia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 65,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 203
+    }
+  },
+  {
+    "id": "eng_2018_kane",
+    "name": "Harry Kane",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 86,
+    "stats": {
+      "shooting": 84,
+      "finishing": 90,
+      "shot_power": 87,
+      "positioning": 89
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 572,
+      "goals_per90": 0.94
+    }
+  },
+  {
+    "id": "eng_2018_cahill",
+    "name": "Gary Cahill",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 84,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 85,
+      "interceptions": 83,
+      "heading_accuracy": 86
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "eng_2018_alli",
+    "name": "Dele Alli",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 84,
+    "stats": {
+      "passing": 80,
+      "vision": 83,
+      "short_passing": 83,
+      "stamina": 89
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 362
+    }
+  },
+  {
+    "id": "eng_2018_walker",
+    "name": "Kyle Walker",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 83,
+    "stats": {
+      "defending": 81,
+      "standing_tackle": 84,
+      "interceptions": 78,
+      "heading_accuracy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 493
+    }
+  },
+  {
+    "id": "eng_2018_rose",
+    "name": "Danny Rose",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 82,
+    "stats": {
+      "defending": 83,
+      "standing_tackle": 84,
+      "interceptions": 81,
+      "heading_accuracy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 205
+    }
+  },
+  {
+    "id": "eng_2018_dier",
+    "name": "Eric Dier",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "passing": 76,
+      "vision": 66,
+      "short_passing": 76,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 251
+    }
+  },
+  {
+    "id": "eng_2018_henderson",
+    "name": "Jordan Henderson",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "passing": 84,
+      "vision": 82,
+      "short_passing": 85,
+      "stamina": 93
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 26,
+      "minutes_played": 480
+    }
+  },
+  {
+    "id": "eng_2018_sterling",
+    "name": "Raheem Sterling",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 68,
+      "finishing": 73,
+      "shot_power": 68,
+      "positioning": 81
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 1,
+      "minutes_played": 451,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_2018_vardy",
+    "name": "Jamie Vardy",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 81,
+    "stats": {
+      "shooting": 77,
+      "finishing": 83,
+      "shot_power": 85,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 160,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_2018_butland",
+    "name": "Jack Butland",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 81,
+    "stats": {
+      "gk_reflexes": 85,
+      "gk_diving": 81,
+      "gk_handling": 83,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "eng_2018_welbeck",
+    "name": "Danny Welbeck",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "shooting": 74,
+      "finishing": 75,
+      "shot_power": 77,
+      "positioning": 80
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 12,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_2018_rashford",
+    "name": "Marcus Rashford",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 80,
+    "stats": {
+      "shooting": 75,
+      "finishing": 79,
+      "shot_power": 82,
+      "positioning": 81
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 202,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_2018_stones",
+    "name": "John Stones",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 79,
+    "stats": {
+      "defending": 80,
+      "standing_tackle": 83,
+      "interceptions": 76,
+      "heading_accuracy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 645
+    }
+  },
+  {
+    "id": "eng_2018_jones",
+    "name": "Phil Jones",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "defending": 80,
+      "standing_tackle": 80,
+      "interceptions": 81,
+      "heading_accuracy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_2018_lingard",
+    "name": "Jesse Lingard",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "passing": 70,
+      "vision": 74,
+      "short_passing": 75,
+      "stamina": 79
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 10,
+      "minutes_played": 526
+    }
+  },
+  {
+    "id": "eng_2018_trippier",
+    "name": "Kieran Trippier",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 76,
+      "interceptions": 74,
+      "heading_accuracy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 579
+    }
+  },
+  {
+    "id": "eng_2018_pickford",
+    "name": "Jordan Pickford",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 77,
+    "stats": {
+      "gk_reflexes": 82,
+      "gk_diving": 77,
+      "gk_handling": 76,
+      "gk_positioning": 73
+    },
+    "wc_stats": {
+      "save_pct": 70.8,
+      "clean_sheets": 1,
+      "goals_conceded": 8,
+      "minutes_played": 690
+    }
+  },
+  {
+    "id": "eng_2018_maguire",
+    "name": "Harry Maguire",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 77,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 78,
+      "interceptions": 74,
+      "heading_accuracy": 77
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 645
+    }
+  },
+  {
+    "id": "eng_2018_delph",
+    "name": "Fabian Delph",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "defending": 70,
+      "standing_tackle": 73,
+      "interceptions": 75,
+      "heading_accuracy": 53
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 222
+    }
+  },
+  {
+    "id": "eng_2018_young",
+    "name": "Ashley Young",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 75,
+    "stats": {
+      "defending": 66,
+      "standing_tackle": 68,
+      "interceptions": 67,
+      "heading_accuracy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 461
+    }
+  },
+  {
+    "id": "eng_2018_loftuscheek",
+    "name": "Ruben Loftus-Cheek",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "passing": 77,
+      "vision": 70,
+      "short_passing": 76,
+      "stamina": 76
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 2,
+      "minutes_played": 274
+    }
+  },
+  {
+    "id": "eng_2018_alexanderarnold",
+    "name": "Trent Alexander-Arnold",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 69,
+    "stats": {
+      "defending": 64,
+      "standing_tackle": 66,
+      "interceptions": 64,
+      "heading_accuracy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "eng_2018_pope",
+    "name": "Nick Pope",
+    "nation": "England",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 68,
+    "stats": {
+      "gk_reflexes": 71,
+      "gk_diving": 72,
+      "gk_handling": 67,
+      "gk_positioning": 67
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "fra_2018_lloris",
+    "name": "Hugo Lloris",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 88,
+    "stats": {
+      "gk_reflexes": 90,
+      "gk_diving": 88,
+      "gk_handling": 86,
+      "gk_positioning": 82
+    },
+    "wc_stats": {
+      "save_pct": 72.2,
+      "clean_sheets": 3,
+      "goals_conceded": 6,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_2018_griezmann",
+    "name": "Antoine Griezmann",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 88,
+    "stats": {
+      "shooting": 84,
+      "finishing": 88,
+      "shot_power": 81,
+      "positioning": 91
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 566,
+      "goals_per90": 0.64
+    }
+  },
+  {
+    "id": "fra_2018_pogba",
+    "name": "Paul Pogba",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 87,
+    "stats": {
+      "passing": 87,
+      "vision": 86,
+      "short_passing": 86,
+      "stamina": 91
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 0,
+      "progressive_passes": 36,
+      "minutes_played": 538
+    }
+  },
+  {
+    "id": "fra_2018_kante",
+    "name": "N'Golo Kanté",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 87,
+    "stats": {
+      "passing": 82,
+      "vision": 76,
+      "short_passing": 84,
+      "stamina": 94
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 25,
+      "minutes_played": 593
+    }
+  },
+  {
+    "id": "fra_2018_varane",
+    "name": "Raphaël Varane",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 85,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 86,
+      "interceptions": 82,
+      "heading_accuracy": 83
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "fra_2018_matuidi",
+    "name": "Blaise Matuidi",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 85,
+    "stats": {
+      "passing": 82,
+      "vision": 75,
+      "short_passing": 84,
+      "stamina": 94
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 334
+    }
+  },
+  {
+    "id": "fra_2018_umtiti",
+    "name": "Samuel Umtiti",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 83,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 85,
+      "interceptions": 86,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_2018_lemar",
+    "name": "Thomas Lemar",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 78,
+      "finishing": 78,
+      "shot_power": 82,
+      "positioning": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2018_mbappe",
+    "name": "Kylian Mbappé",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 77,
+      "finishing": 87,
+      "shot_power": 79,
+      "positioning": 79
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 532,
+      "goals_per90": 0.68
+    }
+  },
+  {
+    "id": "fra_2018_dembele",
+    "name": "Ousmane Dembélé",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 75,
+      "finishing": 77,
+      "shot_power": 82,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 165,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2018_nzonzi",
+    "name": "Steven Nzonzi",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 83,
+    "stats": {
+      "passing": 80,
+      "vision": 77,
+      "short_passing": 82,
+      "stamina": 86
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 146
+    }
+  },
+  {
+    "id": "fra_2018_giroud",
+    "name": "Olivier Giroud",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 81,
+      "finishing": 83,
+      "shot_power": 85,
+      "positioning": 83
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 0,
+      "minutes_played": 545,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2018_tolisso",
+    "name": "Corentin Tolisso",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 12,
+    "base_rating": 82,
+    "stats": {
+      "passing": 84,
+      "vision": 79,
+      "short_passing": 85,
+      "stamina": 86
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 9,
+      "minutes_played": 195
+    }
+  },
+  {
+    "id": "fra_2018_mandanda",
+    "name": "Steve Mandanda",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 16,
+    "base_rating": 82,
+    "stats": {
+      "gk_reflexes": 85,
+      "gk_diving": 86,
+      "gk_handling": 78,
+      "gk_positioning": 77
+    },
+    "wc_stats": {
+      "save_pct": 100.0,
+      "clean_sheets": 1,
+      "goals_conceded": 0,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_2018_fekir",
+    "name": "Nabil Fekir",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 79,
+      "finishing": 78,
+      "shot_power": 84,
+      "positioning": 79
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 74,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2018_thauvin",
+    "name": "Florian Thauvin",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 76,
+      "finishing": 74,
+      "shot_power": 82,
+      "positioning": 80
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 2,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_2018_rami",
+    "name": "Adil Rami",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 81,
+    "stats": {
+      "defending": 80,
+      "standing_tackle": 81,
+      "interceptions": 83,
+      "heading_accuracy": 79
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "fra_2018_sidibe",
+    "name": "Djibril Sidibé",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 79,
+    "stats": {
+      "defending": 77,
+      "standing_tackle": 78,
+      "interceptions": 76,
+      "heading_accuracy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_2018_areola",
+    "name": "Alphonse Areola",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 79,
+    "stats": {
+      "gk_reflexes": 83,
+      "gk_diving": 81,
+      "gk_handling": 77,
+      "gk_positioning": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "fra_2018_mendy",
+    "name": "Benjamin Mendy",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 78,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 76,
+      "interceptions": 76,
+      "heading_accuracy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 41
+    }
+  },
+  {
+    "id": "fra_2018_kimpembe",
+    "name": "Presnel Kimpembe",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 77,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 78,
+      "interceptions": 78,
+      "heading_accuracy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_2018_hernandez",
+    "name": "Lucas Hernandez",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 77,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 80,
+      "interceptions": 76,
+      "heading_accuracy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 589
+    }
+  },
+  {
+    "id": "fra_2018_pavard",
+    "name": "Benjamin Pavard",
+    "nation": "France",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 74,
+      "interceptions": 75,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ger_2018_neuer",
+    "name": "Manuel Neuer",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 92,
+    "stats": {
+      "gk_reflexes": 89,
+      "gk_diving": 91,
+      "gk_handling": 90,
+      "gk_positioning": 91
+    },
+    "wc_stats": {
+      "save_pct": 71.4,
+      "clean_sheets": 0,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_2018_kroos",
+    "name": "Toni Kroos",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 90,
+    "stats": {
+      "passing": 92,
+      "vision": 88,
+      "short_passing": 90,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 50,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_2018_hummels",
+    "name": "Mats Hummels",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 88,
+    "stats": {
+      "defending": 89,
+      "standing_tackle": 92,
+      "interceptions": 89,
+      "heading_accuracy": 89
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ger_2018_ozil",
+    "name": "Mesut Özil",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "passing": 86,
+      "vision": 92,
+      "short_passing": 89,
+      "stamina": 69
+    },
+    "wc_stats": {
+      "key_passes": 11,
+      "assists": 0,
+      "progressive_passes": 17,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ger_2018_boateng",
+    "name": "Jérôme Boateng",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 88,
+    "stats": {
+      "defending": 88,
+      "standing_tackle": 91,
+      "interceptions": 83,
+      "heading_accuracy": 85
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 171
+    }
+  },
+  {
+    "id": "ger_2018_reus",
+    "name": "Marco Reus",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 86,
+    "stats": {
+      "shooting": 87,
+      "finishing": 86,
+      "shot_power": 87,
+      "positioning": 86
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 1,
+      "minutes_played": 211,
+      "goals_per90": 0.43
+    }
+  },
+  {
+    "id": "ger_2018_muller",
+    "name": "Thomas Müller",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 86,
+    "stats": {
+      "passing": 74,
+      "vision": 81,
+      "short_passing": 81,
+      "stamina": 90
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 208
+    }
+  },
+  {
+    "id": "ger_2018_gundogan",
+    "name": "İlkay Gündoğan",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 85,
+    "stats": {
+      "passing": 86,
+      "vision": 87,
+      "short_passing": 88,
+      "stamina": 71
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 3,
+      "minutes_played": 60
+    }
+  },
+  {
+    "id": "ger_2018_terstegen",
+    "name": "Marc-André ter Stegen",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 85,
+    "stats": {
+      "gk_reflexes": 86,
+      "gk_diving": 84,
+      "gk_handling": 83,
+      "gk_positioning": 81
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "ger_2018_khedira",
+    "name": "Sami Khedira",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "passing": 83,
+      "vision": 82,
+      "short_passing": 85,
+      "stamina": 78
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 116
+    }
+  },
+  {
+    "id": "ger_2018_draxler",
+    "name": "Julian Draxler",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "passing": 80,
+      "vision": 84,
+      "short_passing": 84,
+      "stamina": 68
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 135
+    }
+  },
+  {
+    "id": "ger_2018_sule",
+    "name": "Niklas Süle",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 83,
+    "stats": {
+      "defending": 83,
+      "standing_tackle": 86,
+      "interceptions": 82,
+      "heading_accuracy": 85
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ger_2018_werner",
+    "name": "Timo Werner",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 77,
+      "finishing": 86,
+      "shot_power": 74,
+      "positioning": 85
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 265,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_2018_trapp",
+    "name": "Kevin Trapp",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 82,
+    "stats": {
+      "gk_reflexes": 84,
+      "gk_diving": 80,
+      "gk_handling": 78,
+      "gk_positioning": 84
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "ger_2018_goretzka",
+    "name": "Leon Goretzka",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 82,
+    "stats": {
+      "passing": 80,
+      "vision": 79,
+      "short_passing": 83,
+      "stamina": 86
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 62
+    }
+  },
+  {
+    "id": "ger_2018_rudiger",
+    "name": "Antonio Rüdiger",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 82,
+    "stats": {
+      "defending": 82,
+      "standing_tackle": 84,
+      "interceptions": 79,
+      "heading_accuracy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ger_2018_gomez",
+    "name": "Mario Gómez",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 80,
+      "finishing": 84,
+      "shot_power": 82,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ger_2018_kimmich",
+    "name": "Joshua Kimmich",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 81,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 78,
+      "interceptions": 79,
+      "heading_accuracy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ger_2018_rudy",
+    "name": "Sebastian Rudy",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 81,
+    "stats": {
+      "passing": 82,
+      "vision": 80,
+      "short_passing": 84,
+      "stamina": 79
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 30
+    }
+  },
+  {
+    "id": "ger_2018_hector",
+    "name": "Jonas Hector",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "defending": 80,
+      "standing_tackle": 81,
+      "interceptions": 81,
+      "heading_accuracy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 163
+    }
+  },
+  {
+    "id": "ger_2018_brandt",
+    "name": "Julian Brandt",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 80,
+    "stats": {
+      "passing": 74,
+      "vision": 83,
+      "short_passing": 81,
+      "stamina": 68
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 22
+    }
+  },
+  {
+    "id": "ger_2018_ginter",
+    "name": "Matthias Ginter",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 79,
+      "interceptions": 78,
+      "heading_accuracy": 83
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "ger_2018_plattenhardt",
+    "name": "Marvin Plattenhardt",
+    "nation": "Germany",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 65,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 78
+    }
+  },
+  {
+    "id": "jpn_2018_kagawa",
+    "name": "Shinji Kagawa",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "passing": 78,
+      "vision": 82,
+      "short_passing": 84,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 11,
+      "minutes_played": 230
+    }
+  },
+  {
+    "id": "jpn_2018_honda",
+    "name": "Keisuke Honda",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "passing": 81,
+      "vision": 81,
+      "short_passing": 80,
+      "stamina": 72
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 1,
+      "progressive_passes": 1,
+      "minutes_played": 50
+    }
+  },
+  {
+    "id": "jpn_2018_inui",
+    "name": "Takashi Inui",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "passing": 71,
+      "vision": 74,
+      "short_passing": 75,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 5,
+      "minutes_played": 292
+    }
+  },
+  {
+    "id": "jpn_2018_okazaki",
+    "name": "Shinji Okazaki",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 77,
+    "stats": {
+      "shooting": 74,
+      "finishing": 74,
+      "shot_power": 77,
+      "positioning": 82
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 68,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "jpn_2018_osako",
+    "name": "Yuya Osako",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 15,
+    "base_rating": 77,
+    "stats": {
+      "shooting": 72,
+      "finishing": 72,
+      "shot_power": 75,
+      "positioning": 79
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 308,
+      "goals_per90": 0.29
+    }
+  },
+  {
+    "id": "jpn_2018_hasebe",
+    "name": "Makoto Hasebe",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "passing": 76,
+      "vision": 75,
+      "short_passing": 77,
+      "stamina": 76
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 3,
+      "minutes_played": 279
+    }
+  },
+  {
+    "id": "jpn_2018_muto",
+    "name": "Yoshinori Muto",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "shooting": 74,
+      "finishing": 79,
+      "shot_power": 73,
+      "positioning": 80
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 81,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "jpn_2018_shibasaki",
+    "name": "Gaku Shibasaki",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 75,
+    "stats": {
+      "passing": 76,
+      "vision": 80,
+      "short_passing": 78,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 20,
+      "minutes_played": 339
+    }
+  },
+  {
+    "id": "jpn_2018_haraguchi",
+    "name": "Genki Haraguchi",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 75,
+    "stats": {
+      "passing": 66,
+      "vision": 65,
+      "short_passing": 74,
+      "stamina": 74
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 244
+    }
+  },
+  {
+    "id": "jpn_2018_sakai",
+    "name": "Hiroki Sakai",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 75,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 76,
+      "interceptions": 72,
+      "heading_accuracy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "jpn_2018_yoshida",
+    "name": "Maya Yoshida",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 75,
+    "stats": {
+      "defending": 75,
+      "standing_tackle": 79,
+      "interceptions": 70,
+      "heading_accuracy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "jpn_2018_usami",
+    "name": "Takashi Usami",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 74,
+    "stats": {
+      "passing": 70,
+      "vision": 73,
+      "short_passing": 72,
+      "stamina": 66
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 68
+    }
+  },
+  {
+    "id": "jpn_2018_sakai",
+    "name": "Gōtoku Sakai",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "defending": 73,
+      "standing_tackle": 70,
+      "interceptions": 69,
+      "heading_accuracy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "jpn_2018_shoji",
+    "name": "Gen Shoji",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 73,
+    "stats": {
+      "defending": 72,
+      "standing_tackle": 75,
+      "interceptions": 71,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "jpn_2018_nagatomo",
+    "name": "Yuto Nagatomo",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 73,
+    "stats": {
+      "defending": 73,
+      "standing_tackle": 75,
+      "interceptions": 72,
+      "heading_accuracy": 55
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "jpn_2018_nakamura",
+    "name": "Kosuke Nakamura",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "gk_reflexes": 9,
+      "gk_diving": 14,
+      "gk_handling": 13,
+      "gk_positioning": 14
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "jpn_2018_kawashima",
+    "name": "Eiji Kawashima",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 72,
+    "stats": {
+      "gk_reflexes": 80,
+      "gk_diving": 73,
+      "gk_handling": 64,
+      "gk_positioning": 69
+    },
+    "wc_stats": {
+      "save_pct": 65.0,
+      "clean_sheets": 0,
+      "goals_conceded": 7,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "jpn_2018_higashiguchi",
+    "name": "Masaaki Higashiguchi",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "gk_reflexes": 70,
+      "gk_diving": 70,
+      "gk_handling": 73,
+      "gk_positioning": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "jpn_2018_ueda",
+    "name": "Naomichi Ueda",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 70,
+    "stats": {
+      "defending": 70,
+      "standing_tackle": 75,
+      "interceptions": 61,
+      "heading_accuracy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "jpn_2018_yamaguchi",
+    "name": "Hotaru Yamaguchi",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "passing": 74,
+      "vision": 69,
+      "short_passing": 76,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 111
+    }
+  },
+  {
+    "id": "jpn_2018_endo",
+    "name": "Wataru Endo",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 69,
+    "stats": {
+      "defending": 68,
+      "standing_tackle": 68,
+      "interceptions": 69,
+      "heading_accuracy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "jpn_2018_oshima",
+    "name": "Ryota Oshima",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 69,
+    "stats": {
+      "passing": 68,
+      "vision": 71,
+      "short_passing": 71,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "jpn_2018_makino",
+    "name": "Tomoaki Makino",
+    "nation": "Japan",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 69,
+    "stats": {
+      "defending": 65,
+      "standing_tackle": 63,
+      "interceptions": 64,
+      "heading_accuracy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mar_2018_benatia",
+    "name": "Medhi Benatia",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 84,
+    "stats": {
+      "defending": 85,
+      "standing_tackle": 86,
+      "interceptions": 84,
+      "heading_accuracy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mar_2018_ziyech",
+    "name": "Hakim Ziyech",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 81,
+    "stats": {
+      "passing": 84,
+      "vision": 88,
+      "short_passing": 86,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 13,
+      "minutes_played": 264
+    }
+  },
+  {
+    "id": "mar_2018_belhanda",
+    "name": "Younès Belhanda",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 81,
+    "stats": {
+      "passing": 79,
+      "vision": 79,
+      "short_passing": 79,
+      "stamina": 79
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 226
+    }
+  },
+  {
+    "id": "mar_2018_elahmadi",
+    "name": "Karim El Ahmadi",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "passing": 82,
+      "vision": 75,
+      "short_passing": 83,
+      "stamina": 83
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 265
+    }
+  },
+  {
+    "id": "mar_2018_amrabat",
+    "name": "Nordin Amrabat",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 79,
+    "stats": {
+      "passing": 72,
+      "vision": 78,
+      "short_passing": 78,
+      "stamina": 69
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 255
+    }
+  },
+  {
+    "id": "mar_2018_saiss",
+    "name": "Romain Saïss",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 76,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 74,
+      "interceptions": 80,
+      "heading_accuracy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mar_2018_dirar",
+    "name": "Nabil Dirar",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "defending": 52,
+      "standing_tackle": 55,
+      "interceptions": 53,
+      "heading_accuracy": 47
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mar_2018_fajr",
+    "name": "Fayçal Fajr",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 75,
+    "stats": {
+      "passing": 76,
+      "vision": 77,
+      "short_passing": 76,
+      "stamina": 67
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 1,
+      "progressive_passes": 0,
+      "minutes_played": 33
+    }
+  },
+  {
+    "id": "mar_2018_amrabat",
+    "name": "Sofyan Amrabat",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "passing": 80,
+      "vision": 75,
+      "short_passing": 80,
+      "stamina": 76
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 15
+    }
+  },
+  {
+    "id": "mar_2018_bouhaddouz",
+    "name": "Aziz Bouhaddouz",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "shooting": 73,
+      "finishing": 76,
+      "shot_power": 75,
+      "positioning": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 20,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mar_2018_dacosta",
+    "name": "Manuel da Costa",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "defending": 70,
+      "standing_tackle": 73,
+      "interceptions": 69,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 189
+    }
+  },
+  {
+    "id": "mar_2018_aitbennasser",
+    "name": "Youssef Aït Bennasser",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "passing": 75,
+      "vision": 70,
+      "short_passing": 74,
+      "stamina": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "mar_2018_bounou",
+    "name": "Yassine Bounou",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 71,
+    "stats": {
+      "gk_reflexes": 66,
+      "gk_diving": 68,
+      "gk_handling": 78,
+      "gk_positioning": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "mar_2018_hakimi",
+    "name": "Achraf Hakimi",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 71,
+    "stats": {
+      "defending": 68,
+      "standing_tackle": 68,
+      "interceptions": 68,
+      "heading_accuracy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mar_2018_boutaib",
+    "name": "Khalid Boutaïb",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 13,
+    "base_rating": 71,
+    "stats": {
+      "shooting": 74,
+      "finishing": 77,
+      "shot_power": 77,
+      "positioning": 72
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 139,
+      "goals_per90": 0.65
+    }
+  },
+  {
+    "id": "mar_2018_harit",
+    "name": "Amine Harit",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 71,
+    "stats": {
+      "passing": 74,
+      "vision": 68,
+      "short_passing": 75,
+      "stamina": 49
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 81
+    }
+  },
+  {
+    "id": "mar_2018_mohamedi",
+    "name": "Munir Mohamedi",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "gk_reflexes": 69,
+      "gk_diving": 67,
+      "gk_handling": 70,
+      "gk_positioning": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "mar_2018_ennesyri",
+    "name": "Youssef En-Nesyri",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 69,
+    "stats": {
+      "shooting": 67,
+      "finishing": 72,
+      "shot_power": 67,
+      "positioning": 67
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 19,
+      "goals_per90": 4.74
+    }
+  },
+  {
+    "id": "mar_2018_mendyl",
+    "name": "Hamza Mendyl",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 63,
+    "stats": {
+      "defending": 60,
+      "standing_tackle": 60,
+      "interceptions": 59,
+      "heading_accuracy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "mar_2018_elkaabi",
+    "name": "Ayoub El Kaabi",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 65,
+    "stats": {
+      "shooting": 62,
+      "finishing": 61,
+      "shot_power": 63,
+      "positioning": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 98,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mar_2018_boussoufa",
+    "name": "Mbark Boussoufa",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 65,
+    "stats": {
+      "passing": 63,
+      "vision": 61,
+      "short_passing": 64,
+      "stamina": 65
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mar_2018_tagnaouti",
+    "name": "Ahmed Reda Tagnaouti",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 65,
+    "stats": {
+      "gk_reflexes": 62,
+      "gk_diving": 61,
+      "gk_handling": 63,
+      "gk_positioning": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "mar_2018_carcela",
+    "name": "Mehdi Carcela",
+    "nation": "Morocco",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 65,
+    "stats": {
+      "passing": 63,
+      "vision": 61,
+      "short_passing": 64,
+      "stamina": 65
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 16
+    }
+  },
+  {
+    "id": "por_2018_ronaldo",
+    "name": "Cristiano Ronaldo",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 94,
+    "stats": {
+      "shooting": 92,
+      "finishing": 94,
+      "shot_power": 94,
+      "positioning": 95
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 0,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "por_2018_pepe",
+    "name": "Pepe",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 86,
+    "stats": {
+      "defending": 86,
+      "standing_tackle": 86,
+      "interceptions": 86,
+      "heading_accuracy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "por_2018_silva",
+    "name": "Bernardo Silva",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "passing": 81,
+      "vision": 85,
+      "short_passing": 84,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 238
+    }
+  },
+  {
+    "id": "por_2018_patricio",
+    "name": "Rui Patrício",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 83,
+    "stats": {
+      "gk_reflexes": 82,
+      "gk_diving": 85,
+      "gk_handling": 81,
+      "gk_positioning": 79
+    },
+    "wc_stats": {
+      "save_pct": 66.7,
+      "clean_sheets": 1,
+      "goals_conceded": 6,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "por_2018_mario",
+    "name": "João Mário",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "passing": 80,
+      "vision": 82,
+      "short_passing": 83,
+      "stamina": 84
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 259
+    }
+  },
+  {
+    "id": "por_2018_lopes",
+    "name": "Anthony Lopes",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 83,
+    "stats": {
+      "gk_reflexes": 85,
+      "gk_diving": 86,
+      "gk_handling": 81,
+      "gk_positioning": 79
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "por_2018_carvalho",
+    "name": "William Carvalho",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 83,
+    "stats": {
+      "passing": 85,
+      "vision": 78,
+      "short_passing": 84,
+      "stamina": 84
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 19,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "por_2018_quaresma",
+    "name": "Ricardo Quaresma",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 79,
+      "finishing": 70,
+      "shot_power": 83,
+      "positioning": 75
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 116,
+      "goals_per90": 0.78
+    }
+  },
+  {
+    "id": "por_2018_silva",
+    "name": "Adrien Silva",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 83,
+    "stats": {
+      "passing": 84,
+      "vision": 85,
+      "short_passing": 83,
+      "stamina": 89
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 9,
+      "minutes_played": 156
+    }
+  },
+  {
+    "id": "por_2018_moutinho",
+    "name": "João Moutinho",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "passing": 83,
+      "vision": 80,
+      "short_passing": 84,
+      "stamina": 84
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 1,
+      "minutes_played": 185
+    }
+  },
+  {
+    "id": "por_2018_guerreiro",
+    "name": "Raphaël Guerreiro",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 81,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 70,
+      "interceptions": 85,
+      "heading_accuracy": 61
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "por_2018_martins",
+    "name": "Gelson Martins",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 81,
+    "stats": {
+      "shooting": 72,
+      "finishing": 66,
+      "shot_power": 72,
+      "positioning": 77
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 32,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "por_2018_fernandes",
+    "name": "Manuel Fernandes",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 80,
+    "stats": {
+      "passing": 80,
+      "vision": 79,
+      "short_passing": 79,
+      "stamina": 73
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 6
+    }
+  },
+  {
+    "id": "por_2018_pereira",
+    "name": "Ricardo Pereira",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "defending": 78,
+      "standing_tackle": 80,
+      "interceptions": 79,
+      "heading_accuracy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "por_2018_fonte",
+    "name": "José Fonte",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 79,
+    "stats": {
+      "defending": 79,
+      "standing_tackle": 79,
+      "interceptions": 81,
+      "heading_accuracy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "por_2018_cedric",
+    "name": "Cédric",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 79,
+    "stats": {
+      "defending": 77,
+      "standing_tackle": 78,
+      "interceptions": 76,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "por_2018_alves",
+    "name": "Bruno Alves",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 77,
+      "interceptions": 69,
+      "heading_accuracy": 79
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "por_2018_silva",
+    "name": "André Silva",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "shooting": 73,
+      "finishing": 75,
+      "shot_power": 76,
+      "positioning": 83
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 117,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "por_2018_fernandes",
+    "name": "Bruno Fernandes",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "passing": 78,
+      "vision": 74,
+      "short_passing": 78,
+      "stamina": 76
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 88
+    }
+  },
+  {
+    "id": "por_2018_rui",
+    "name": "Mário Rui",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 77,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 75,
+      "interceptions": 73,
+      "heading_accuracy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "por_2018_beto",
+    "name": "Beto",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 76,
+    "stats": {
+      "gk_reflexes": 75,
+      "gk_diving": 79,
+      "gk_handling": 69,
+      "gk_positioning": 75
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "por_2018_guedes",
+    "name": "Gonçalo Guedes",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "shooting": 75,
+      "finishing": 74,
+      "shot_power": 76,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 1,
+      "shots_on_target": 2,
+      "minutes_played": 243,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "por_2018_dias",
+    "name": "Rúben Dias",
+    "nation": "Portugal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 68,
+    "stats": {
+      "defending": 66,
+      "standing_tackle": 70,
+      "interceptions": 63,
+      "heading_accuracy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "rus_2018_fernandes",
+    "name": "Mário Fernandes",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 81,
+    "stats": {
+      "defending": 81,
+      "standing_tackle": 81,
+      "interceptions": 77,
+      "heading_accuracy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 473
+    }
+  },
+  {
+    "id": "rus_2018_dzagoev",
+    "name": "Alan Dzagoev",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "passing": 78,
+      "vision": 81,
+      "short_passing": 79,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 1,
+      "progressive_passes": 1,
+      "minutes_played": 42
+    }
+  },
+  {
+    "id": "rus_2018_smolov",
+    "name": "Fyodor Smolov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 80,
+    "stats": {
+      "shooting": 79,
+      "finishing": 82,
+      "shot_power": 80,
+      "positioning": 83
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 222,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "rus_2018_akinfeev",
+    "name": "Igor Akinfeev",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 79,
+    "stats": {
+      "gk_reflexes": 83,
+      "gk_diving": 77,
+      "gk_handling": 72,
+      "gk_positioning": 82
+    },
+    "wc_stats": {
+      "save_pct": 68.4,
+      "clean_sheets": 1,
+      "goals_conceded": 7,
+      "minutes_played": 510
+    }
+  },
+  {
+    "id": "rus_2018_samedov",
+    "name": "Aleksandr Samedov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 79,
+    "stats": {
+      "passing": 74,
+      "vision": 80,
+      "short_passing": 80,
+      "stamina": 82
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 11,
+      "minutes_played": 356
+    }
+  },
+  {
+    "id": "rus_2018_smolnikov",
+    "name": "Igor Smolnikov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 79,
+    "stats": {
+      "defending": 75,
+      "standing_tackle": 74,
+      "interceptions": 71,
+      "heading_accuracy": 69
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 35
+    }
+  },
+  {
+    "id": "rus_2018_ignashevich",
+    "name": "Sergei Ignashevich",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "defending": 81,
+      "standing_tackle": 82,
+      "interceptions": 79,
+      "heading_accuracy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 510
+    }
+  },
+  {
+    "id": "rus_2018_cheryshev",
+    "name": "Denis Cheryshev",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "passing": 72,
+      "vision": 79,
+      "short_passing": 76,
+      "stamina": 66
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 303
+    }
+  },
+  {
+    "id": "rus_2018_dzyuba",
+    "name": "Artem Dzyuba",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 78,
+    "stats": {
+      "shooting": 74,
+      "finishing": 77,
+      "shot_power": 79,
+      "positioning": 81
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 3,
+      "minutes_played": 331,
+      "goals_per90": 0.82
+    }
+  },
+  {
+    "id": "rus_2018_zobnin",
+    "name": "Roman Zobnin",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 77,
+    "stats": {
+      "passing": 77,
+      "vision": 72,
+      "short_passing": 78,
+      "stamina": 90
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 1,
+      "progressive_passes": 13,
+      "minutes_played": 510
+    }
+  },
+  {
+    "id": "rus_2018_golovin",
+    "name": "Aleksandr Golovin",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "passing": 74,
+      "vision": 74,
+      "short_passing": 77,
+      "stamina": 78
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 8,
+      "minutes_played": 401
+    }
+  },
+  {
+    "id": "rus_2018_zhirkov",
+    "name": "Yuri Zhirkov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "passing": 74,
+      "vision": 72,
+      "short_passing": 77,
+      "stamina": 78
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 220
+    }
+  },
+  {
+    "id": "rus_2018_gazinsky",
+    "name": "Yury Gazinsky",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 75,
+    "stats": {
+      "passing": 77,
+      "vision": 58,
+      "short_passing": 78,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 267
+    }
+  },
+  {
+    "id": "rus_2018_kuzyayev",
+    "name": "Daler Kuzyayev",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 74,
+    "stats": {
+      "passing": 78,
+      "vision": 61,
+      "short_passing": 82,
+      "stamina": 75
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 305
+    }
+  },
+  {
+    "id": "rus_2018_miranchuk",
+    "name": "Aleksei Miranchuk",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "passing": 73,
+      "vision": 76,
+      "short_passing": 75,
+      "stamina": 74
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 59
+    }
+  },
+  {
+    "id": "rus_2018_miranchuk",
+    "name": "Anton Miranchuk",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "passing": 73,
+      "vision": 76,
+      "short_passing": 75,
+      "stamina": 74
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 59
+    }
+  },
+  {
+    "id": "rus_2018_gabulov",
+    "name": "Vladimir Gabulov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "gk_reflexes": 72,
+      "gk_diving": 71,
+      "gk_handling": 73,
+      "gk_positioning": 77
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "rus_2018_kutepov",
+    "name": "Ilya Kutepov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 73,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 72,
+      "interceptions": 83,
+      "heading_accuracy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 13,
+      "clearances": null,
+      "minutes_played": 510
+    }
+  },
+  {
+    "id": "rus_2018_kudryashov",
+    "name": "Fyodor Kudryashov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 73,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 74,
+      "interceptions": 74,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 335
+    }
+  },
+  {
+    "id": "rus_2018_granat",
+    "name": "Vladimir Granat",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 79,
+      "interceptions": 74,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 75
+    }
+  },
+  {
+    "id": "rus_2018_semyonov",
+    "name": "Andrei Semyonov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 65,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "rus_2018_lunyov",
+    "name": "Andrey Lunyov",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 65,
+    "stats": {
+      "gk_reflexes": 62,
+      "gk_diving": 61,
+      "gk_handling": 63,
+      "gk_positioning": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "rus_2018_yerokhin",
+    "name": "Aleksandr Yerokhin",
+    "nation": "Russia",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 65,
+    "stats": {
+      "passing": 63,
+      "vision": 61,
+      "short_passing": 64,
+      "stamina": 65
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 91
+    }
+  },
+  {
+    "id": "sen_2018_koulibaly",
+    "name": "Kalidou Koulibaly",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 84,
+    "stats": {
+      "defending": 86,
+      "standing_tackle": 87,
+      "interceptions": 86,
+      "heading_accuracy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sen_2018_mane",
+    "name": "Sadio Mané",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 84,
+    "stats": {
+      "shooting": 74,
+      "finishing": 83,
+      "shot_power": 77,
+      "positioning": 84
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "sen_2018_gueye",
+    "name": "Idrissa Gueye",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 83,
+    "stats": {
+      "passing": 78,
+      "vision": 72,
+      "short_passing": 82,
+      "stamina": 88
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sen_2018_balde",
+    "name": "Keita Baldé",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 75,
+      "finishing": 79,
+      "shot_power": 78,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 79,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sen_2018_sane",
+    "name": "Salif Sané",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 79,
+    "stats": {
+      "passing": 68,
+      "vision": 61,
+      "short_passing": 70,
+      "stamina": 75
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sen_2018_mbodji",
+    "name": "Kara Mbodji",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "defending": 76,
+      "standing_tackle": 80,
+      "interceptions": 71,
+      "heading_accuracy": 81
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "sen_2018_ndiaye",
+    "name": "Alfred N'Diaye",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "passing": 73,
+      "vision": 61,
+      "short_passing": 76,
+      "stamina": 79
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 149
+    }
+  },
+  {
+    "id": "sen_2018_ndiaye",
+    "name": "Khadim N'Diaye",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "gk_reflexes": 10,
+      "gk_diving": 11,
+      "gk_handling": 7,
+      "gk_positioning": 15
+    },
+    "wc_stats": {
+      "save_pct": 55.6,
+      "clean_sheets": 0,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "sen_2018_kouyate",
+    "name": "Cheikhou Kouyaté",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 77,
+    "stats": {
+      "passing": 66,
+      "vision": 63,
+      "short_passing": 68,
+      "stamina": 92
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 121
+    }
+  },
+  {
+    "id": "sen_2018_diouf",
+    "name": "Mame Biram Diouf",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 77,
+    "stats": {
+      "shooting": 73,
+      "finishing": 77,
+      "shot_power": 80,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 66,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sen_2018_ndiaye",
+    "name": "Badou Ndiaye",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 77,
+    "stats": {
+      "passing": 74,
+      "vision": 69,
+      "short_passing": 76,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 80
+    }
+  },
+  {
+    "id": "sen_2018_ndoye",
+    "name": "Cheikh N'Doye",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "passing": 74,
+      "vision": 71,
+      "short_passing": 71,
+      "stamina": 91
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 39
+    }
+  },
+  {
+    "id": "sen_2018_sakho",
+    "name": "Diafra Sakho",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 15,
+    "base_rating": 75,
+    "stats": {
+      "shooting": 70,
+      "finishing": 76,
+      "shot_power": 72,
+      "positioning": 77
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 5,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sen_2018_konate",
+    "name": "Moussa Konaté",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "shooting": 66,
+      "finishing": 74,
+      "shot_power": 72,
+      "positioning": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 27,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sen_2018_sarr",
+    "name": "Ismaïla Sarr",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "shooting": 68,
+      "finishing": 69,
+      "shot_power": 72,
+      "positioning": 67
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "sen_2018_gomis",
+    "name": "Alfred Gomis",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "gk_reflexes": 76,
+      "gk_diving": 75,
+      "gk_handling": 71,
+      "gk_positioning": 73
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "sen_2018_diallo",
+    "name": "Abdoulaye Diallo",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 70,
+    "stats": {
+      "gk_reflexes": 68,
+      "gk_diving": 70,
+      "gk_handling": 65,
+      "gk_positioning": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "sen_2018_mbengue",
+    "name": "Adama Mbengue",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 68,
+    "stats": {
+      "defending": 18,
+      "standing_tackle": 18,
+      "interceptions": 13,
+      "heading_accuracy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "sen_2018_gassama",
+    "name": "Lamine Gassama",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "defending": 66,
+      "standing_tackle": 68,
+      "interceptions": 64,
+      "heading_accuracy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "sen_2018_wague",
+    "name": "Moussa Wagué",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 64,
+    "stats": {
+      "defending": 61,
+      "standing_tackle": 64,
+      "interceptions": 58,
+      "heading_accuracy": 48
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 197
+    }
+  },
+  {
+    "id": "sen_2018_niang",
+    "name": "M'Baye Niang",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 53,
+    "stats": {
+      "shooting": 40,
+      "finishing": 32,
+      "shot_power": 59,
+      "positioning": 54
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 244,
+      "goals_per90": 0.37
+    }
+  },
+  {
+    "id": "sen_2018_sow",
+    "name": "Moussa Sow",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 65,
+    "stats": {
+      "shooting": 62,
+      "finishing": 61,
+      "shot_power": 63,
+      "positioning": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 197,
+      "goals_per90": 0.46
+    }
+  },
+  {
+    "id": "sen_2018_sabaly",
+    "name": "Youssouf Sabaly",
+    "nation": "Senegal",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": 65,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 253
+    }
+  },
+  {
+    "id": "esp_2018_degea",
+    "name": "David de Gea",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 90,
+    "stats": {
+      "gk_reflexes": 90,
+      "gk_diving": 90,
+      "gk_handling": 85,
+      "gk_positioning": 86
+    },
+    "wc_stats": {
+      "save_pct": 42.9,
+      "clean_sheets": 1,
+      "goals_conceded": 6,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "esp_2018_ramos",
+    "name": "Sergio Ramos",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 90,
+    "stats": {
+      "defending": 88,
+      "standing_tackle": 89,
+      "interceptions": 88,
+      "heading_accuracy": 91
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "esp_2018_thiago",
+    "name": "Thiago",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "passing": 90,
+      "vision": 86,
+      "short_passing": 91,
+      "stamina": 75
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 94
+    }
+  },
+  {
+    "id": "esp_2018_pique",
+    "name": "Gerard Piqué",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 87,
+    "stats": {
+      "defending": 87,
+      "standing_tackle": 87,
+      "interceptions": 88,
+      "heading_accuracy": 83
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "esp_2018_iniesta",
+    "name": "Andrés Iniesta",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 87,
+    "stats": {
+      "passing": 89,
+      "vision": 94,
+      "short_passing": 92,
+      "stamina": 58
+    },
+    "wc_stats": {
+      "key_passes": 7,
+      "assists": 1,
+      "progressive_passes": 23,
+      "minutes_played": 283
+    }
+  },
+  {
+    "id": "esp_2018_silva",
+    "name": "David Silva",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 87,
+    "stats": {
+      "shooting": 74,
+      "finishing": 71,
+      "shot_power": 71,
+      "positioning": 81
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 324,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_2018_busquets",
+    "name": "Sergio Busquets",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 86,
+    "stats": {
+      "passing": 84,
+      "vision": 84,
+      "short_passing": 88,
+      "stamina": 88
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "esp_2018_costa",
+    "name": "Diego Costa",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 86,
+    "stats": {
+      "shooting": 82,
+      "finishing": 88,
+      "shot_power": 84,
+      "positioning": 88
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 316,
+      "goals_per90": 0.85
+    }
+  },
+  {
+    "id": "esp_2018_isco",
+    "name": "Isco",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 86,
+    "stats": {
+      "passing": 86,
+      "vision": 84,
+      "short_passing": 86,
+      "stamina": 71
+    },
+    "wc_stats": {
+      "key_passes": 9,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "esp_2018_azpilicueta",
+    "name": "César Azpilicueta",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 85,
+    "stats": {
+      "defending": 87,
+      "standing_tackle": 88,
+      "interceptions": 85,
+      "heading_accuracy": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "esp_2018_alba",
+    "name": "Jordi Alba",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 85,
+    "stats": {
+      "defending": 83,
+      "standing_tackle": 84,
+      "interceptions": 83,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 390
+    }
+  },
+  {
+    "id": "esp_2018_carvajal",
+    "name": "Dani Carvajal",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 84,
+    "stats": {
+      "defending": 84,
+      "standing_tackle": 85,
+      "interceptions": 82,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 231
+    }
+  },
+  {
+    "id": "esp_2018_koke",
+    "name": "Koke",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 84,
+    "stats": {
+      "passing": 86,
+      "vision": 89,
+      "short_passing": 86,
+      "stamina": 81
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 9,
+      "minutes_played": 230
+    }
+  },
+  {
+    "id": "esp_2018_asensio",
+    "name": "Marco Asensio",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 84,
+    "stats": {
+      "passing": 84,
+      "vision": 83,
+      "short_passing": 86,
+      "stamina": 73
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 132
+    }
+  },
+  {
+    "id": "esp_2018_aspas",
+    "name": "Iago Aspas",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 83,
+    "stats": {
+      "shooting": 83,
+      "finishing": 86,
+      "shot_power": 79,
+      "positioning": 85
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 72,
+      "goals_per90": 1.25
+    }
+  },
+  {
+    "id": "esp_2018_reina",
+    "name": "Pepe Reina",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 83,
+    "stats": {
+      "gk_reflexes": 82,
+      "gk_diving": 80,
+      "gk_handling": 83,
+      "gk_positioning": 82
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "esp_2018_saul",
+    "name": "Saúl",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "passing": 82,
+      "vision": 79,
+      "short_passing": 85,
+      "stamina": 80
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "esp_2018_vazquez",
+    "name": "Lucas Vázquez",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "shooting": 72,
+      "finishing": 77,
+      "shot_power": 77,
+      "positioning": 81
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 83,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_2018_arrizabalaga",
+    "name": "Kepa Arrizabalaga",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 80,
+    "stats": {
+      "gk_reflexes": 83,
+      "gk_diving": 78,
+      "gk_handling": 81,
+      "gk_positioning": 76
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "esp_2018_monreal",
+    "name": "Nacho Monreal",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "defending": 82,
+      "standing_tackle": 82,
+      "interceptions": 83,
+      "heading_accuracy": 67
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "esp_2018_rodrigo",
+    "name": "Rodrigo",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "shooting": 75,
+      "finishing": 74,
+      "shot_power": 80,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 26,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_2018_odriozola",
+    "name": "Álvaro Odriozola",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "defending": 72,
+      "standing_tackle": 71,
+      "interceptions": 71,
+      "heading_accuracy": 71
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "esp_2018_nacho",
+    "name": "Nacho",
+    "nation": "Spain",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 70,
+    "stats": {
+      "defending": 68,
+      "standing_tackle": 66,
+      "interceptions": 71,
+      "heading_accuracy": 51
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 159
+    }
+  },
+  {
+    "id": "swe_2018_forsberg",
+    "name": "Emil Forsberg",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 83,
+    "stats": {
+      "passing": 78,
+      "vision": 86,
+      "short_passing": 86,
+      "stamina": 76
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 415
+    }
+  },
+  {
+    "id": "swe_2018_granqvist",
+    "name": "Andreas Granqvist",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 80,
+    "stats": {
+      "defending": 82,
+      "standing_tackle": 83,
+      "interceptions": 82,
+      "heading_accuracy": 81
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 7,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "swe_2018_berg",
+    "name": "Marcus Berg",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "shooting": 77,
+      "finishing": 82,
+      "shot_power": 79,
+      "positioning": 83
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 8,
+      "minutes_played": 425,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "swe_2018_lindelof",
+    "name": "Victor Lindelöf",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 79,
+    "stats": {
+      "defending": 79,
+      "standing_tackle": 79,
+      "interceptions": 81,
+      "heading_accuracy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "swe_2018_guidetti",
+    "name": "John Guidetti",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "shooting": 80,
+      "finishing": 79,
+      "shot_power": 85,
+      "positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 39,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "swe_2018_jansson",
+    "name": "Pontus Jansson",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 77,
+    "stats": {
+      "defending": 77,
+      "standing_tackle": 78,
+      "interceptions": 76,
+      "heading_accuracy": 73
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 96
+    }
+  },
+  {
+    "id": "swe_2018_larsson",
+    "name": "Sebastian Larsson",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "passing": 70,
+      "vision": 77,
+      "short_passing": 71,
+      "stamina": 75
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 316
+    }
+  },
+  {
+    "id": "swe_2018_ekdal",
+    "name": "Albin Ekdal",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "passing": 77,
+      "vision": 75,
+      "short_passing": 77,
+      "stamina": 77
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 11,
+      "minutes_played": 419
+    }
+  },
+  {
+    "id": "swe_2018_olsson",
+    "name": "Martin Olsson",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 75,
+    "stats": {
+      "defending": 73,
+      "standing_tackle": 76,
+      "interceptions": 69,
+      "heading_accuracy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 35
+    }
+  },
+  {
+    "id": "swe_2018_johnsson",
+    "name": "Karl-Johan Johnsson",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 75,
+    "stats": {
+      "gk_reflexes": 79,
+      "gk_diving": 75,
+      "gk_handling": 70,
+      "gk_positioning": 75
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "swe_2018_toivonen",
+    "name": "Ola Toivonen",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 75,
+    "stats": {
+      "shooting": 76,
+      "finishing": 77,
+      "shot_power": 77,
+      "positioning": 75
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 397,
+      "goals_per90": 0.23
+    }
+  },
+  {
+    "id": "swe_2018_durmaz",
+    "name": "Jimmy Durmaz",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 75,
+    "stats": {
+      "passing": 74,
+      "vision": 71,
+      "short_passing": 75,
+      "stamina": 71
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 17
+    }
+  },
+  {
+    "id": "swe_2018_olsen",
+    "name": "Robin Olsen",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 74,
+    "stats": {
+      "gk_reflexes": 76,
+      "gk_diving": 69,
+      "gk_handling": 75,
+      "gk_positioning": 72
+    },
+    "wc_stats": {
+      "save_pct": 73.3,
+      "clean_sheets": 3,
+      "goals_conceded": 4,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "swe_2018_svensson",
+    "name": "Gustav Svensson",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "passing": 71,
+      "vision": 62,
+      "short_passing": 74,
+      "stamina": 86
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 134
+    }
+  },
+  {
+    "id": "swe_2018_lustig",
+    "name": "Mikael Lustig",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 73,
+    "stats": {
+      "defending": 75,
+      "standing_tackle": 77,
+      "interceptions": 75,
+      "heading_accuracy": 75
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 351
+    }
+  },
+  {
+    "id": "swe_2018_augustinsson",
+    "name": "Ludwig Augustinsson",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 73,
+    "stats": {
+      "defending": 68,
+      "standing_tackle": 68,
+      "interceptions": 64,
+      "heading_accuracy": 41
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "swe_2018_helander",
+    "name": "Filip Helander",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 73,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 76,
+      "interceptions": 76,
+      "heading_accuracy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "swe_2018_hiljemark",
+    "name": "Oscar Hiljemark",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 73,
+    "stats": {
+      "passing": 75,
+      "vision": 68,
+      "short_passing": 74,
+      "stamina": 89
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 31
+    }
+  },
+  {
+    "id": "swe_2018_krafth",
+    "name": "Emil Krafth",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 73,
+    "stats": {
+      "defending": 74,
+      "standing_tackle": 76,
+      "interceptions": 70,
+      "heading_accuracy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 93
+    }
+  },
+  {
+    "id": "swe_2018_claesson",
+    "name": "Viktor Claesson",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 73,
+    "stats": {
+      "passing": 72,
+      "vision": 73,
+      "short_passing": 74,
+      "stamina": 88
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 2,
+      "progressive_passes": 15,
+      "minutes_played": 433
+    }
+  },
+  {
+    "id": "swe_2018_nordfeldt",
+    "name": "Kristoffer Nordfeldt",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "gk_reflexes": 78,
+      "gk_diving": 73,
+      "gk_handling": 66,
+      "gk_positioning": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "swe_2018_rohden",
+    "name": "Marcus Rohdén",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 71,
+    "stats": {
+      "passing": 70,
+      "vision": 68,
+      "short_passing": 70,
+      "stamina": 93
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "swe_2018_kiesethelin",
+    "name": "Isaac Kiese Thelin",
+    "nation": "Sweden",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "shooting": 67,
+      "finishing": 70,
+      "shot_power": 71,
+      "positioning": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 39,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "uru_2018_suarez",
+    "name": "Luis Suárez",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 92,
+    "stats": {
+      "shooting": 89,
+      "finishing": 94,
+      "shot_power": 87,
+      "positioning": 92
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "uru_2018_godin",
+    "name": "Diego Godín",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 88,
+    "stats": {
+      "defending": 88,
+      "standing_tackle": 86,
+      "interceptions": 88,
+      "heading_accuracy": 92
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "uru_2018_cavani",
+    "name": "Edinson Cavani",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 21,
+    "base_rating": 87,
+    "stats": {
+      "shooting": 82,
+      "finishing": 83,
+      "shot_power": 85,
+      "positioning": 92
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 342,
+      "goals_per90": 0.79
+    }
+  },
+  {
+    "id": "uru_2018_gimenez",
+    "name": "José Giménez",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 83,
+    "stats": {
+      "defending": 86,
+      "standing_tackle": 86,
+      "interceptions": 85,
+      "heading_accuracy": 79
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 13,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_2018_muslera",
+    "name": "Fernando Muslera",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "gk_reflexes": 85,
+      "gk_diving": 81,
+      "gk_handling": 75,
+      "gk_positioning": 83
+    },
+    "wc_stats": {
+      "save_pct": 76.9,
+      "clean_sheets": 3,
+      "goals_conceded": 3,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "uru_2018_coates",
+    "name": "Sebastián Coates",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 81,
+    "stats": {
+      "defending": 81,
+      "standing_tackle": 84,
+      "interceptions": 80,
+      "heading_accuracy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "uru_2018_campana",
+    "name": "Martín Campaña",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 79,
+    "stats": {
+      "gk_reflexes": 82,
+      "gk_diving": 82,
+      "gk_handling": 75,
+      "gk_positioning": 78
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "uru_2018_vecino",
+    "name": "Matías Vecino",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 78,
+    "stats": {
+      "passing": 78,
+      "vision": 76,
+      "short_passing": 80,
+      "stamina": 84
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 23,
+      "minutes_played": 414
+    }
+  },
+  {
+    "id": "uru_2018_laxalt",
+    "name": "Diego Laxalt",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "passing": 76,
+      "vision": 68,
+      "short_passing": 78,
+      "stamina": 92
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 302
+    }
+  },
+  {
+    "id": "uru_2018_sanchez",
+    "name": "Carlos Sánchez",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 77,
+    "stats": {
+      "passing": 76,
+      "vision": 79,
+      "short_passing": 74,
+      "stamina": 89
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 2,
+      "progressive_passes": 2,
+      "minutes_played": 124
+    }
+  },
+  {
+    "id": "uru_2018_stuani",
+    "name": "Cristhian Stuani",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 77,
+    "stats": {
+      "shooting": 74,
+      "finishing": 76,
+      "shot_power": 79,
+      "positioning": 80
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 75,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "uru_2018_caceres",
+    "name": "Martín Cáceres",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 77,
+    "stats": {
+      "defending": 79,
+      "standing_tackle": 78,
+      "interceptions": 80,
+      "heading_accuracy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "uru_2018_rodriguez",
+    "name": "Cristian Rodríguez",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 75,
+    "stats": {
+      "passing": 74,
+      "vision": 72,
+      "short_passing": 76,
+      "stamina": 69
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 7,
+      "minutes_played": 168
+    }
+  },
+  {
+    "id": "uru_2018_torreira",
+    "name": "Lucas Torreira",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 75,
+    "stats": {
+      "passing": 78,
+      "vision": 73,
+      "short_passing": 79,
+      "stamina": 79
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 306
+    }
+  },
+  {
+    "id": "uru_2018_urretaviscaya",
+    "name": "Jonathan Urretaviscaya",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "shooting": 69,
+      "finishing": 66,
+      "shot_power": 78,
+      "positioning": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 18,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "uru_2018_gomez",
+    "name": "Maxi Gómez",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 73,
+    "stats": {
+      "shooting": 71,
+      "finishing": 78,
+      "shot_power": 76,
+      "positioning": 75
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 33,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "uru_2018_silva",
+    "name": "Gastón Silva",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "defending": 73,
+      "standing_tackle": 74,
+      "interceptions": 75,
+      "heading_accuracy": 73
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "uru_2018_silva",
+    "name": "Martín Silva",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "gk_reflexes": 14,
+      "gk_diving": 6,
+      "gk_handling": 12,
+      "gk_positioning": 6
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "uru_2018_nandez",
+    "name": "Nahitan Nández",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 70,
+    "stats": {
+      "passing": 71,
+      "vision": 65,
+      "short_passing": 72,
+      "stamina": 64
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 15,
+      "minutes_played": 290
+    }
+  },
+  {
+    "id": "uru_2018_bentancur",
+    "name": "Rodrigo Bentancur",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 69,
+    "stats": {
+      "passing": 70,
+      "vision": 73,
+      "short_passing": 73,
+      "stamina": 84
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 19,
+      "minutes_played": 362
+    }
+  },
+  {
+    "id": "uru_2018_pereira",
+    "name": "Maxi Pereira",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 66,
+    "stats": {
+      "defending": 59,
+      "standing_tackle": 57,
+      "interceptions": 66,
+      "heading_accuracy": 65
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 0,
+      "goals_per90": 0
+    }
+  },
+  {
+    "id": "uru_2018_varela",
+    "name": "Guillermo Varela",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 65,
+    "stats": {
+      "defending": 63,
+      "standing_tackle": 64,
+      "interceptions": 62,
+      "heading_accuracy": 63
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "uru_2018_dearrascaeta",
+    "name": "Giorgian De Arrascaeta",
+    "nation": "Uruguay",
+    "wc_year": 2018,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 65,
+    "stats": {
+      "shooting": 62,
+      "finishing": 61,
+      "shot_power": 63,
+      "positioning": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 0,
+      "minutes_played": 86,
+      "goals_per90": 0.0
+    }
+  }
+]

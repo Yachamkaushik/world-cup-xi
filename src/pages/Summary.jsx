@@ -117,12 +117,12 @@ export default function Summary(){
     if (!hasState) return null
 
     const tweetText = encodeURIComponent(eliminated
-        ? `I got eliminated in the ${eliminatedAt} of World Cup XI. Can you do better? worldcupxi.vercel.app`
-        : `I won the World Cup in World Cup XI! 🏆 worldcupxi.vercel.app`)
+        ? `I got eliminated in the ${eliminatedAt} of World Cup XI. Can you do better? world-cup-xi-one.vercel.app`
+        : `I won the World Cup in World Cup XI! 🏆 world-cup-xi-one.vercel.app`)
 
     const waText = encodeURIComponent(eliminated
-        ? `I got eliminated in the ${eliminatedAt} of World Cup XI. Can you do better? worldcupxi.vercel.app`
-        : `I won the World Cup in World Cup XI! 🏆 worldcupxi.vercel.app`)
+        ? `I got eliminated in the ${eliminatedAt} of World Cup XI. Can you do better? world-cup-xi-one.vercel.app`
+        : `I won the World Cup in World Cup XI! 🏆 world-cup-xi-one.vercel.app`)
 
     return(
         <div className="w-full overflow-x-hidden text-white flex flex-col" style={{backgroundColor: '#0a0a0f', minHeight: '100vh'}}>
@@ -221,7 +221,7 @@ export default function Summary(){
                             <div className="flex flex-col items-center justify-center px-4 py-6 rounded-2xl text-center" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
                                 <span style={{fontSize: '1.3rem'}}>{nationFlags[topScorer.nation] || '🏳️'}</span>
                                 <p className="font-bold text-sm text-white mt-2">{topScorer.name}</p>
-                                <span className="text-xs tracking-widest mt-1" style={{color: '#4b5563'}}>TOP SCORER</span>
+                                <span className="text-xs tracking-widest mt-1" style={{color: '#4b5563'}}>BEST FWD</span>
                             </div>
                         )}
                     </div>
@@ -282,7 +282,7 @@ export default function Summary(){
                     ))}
                 </div>
                 <div style={{borderTop: '1px solid #ffffff10', paddingTop: '16px', display: 'flex', justifyContent: 'space-between'}}>
-                    <span style={{fontSize: '11px', color: '#374151'}}>worldcupxi.vercel.app</span>
+                    <span style={{fontSize: '11px', color: '#374151'}}>world-cup-xi-one.vercel.app</span>
                     <span style={{fontSize: '11px', color: '#374151'}}>NOT AFFILIATED WITH FIFA</span>
                 </div>
             </div>
@@ -321,7 +321,7 @@ export default function Summary(){
                         </button>
                         <button
                             onClick={() => {
-                                navigator.clipboard.writeText('worldcupxi.vercel.app')
+                                navigator.clipboard.writeText('world-cup-xi-one.vercel.app')
                                 alert('Link copied!')
                             }}
                             style={{backgroundColor: '#ffffff10', color: '#9ca3af', border: '1px solid #ffffff10', borderRadius: '10px', padding: '12px 16px', fontWeight: 700, fontSize: '14px', cursor: 'pointer'}}>

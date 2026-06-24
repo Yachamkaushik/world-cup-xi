@@ -1,0 +1,8539 @@
+[
+  {
+    "id": "ita_1982_zoff",
+    "name": "Dino Zoff",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 90,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 50,
+      "dri": 36,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 74.0,
+      "clean_sheets": 5,
+      "goals_conceded": 2,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1982_gentile",
+    "name": "Claudio Gentile",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 86,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1982_scirea",
+    "name": "Gaetano Scirea",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 38,
+      "pas": 66,
+      "dri": 56,
+      "def": 88,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 20,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1982_collovati",
+    "name": "Fulvio Collovati",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 48,
+      "dri": 38,
+      "def": 82,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1982_cabrini",
+    "name": "Antonio Cabrini",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 40,
+      "pas": 58,
+      "dri": 52,
+      "def": 76,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "ita_1982_oriali",
+    "name": "Gabriele Oriali",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 60,
+      "dri": 52,
+      "def": 56,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ita_1982_tardelli",
+    "name": "Marco Tardelli",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 68,
+      "dri": 62,
+      "def": 64,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 40,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1982_antognoni",
+    "name": "Giancarlo Antognoni",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 86,
+    "stats": {
+      "pac": 66,
+      "sho": 68,
+      "pas": 84,
+      "dri": 74,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 3,
+      "progressive_passes": 50,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ita_1982_conti",
+    "name": "Bruno Conti",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 66,
+      "dri": 68,
+      "def": 36,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 4,
+      "shots_on_target": 10,
+      "minutes_played": 540,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ita_1982_rossi",
+    "name": "Paolo Rossi",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 88,
+    "stats": {
+      "pac": 74,
+      "sho": 86,
+      "pas": 60,
+      "dri": 72,
+      "def": 24,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 2,
+      "shots_on_target": 16,
+      "minutes_played": 630,
+      "goals_per90": 0.86
+    }
+  },
+  {
+    "id": "ita_1982_bergomi",
+    "name": "Giuseppe Bergomi",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 42,
+      "def": 80,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ita_1982_bordon",
+    "name": "Ivano Bordon",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 28,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1982_baresi",
+    "name": "Franco Baresi",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 86,
+    "stats": {
+      "pac": 68,
+      "sho": 34,
+      "pas": 60,
+      "dri": 50,
+      "def": 86,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ita_1982_vierchowod",
+    "name": "Pietro Vierchowod",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 40,
+      "dri": 30,
+      "def": 76,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1982_marini",
+    "name": "Claudio Marini",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 36,
+      "pas": 48,
+      "dri": 42,
+      "def": 36,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1982_graziani",
+    "name": "Francesco Graziani",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 54,
+      "dri": 58,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_1982_causio",
+    "name": "Franco Causio",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 58,
+      "dri": 56,
+      "def": 34,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1982_altobelli",
+    "name": "Alessandro Altobelli",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 74,
+      "pas": 52,
+      "dri": 54,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "ita_1982_pecci",
+    "name": "Eraldo Pecci",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 44,
+      "dri": 38,
+      "def": 28,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ita_1982_bagni",
+    "name": "Salvatore Bagni",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 50,
+      "dri": 44,
+      "def": 44,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1982_tacconi",
+    "name": "Stefano Tacconi",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 32,
+      "dri": 20,
+      "def": 54,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1982_fosse",
+    "name": "Sergio Fosse",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 20,
+      "dri": 12,
+      "def": 52,
+      "phy": 40
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1982_vialli",
+    "name": "Gianluca Vialli",
+    "nation": "Italy",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 50,
+      "dri": 54,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "wger_1982_schumacher",
+    "name": "Harald Schumacher",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 69.0,
+      "clean_sheets": 2,
+      "goals_conceded": 7,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1982_stielike",
+    "name": "Uli Stielike",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 84,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 66,
+      "dri": 56,
+      "def": 80,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1982_forster_k",
+    "name": "Karl-Heinz Forster",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 48,
+      "dri": 36,
+      "def": 82,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1982_kaltz",
+    "name": "Manni Kaltz",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 58,
+      "dri": 50,
+      "def": 72,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "wger_1982_briegel",
+    "name": "Hans-Peter Briegel",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 56,
+      "dri": 50,
+      "def": 74,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1982_breitner",
+    "name": "Paul Breitner",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 68,
+      "pas": 78,
+      "dri": 70,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 44,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1982_dremmler",
+    "name": "Wolfgang Dremmler",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 56,
+      "dri": 50,
+      "def": 48,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "wger_1982_magath",
+    "name": "Felix Magath",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 60,
+      "dri": 54,
+      "def": 44,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "wger_1982_rummenigge",
+    "name": "Karl-Heinz Rummenigge",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 90,
+    "stats": {
+      "pac": 78,
+      "sho": 86,
+      "pas": 66,
+      "dri": 76,
+      "def": 26,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 3,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "wger_1982_fischer",
+    "name": "Klaus Fischer",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 78,
+      "pas": 54,
+      "dri": 60,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "wger_1982_littbarski",
+    "name": "Pierre Littbarski",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 70,
+      "dri": 68,
+      "def": 44,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 32,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "wger_1982_immel",
+    "name": "Eike Immel",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 20,
+      "def": 58,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "wger_1982_forster_b",
+    "name": "Bernd Forster",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 42,
+      "dri": 30,
+      "def": 72,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "wger_1982_berthold",
+    "name": "Thomas Berthold",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 24,
+      "pas": 44,
+      "dri": 34,
+      "def": 66,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "wger_1982_matthaeus",
+    "name": "Lothar Matthaus",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 70,
+      "pas": 78,
+      "dri": 72,
+      "def": 60,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "wger_1982_voeller",
+    "name": "Rudi Voller",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 54,
+      "dri": 64,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "wger_1982_reinders",
+    "name": "Stefan Reinders",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 32,
+      "pas": 38,
+      "dri": 32,
+      "def": 22,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "wger_1982_allofs",
+    "name": "Klaus Allofs",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 66,
+      "pas": 50,
+      "dri": 54,
+      "def": 22,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "wger_1982_rolff",
+    "name": "Wolfgang Rolff",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 36,
+      "dri": 24,
+      "def": 62,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "wger_1982_hrubesch",
+    "name": "Horst Hrubesch",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 72,
+      "pas": 48,
+      "dri": 50,
+      "def": 22,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "wger_1982_aumann",
+    "name": "Raimond Aumann",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 28,
+      "dri": 16,
+      "def": 50,
+      "phy": 48
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "wger_1982_jakobs",
+    "name": "Ditmar Jakobs",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 18,
+      "pas": 36,
+      "dri": 24,
+      "def": 66,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "wger_1982_bein",
+    "name": "Andreas Bein",
+    "nation": "West Germany",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 26,
+      "pas": 30,
+      "dri": 24,
+      "def": 14,
+      "phy": 30
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1982_waldir",
+    "name": "Waldir Peres",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 28,
+      "def": 62,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 1,
+      "goals_conceded": 6,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1982_leandro",
+    "name": "Leandro",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 42,
+      "pas": 60,
+      "dri": 58,
+      "def": 68,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1982_oscar",
+    "name": "Oscar",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 46,
+      "dri": 36,
+      "def": 72,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1982_luizinho",
+    "name": "Luizinho",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 42,
+      "dri": 30,
+      "def": 68,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_1982_junior",
+    "name": "Junior",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 46,
+      "pas": 62,
+      "dri": 58,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1982_cerezo",
+    "name": "Toninho Cerezo",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 84,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 72,
+      "dri": 66,
+      "def": 52,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 32,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1982_socrates",
+    "name": "Socrates",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 90,
+    "stats": {
+      "pac": 64,
+      "sho": 72,
+      "pas": 84,
+      "dri": 78,
+      "def": 40,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 44,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1982_falcao",
+    "name": "Falcao",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 9,
+    "base_rating": 92,
+    "stats": {
+      "pac": 64,
+      "sho": 72,
+      "pas": 86,
+      "dri": 78,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 4,
+      "progressive_passes": 48,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1982_zico",
+    "name": "Zico",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 95,
+    "stats": {
+      "pac": 68,
+      "sho": 84,
+      "pas": 90,
+      "dri": 88,
+      "def": 38,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 4,
+      "shots_on_target": 12,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "bra_1982_serginho",
+    "name": "Serginho",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 52,
+      "dri": 60,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "bra_1982_eder",
+    "name": "Eder",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 70,
+      "pas": 60,
+      "dri": 66,
+      "def": 24,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "bra_1982_carlos",
+    "name": "Carlos",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 6,
+      "pas": 30,
+      "dri": 18,
+      "def": 52,
+      "phy": 50
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1982_amaral",
+    "name": "Amaral",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 38,
+      "dri": 26,
+      "def": 66,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1982_dirceu",
+    "name": "Dirceu",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 58,
+      "pas": 68,
+      "dri": 62,
+      "def": 40,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_1982_mozer",
+    "name": "Carlos Mozer",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 30,
+      "dri": 18,
+      "def": 62,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1982_careca",
+    "name": "Careca",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 54,
+      "dri": 62,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 180,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "bra_1982_paulo_isidoro",
+    "name": "Paulo Isidoro",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 36,
+      "pas": 44,
+      "dri": 38,
+      "def": 24,
+      "phy": 42
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1982_batista",
+    "name": "Batista",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 50,
+      "dri": 44,
+      "def": 44,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1982_leovegild",
+    "name": "Leovegildo",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 24,
+      "dri": 14,
+      "def": 56,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1982_renato",
+    "name": "Renato",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 44,
+      "pas": 38,
+      "dri": 38,
+      "def": 14,
+      "phy": 42
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_1982_paulo",
+    "name": "Paulo Victor",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 22,
+      "dri": 12,
+      "def": 40,
+      "phy": 36
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1982_edinho",
+    "name": "Edinho",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 36,
+      "dri": 30,
+      "def": 18,
+      "phy": 34
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1982_mouro",
+    "name": "Mouro",
+    "nation": "Brazil",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 14,
+      "dri": 6,
+      "def": 46,
+      "phy": 28
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1982_mlynarczyk",
+    "name": "Jozef Mlynarczyk",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 22,
+      "def": 60,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 69.0,
+      "clean_sheets": 3,
+      "goals_conceded": 4,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "pol_1982_dziuba",
+    "name": "Marek Dziuba",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 38,
+      "dri": 26,
+      "def": 64,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "pol_1982_janas",
+    "name": "Zbigniew Janas",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 18,
+      "pas": 34,
+      "dri": 22,
+      "def": 62,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "pol_1982_zmuda",
+    "name": "Wladyslaw Zmuda",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 30,
+      "def": 70,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "pol_1982_majewski",
+    "name": "Stefan Majewski",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 26,
+      "dri": 16,
+      "def": 58,
+      "phy": 48
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "pol_1982_matysik",
+    "name": "Leszek Lipka",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 38,
+      "dri": 32,
+      "def": 24,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1982_bunzol",
+    "name": "Miroslaw Bunzol",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 40,
+      "pas": 50,
+      "dri": 44,
+      "def": 32,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "pol_1982_kupcewicz",
+    "name": "Stanislaw Kupcewicz",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 36,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 1,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "pol_1982_boniek",
+    "name": "Zbigniew Boniek",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 62,
+      "dri": 70,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 3,
+      "shots_on_target": 10,
+      "minutes_played": 540,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "pol_1982_lato",
+    "name": "Grzegorz Lato",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 56,
+      "dri": 58,
+      "def": 22,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "pol_1982_smolarek",
+    "name": "Wlodzimierz Smolarek",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 50,
+      "dri": 54,
+      "def": 20,
+      "phy": 52
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "pol_1982_bako",
+    "name": "Stanislaw Bako",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 22,
+      "dri": 12,
+      "def": 42,
+      "phy": 38
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1982_wieczorek",
+    "name": "Janusz Wieczorek",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 14,
+      "dri": 6,
+      "def": 48,
+      "phy": 32
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1982_szarmach",
+    "name": "Andrzej Szarmach",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 52,
+      "dri": 54,
+      "def": 24,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 1,
+      "progressive_passes": 5,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "pol_1982_palasz",
+    "name": "Ryszard Palasz",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 20,
+      "pas": 22,
+      "dri": 16,
+      "def": 10,
+      "phy": 26
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1982_ciolek",
+    "name": "Andrzej Ciolek",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 40,
+      "pas": 36,
+      "dri": 34,
+      "def": 12,
+      "phy": 40
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "pol_1982_dziedzic",
+    "name": "Andrzej Dziedzic",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 16,
+      "dri": 10,
+      "def": 2,
+      "phy": 18
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1982_ostrowski",
+    "name": "Henryk Ostrowski",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 10,
+      "dri": 4,
+      "def": 44,
+      "phy": 28
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1982_furtok",
+    "name": "Jan Furtok",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 32,
+      "pas": 38,
+      "dri": 32,
+      "def": 18,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1982_zgutczynski",
+    "name": "Waldemar Zgutczynski",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 34,
+      "pas": 26,
+      "dri": 24,
+      "def": 8,
+      "phy": 34
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "pol_1982_wandzik",
+    "name": "Tomasz Wandzik",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 36,
+      "sho": 4,
+      "pas": 16,
+      "dri": 8,
+      "def": 36,
+      "phy": 28
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1982_nawrocki",
+    "name": "Pawel Nawrocki",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 4,
+      "pas": 8,
+      "dri": 2,
+      "def": 40,
+      "phy": 22
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1982_komornicki",
+    "name": "Henryk Komornicki",
+    "nation": "Poland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 16,
+      "pas": 14,
+      "dri": 10,
+      "def": 0,
+      "phy": 14
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "fra_1982_ettori",
+    "name": "Jean-Luc Ettori",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 28,
+      "def": 62,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1982_amoros",
+    "name": "Manuel Amoros",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 32,
+      "pas": 52,
+      "dri": 46,
+      "def": 70,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "fra_1982_tresor",
+    "name": "Marius Tresor",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 38,
+      "def": 76,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "fra_1982_mahut",
+    "name": "Gerard Mahut",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 18,
+      "pas": 30,
+      "dri": 20,
+      "def": 62,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_1982_janvion",
+    "name": "Gerard Janvion",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 34,
+      "dri": 22,
+      "def": 62,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_1982_tigana",
+    "name": "Jean Tigana",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 48,
+      "pas": 68,
+      "dri": 62,
+      "def": 56,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 0,
+      "progressive_passes": 30,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1982_giresse",
+    "name": "Alain Giresse",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 62,
+      "sho": 58,
+      "pas": 78,
+      "dri": 68,
+      "def": 40,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 40,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1982_platini",
+    "name": "Michel Platini",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 96,
+    "stats": {
+      "pac": 68,
+      "sho": 84,
+      "pas": 92,
+      "dri": 88,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 28,
+      "assists": 6,
+      "progressive_passes": 62,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1982_six",
+    "name": "Didier Six",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 52,
+      "dri": 58,
+      "def": 20,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "fra_1982_rocheteau",
+    "name": "Dominique Rocheteau",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 64,
+      "pas": 56,
+      "dri": 62,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "fra_1982_genghini",
+    "name": "Bernard Genghini",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 46,
+      "pas": 54,
+      "dri": 50,
+      "def": 36,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "fra_1982_castaneda",
+    "name": "Dominique Dropsy",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 28,
+      "dri": 14,
+      "def": 50,
+      "phy": 46
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_1982_bossis",
+    "name": "Maxime Bossis",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 44,
+      "dri": 34,
+      "def": 70,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "fra_1982_fernandez",
+    "name": "Luis Fernandez",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 58,
+      "dri": 52,
+      "def": 52,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "fra_1982_lopez",
+    "name": "Christian Lopez",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 24,
+      "pas": 32,
+      "dri": 24,
+      "def": 14,
+      "phy": 28
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "fra_1982_bellone",
+    "name": "Bruno Bellone",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 46,
+      "dri": 50,
+      "def": 16,
+      "phy": 50
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "fra_1982_lacombe",
+    "name": "Bernard Lacombe",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 46,
+      "pas": 44,
+      "dri": 42,
+      "def": 20,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_1982_tusseau",
+    "name": "Thierry Tusseau",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 18,
+      "dri": 10,
+      "def": 50,
+      "phy": 36
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_1982_soler",
+    "name": "Rene Soler",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 36,
+      "pas": 28,
+      "dri": 26,
+      "def": 8,
+      "phy": 34
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_1982_larios",
+    "name": "Jean-Francois Larios",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 18,
+      "pas": 18,
+      "dri": 14,
+      "def": 4,
+      "phy": 22
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "fra_1982_rust",
+    "name": "Bruno Martini",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 22,
+      "dri": 10,
+      "def": 40,
+      "phy": 34
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_1982_bibard",
+    "name": "Patrick Bibard",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 10,
+      "dri": 4,
+      "def": 40,
+      "phy": 22
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_1982_couriol",
+    "name": "Patrick Couriol",
+    "nation": "France",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 32,
+      "pas": 26,
+      "dri": 22,
+      "def": 4,
+      "phy": 28
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_1982_fillol",
+    "name": "Ubaldo Fillol",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 32,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 71.0,
+      "clean_sheets": 3,
+      "goals_conceded": 3,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1982_olguin",
+    "name": "Jorge Olguin",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 36,
+      "dri": 24,
+      "def": 64,
+      "phy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "arg_1982_galvan",
+    "name": "Hector Galvan",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 24,
+      "dri": 14,
+      "def": 58,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1982_passarella",
+    "name": "Daniel Passarella",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 86,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 62,
+      "dri": 52,
+      "def": 84,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1982_tarantini",
+    "name": "Alberto Tarantini",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 34,
+      "dri": 22,
+      "def": 62,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1982_ardiles",
+    "name": "Osvaldo Ardiles",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 84,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 72,
+      "dri": 66,
+      "def": 44,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 32,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1982_maradona",
+    "name": "Diego Maradona",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 96,
+    "stats": {
+      "pac": 72,
+      "sho": 82,
+      "pas": 90,
+      "dri": 94,
+      "def": 48,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 4,
+      "progressive_passes": 20,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1982_burruchaga",
+    "name": "Jorge Burruchaga",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 68,
+      "dri": 62,
+      "def": 42,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1982_bertoni",
+    "name": "Daniel Bertoni",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 52,
+      "dri": 56,
+      "def": 22,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "arg_1982_diaz",
+    "name": "Ramon Diaz",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 56,
+      "dri": 62,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "arg_1982_kempes",
+    "name": "Mario Kempes",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 74,
+      "pas": 58,
+      "dri": 62,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "arg_1982_baley",
+    "name": "Nery Pumpido",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 32,
+      "dri": 18,
+      "def": 56,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1982_ruggeri",
+    "name": "Oscar Ruggeri",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 50,
+      "dri": 40,
+      "def": 78,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "arg_1982_gallego",
+    "name": "Amerigo Gallego",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 44,
+      "dri": 38,
+      "def": 26,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1982_calderon",
+    "name": "Gabriel Calderon",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 34,
+      "pas": 44,
+      "dri": 40,
+      "def": 18,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1982_valdano",
+    "name": "Jorge Valdano",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 68,
+      "pas": 58,
+      "dri": 62,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "arg_1982_trossero",
+    "name": "Emilio Trossero",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 14,
+      "dri": 6,
+      "def": 48,
+      "phy": 30
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1982_olguins",
+    "name": "Sergio Batista",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 58,
+      "sho": 30,
+      "pas": 42,
+      "dri": 36,
+      "def": 22,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1982_pasculli",
+    "name": "Pedro Pasculli",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 50,
+      "pas": 42,
+      "dri": 44,
+      "def": 16,
+      "phy": 48
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_1982_barbas",
+    "name": "Ricardo Barbas",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 14,
+      "pas": 14,
+      "dri": 10,
+      "def": 0,
+      "phy": 12
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1982_goycochea",
+    "name": "Sergio Goycochea",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 24,
+      "dri": 12,
+      "def": 46,
+      "phy": 44
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1982_garre",
+    "name": "Oscar Garre",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 8,
+      "pas": 12,
+      "dri": 4,
+      "def": 42,
+      "phy": 22
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1982_jose_valencia",
+    "name": "Jose Valencia",
+    "nation": "Argentina",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 68,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 10,
+      "dri": 6,
+      "def": 0,
+      "phy": 8
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "eng_1982_shilton",
+    "name": "Peter Shilton",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 86,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 70,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 73.0,
+      "clean_sheets": 5,
+      "goals_conceded": 1,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "eng_1982_neal",
+    "name": "Phil Neal",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 30,
+      "pas": 50,
+      "dri": 42,
+      "def": 70,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1982_osman",
+    "name": "Russell Osman",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 36,
+      "dri": 24,
+      "def": 64,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "eng_1982_butcher",
+    "name": "Terry Butcher",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 44,
+      "dri": 34,
+      "def": 78,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1982_mills",
+    "name": "Mick Mills",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 36,
+      "dri": 24,
+      "def": 66,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1982_wilkins",
+    "name": "Ray Wilkins",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 60,
+      "sho": 44,
+      "pas": 70,
+      "dri": 56,
+      "def": 48,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "eng_1982_robson",
+    "name": "Bryan Robson",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 86,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 68,
+      "dri": 60,
+      "def": 58,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_1982_hoddle",
+    "name": "Glenn Hoddle",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 60,
+      "sho": 60,
+      "pas": 84,
+      "dri": 72,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1982_mariner",
+    "name": "Paul Mariner",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 68,
+      "pas": 50,
+      "dri": 52,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "eng_1982_francis",
+    "name": "Trevor Francis",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 70,
+      "pas": 58,
+      "dri": 62,
+      "def": 22,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "eng_1982_coppell",
+    "name": "Steve Coppell",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 48,
+      "pas": 56,
+      "dri": 54,
+      "def": 32,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_1982_clemence",
+    "name": "Ray Clemence",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 82,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 40,
+      "dri": 26,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1982_sansom",
+    "name": "Kenny Sansom",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 38,
+      "dri": 32,
+      "def": 62,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1982_rix",
+    "name": "Graham Rix",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 60,
+      "dri": 52,
+      "def": 32,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1982_thompson",
+    "name": "Phil Thompson",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 56,
+      "sho": 16,
+      "pas": 28,
+      "dri": 16,
+      "def": 58,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1982_woodcock",
+    "name": "Tony Woodcock",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 46,
+      "dri": 50,
+      "def": 18,
+      "phy": 50
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "eng_1982_rix2",
+    "name": "Steve Foster",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 10,
+      "dri": 4,
+      "def": 44,
+      "phy": 28
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1982_regis",
+    "name": "Cyrille Regis",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 52,
+      "pas": 36,
+      "dri": 40,
+      "def": 14,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_1982_morley",
+    "name": "Tony Morley",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 72,
+      "sho": 46,
+      "pas": 42,
+      "dri": 46,
+      "def": 18,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "eng_1982_goddard",
+    "name": "Paul Goddard",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 48,
+      "pas": 32,
+      "dri": 32,
+      "def": 10,
+      "phy": 42
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_1982_corrigan",
+    "name": "Joe Corrigan",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 30,
+      "dri": 16,
+      "def": 54,
+      "phy": 50
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1982_watson",
+    "name": "Dave Watson",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 14,
+      "dri": 6,
+      "def": 48,
+      "phy": 30
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1982_brooking",
+    "name": "Trevor Brooking",
+    "nation": "England",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 80,
+    "stats": {
+      "pac": 58,
+      "sho": 44,
+      "pas": 68,
+      "dri": 58,
+      "def": 24,
+      "phy": 42
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1982_dasayev",
+    "name": "Rinat Dasayev",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 44,
+      "dri": 28,
+      "def": 64,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 72.0,
+      "clean_sheets": 3,
+      "goals_conceded": 3,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ussr_1982_sulakvelidze",
+    "name": "Tengiz Sulakvelidze",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 18,
+      "pas": 30,
+      "dri": 18,
+      "def": 60,
+      "phy": 48
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1982_chivadze",
+    "name": "Alexander Chivadze",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 56,
+      "sho": 18,
+      "pas": 30,
+      "dri": 18,
+      "def": 62,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1982_demianenko",
+    "name": "Anatoli Demianenko",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 22,
+      "pas": 40,
+      "dri": 28,
+      "def": 66,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ussr_1982_bal",
+    "name": "Anatoli Bal",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 20,
+      "dri": 10,
+      "def": 54,
+      "phy": 42
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ussr_1982_bessonov",
+    "name": "Vladimir Bessonov",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 48,
+      "dri": 40,
+      "def": 64,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ussr_1982_gavrilov",
+    "name": "Yuri Gavrilov",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 60,
+      "sho": 48,
+      "pas": 60,
+      "dri": 52,
+      "def": 28,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ussr_1982_oganesyan",
+    "name": "Eduard Oganesyan",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 36,
+      "pas": 44,
+      "dri": 38,
+      "def": 24,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1982_blokhin",
+    "name": "Oleg Blokhin",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 86,
+    "stats": {
+      "pac": 78,
+      "sho": 72,
+      "pas": 58,
+      "dri": 64,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "ussr_1982_andriasyan",
+    "name": "Khoren Oganesyan",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 52,
+      "pas": 50,
+      "dri": 48,
+      "def": 20,
+      "phy": 50
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ussr_1982_shengelia",
+    "name": "Ramaz Shengelia",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 50,
+      "dri": 50,
+      "def": 22,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 5,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ussr_1982_aleksei",
+    "name": "Aleksei Prokopenko",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 20,
+      "dri": 10,
+      "def": 40,
+      "phy": 34
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ussr_1982_buryak",
+    "name": "Leonid Buryak",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 32,
+      "pas": 40,
+      "dri": 34,
+      "def": 18,
+      "phy": 36
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1982_zavarov",
+    "name": "Alexander Zavarov",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 66,
+      "dri": 62,
+      "def": 38,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ussr_1982_larionov",
+    "name": "Sergei Larionov",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 4,
+      "pas": 8,
+      "dri": 2,
+      "def": 38,
+      "phy": 18
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ussr_1982_rodionov",
+    "name": "Sergei Rodionov",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 48,
+      "pas": 38,
+      "dri": 38,
+      "def": 14,
+      "phy": 44
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ussr_1982_aleinikov",
+    "name": "Sergei Aleinikov",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 60,
+      "sho": 38,
+      "pas": 52,
+      "dri": 44,
+      "def": 40,
+      "phy": 48
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1982_rats",
+    "name": "Vasyl Rats",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 36,
+      "pas": 46,
+      "dri": 42,
+      "def": 30,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ussr_1982_mikhailichenko",
+    "name": "Alexei Mikhailichenko",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 60,
+      "sho": 40,
+      "pas": 52,
+      "dri": 46,
+      "def": 30,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ussr_1982_protasov",
+    "name": "Oleg Protasov",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 44,
+      "dri": 48,
+      "def": 16,
+      "phy": 48
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ussr_1982_uvarov",
+    "name": "Alexei Uvarov",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 18,
+      "dri": 8,
+      "def": 38,
+      "phy": 28
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ussr_1982_khidiyatullin",
+    "name": "Vagiz Khidiyatullin",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 18,
+      "dri": 8,
+      "def": 52,
+      "phy": 38
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ussr_1982_blohin2",
+    "name": "Yuri Pustovoit",
+    "nation": "USSR",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 12,
+      "pas": 12,
+      "dri": 8,
+      "def": 0,
+      "phy": 10
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1982_arconada",
+    "name": "Luis Arconada",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 38,
+      "dri": 22,
+      "def": 60,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "esp_1982_camacho",
+    "name": "Jose Antonio Camacho",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 38,
+      "dri": 26,
+      "def": 68,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1982_tendillo",
+    "name": "Miguel Tendillo",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 22,
+      "dri": 12,
+      "def": 58,
+      "phy": 44
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1982_alesanco",
+    "name": "Jose Ramon Alesanco",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 26,
+      "dri": 14,
+      "def": 60,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1982_gordillo",
+    "name": "Rafael Gordillo",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 38,
+      "pas": 52,
+      "dri": 48,
+      "def": 46,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1982_alonso",
+    "name": "Miguel Angel",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 36,
+      "dri": 30,
+      "def": 22,
+      "phy": 34
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1982_victor",
+    "name": "Victor Munoz",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 46,
+      "dri": 40,
+      "def": 28,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_1982_zamora",
+    "name": "Roberto Zamora",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 22,
+      "pas": 28,
+      "dri": 20,
+      "def": 10,
+      "phy": 22
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1982_quini",
+    "name": "Enrique Castro",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 62,
+      "pas": 46,
+      "dri": 48,
+      "def": 18,
+      "phy": 52
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "esp_1982_santillana",
+    "name": "Carlos Santillana",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 66,
+      "pas": 50,
+      "dri": 50,
+      "def": 20,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_1982_saura",
+    "name": "Juan Saura",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 26,
+      "pas": 30,
+      "dri": 22,
+      "def": 10,
+      "phy": 24
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1982_spanish_gk",
+    "name": "Javier Urruticoechea",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 26,
+      "dri": 12,
+      "def": 48,
+      "phy": 42
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_1982_maceda",
+    "name": "Antonio Maceda",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 18,
+      "dri": 8,
+      "def": 54,
+      "phy": 38
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1982_uralde",
+    "name": "Quique Setien",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 16,
+      "dri": 10,
+      "def": 0,
+      "phy": 12
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1982_michel",
+    "name": "Michel",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 60,
+      "sho": 50,
+      "pas": 58,
+      "dri": 50,
+      "def": 28,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1982_rincon",
+    "name": "Enrique Rincon",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 30,
+      "pas": 22,
+      "dri": 18,
+      "def": 4,
+      "phy": 26
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_1982_carrasco",
+    "name": "Francisco Carrasco",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 36,
+      "pas": 40,
+      "dri": 34,
+      "def": 16,
+      "phy": 34
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1982_julio_alberto",
+    "name": "Julio Alberto",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 18,
+      "dri": 8,
+      "def": 52,
+      "phy": 36
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_1982_satrustegui",
+    "name": "Jesus Maria Satrustegui",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 54,
+      "pas": 40,
+      "dri": 40,
+      "def": 14,
+      "phy": 46
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_1982_gallego",
+    "name": "Andoni Goikoetxea",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 16,
+      "pas": 18,
+      "dri": 8,
+      "def": 48,
+      "phy": 34
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1982_garcia",
+    "name": "Alberto Cuellar",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 38,
+      "sho": 4,
+      "pas": 16,
+      "dri": 6,
+      "def": 34,
+      "phy": 26
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_1982_senor",
+    "name": "Juan Antonio Senor",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 12,
+      "pas": 10,
+      "dri": 6,
+      "def": 0,
+      "phy": 8
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1982_roberto",
+    "name": "Roberto Lopez",
+    "nation": "Spain",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 6,
+      "dri": 2,
+      "def": 36,
+      "phy": 16
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nir_1982_jennings",
+    "name": "Pat Jennings",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 28,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 2,
+      "goals_conceded": 3,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "nir_1982_nicholl_j",
+    "name": "Jimmy Nicholl",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 18,
+      "pas": 28,
+      "dri": 18,
+      "def": 58,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nir_1982_nicholl_c",
+    "name": "Chris Nicholl",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 52,
+      "sho": 12,
+      "pas": 20,
+      "dri": 10,
+      "def": 54,
+      "phy": 40
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nir_1982_mcilroy",
+    "name": "Sammy McIlroy",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 60,
+      "sho": 38,
+      "pas": 52,
+      "dri": 46,
+      "def": 28,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "nir_1982_donaghy",
+    "name": "Mal Donaghy",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 14,
+      "dri": 6,
+      "def": 50,
+      "phy": 34
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nir_1982_o_neill",
+    "name": "Martin O'Neill",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 60,
+      "sho": 36,
+      "pas": 46,
+      "dri": 40,
+      "def": 24,
+      "phy": 36
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "nir_1982_mcilroy2",
+    "name": "Sammy Nelson",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 12,
+      "pas": 14,
+      "dri": 6,
+      "def": 0,
+      "phy": 8
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nir_1982_hamilton",
+    "name": "Bryan Hamilton",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 18,
+      "dri": 10,
+      "def": 2,
+      "phy": 12
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nir_1982_armstrong",
+    "name": "Gerry Armstrong",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 54,
+      "pas": 40,
+      "dri": 38,
+      "def": 14,
+      "phy": 44
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "nir_1982_whiteside",
+    "name": "Norman Whiteside",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 52,
+      "pas": 38,
+      "dri": 38,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "nir_1982_mccreery",
+    "name": "David McCreery",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 18,
+      "pas": 22,
+      "dri": 14,
+      "def": 6,
+      "phy": 18
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nir_1982_platt",
+    "name": "Jim Platt",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 18,
+      "dri": 6,
+      "def": 36,
+      "phy": 28
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nir_1982_mcclelland",
+    "name": "John McClelland",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 10,
+      "dri": 4,
+      "def": 40,
+      "phy": 20
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nir_1982_moreland",
+    "name": "Victor Moreland",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 8,
+      "dri": 2,
+      "def": 0,
+      "phy": 4
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nir_1982_hunter",
+    "name": "Allen Hunter",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 4,
+      "pas": 6,
+      "dri": 0,
+      "def": 38,
+      "phy": 14
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nir_1982_mcgrath",
+    "name": "Raphael McGrath",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 24,
+      "pas": 18,
+      "dri": 14,
+      "def": 2,
+      "phy": 18
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "nir_1982_penney",
+    "name": "Steve Penney",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 6,
+      "dri": 2,
+      "def": 0,
+      "phy": 4
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nir_1982_finney",
+    "name": "Tom Finney",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 4,
+      "pas": 4,
+      "dri": 0,
+      "def": 0,
+      "phy": 2
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nir_1982_mcnally",
+    "name": "Barry McNally",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 16,
+      "pas": 10,
+      "dri": 6,
+      "def": 0,
+      "phy": 8
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "nir_1982_cleary",
+    "name": "Jim Cleary",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 2,
+      "pas": 2,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "nir_1982_dunlop",
+    "name": "George Dunlop",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 36,
+      "sho": 2,
+      "pas": 12,
+      "dri": 2,
+      "def": 28,
+      "phy": 20
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nir_1982_nelson",
+    "name": "Sammy Nelson2",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 2,
+      "pas": 2,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "nir_1982_healey",
+    "name": "Noel Brotherston",
+    "nation": "Northern Ireland",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 18,
+      "pas": 8,
+      "dri": 4,
+      "def": 0,
+      "phy": 6
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "aut_1982_koncilia",
+    "name": "Friedrich Koncilia",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 20,
+      "def": 56,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 1,
+      "goals_conceded": 5,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "aut_1982_krauss",
+    "name": "Bruno Krauss",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 20,
+      "dri": 10,
+      "def": 54,
+      "phy": 40
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "aut_1982_pezzey",
+    "name": "Bruno Pezzey",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 26,
+      "dri": 14,
+      "def": 62,
+      "phy": 48
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "aut_1982_obermayer",
+    "name": "Kurt Obermayer",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 12,
+      "dri": 4,
+      "def": 48,
+      "phy": 30
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "aut_1982_degeorgi",
+    "name": "Herbert Degeorgi",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 4,
+      "pas": 6,
+      "dri": 0,
+      "def": 38,
+      "phy": 18
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aut_1982_hintermaier",
+    "name": "Kurt Hintermaier",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 12,
+      "pas": 14,
+      "dri": 6,
+      "def": 0,
+      "phy": 8
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "aut_1982_hattenberger",
+    "name": "Walter Hattenberger",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 52,
+      "sho": 14,
+      "pas": 16,
+      "dri": 8,
+      "def": 2,
+      "phy": 10
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "aut_1982_prohaska",
+    "name": "Herbert Prohaska",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 62,
+      "sho": 48,
+      "pas": 64,
+      "dri": 56,
+      "def": 36,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "aut_1982_krankl",
+    "name": "Hans Krankl",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 68,
+      "sho": 74,
+      "pas": 52,
+      "dri": 56,
+      "def": 20,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "aut_1982_schachner",
+    "name": "Walter Schachner",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 60,
+      "pas": 46,
+      "dri": 48,
+      "def": 18,
+      "phy": 50
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "aut_1982_hrstic",
+    "name": "Reinhold Hrstic",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 16,
+      "pas": 18,
+      "dri": 10,
+      "def": 2,
+      "phy": 12
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "aut_1982_baumgartner",
+    "name": "Franz Baumgartner",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 38,
+      "sho": 2,
+      "pas": 12,
+      "dri": 2,
+      "def": 28,
+      "phy": 18
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aut_1982_stockl",
+    "name": "Peter Stockl",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 38,
+      "sho": 2,
+      "pas": 2,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aut_1982_baumeister",
+    "name": "Wolfgang Baumeister",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 4,
+      "dri": 0,
+      "def": 0,
+      "phy": 2
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "aut_1982_weinhofer",
+    "name": "Paul Weinhofer",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 34,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aut_1982_jara",
+    "name": "Erich Obermayer",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 18,
+      "pas": 8,
+      "dri": 4,
+      "def": 0,
+      "phy": 6
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "aut_1982_pichler",
+    "name": "Ernst Pichler",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 36,
+      "sho": 2,
+      "pas": 2,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "aut_1982_weber",
+    "name": "Josef Weber",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 32,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aut_1982_jurtin",
+    "name": "Reinhard Jurtin",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 14,
+      "pas": 6,
+      "dri": 2,
+      "def": 0,
+      "phy": 4
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "aut_1982_peiff",
+    "name": "Johann Peiff",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 28,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "aut_1982_feurer",
+    "name": "Herbert Feurer",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 32,
+      "sho": 0,
+      "pas": 8,
+      "dri": 0,
+      "def": 22,
+      "phy": 12
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aut_1982_hagmayr",
+    "name": "Johann Hagmayr",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 30,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "aut_1982_gross",
+    "name": "Wolfgang Gross",
+    "nation": "Austria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 10,
+      "pas": 4,
+      "dri": 0,
+      "def": 0,
+      "phy": 2
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "yug_1982_pantelic",
+    "name": "Dragan Pantelic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 18,
+      "def": 54,
+      "phy": 50
+    },
+    "wc_stats": {
+      "save_pct": 66.0,
+      "clean_sheets": 1,
+      "goals_conceded": 7,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "yug_1982_krmpotic",
+    "name": "Nenad Stojkovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 14,
+      "pas": 18,
+      "dri": 8,
+      "def": 52,
+      "phy": 36
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "yug_1982_hrstic",
+    "name": "Dragan Vabec",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 10,
+      "dri": 2,
+      "def": 44,
+      "phy": 24
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1982_zajec",
+    "name": "Ilija Zajec",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 20,
+      "dri": 10,
+      "def": 54,
+      "phy": 38
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "yug_1982_sljivic",
+    "name": "Borislav Cvetkovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 4,
+      "pas": 6,
+      "dri": 0,
+      "def": 38,
+      "phy": 16
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1982_halilhodzic",
+    "name": "Vedin Musemic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 36,
+      "dri": 30,
+      "def": 16,
+      "phy": 30
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "yug_1982_gudelj",
+    "name": "Nenad Gudelj",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 74,
+    "stats": {
+      "pac": 54,
+      "sho": 20,
+      "pas": 22,
+      "dri": 14,
+      "def": 6,
+      "phy": 16
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1982_petrovic",
+    "name": "Vladimir Petrovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 44,
+      "pas": 56,
+      "dri": 50,
+      "def": 28,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "yug_1982_halilhodzic2",
+    "name": "Vahid Halilhodzic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 52,
+      "dri": 56,
+      "def": 20,
+      "phy": 52
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "yug_1982_savicevic",
+    "name": "Dragoslav Sekularac",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 74,
+    "stats": {
+      "pac": 56,
+      "sho": 22,
+      "pas": 24,
+      "dri": 16,
+      "def": 6,
+      "phy": 16
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1982_susic",
+    "name": "Safet Susic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 68,
+      "dri": 64,
+      "def": 36,
+      "phy": 52
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "yug_1982_simovic",
+    "name": "Zivko Simovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 36,
+      "sho": 2,
+      "pas": 10,
+      "dri": 0,
+      "def": 28,
+      "phy": 16
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1982_vulic",
+    "name": "Dragoljub Vulic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 10,
+      "dri": 2,
+      "def": 2,
+      "phy": 6
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1982_gazivoda",
+    "name": "Dragan Djordjevic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 26,
+      "pas": 22,
+      "dri": 18,
+      "def": 4,
+      "phy": 22
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "yug_1982_surjak",
+    "name": "Ivan Surjak",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 56,
+      "sho": 22,
+      "pas": 22,
+      "dri": 14,
+      "def": 4,
+      "phy": 14
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1982_mazinho",
+    "name": "Zlatko Vujovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 42,
+      "dri": 42,
+      "def": 14,
+      "phy": 44
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "yug_1982_stojkovic",
+    "name": "Dragan Stojkovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "pac": 60,
+      "sho": 52,
+      "pas": 62,
+      "dri": 56,
+      "def": 28,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "yug_1982_jovanovic",
+    "name": "Nikica Jovanovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 4,
+      "pas": 4,
+      "dri": 0,
+      "def": 32,
+      "phy": 12
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1982_boban",
+    "name": "Zvonimir Boban",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 54,
+      "sho": 30,
+      "pas": 42,
+      "dri": 34,
+      "def": 16,
+      "phy": 26
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1982_lalic",
+    "name": "Milan Lalic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 16,
+      "pas": 8,
+      "dri": 4,
+      "def": 0,
+      "phy": 6
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "yug_1982_gradjen",
+    "name": "Branko Gradjen",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 30,
+      "sho": 0,
+      "pas": 6,
+      "dri": 0,
+      "def": 20,
+      "phy": 10
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1982_savic",
+    "name": "Dushe Savic",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 36,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1982_muzinich",
+    "name": "Dragan Muzinich",
+    "nation": "Yugoslavia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 24,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1982_pfaff",
+    "name": "Jean-Marie Pfaff",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 88,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 30,
+      "def": 70,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 72.0,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bel_1982_gerets",
+    "name": "Eric Gerets",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 36,
+      "dri": 24,
+      "def": 66,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1982_meeuws",
+    "name": "Walter Meeuws",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 10,
+      "dri": 2,
+      "def": 44,
+      "phy": 22
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_millecamps",
+    "name": "Luc Millecamps",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 4,
+      "pas": 6,
+      "dri": 0,
+      "def": 38,
+      "phy": 16
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_renquin",
+    "name": "Michel Renquin",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 4,
+      "pas": 8,
+      "dri": 2,
+      "def": 38,
+      "phy": 16
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_vercauteren",
+    "name": "Franky Vercauteren",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 62,
+      "sho": 36,
+      "pas": 48,
+      "dri": 42,
+      "def": 26,
+      "phy": 36
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bel_1982_coeck",
+    "name": "Ludo Coeck",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 56,
+      "sho": 22,
+      "pas": 26,
+      "dri": 16,
+      "def": 8,
+      "phy": 18
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1982_vandenbergh",
+    "name": "Erwin Vandenbergh",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 44,
+      "pas": 42,
+      "dri": 38,
+      "def": 14,
+      "phy": 36
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1982_ceulemans",
+    "name": "Jan Ceulemans",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 86,
+    "stats": {
+      "pac": 66,
+      "sho": 68,
+      "pas": 58,
+      "dri": 58,
+      "def": 24,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "bel_1982_ceuleers",
+    "name": "Rene Ceuleers",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 74,
+    "stats": {
+      "pac": 56,
+      "sho": 42,
+      "pas": 32,
+      "dri": 30,
+      "def": 12,
+      "phy": 30
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bel_1982_scifo",
+    "name": "Enzo Scifo",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 58,
+      "sho": 38,
+      "pas": 48,
+      "dri": 42,
+      "def": 18,
+      "phy": 32
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1982_preud_homme",
+    "name": "Michel Preud'homme",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 46,
+      "sho": 6,
+      "pas": 28,
+      "dri": 12,
+      "def": 52,
+      "phy": 40
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_de_wolf",
+    "name": "Frank De Wolf",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_claesen",
+    "name": "Nico Claesen",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 52,
+      "sho": 22,
+      "pas": 22,
+      "dri": 14,
+      "def": 2,
+      "phy": 14
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1982_grun",
+    "name": "Georges Gr\u00fcn",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 10,
+      "dri": 2,
+      "def": 42,
+      "phy": 20
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_nilis",
+    "name": "Luc Nilis",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 18,
+      "pas": 8,
+      "dri": 4,
+      "def": 0,
+      "phy": 6
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bel_1982_cools",
+    "name": "Julien Cools",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 34,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1982_veyt",
+    "name": "Marc Veyt",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 28,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_wilmots",
+    "name": "Marc Wilmots",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 20,
+      "pas": 12,
+      "dri": 6,
+      "def": 0,
+      "phy": 10
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bel_1982_emmers",
+    "name": "Leo Emmers",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 22,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1982_bodart",
+    "name": "Gilbert Bodart",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 34,
+      "sho": 0,
+      "pas": 8,
+      "dri": 0,
+      "def": 18,
+      "phy": 8
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_smeets",
+    "name": "Danny Smeets",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 24,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1982_degryse",
+    "name": "Marc Degryse",
+    "nation": "Belgium",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 20,
+      "pas": 20,
+      "dri": 12,
+      "def": 0,
+      "phy": 12
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1982_hruska",
+    "name": "Stanislav Seman",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 26,
+      "dri": 12,
+      "def": 50,
+      "phy": 44
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cze_1982_jurkemik",
+    "name": "Lubomir Jurkemik",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 8,
+      "dri": 0,
+      "def": 38,
+      "phy": 16
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_barmos",
+    "name": "Frantisek Barmos",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_fiala",
+    "name": "Zdenek Fiala",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 42,
+      "sho": 2,
+      "pas": 4,
+      "dri": 0,
+      "def": 30,
+      "phy": 10
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_radimec",
+    "name": "Radoslav Radimec",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 36,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_bicovsky",
+    "name": "Viktor Bicovsky",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 10,
+      "pas": 12,
+      "dri": 4,
+      "def": 2,
+      "phy": 6
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1982_janecka",
+    "name": "Jaroslav Janecka",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 8,
+      "pas": 8,
+      "dri": 2,
+      "def": 0,
+      "phy": 2
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1982_panenka",
+    "name": "Antonin Panenka",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 58,
+      "sho": 60,
+      "pas": 70,
+      "dri": 60,
+      "def": 28,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cze_1982_nehoda",
+    "name": "Zdenek Nehoda",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 62,
+      "sho": 58,
+      "pas": 52,
+      "dri": 50,
+      "def": 18,
+      "phy": 46
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "cze_1982_masny",
+    "name": "Marian Masny",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 58,
+      "sho": 48,
+      "pas": 42,
+      "dri": 40,
+      "def": 12,
+      "phy": 34
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "cze_1982_vizek",
+    "name": "Ladislav Vizek",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 16,
+      "pas": 18,
+      "dri": 8,
+      "def": 2,
+      "phy": 10
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1982_kouba",
+    "name": "Pavel Kouba",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 32,
+      "sho": 0,
+      "pas": 6,
+      "dri": 0,
+      "def": 18,
+      "phy": 8
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_berger",
+    "name": "Frantisek Berger",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 28,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_gajdusek",
+    "name": "Jan Gajdusek",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 22,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1982_stromanka",
+    "name": "Jiri Stromanka",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 24,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_knoflicek",
+    "name": "Lubos Knoflicek",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 58,
+      "sho": 36,
+      "pas": 28,
+      "dri": 22,
+      "def": 4,
+      "phy": 22
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "cze_1982_setrtlik",
+    "name": "Ondrej Setrtlik",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 18,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1982_chovanec",
+    "name": "Jozef Chovanec",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 22,
+      "pas": 30,
+      "dri": 20,
+      "def": 8,
+      "phy": 16
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cze_1982_barta",
+    "name": "Karel Barta",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 20,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_moravcik",
+    "name": "Lubomir Moravcik",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 22,
+      "pas": 28,
+      "dri": 22,
+      "def": 6,
+      "phy": 18
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "cze_1982_srnicek",
+    "name": "Pavel Srnicek",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 36,
+      "sho": 0,
+      "pas": 4,
+      "dri": 0,
+      "def": 16,
+      "phy": 6
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1982_jankech",
+    "name": "Stefan Jankech",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 14,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1982_fillo",
+    "name": "Peter Fillo",
+    "nation": "Czechoslovakia",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 16,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_meszaros",
+    "name": "Pal Meszaros",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 74,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 24,
+      "dri": 10,
+      "def": 46,
+      "phy": 40
+    },
+    "wc_stats": {
+      "save_pct": 65.0,
+      "clean_sheets": 0,
+      "goals_conceded": 12,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "hun_1982_martos",
+    "name": "Gyula Martos",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 4,
+      "pas": 4,
+      "dri": 0,
+      "def": 34,
+      "phy": 12
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_balint",
+    "name": "Sandor Balint",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 4,
+      "pas": 6,
+      "dri": 0,
+      "def": 36,
+      "phy": 14
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_garaba",
+    "name": "Imre Garaba",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 8,
+      "dri": 2,
+      "def": 38,
+      "phy": 16
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_zombori",
+    "name": "Laszlo Zombori",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_muller",
+    "name": "Andreas Muller",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 72,
+    "stats": {
+      "pac": 42,
+      "sho": 8,
+      "pas": 8,
+      "dri": 2,
+      "def": 0,
+      "phy": 4
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "hun_1982_nyilasi",
+    "name": "Tibor Nyilasi",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 58,
+      "sho": 50,
+      "pas": 58,
+      "dri": 52,
+      "def": 26,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "hun_1982_fazekas",
+    "name": "Laszlo Fazekas",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 22,
+      "pas": 24,
+      "dri": 14,
+      "def": 6,
+      "phy": 16
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "hun_1982_kiss",
+    "name": "Laszlo Kiss",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 62,
+      "sho": 62,
+      "pas": 44,
+      "dri": 42,
+      "def": 14,
+      "phy": 44
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 0,
+      "shots_on_target": 7,
+      "minutes_played": 270,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "hun_1982_poloskei",
+    "name": "Ede Dunai",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 36,
+      "pas": 26,
+      "dri": 22,
+      "def": 8,
+      "phy": 24
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "hun_1982_torocsik",
+    "name": "Andras Torocsik",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 56,
+      "sho": 44,
+      "pas": 34,
+      "dri": 30,
+      "def": 10,
+      "phy": 28
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "hun_1982_f_meszaros",
+    "name": "Ferenc Meszaros",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 68,
+    "stats": {
+      "pac": 30,
+      "sho": 0,
+      "pas": 6,
+      "dri": 0,
+      "def": 14,
+      "phy": 4
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_csapo",
+    "name": "Jozsef Csapo",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 28,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "hun_1982_sallai",
+    "name": "Robert Sallai",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 20,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "hun_1982_berczy",
+    "name": "Laszlo Berczy",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 22,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_vegh",
+    "name": "Laszlo Vegh",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 38,
+      "sho": 8,
+      "pas": 4,
+      "dri": 0,
+      "def": 0,
+      "phy": 2
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "hun_1982_fulop",
+    "name": "Laszlo Fulop",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 14,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "hun_1982_pinter",
+    "name": "Antal Pinter",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 10,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_kovacs",
+    "name": "Lajos Kovacs",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 16,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_szabo",
+    "name": "Karoly Szabo",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 28,
+      "sho": 4,
+      "pas": 2,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "hun_1982_bicskei",
+    "name": "Bertalan Bicskei",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 66,
+    "stats": {
+      "pac": 22,
+      "sho": 0,
+      "pas": 2,
+      "dri": 0,
+      "def": 8,
+      "phy": 2
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "hun_1982_varadi",
+    "name": "Janos Varadi",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 8,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "hun_1982_kereki",
+    "name": "Jozsef Kereki",
+    "nation": "Hungary",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 10,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_cerbah",
+    "name": "Mehdi Cerbah",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 72,
+    "stats": {
+      "pac": 42,
+      "sho": 4,
+      "pas": 20,
+      "dri": 8,
+      "def": 40,
+      "phy": 36
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 2,
+      "goals_conceded": 2,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "alg_1982_guendouz",
+    "name": "Mohamed Guendouz",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 2,
+      "pas": 4,
+      "dri": 0,
+      "def": 30,
+      "phy": 10
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_kourichi",
+    "name": "Mahmoud Guendouz",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 70,
+    "stats": {
+      "pac": 36,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_mansouri",
+    "name": "Faouzi Mansouri",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 4,
+      "pas": 6,
+      "dri": 0,
+      "def": 34,
+      "phy": 12
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_kaci",
+    "name": "Mokhtar Kaci",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 32,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_belloumi",
+    "name": "Lakhdar Belloumi",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 60,
+      "sho": 54,
+      "pas": 58,
+      "dri": 54,
+      "def": 28,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "alg_1982_zidane",
+    "name": "Mustapha Dahleb",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 18,
+      "pas": 20,
+      "dri": 12,
+      "def": 2,
+      "phy": 12
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "alg_1982_fergani",
+    "name": "Ali Fergani",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 54,
+      "sho": 24,
+      "pas": 28,
+      "dri": 18,
+      "def": 6,
+      "phy": 18
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "alg_1982_madjer",
+    "name": "Rabah Madjer",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 50,
+      "dri": 52,
+      "def": 16,
+      "phy": 46
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "alg_1982_zidane2",
+    "name": "Salah Assad",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 56,
+      "sho": 38,
+      "pas": 32,
+      "dri": 28,
+      "def": 8,
+      "phy": 28
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "alg_1982_lacen",
+    "name": "Hassen Yahi",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 8,
+      "pas": 8,
+      "dri": 2,
+      "def": 0,
+      "phy": 2
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "alg_1982_lakehal",
+    "name": "Nasser Drid",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 30,
+      "sho": 0,
+      "pas": 4,
+      "dri": 0,
+      "def": 14,
+      "phy": 4
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_kerkouche",
+    "name": "Noureddine Kerkouche",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 22,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_yahi",
+    "name": "Djamel Zidane",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 14,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "alg_1982_kouici",
+    "name": "Azzedine Kouici",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 18,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_dahleb",
+    "name": "Mustapha Dahleb2",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 52,
+      "sho": 22,
+      "pas": 18,
+      "dri": 10,
+      "def": 0,
+      "phy": 10
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "alg_1982_larbes",
+    "name": "Mahmoud Larbes",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 8,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "alg_1982_boutiche",
+    "name": "Mohammed Boutiche",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 10,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_bensaoula",
+    "name": "Tedj Bensaoula",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 12,
+      "pas": 6,
+      "dri": 2,
+      "def": 0,
+      "phy": 4
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "alg_1982_khedis",
+    "name": "Bachir Khedis",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 6,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "alg_1982_drif",
+    "name": "Salah Drif",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 66,
+    "stats": {
+      "pac": 18,
+      "sho": 0,
+      "pas": 2,
+      "dri": 0,
+      "def": 6,
+      "phy": 2
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_yahia",
+    "name": "Rabah Yahia",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 8,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 0,
+      "clearances": null,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "alg_1982_chaib",
+    "name": "Nacer Chaib",
+    "nation": "Algeria",
+    "wc_year": 1982,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 4,
+      "sho": 0,
+      "pas": 0,
+      "dri": 0,
+      "def": 0,
+      "phy": 0
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  }
+]

@@ -25,6 +25,9 @@ export const nationFlags = {
     'Tunisia': '🇹🇳', 'Wales': '🏴󠁧󠁢󠁷󠁬󠁳󠁿', 'Serbia': '🇷🇸',
     // 1994
     'Bulgaria': '🇧🇬',
-    // 1990
+    // 1990 / 1986
     'West Germany': '🇩🇪', 'Cameroon': '🇨🇲', 'Czechoslovakia': '🇨🇿',
+    'USSR': '🇷🇺', 'Yugoslavia': '🇷🇸',
+    // 1982
+    'Hungary': '🇭🇺', 'Northern Ireland': '🇬🇧', 'Austria': '🇦🇹',
 }

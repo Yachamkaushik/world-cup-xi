@@ -1,0 +1,8006 @@
+[
+  {
+    "id": "wger_1990_illgner",
+    "name": "Bodo Illgner",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 50,
+      "dri": 38,
+      "def": 72,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 73.0,
+      "clean_sheets": 5,
+      "goals_conceded": 4,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1990_reuter",
+    "name": "Stefan Reuter",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 42,
+      "pas": 64,
+      "dri": 60,
+      "def": 76,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1990_augenthaler",
+    "name": "Klaus Augenthaler",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 36,
+      "pas": 60,
+      "dri": 50,
+      "def": 84,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1990_kohler",
+    "name": "Jurgen Kohler",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 62,
+      "dri": 52,
+      "def": 88,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1990_brehme",
+    "name": "Andreas Brehme",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 85,
+    "stats": {
+      "pac": 78,
+      "sho": 56,
+      "pas": 72,
+      "dri": 68,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 16,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1990_matthaeus",
+    "name": "Lothar Matthaus",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 92,
+    "stats": {
+      "pac": 74,
+      "sho": 80,
+      "pas": 86,
+      "dri": 80,
+      "def": 70,
+      "phy": 84
+    },
+    "wc_stats": {
+      "key_passes": 30,
+      "assists": 5,
+      "progressive_passes": 68,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1990_hassler",
+    "name": "Thomas Hassler",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 76,
+      "dri": 70,
+      "def": 54,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 1,
+      "progressive_passes": 38,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1990_thon",
+    "name": "Olaf Thon",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 74,
+      "dri": 68,
+      "def": 60,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 32,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "wger_1990_voeller",
+    "name": "Rudi Voller",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 82,
+      "pas": 62,
+      "dri": 74,
+      "def": 28,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 540,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "wger_1990_klinsmann",
+    "name": "Jurgen Klinsmann",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 82,
+      "sho": 84,
+      "pas": 62,
+      "dri": 76,
+      "def": 28,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 12,
+      "minutes_played": 540,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "wger_1990_littbarski",
+    "name": "Pierre Littbarski",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 66,
+      "pas": 78,
+      "dri": 76,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 42,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1990_immel",
+    "name": "Eike Immel",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "wger_1990_berthold",
+    "name": "Thomas Berthold",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "wger_1990_buchwald",
+    "name": "Guido Buchwald",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 46,
+      "pas": 66,
+      "dri": 60,
+      "def": 76,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1990_bein",
+    "name": "Andreas Bein",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 48,
+      "pas": 62,
+      "dri": 54,
+      "def": 46,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "wger_1990_riedle",
+    "name": "Karl-Heinz Riedle",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 58,
+      "dri": 66,
+      "def": 24,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "wger_1990_moller",
+    "name": "Andreas Moller",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 64,
+      "pas": 78,
+      "dri": 70,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "wger_1990_pflugbeil",
+    "name": "Wolfgang Pflugbeil",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "wger_1990_mill",
+    "name": "Stefan Mill",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 73,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 48,
+      "dri": 52,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "wger_1990_doll",
+    "name": "Thomas Doll",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 64,
+      "dri": 58,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "wger_1990_unbehaun",
+    "name": "Raimond Aumann",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 42,
+      "dri": 28,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "wger_1990_frontzeck",
+    "name": "Michael Frontzeck",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 70,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "wger_1990_wohlfarth",
+    "name": "Robert Wohlfarth",
+    "nation": "West Germany",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 70,
+      "pas": 50,
+      "dri": 56,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "arg_1990_goycochea",
+    "name": "Sergio Goycochea",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 71.0,
+      "clean_sheets": 4,
+      "goals_conceded": 5,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "arg_1990_ruggeri",
+    "name": "Oscar Ruggeri",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 38,
+      "pas": 60,
+      "dri": 52,
+      "def": 86,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "arg_1990_monzon",
+    "name": "Pedro Monzon",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1990_simon",
+    "name": "Juan Simon",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1990_serrizuela",
+    "name": "Miguel Serrizuela",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1990_basualdo",
+    "name": "Jose Basualdo",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 48,
+      "pas": 60,
+      "dri": 54,
+      "def": 52,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "arg_1990_maradona",
+    "name": "Diego Maradona",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 96,
+    "stats": {
+      "pac": 74,
+      "sho": 82,
+      "pas": 90,
+      "dri": 94,
+      "def": 50,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 28,
+      "assists": 5,
+      "progressive_passes": 62,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "arg_1990_burruchaga",
+    "name": "Jorge Burruchaga",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 83,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 78,
+      "dri": 72,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 3,
+      "progressive_passes": 42,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1990_calderon",
+    "name": "Gabriel Calderon",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 68,
+      "pas": 58,
+      "dri": 62,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "arg_1990_caniggia",
+    "name": "Claudio Caniggia",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 86,
+    "stats": {
+      "pac": 90,
+      "sho": 76,
+      "pas": 62,
+      "dri": 84,
+      "def": 26,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 540,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "arg_1990_troglio",
+    "name": "Pedro Troglio",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 56,
+      "dri": 50,
+      "def": 48,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "arg_1990_pumpido",
+    "name": "Nery Pumpido",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1990_dezotti",
+    "name": "Gustavo Dezotti",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 52,
+      "dri": 54,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "arg_1990_giusti",
+    "name": "Ricardo Giusti",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 36,
+      "pas": 56,
+      "dri": 50,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1990_sensini",
+    "name": "Roberto Sensini",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 38,
+      "pas": 62,
+      "dri": 58,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1990_balbo",
+    "name": "Abel Balbo",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 56,
+      "dri": 62,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "arg_1990_olarticoechea",
+    "name": "Julio Olarticoechea",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 34,
+      "pas": 54,
+      "dri": 50,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1990_rodriguez",
+    "name": "Lorenzo Rodriguez",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 48,
+      "dri": 44,
+      "def": 38,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1990_fabbri",
+    "name": "Hector Fabbri",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 71,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 46,
+      "dri": 50,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_1990_calderwood",
+    "name": "Alejandro Mancuso",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 46,
+      "dri": 42,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1990_bossio",
+    "name": "Juan Carlos Bossio",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 58,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1990_enrique",
+    "name": "Claudio Enrique",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1990_medina",
+    "name": "Jorge Medina",
+    "nation": "Argentina",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 2,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 46,
+      "dri": 42,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ita_1990_zenga",
+    "name": "Walter Zenga",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 86,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 50,
+      "dri": 38,
+      "def": 74,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 75.0,
+      "clean_sheets": 5,
+      "goals_conceded": 2,
+      "minutes_played": 660
+    }
+  },
+  {
+    "id": "ita_1990_maldini",
+    "name": "Paolo Maldini",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 90,
+    "stats": {
+      "pac": 82,
+      "sho": 48,
+      "pas": 76,
+      "dri": 70,
+      "def": 90,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 22,
+      "clearances": null,
+      "minutes_played": 660
+    }
+  },
+  {
+    "id": "ita_1990_baresi",
+    "name": "Franco Baresi",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 93,
+    "stats": {
+      "pac": 74,
+      "sho": 44,
+      "pas": 70,
+      "dri": 62,
+      "def": 94,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 24,
+      "clearances": null,
+      "minutes_played": 660
+    }
+  },
+  {
+    "id": "ita_1990_bergomi",
+    "name": "Giuseppe Bergomi",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 60,
+      "dri": 52,
+      "def": 84,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 570
+    }
+  },
+  {
+    "id": "ita_1990_costacurta",
+    "name": "Alessandro Costacurta",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 38,
+      "pas": 62,
+      "dri": 54,
+      "def": 84,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ita_1990_ancelotti",
+    "name": "Carlo Ancelotti",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 66,
+      "sho": 56,
+      "pas": 82,
+      "dri": 70,
+      "def": 62,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 1,
+      "progressive_passes": 44,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ita_1990_donadoni",
+    "name": "Roberto Donadoni",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 76,
+      "dri": 70,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 1,
+      "progressive_passes": 38,
+      "minutes_played": 570
+    }
+  },
+  {
+    "id": "ita_1990_de_napoli",
+    "name": "Fernando De Napoli",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 66,
+      "dri": 60,
+      "def": 54,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 0,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ita_1990_schillaci",
+    "name": "Salvatore Schillaci",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 84,
+      "pas": 56,
+      "dri": 68,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 1,
+      "shots_on_target": 18,
+      "minutes_played": 630,
+      "goals_per90": 0.86
+    }
+  },
+  {
+    "id": "ita_1990_baggio_r",
+    "name": "Roberto Baggio",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 90,
+    "stats": {
+      "pac": 76,
+      "sho": 86,
+      "pas": 80,
+      "dri": 88,
+      "def": 32,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "ita_1990_vialli",
+    "name": "Gianluca Vialli",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 80,
+      "pas": 62,
+      "dri": 72,
+      "def": 26,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 7,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "ita_1990_pagliuca",
+    "name": "Gianluca Pagliuca",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 82,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 70,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1990_evani",
+    "name": "Alberico Evani",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 66,
+      "dri": 62,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1990_ferri",
+    "name": "Riccardo Ferri",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1990_giannini",
+    "name": "Giuseppe Giannini",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 80,
+      "dri": 70,
+      "def": 52,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 30,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ita_1990_serena",
+    "name": "Aldo Serena",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 52,
+      "dri": 58,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "ita_1990_crippa",
+    "name": "Nicola Crippa",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 38,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1990_berti",
+    "name": "Nicola Berti",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 64,
+      "dri": 58,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1990_carnevale",
+    "name": "Andrea Carnevale",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 70,
+      "pas": 52,
+      "dri": 58,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ita_1990_pin",
+    "name": "Angelo Pin",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 50,
+      "dri": 44,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ita_1990_tacconi",
+    "name": "Stefano Tacconi",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1990_de_agostini",
+    "name": "Luigi De Agostini",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 54,
+      "dri": 48,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1990_baggio_d",
+    "name": "Dino Baggio",
+    "nation": "Italy",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 64,
+      "dri": 54,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_1990_shilton",
+    "name": "Peter Shilton",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 86,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 50,
+      "dri": 36,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 72.0,
+      "clean_sheets": 4,
+      "goals_conceded": 4,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "eng_1990_parker",
+    "name": "Paul Parker",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 79,
+    "stats": {
+      "pac": 76,
+      "sho": 36,
+      "pas": 60,
+      "dri": 56,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "eng_1990_butcher",
+    "name": "Terry Butcher",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 58,
+      "dri": 48,
+      "def": 84,
+      "phy": 82
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1990_wright",
+    "name": "Mark Wright",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 56,
+      "dri": 48,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1990_pearce",
+    "name": "Stuart Pearce",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 44,
+      "pas": 62,
+      "dri": 58,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1990_waddle",
+    "name": "Chris Waddle",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 64,
+      "pas": 74,
+      "dri": 78,
+      "def": 40,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 46,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1990_gascoigne",
+    "name": "Paul Gascoigne",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 84,
+      "dri": 82,
+      "def": 54,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 26,
+      "assists": 4,
+      "progressive_passes": 58,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1990_robson",
+    "name": "Bryan Robson",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 76,
+      "dri": 68,
+      "def": 66,
+      "phy": 76
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 24,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1990_lineker",
+    "name": "Gary Lineker",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 80,
+      "sho": 90,
+      "pas": 62,
+      "dri": 72,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "eng_1990_beardsley",
+    "name": "Peter Beardsley",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 72,
+      "dri": 76,
+      "def": 34,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 3,
+      "shots_on_target": 8,
+      "minutes_played": 540,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "eng_1990_platt",
+    "name": "David Platt",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 70,
+      "pas": 68,
+      "dri": 62,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 1,
+      "progressive_passes": 8,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "eng_1990_woods",
+    "name": "Chris Woods",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1990_walker",
+    "name": "Des Walker",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 32,
+      "pas": 54,
+      "dri": 50,
+      "def": 82,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "eng_1990_dorigo",
+    "name": "Tony Dorigo",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 38,
+      "pas": 60,
+      "dri": 58,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_1990_steven",
+    "name": "Trevor Steven",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 56,
+      "pas": 66,
+      "dri": 64,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1990_mcmahon",
+    "name": "Steve McMahon",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 62,
+      "dri": 56,
+      "def": 58,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_1990_bull",
+    "name": "Steve Bull",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 50,
+      "dri": 58,
+      "def": 22,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_1990_steven2",
+    "name": "Gary Stevens",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1990_hodge",
+    "name": "Steve Hodge",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 48,
+      "pas": 56,
+      "dri": 50,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "eng_1990_stewart",
+    "name": "Paul Stewart",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 50,
+      "dri": 52,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_1990_seaman",
+    "name": "David Seaman",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 80,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 32,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1990_pallister",
+    "name": "Gary Pallister",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 78,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1990_barnes",
+    "name": "John Barnes",
+    "nation": "England",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 84,
+    "stats": {
+      "pac": 80,
+      "sho": 62,
+      "pas": 74,
+      "dri": 78,
+      "def": 38,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 1,
+      "progressive_passes": 8,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cmr_1990_bell",
+    "name": "Thomas N'Kono",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 66.0,
+      "clean_sheets": 2,
+      "goals_conceded": 6,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "cmr_1990_tataw",
+    "name": "Stephen Tataw",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "cmr_1990_ndip",
+    "name": "Victor Ndip",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cmr_1990_kunde",
+    "name": "Emmanuel Kunde",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 75,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cmr_1990_massing",
+    "name": "Benjamin Massing",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cmr_1990_kana_biyik",
+    "name": "Andre Kana-Biyik",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 48,
+      "pas": 58,
+      "dri": 54,
+      "def": 52,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cmr_1990_maboang",
+    "name": "Emile Maboang",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cmr_1990_pagal",
+    "name": "Emmanuel Pagal",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 42,
+      "pas": 52,
+      "dri": 46,
+      "def": 42,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cmr_1990_mfede",
+    "name": "Francois Omam-Biyik",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 54,
+      "dri": 62,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 450,
+      "goals_per90": 0.4
+    }
+  },
+  {
+    "id": "cmr_1990_milla",
+    "name": "Roger Milla",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 76,
+      "pas": 58,
+      "dri": 70,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 360,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "cmr_1990_libih",
+    "name": "Bertin Ebwelle",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 56,
+      "dri": 54,
+      "def": 40,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cmr_1990_songo",
+    "name": "Joseph-Antoine Bell",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cmr_1990_nkengue",
+    "name": "Joseph Nkengue",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cmr_1990_makanaky",
+    "name": "Cyrille Makanaky",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 54,
+      "pas": 58,
+      "dri": 60,
+      "def": 36,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cmr_1990_ebongue",
+    "name": "Jules Onana",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cmr_1990_ekeke",
+    "name": "Eugene Ekeke",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 50,
+      "dri": 56,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "cmr_1990_biyik",
+    "name": "Louis-Paul Mfede",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 64,
+      "sho": 40,
+      "pas": 46,
+      "dri": 42,
+      "def": 38,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cmr_1990_libiih",
+    "name": "Gilbert Bodak",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 38,
+      "dri": 30,
+      "def": 60,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cmr_1990_njitap",
+    "name": "Jean-Claude Pagal",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 46,
+      "dri": 42,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cmr_1990_emballe",
+    "name": "Gaston Emballe",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 44,
+      "dri": 48,
+      "def": 18,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "cmr_1990_idriss",
+    "name": "Idriss Carlos Kameni",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 36,
+      "dri": 24,
+      "def": 54,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cmr_1990_nkono2",
+    "name": "Celestin Foe",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 71,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 42,
+      "dri": 34,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cmr_1990_bongo",
+    "name": "Marc-Vivien Foe",
+    "nation": "Cameroon",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 42,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ned_1990_van_breukelen",
+    "name": "Hans van Breukelen",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1990_van_aerle",
+    "name": "Berry van Aerle",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 36,
+      "pas": 58,
+      "dri": 52,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ned_1990_van_tiggelen",
+    "name": "Adri van Tiggelen",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ned_1990_koeman_r",
+    "name": "Ronald Koeman",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 82,
+      "dri": 70,
+      "def": 84,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 22,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1990_rijkaard",
+    "name": "Frank Rijkaard",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 76,
+      "dri": 68,
+      "def": 82,
+      "phy": 80
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ned_1990_wouters",
+    "name": "Jan Wouters",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 64,
+      "dri": 58,
+      "def": 60,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ned_1990_witschge",
+    "name": "Rob Witschge",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 70,
+      "dri": 64,
+      "def": 50,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_1990_koeman_e",
+    "name": "Erwin Koeman",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 54,
+      "pas": 66,
+      "dri": 60,
+      "def": 56,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ned_1990_van_basten",
+    "name": "Marco van Basten",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 94,
+    "stats": {
+      "pac": 80,
+      "sho": 94,
+      "pas": 72,
+      "dri": 88,
+      "def": 28,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "ned_1990_gullit",
+    "name": "Ruud Gullit",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 92,
+    "stats": {
+      "pac": 82,
+      "sho": 84,
+      "pas": 80,
+      "dri": 86,
+      "def": 44,
+      "phy": 80
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 2,
+      "shots_on_target": 7,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "ned_1990_kieft",
+    "name": "Wim Kieft",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 56,
+      "dri": 62,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "ned_1990_menzo",
+    "name": "Stanley Menzo",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_1990_blind",
+    "name": "Danny Blind",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 52,
+      "dri": 44,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_1990_winter",
+    "name": "Aaron Winter",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 68,
+      "dri": 62,
+      "def": 50,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ned_1990_silooy",
+    "name": "Sonny Silooy",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 30,
+      "pas": 52,
+      "dri": 46,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ned_1990_bosman",
+    "name": "John Bosman",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 52,
+      "dri": 58,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 180,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ned_1990_gillhaus",
+    "name": "Hans Gillhaus",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 58,
+      "dri": 60,
+      "def": 34,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ned_1990_frank_de_boer",
+    "name": "Frank de Boer",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 36,
+      "pas": 56,
+      "dri": 50,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ned_1990_van_loen",
+    "name": "Rob van Loen",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 42,
+      "pas": 52,
+      "dri": 46,
+      "def": 38,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ned_1990_bergkamp",
+    "name": "Dennis Bergkamp",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 82,
+      "pas": 78,
+      "dri": 82,
+      "def": 28,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "ned_1990_de_goey",
+    "name": "Ed de Goey",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 40,
+      "dri": 28,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ned_1990_van_der_gijp",
+    "name": "Joost Nilis",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 60,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ned_1990_rutjes",
+    "name": "John Rutjes",
+    "nation": "Netherlands",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 46,
+      "dri": 42,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1990_taffarel",
+    "name": "Taffarel",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 50,
+      "dri": 36,
+      "def": 70,
+      "phy": 72
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1990_mazinho",
+    "name": "Mazinho",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 42,
+      "pas": 62,
+      "dri": 56,
+      "def": 68,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1990_mozer",
+    "name": "Carlos Mozer",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 54,
+      "dri": 44,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1990_galvao",
+    "name": "Galvao",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_1990_branco",
+    "name": "Branco",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 44,
+      "pas": 62,
+      "dri": 58,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1990_valdo",
+    "name": "Valdo",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 74,
+      "dri": 70,
+      "def": 50,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 1,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1990_alemao",
+    "name": "Alemao",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 66,
+      "dri": 60,
+      "def": 54,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1990_dunga",
+    "name": "Dunga",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 70,
+      "dri": 60,
+      "def": 66,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 0,
+      "progressive_passes": 28,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1990_careca",
+    "name": "Careca",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 86,
+    "stats": {
+      "pac": 78,
+      "sho": 86,
+      "pas": 62,
+      "dri": 76,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 12,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "bra_1990_muller",
+    "name": "Muller",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 82,
+    "stats": {
+      "pac": 80,
+      "sho": 76,
+      "pas": 62,
+      "dri": 72,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "bra_1990_bebeto",
+    "name": "Bebeto",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 80,
+      "sho": 78,
+      "pas": 66,
+      "dri": 76,
+      "def": 26,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 2,
+      "progressive_passes": 5,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1990_acacio",
+    "name": "Acacio",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 28,
+      "def": 58,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1990_leo",
+    "name": "Leo",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 34,
+      "def": 64,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1990_mauro_galvao",
+    "name": "Mauro Galvao",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 54,
+      "dri": 48,
+      "def": 52,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bra_1990_aldair",
+    "name": "Aldair",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 32,
+      "pas": 56,
+      "dri": 46,
+      "def": 80,
+      "phy": 76
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_1990_geovani",
+    "name": "Geovani",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 58,
+      "dri": 54,
+      "def": 38,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1990_bismark",
+    "name": "Bismark",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 46,
+      "dri": 50,
+      "def": 18,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_1990_mauro_silva",
+    "name": "Mauro Silva",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 32,
+      "pas": 52,
+      "dri": 44,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1990_silas",
+    "name": "Silas",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 50,
+      "dri": 46,
+      "def": 38,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1990_renato",
+    "name": "Renato",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 73,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 50,
+      "dri": 56,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "bra_1990_carlos_german",
+    "name": "Carlos German",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 36,
+      "dri": 24,
+      "def": 54,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1990_ricardo",
+    "name": "Ricardo",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 20,
+      "pas": 40,
+      "dri": 30,
+      "def": 60,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1990_zinho",
+    "name": "Zinho",
+    "nation": "Brazil",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 60,
+      "dri": 56,
+      "def": 42,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1990_ivkovic",
+    "name": "Tomislav Ivkovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 2,
+      "goals_conceded": 6,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "yug_1990_spasic",
+    "name": "Predrag Spasic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "yug_1990_hadzibegic",
+    "name": "Faruk Hadzibegic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "yug_1990_brnovic",
+    "name": "Zlatko Brnovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "yug_1990_elsner",
+    "name": "Goran Juric",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "yug_1990_savicevic",
+    "name": "Dejan Savicevic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 86,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 78,
+      "dri": 82,
+      "def": 38,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 3,
+      "progressive_passes": 40,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "yug_1990_stojkovic",
+    "name": "Dragan Stojkovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 86,
+      "dri": 82,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 24,
+      "assists": 3,
+      "progressive_passes": 52,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "yug_1990_susic",
+    "name": "Safet Susic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 80,
+      "dri": 76,
+      "def": 44,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 42,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "yug_1990_pancev",
+    "name": "Darko Pancev",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 82,
+      "pas": 60,
+      "dri": 72,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "yug_1990_prosinecki",
+    "name": "Robert Prosinecki",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 8,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 66,
+      "pas": 80,
+      "dri": 74,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 16,
+      "assists": 2,
+      "shots_on_target": 38,
+      "minutes_played": 450,
+      "goals_per90": 3.2
+    }
+  },
+  {
+    "id": "yug_1990_vujovic",
+    "name": "Zlatko Vujovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 68,
+      "pas": 56,
+      "dri": 62,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "yug_1990_lesjak",
+    "name": "Zeljko Lesjak",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 38,
+      "dri": 26,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1990_boban",
+    "name": "Zvonimir Boban",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 80,
+      "dri": 72,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 24,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "yug_1990_vulic",
+    "name": "Dragoljub Vulic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 34,
+      "def": 64,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "yug_1990_katanec",
+    "name": "Srecko Katanec",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 50,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "yug_1990_skoro",
+    "name": "Hajrudin Skoro",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 52,
+      "dri": 58,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "yug_1990_bazdarevic",
+    "name": "Mehmed Bazdarevic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 66,
+      "dri": 60,
+      "def": 46,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "yug_1990_jozic",
+    "name": "Mirko Jozic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 71,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 38,
+      "dri": 30,
+      "def": 60,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1990_jarni",
+    "name": "Robert Jarni",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 44,
+      "pas": 56,
+      "dri": 54,
+      "def": 48,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "yug_1990_mijatovic",
+    "name": "Predrag Mijatovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 56,
+      "dri": 60,
+      "def": 26,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "yug_1990_bolic",
+    "name": "Edhem Sljivo",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 36,
+      "dri": 24,
+      "def": 52,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "yug_1990_jokanovic",
+    "name": "Slavisa Jokanovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 48,
+      "dri": 40,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "yug_1990_jugovic",
+    "name": "Vladimir Jugovic",
+    "nation": "Yugoslavia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 56,
+      "dri": 50,
+      "def": 44,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1990_stejskal",
+    "name": "Jan Stejskal",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 3,
+      "goals_conceded": 6,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "cze_1990_hasek",
+    "name": "Miroslav Kadlec",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cze_1990_straka",
+    "name": "Frantisek Straka",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cze_1990_hledik",
+    "name": "Ivan Hledik",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 44,
+      "dri": 34,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cze_1990_nemecek",
+    "name": "Jan Nemecek",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "cze_1990_chovanec",
+    "name": "Jozef Chovanec",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 66,
+      "dri": 58,
+      "def": 54,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "cze_1990_bielik",
+    "name": "Ivan Bielik",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 44,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cze_1990_kubik",
+    "name": "Lubomir Kubik",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 64,
+      "dri": 58,
+      "def": 50,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cze_1990_skuhravy",
+    "name": "Tomas Skuhravy",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 78,
+      "pas": 56,
+      "dri": 62,
+      "def": 24,
+      "phy": 76
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "cze_1990_knoflicek",
+    "name": "Lubos Knoflicek",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 70,
+      "pas": 58,
+      "dri": 66,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "cze_1990_moravcik",
+    "name": "Lubomir Moravcik",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 72,
+      "dri": 68,
+      "def": 44,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 1,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "cze_1990_kouba",
+    "name": "Pavel Kouba",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 26,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1990_griga",
+    "name": "Stanislav Griga",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 60,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cze_1990_weiss",
+    "name": "Vladimir Weiss",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 64,
+      "dri": 60,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "cze_1990_kocian",
+    "name": "Julius Kocian",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 60,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cze_1990_hasek2",
+    "name": "Michal Bilek",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 54,
+      "dri": 54,
+      "def": 24,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "cze_1990_latal",
+    "name": "Radoslav Latal",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 40,
+      "pas": 50,
+      "dri": 44,
+      "def": 40,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "cze_1990_novak",
+    "name": "Jan Novak",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 20,
+      "pas": 38,
+      "dri": 28,
+      "def": 60,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1990_moder",
+    "name": "Rudolf Moder",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 46,
+      "dri": 42,
+      "def": 34,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1990_janecka",
+    "name": "Jaroslav Janecka",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 46,
+      "dri": 50,
+      "def": 18,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "cze_1990_srnicek",
+    "name": "Pavel Srnicek",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 40,
+      "dri": 28,
+      "def": 60,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "cze_1990_bielik2",
+    "name": "Jiri Nemec",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "cze_1990_kula",
+    "name": "Jiri Kula",
+    "nation": "Czechoslovakia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 36,
+      "pas": 44,
+      "dri": 40,
+      "def": 34,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1990_zubizarreta",
+    "name": "Andoni Zubizarreta",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 34,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 2,
+      "goals_conceded": 4,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "esp_1990_chendo",
+    "name": "Chendo",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1990_sanchis",
+    "name": "Martin Vasquez",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 32,
+      "pas": 54,
+      "dri": 46,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1990_hierro",
+    "name": "Fernando Hierro",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 68,
+      "dri": 58,
+      "def": 84,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1990_alkorta",
+    "name": "Rafael Alkorta",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 38,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1990_martin_vasquez",
+    "name": "Martin Vasquez",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 72,
+      "dri": 64,
+      "def": 52,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1990_michel",
+    "name": "Michel",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 70,
+      "pas": 78,
+      "dri": 72,
+      "def": 50,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 42,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1990_sanchis2",
+    "name": "Sanchis",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 36,
+      "pas": 56,
+      "dri": 46,
+      "def": 76,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1990_butrageno",
+    "name": "Emilio Butragueno",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 82,
+      "pas": 66,
+      "dri": 74,
+      "def": 26,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 2,
+      "shots_on_target": 10,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "esp_1990_martin",
+    "name": "Julio Salinas",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 72,
+      "pas": 58,
+      "dri": 64,
+      "def": 22,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "esp_1990_bakero",
+    "name": "Jose Mari Bakero",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 68,
+      "dri": 62,
+      "def": 46,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1990_clos",
+    "name": "Abel",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 26,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_1990_roberto",
+    "name": "Roberto",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_1990_goikoetxea",
+    "name": "Andoni Goikoetxea",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 58,
+      "dri": 52,
+      "def": 52,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1990_vila",
+    "name": "Juan Carlos",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 40,
+      "dri": 32,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1990_roberto2",
+    "name": "Txiki Begiristain",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "pac": 78,
+      "sho": 64,
+      "pas": 60,
+      "dri": 68,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_1990_ferrer",
+    "name": "Albert Ferrer",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 34,
+      "pas": 52,
+      "dri": 48,
+      "def": 64,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1990_eusebio",
+    "name": "Eusebio Sacristan",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 64,
+      "dri": 58,
+      "def": 48,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1990_uralde",
+    "name": "Aldana",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 46,
+      "dri": 50,
+      "def": 18,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_1990_guardiola",
+    "name": "Pep Guardiola",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 80,
+    "stats": {
+      "pac": 64,
+      "sho": 48,
+      "pas": 82,
+      "dri": 68,
+      "def": 58,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1990_garcia",
+    "name": "Unzue",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 26,
+      "def": 54,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_1990_amo",
+    "name": "Amo",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 20,
+      "pas": 38,
+      "dri": 28,
+      "def": 60,
+      "phy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1990_llorente",
+    "name": "Quique Setien",
+    "nation": "Spain",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 73,
+    "stats": {
+      "pac": 64,
+      "sho": 52,
+      "pas": 52,
+      "dri": 52,
+      "def": 22,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "irl_1990_bonner",
+    "name": "Packie Bonner",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 32,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 69.0,
+      "clean_sheets": 3,
+      "goals_conceded": 2,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "irl_1990_morris",
+    "name": "Chris Morris",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "irl_1990_mccarthy",
+    "name": "Mick McCarthy",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "irl_1990_moran",
+    "name": "Kevin Moran",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "irl_1990_staunton",
+    "name": "Steve Staunton",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "irl_1990_houghton",
+    "name": "Ray Houghton",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 52,
+      "pas": 62,
+      "dri": 56,
+      "def": 50,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "irl_1990_sheedy",
+    "name": "Kevin Sheedy",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 56,
+      "pas": 66,
+      "dri": 58,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "irl_1990_townsend",
+    "name": "Andy Townsend",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 66,
+      "dri": 60,
+      "def": 56,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "irl_1990_aldridge",
+    "name": "John Aldridge",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 78,
+      "pas": 52,
+      "dri": 58,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 6,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "irl_1990_cascarino",
+    "name": "Tony Cascarino",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 66,
+      "pas": 50,
+      "dri": 54,
+      "def": 22,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "irl_1990_quinn",
+    "name": "Niall Quinn",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 64,
+      "pas": 52,
+      "dri": 52,
+      "def": 22,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 270,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "irl_1990_kelly",
+    "name": "Alan Kelly",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 26,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "irl_1990_phelan",
+    "name": "Terry Phelan",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 74,
+      "sho": 28,
+      "pas": 48,
+      "dri": 44,
+      "def": 62,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "irl_1990_mcgrath",
+    "name": "Paul McGrath",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 38,
+      "pas": 60,
+      "dri": 54,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "irl_1990_o_leary",
+    "name": "David O'Leary",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 76,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "irl_1990_galligan",
+    "name": "John Sheridan",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 48,
+      "pas": 60,
+      "dri": 52,
+      "def": 44,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "irl_1990_coyne",
+    "name": "Tommy Coyne",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 64,
+      "sho": 58,
+      "pas": 44,
+      "dri": 48,
+      "def": 18,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "irl_1990_slaven",
+    "name": "Bernie Slaven",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 44,
+      "dri": 44,
+      "def": 22,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 1,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "irl_1990_lawrenson",
+    "name": "Mark Lawrenson",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "irl_1990_waddock",
+    "name": "Gary Waddock",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 36,
+      "pas": 44,
+      "dri": 40,
+      "def": 34,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "irl_1990_peyton",
+    "name": "Gerry Peyton",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 34,
+      "dri": 24,
+      "def": 52,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "irl_1990_donovan",
+    "name": "Terry Donovan",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 36,
+      "dri": 28,
+      "def": 60,
+      "phy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "irl_1990_stapleton",
+    "name": "Frank Stapleton",
+    "nation": "Republic of Ireland",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 50,
+      "dri": 52,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_1990_higuita",
+    "name": "Rene Higuita",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 52,
+      "dri": 46,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 65.0,
+      "clean_sheets": 1,
+      "goals_conceded": 2,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1990_escobar",
+    "name": "Andres Escobar",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 54,
+      "dri": 46,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_1990_herrera",
+    "name": "Luis Herrera",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1990_perea",
+    "name": "Luis Carlos Perea",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1990_gomez",
+    "name": "Alexis Garcia",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 40,
+      "dri": 32,
+      "def": 64,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "col_1990_alvarez",
+    "name": "Leonel Alvarez",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 54,
+      "dri": 48,
+      "def": 48,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1990_valderrama",
+    "name": "Carlos Valderrama",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 88,
+      "dri": 80,
+      "def": 38,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 4,
+      "progressive_passes": 50,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "col_1990_redin",
+    "name": "Bernardo Redin",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 48,
+      "pas": 54,
+      "dri": 52,
+      "def": 36,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "col_1990_iguaran",
+    "name": "Arnoldo Iguaran",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 54,
+      "dri": 58,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "col_1990_rincon",
+    "name": "Freddy Rincon",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 64,
+      "pas": 68,
+      "dri": 66,
+      "def": 36,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "col_1990_fajardo",
+    "name": "Carlos Estrada",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 48,
+      "dri": 52,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "col_1990_mondragon",
+    "name": "Faryd Mondragon",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 26,
+      "def": 54,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 1,
+      "goals_conceded": 2,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "col_1990_palacios",
+    "name": "Alberto Palacios",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 20,
+      "pas": 36,
+      "dri": 28,
+      "def": 60,
+      "phy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "col_1990_gabriel",
+    "name": "Gabriel Gomez",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 50,
+      "dri": 44,
+      "def": 38,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "col_1990_perez",
+    "name": "William Perez",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 34,
+      "dri": 26,
+      "def": 58,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "col_1990_rodriguez",
+    "name": "Julio Cesar Rodriguez",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 48,
+      "pas": 44,
+      "dri": 46,
+      "def": 18,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_1990_mendoza",
+    "name": "Jorge Mendoza",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 36,
+      "pas": 44,
+      "dri": 40,
+      "def": 34,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "col_1990_hernandez",
+    "name": "Humberto Mendoza",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 34,
+      "dri": 26,
+      "def": 56,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "col_1990_guerrero",
+    "name": "Mauricio Guerrero",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 36,
+      "pas": 42,
+      "dri": 40,
+      "def": 32,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "col_1990_asprilla",
+    "name": "Faustino Asprilla",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 76,
+    "stats": {
+      "pac": 84,
+      "sho": 68,
+      "pas": 56,
+      "dri": 70,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "col_1990_campos",
+    "name": "Oscar Cordoba",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 34,
+      "dri": 24,
+      "def": 52,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "col_1990_gonzalez",
+    "name": "Alexis Mendoza",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 18,
+      "pas": 32,
+      "dri": 24,
+      "def": 56,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "col_1990_aristizabal",
+    "name": "Victor Aristizabal",
+    "nation": "Colombia",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 50,
+      "dri": 46,
+      "def": 28,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "rou_1990_lung",
+    "name": "Silviu Lung",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 1,
+      "goals_conceded": 6,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "rou_1990_rednic",
+    "name": "Mircea Rednic",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1990_andone",
+    "name": "Ioan Andone",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1990_popescu",
+    "name": "Gheorghe Popescu",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 42,
+      "pas": 70,
+      "dri": 60,
+      "def": 82,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "rou_1990_klein",
+    "name": "Anton Klein",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 40,
+      "dri": 30,
+      "def": 64,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "rou_1990_hagi",
+    "name": "Gheorghe Hagi",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 68,
+      "sho": 72,
+      "pas": 88,
+      "dri": 82,
+      "def": 40,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 3,
+      "progressive_passes": 50,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "rou_1990_lacatus",
+    "name": "Marius Lacatus",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 58,
+      "pas": 58,
+      "dri": 60,
+      "def": 28,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "rou_1990_sabau",
+    "name": "Ioan Sabau",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 56,
+      "dri": 50,
+      "def": 44,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1990_balint",
+    "name": "Rodion Camataru",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 66,
+      "pas": 50,
+      "dri": 54,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "rou_1990_raducioiu",
+    "name": "Florin Raducioiu",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 74,
+      "pas": 56,
+      "dri": 62,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 1,
+      "shots_on_target": 10,
+      "minutes_played": 360,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "rou_1990_rotariu",
+    "name": "Dorin Mateut",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 48,
+      "pas": 56,
+      "dri": 52,
+      "def": 42,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1990_moraru",
+    "name": "Bogdan Stelea",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 26,
+      "def": 56,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "rou_1990_balaci",
+    "name": "Ilie Balaci",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 42,
+      "pas": 50,
+      "dri": 46,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "rou_1990_iovan",
+    "name": "Stefan Iovan",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 38,
+      "dri": 28,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "rou_1990_petrescu",
+    "name": "Dan Petrescu",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 44,
+      "pas": 64,
+      "dri": 60,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "rou_1990_moldovan",
+    "name": "Viorel Moldovan",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 64,
+      "pas": 50,
+      "dri": 54,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "rou_1990_lupu",
+    "name": "Rodion Lupu",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 36,
+      "pas": 44,
+      "dri": 40,
+      "def": 34,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "rou_1990_mateut",
+    "name": "Eugen Troia",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 34,
+      "dri": 26,
+      "def": 58,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "rou_1990_timofte",
+    "name": "Daniel Timofte",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 40,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "rou_1990_pascalau",
+    "name": "Gavril Balint",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 48,
+      "dri": 50,
+      "def": 18,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "rou_1990_bordeianu",
+    "name": "Florin Prunea",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 34,
+      "dri": 24,
+      "def": 52,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "rou_1990_sandoi",
+    "name": "Costic\u0103 \u0218tef\u0103nescu",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 18,
+      "pas": 32,
+      "dri": 24,
+      "def": 56,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "rou_1990_negrila",
+    "name": "Mircea Negrila",
+    "nation": "Romania",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 42,
+      "dri": 38,
+      "def": 32,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1990_preud_homme",
+    "name": "Michel Preud'homme",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 48,
+      "dri": 34,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 71.0,
+      "clean_sheets": 3,
+      "goals_conceded": 4,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bel_1990_gerets",
+    "name": "Eric Gerets",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_1990_demol",
+    "name": "Stef Demol",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1990_gr\u00fcn",
+    "name": "Georges Gr\u00fcn",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 30,
+      "pas": 54,
+      "dri": 44,
+      "def": 76,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_1990_grun",
+    "name": "Philippe Albert",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 56,
+      "dri": 50,
+      "def": 76,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_1990_scifo",
+    "name": "Enzo Scifo",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 64,
+      "pas": 80,
+      "dri": 74,
+      "def": 50,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 42,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bel_1990_versavel",
+    "name": "Jan Versavel",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 42,
+      "pas": 52,
+      "dri": 46,
+      "def": 42,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bel_1990_vervoort",
+    "name": "Marc Vervoort",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 44,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bel_1990_ceulemans",
+    "name": "Jan Ceulemans",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 64,
+      "dri": 66,
+      "def": 30,
+      "phy": 74
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "bel_1990_de_wolf",
+    "name": "Frank De Wolf",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 56,
+      "dri": 56,
+      "def": 26,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "bel_1990_degryse",
+    "name": "Marc Degryse",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 62,
+      "dri": 58,
+      "def": 38,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1990_munaron",
+    "name": "Jean-Marie Munaron",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 72,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 26,
+      "def": 56,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1990_emmers",
+    "name": "Leo Emmers",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 34,
+      "dri": 26,
+      "def": 58,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1990_claesen",
+    "name": "Nico Claesen",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 54,
+      "dri": 54,
+      "def": 24,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bel_1990_smeets",
+    "name": "Danny Smeets",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 32,
+      "dri": 24,
+      "def": 58,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1990_nilis",
+    "name": "Luc Nilis",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 52,
+      "dri": 52,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bel_1990_emmers2",
+    "name": "Franky Vercauteren",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 54,
+      "dri": 48,
+      "def": 42,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1990_staelens",
+    "name": "Lorenzo Staelens",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 36,
+      "pas": 54,
+      "dri": 48,
+      "def": 64,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1990_wilmots",
+    "name": "Marc Wilmots",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 56,
+      "dri": 58,
+      "def": 30,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "bel_1990_nielsen",
+    "name": "Danny Nielsen",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 42,
+      "dri": 38,
+      "def": 32,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1990_bodart",
+    "name": "Gilbert Bodart",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 34,
+      "dri": 24,
+      "def": 52,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 1,
+      "goals_conceded": 3,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1990_kulas",
+    "name": "Michel Kulas",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 16,
+      "pas": 30,
+      "dri": 22,
+      "def": 54,
+      "phy": 48
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1990_vincke",
+    "name": "Josip Skoko",
+    "nation": "Belgium",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 44,
+      "pas": 44,
+      "dri": 44,
+      "def": 18,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "uru_1990_alvez",
+    "name": "Fernando Alvez",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 30,
+      "def": 60,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 65.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_1990_herrera",
+    "name": "Ruben Herrera",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 34,
+      "def": 64,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "uru_1990_gutierrez",
+    "name": "Eduardo Gutierrez",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 40,
+      "dri": 30,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "uru_1990_perdomo",
+    "name": "Jose Perdomo",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 66,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "uru_1990_dominguez",
+    "name": "Pedro Dominguez",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 38,
+      "dri": 28,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "uru_1990_francescoli",
+    "name": "Enzo Francescoli",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 80,
+      "dri": 78,
+      "def": 46,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 3,
+      "progressive_passes": 44,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_1990_alzamendi",
+    "name": "Antonio Alzamendi",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 58,
+      "dri": 56,
+      "def": 34,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 16,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "uru_1990_sosa",
+    "name": "Ruben Sosa",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 64,
+      "pas": 62,
+      "dri": 68,
+      "def": 28,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 2,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_1990_fonseca",
+    "name": "Daniel Fonseca",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 74,
+      "pas": 56,
+      "dri": 62,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "uru_1990_aguilera",
+    "name": "Carlos Aguilera",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 54,
+      "dri": 56,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "uru_1990_dorta",
+    "name": "Carlos Dorta",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 42,
+      "pas": 50,
+      "dri": 46,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "uru_1990_pereira",
+    "name": "Rodolfo Rodriguez",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 34,
+      "dri": 24,
+      "def": 52,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_1990_gutierrez2",
+    "name": "Hugo De Leon",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "uru_1990_ramos",
+    "name": "Wilson Ramos",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 42,
+      "dri": 38,
+      "def": 32,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1990_revelez",
+    "name": "Jorge Revelez",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 32,
+      "dri": 24,
+      "def": 56,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1990_bengoechea",
+    "name": "Pablo Bengoechea",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 54,
+      "pas": 48,
+      "dri": 50,
+      "def": 18,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "uru_1990_saralegui",
+    "name": "Carlos Saralegui",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 42,
+      "dri": 38,
+      "def": 30,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1990_de_leon",
+    "name": "Nelson De Leon",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 16,
+      "pas": 30,
+      "dri": 22,
+      "def": 54,
+      "phy": 48
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1990_olivera",
+    "name": "Ruben Olivera",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 40,
+      "dri": 38,
+      "def": 28,
+      "phy": 48
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1990_paz",
+    "name": "Fernando Paz",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 64,
+      "sho": 48,
+      "pas": 44,
+      "dri": 46,
+      "def": 18,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "uru_1990_soca",
+    "name": "Gustavo Soca",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 32,
+      "dri": 22,
+      "def": 50,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_1990_marchena",
+    "name": "Walter Machado",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 16,
+      "pas": 28,
+      "dri": 22,
+      "def": 52,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1990_lemos",
+    "name": "Jose Herrera",
+    "nation": "Uruguay",
+    "wc_year": 1990,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 30,
+      "pas": 40,
+      "dri": 36,
+      "def": 28,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  }
+]

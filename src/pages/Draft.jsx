@@ -1,6 +1,6 @@
 import { useLocation, useNavigate } from 'react-router-dom'
 import { useEffect, useState } from "react";
-import playersData from '../data/players.json'
+import playersData from '../data/players_2018.json'
 import players_2002 from '../data/players_2002.json'
 import players_2006 from '../data/players_2006.json'
 import players_2010 from '../data/players_2010.json'
@@ -8,8 +8,11 @@ import players_2014 from '../data/players_2014.json'
 import players_1994 from '../data/players_1994.json'
 import players_1998 from '../data/players_1998.json'
 import players_2022 from '../data/players_2022.json'
+import players_1990 from '../data/players_1990.json'
+import players_1986 from '../data/players_1986.json'
+import players_1982 from '../data/players_1982.json'
 
-const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014, ...players_1994, ...players_1998, ...players_2022]
+const allPlayersData = [...playersData, ...players_2002, ...players_2006, ...players_2010, ...players_2014, ...players_1994, ...players_1998, ...players_2022, ...players_1990, ...players_1986, ...players_1982]
 const allCombos = [...new Set(allPlayersData.map(p => `${p.nation}_${p.wc_year}`))]
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
@@ -288,20 +291,24 @@ export default function Draft() {
                         <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>YOUR XI · {selectedPlayers.length} / 11</p>
                         <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>{11 - round} ROUNDS REMAINING</p>
                     </div>
-                    <div className="grid grid-cols-11 gap-2">
+                    <div className="flex gap-2 overflow-x-auto pb-1">
                         {positions.map((pos, i) => {
                             const filled = selectedPlayers[i]
                             const isCurrent = i === round
                             return (
-                                <div key={i} className="flex flex-col items-center rounded-xl p-2 text-center" style={{
+                                <div key={i} className="flex flex-col items-center rounded-xl p-2 text-center flex-shrink-0" style={{
                                     backgroundColor: '#111827',
                                     border: `1px solid ${isCurrent ? '#F5C518' : filled ? '#ffffff15' : '#ffffff08'}`,
                                     minHeight: '80px',
+                                    minWidth: '72px',
                                     boxShadow: isCurrent ? '0 0 15px #F5C51825' : 'none'
                                 }}>
                                     <p style={{color: isCurrent ? '#F5C518' : '#1f2937', fontSize: '0.6rem'}} className="font-bold mb-1">{isCurrent ? pos : filled ? pos : '?'}</p>
                                     {filled ? (
-                                        <p className="font-bold text-white" style={{fontSize: '0.6rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
+                                        <>
+                                            <p className="font-bold text-white" style={{fontSize: '0.6rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
+                                            <p style={{color: '#4b5563', fontSize: '0.5rem', marginTop: '2px'}}>{filled.nation.split(' ').slice(-1)[0]} '{String(filled.wc_year).slice(2)}</p>
+                                        </>
                                     ) : isCurrent ? (
                                         <p className="font-black" style={{color: '#F5C51860', fontSize: '0.8rem'}}>{pos}</p>
                                     ) : (

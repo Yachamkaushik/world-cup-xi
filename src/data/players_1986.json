@@ -1,0 +1,8536 @@
+[
+  {
+    "id": "arg_1986_pumpido",
+    "name": "Nery Pumpido",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 71.0,
+      "clean_sheets": 4,
+      "goals_conceded": 5,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "arg_1986_ruggeri",
+    "name": "Oscar Ruggeri",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 58,
+      "dri": 50,
+      "def": 84,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "arg_1986_cuciuffo",
+    "name": "Jose Cuciuffo",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 70,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1986_brown",
+    "name": "Jose Luis Brown",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1986_olarticoechea",
+    "name": "Julio Olarticoechea",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1986_giusti",
+    "name": "Ricardo Giusti",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 36,
+      "pas": 54,
+      "dri": 48,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "arg_1986_maradona",
+    "name": "Diego Maradona",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 97,
+    "stats": {
+      "pac": 74,
+      "sho": 86,
+      "pas": 92,
+      "dri": 96,
+      "def": 50,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 32,
+      "assists": 6,
+      "progressive_passes": 66,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "arg_1986_burruchaga",
+    "name": "Jorge Burruchaga",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 62,
+      "pas": 78,
+      "dri": 72,
+      "def": 50,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 5,
+      "progressive_passes": 44,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "arg_1986_valdano",
+    "name": "Jorge Valdano",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 80,
+      "pas": 64,
+      "dri": 72,
+      "def": 26,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 4,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "arg_1986_enrique",
+    "name": "Jorge Enrique",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 72,
+      "sho": 60,
+      "pas": 56,
+      "dri": 58,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "arg_1986_batista",
+    "name": "Sergio Batista",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 62,
+      "dri": 54,
+      "def": 56,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "arg_1986_goycochea",
+    "name": "Sergio Goycochea",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 28,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1986_clausen",
+    "name": "Nestor Clausen",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 34,
+      "def": 64,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "arg_1986_tapia",
+    "name": "Carlos Tapia",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 40,
+      "pas": 48,
+      "dri": 44,
+      "def": 38,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1986_trobbiani",
+    "name": "Marcelo Trobbiani",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 50,
+      "dri": 48,
+      "def": 28,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1986_pasculli",
+    "name": "Pedro Pasculli",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 62,
+      "pas": 50,
+      "dri": 54,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "arg_1986_garre",
+    "name": "Oscar Garre",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 38,
+      "dri": 28,
+      "def": 64,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1986_borghi",
+    "name": "Claudio Borghi",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 42,
+      "pas": 50,
+      "dri": 46,
+      "def": 34,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "arg_1986_calderon",
+    "name": "Gabriel Calderon",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 60,
+      "pas": 54,
+      "dri": 56,
+      "def": 22,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "arg_1986_alzamendi",
+    "name": "Luis Islas",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 21,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 40,
+      "dri": 38,
+      "def": 28,
+      "phy": 48
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1986_islas",
+    "name": "Luis Islas",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 6,
+      "pas": 32,
+      "dri": 22,
+      "def": 50,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "arg_1986_trossero",
+    "name": "Emilio Trossero",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 36,
+      "dri": 26,
+      "def": 62,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "arg_1986_morete",
+    "name": "Daniel Morete",
+    "nation": "Argentina",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 5,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 30,
+      "pas": 40,
+      "dri": 36,
+      "def": 26,
+      "phy": 48
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "wger_1986_schumacher",
+    "name": "Harald Schumacher",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 54,
+      "sho": 10,
+      "pas": 46,
+      "dri": 32,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 3,
+      "goals_conceded": 6,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1986_brehme",
+    "name": "Andreas Brehme",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 52,
+      "pas": 68,
+      "dri": 64,
+      "def": 78,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1986_forster_k",
+    "name": "Karl-Heinz Forster",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 54,
+      "dri": 44,
+      "def": 84,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 14,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1986_jakobs",
+    "name": "Ditmar Jakobs",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 48,
+      "dri": 38,
+      "def": 76,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "wger_1986_briegel",
+    "name": "Hans-Peter Briegel",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 40,
+      "pas": 60,
+      "dri": 54,
+      "def": 76,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1986_matthaeus",
+    "name": "Lothar Matthaus",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 90,
+    "stats": {
+      "pac": 72,
+      "sho": 76,
+      "pas": 84,
+      "dri": 78,
+      "def": 66,
+      "phy": 82
+    },
+    "wc_stats": {
+      "key_passes": 26,
+      "assists": 4,
+      "progressive_passes": 58,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "wger_1986_magath",
+    "name": "Felix Magath",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 64,
+      "dri": 58,
+      "def": 48,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "wger_1986_berthold",
+    "name": "Thomas Berthold",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 34,
+      "pas": 56,
+      "dri": 50,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "wger_1986_voeller",
+    "name": "Rudi Voller",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 80,
+      "pas": 60,
+      "dri": 72,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 3,
+      "shots_on_target": 16,
+      "minutes_played": 630,
+      "goals_per90": 0.86
+    }
+  },
+  {
+    "id": "wger_1986_allofs",
+    "name": "Klaus Allofs",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 74,
+      "pas": 58,
+      "dri": 62,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 13,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "wger_1986_littbarski",
+    "name": "Pierre Littbarski",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 64,
+      "pas": 76,
+      "dri": 74,
+      "def": 48,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 2,
+      "progressive_passes": 38,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "wger_1986_immel",
+    "name": "Eike Immel",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 40,
+      "dri": 26,
+      "def": 62,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "wger_1986_rolff",
+    "name": "Wolfgang Rolff",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 48,
+      "dri": 40,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "wger_1986_eder",
+    "name": "Klaus Eder",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 42,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "wger_1986_forster_b",
+    "name": "Bernd Forster",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 46,
+      "dri": 36,
+      "def": 76,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "wger_1986_rummenigge",
+    "name": "Karl-Heinz Rummenigge",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 2,
+    "base_rating": 88,
+    "stats": {
+      "pac": 76,
+      "sho": 84,
+      "pas": 64,
+      "dri": 74,
+      "def": 26,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "wger_1986_miller",
+    "name": "Norbert Miller",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 40,
+      "pas": 48,
+      "dri": 44,
+      "def": 38,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "wger_1986_thon",
+    "name": "Olaf Thon",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 70,
+      "dri": 64,
+      "def": 54,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "wger_1986_rahn",
+    "name": "Frank Mill",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 48,
+      "dri": 54,
+      "def": 20,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "wger_1986_kircher",
+    "name": "Rudiger Kircher",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 40,
+      "dri": 38,
+      "def": 28,
+      "phy": 48
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "wger_1986_aumann",
+    "name": "Raimond Aumann",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 74,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 24,
+      "def": 58,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "wger_1986_frontzeck",
+    "name": "Michael Frontzeck",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 68,
+      "sho": 24,
+      "pas": 40,
+      "dri": 36,
+      "def": 58,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "wger_1986_kuntz",
+    "name": "Stefan Kuntz",
+    "nation": "West Germany",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 68,
+      "pas": 50,
+      "dri": 54,
+      "def": 20,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "fra_1986_bats",
+    "name": "Joel Bats",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 66,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "fra_1986_amoros",
+    "name": "Manuel Amoros",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 36,
+      "pas": 58,
+      "dri": 54,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1986_bossis",
+    "name": "Maxime Bossis",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 52,
+      "dri": 44,
+      "def": 78,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1986_battiston",
+    "name": "Patrick Battiston",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 50,
+      "dri": 42,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "fra_1986_ayache",
+    "name": "William Ayache",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 68,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "fra_1986_fernandez",
+    "name": "Luis Fernandez",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 64,
+      "dri": 58,
+      "def": 60,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1986_platini",
+    "name": "Michel Platini",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 94,
+    "stats": {
+      "pac": 70,
+      "sho": 82,
+      "pas": 92,
+      "dri": 86,
+      "def": 46,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 30,
+      "assists": 5,
+      "progressive_passes": 62,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1986_giresse",
+    "name": "Alain Giresse",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 80,
+      "dri": 72,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "fra_1986_stopyra",
+    "name": "Yannick Stopyra",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 70,
+      "pas": 54,
+      "dri": 60,
+      "def": 22,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "fra_1986_tigana",
+    "name": "Jean Tigana",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 84,
+    "stats": {
+      "pac": 72,
+      "sho": 52,
+      "pas": 72,
+      "dri": 66,
+      "def": 60,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 1,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "fra_1986_rocheteau",
+    "name": "Dominique Rocheteau",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 76,
+      "sho": 68,
+      "pas": 60,
+      "dri": 68,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 2,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.25
+    }
+  },
+  {
+    "id": "fra_1986_rust",
+    "name": "Bruno Martini",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 74,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 24,
+      "def": 56,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_1986_tusseau",
+    "name": "Thierry Tusseau",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 38,
+      "dri": 28,
+      "def": 60,
+      "phy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_1986_ferreri",
+    "name": "Maxime Ferreri",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 40,
+      "pas": 48,
+      "dri": 44,
+      "def": 36,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "fra_1986_bibard",
+    "name": "Patrick Bibard",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 30,
+      "dri": 22,
+      "def": 56,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "fra_1986_bellone",
+    "name": "Bruno Bellone",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 74,
+      "sho": 62,
+      "pas": 52,
+      "dri": 56,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "fra_1986_brisson",
+    "name": "Bernard Brisson",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 42,
+      "dri": 38,
+      "def": 30,
+      "phy": 48
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "fra_1986_rougier",
+    "name": "Patrick Rougier",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 28,
+      "dri": 20,
+      "def": 54,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "fra_1986_papin",
+    "name": "Jean-Pierre Papin",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 80,
+      "pas": 56,
+      "dri": 64,
+      "def": 22,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "fra_1986_vercruysse",
+    "name": "Peter Vercruysse",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 40,
+      "dri": 38,
+      "def": 28,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "fra_1986_olmeta",
+    "name": "Pascal Olmeta",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 46,
+      "sho": 6,
+      "pas": 32,
+      "dri": 22,
+      "def": 50,
+      "phy": 50
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "fra_1986_specht",
+    "name": "Francois Specht",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 14,
+      "pas": 26,
+      "dri": 20,
+      "def": 52,
+      "phy": 44
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "fra_1986_xuereb",
+    "name": "Daniel Xuereb",
+    "nation": "France",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 46,
+      "dri": 48,
+      "def": 18,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_1986_carlos",
+    "name": "Carlos",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 64,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1986_josimar",
+    "name": "Josimar",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 44,
+      "pas": 60,
+      "dri": 56,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1986_julio_cesar",
+    "name": "Julio Cesar",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1986_edinho",
+    "name": "Edinho",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bra_1986_branco",
+    "name": "Branco",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 42,
+      "pas": 60,
+      "dri": 54,
+      "def": 72,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1986_alemao",
+    "name": "Alemao",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 62,
+      "dri": 56,
+      "def": 50,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1986_zico",
+    "name": "Zico",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 92,
+    "stats": {
+      "pac": 68,
+      "sho": 80,
+      "pas": 88,
+      "dri": 84,
+      "def": 40,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 4,
+      "progressive_passes": 48,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1986_falcao",
+    "name": "Falcao",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 88,
+    "stats": {
+      "pac": 66,
+      "sho": 68,
+      "pas": 84,
+      "dri": 76,
+      "def": 54,
+      "phy": 68
+    },
+    "wc_stats": {
+      "key_passes": 20,
+      "assists": 2,
+      "progressive_passes": 44,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1986_careca",
+    "name": "Careca",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 88,
+    "stats": {
+      "pac": 78,
+      "sho": 88,
+      "pas": 62,
+      "dri": 78,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 14,
+      "minutes_played": 450,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "bra_1986_socrates",
+    "name": "Socrates",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 88,
+    "stats": {
+      "pac": 66,
+      "sho": 70,
+      "pas": 82,
+      "dri": 76,
+      "def": 42,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 2,
+      "progressive_passes": 40,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bra_1986_muller",
+    "name": "Muller",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 72,
+      "pas": 58,
+      "dri": 66,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "bra_1986_acacio",
+    "name": "Acacio",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 6,
+      "pas": 32,
+      "dri": 22,
+      "def": 50,
+      "phy": 50
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1986_mozer",
+    "name": "Carlos Mozer",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bra_1986_elzo",
+    "name": "Elzo",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 42,
+      "pas": 52,
+      "dri": 46,
+      "def": 38,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bra_1986_junior",
+    "name": "Junior",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 80,
+    "stats": {
+      "pac": 74,
+      "sho": 48,
+      "pas": 60,
+      "dri": 56,
+      "def": 52,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bra_1986_bebeto",
+    "name": "Bebeto",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 78,
+      "sho": 74,
+      "pas": 60,
+      "dri": 68,
+      "def": 24,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bra_1986_mazinho",
+    "name": "Mazinho",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 36,
+      "pas": 52,
+      "dri": 46,
+      "def": 42,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bra_1986_edson",
+    "name": "Edson",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 16,
+      "pas": 28,
+      "dri": 20,
+      "def": 58,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1986_silas",
+    "name": "Silas",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 42,
+      "pas": 48,
+      "dri": 44,
+      "def": 36,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1986_casagrande",
+    "name": "Walter Casagrande",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 62,
+      "pas": 48,
+      "dri": 52,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bra_1986_taffarel",
+    "name": "Taffarel",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 76,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 38,
+      "dri": 24,
+      "def": 58,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bra_1986_claudio",
+    "name": "Claudio Paim",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 14,
+      "pas": 26,
+      "dri": 18,
+      "def": 52,
+      "phy": 44
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bra_1986_valdo",
+    "name": "Valdo",
+    "nation": "Brazil",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 66,
+      "dri": 60,
+      "def": 44,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1986_pfaff",
+    "name": "Jean-Marie Pfaff",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 88,
+    "stats": {
+      "pac": 56,
+      "sho": 12,
+      "pas": 50,
+      "dri": 36,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "save_pct": 73.0,
+      "clean_sheets": 4,
+      "goals_conceded": 3,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "bel_1986_gerets",
+    "name": "Eric Gerets",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 50,
+      "dri": 42,
+      "def": 72,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "bel_1986_de_wolf",
+    "name": "Frank De Wolf",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1986_grun",
+    "name": "Georges Gr\u00fcn",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 48,
+      "dri": 40,
+      "def": 74,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_1986_verhoven",
+    "name": "Michel Renquin",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 34,
+      "def": 66,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bel_1986_scifo",
+    "name": "Enzo Scifo",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 76,
+      "dri": 70,
+      "def": 46,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 16,
+      "assists": 2,
+      "progressive_passes": 36,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "bel_1986_vercauteren",
+    "name": "Franky Vercauteren",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 60,
+      "dri": 56,
+      "def": 40,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "bel_1986_vandenbergh",
+    "name": "Erwin Vandenbergh",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 54,
+      "pas": 56,
+      "dri": 56,
+      "def": 26,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1986_ceulemans",
+    "name": "Jan Ceulemans",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 74,
+      "pas": 64,
+      "dri": 64,
+      "def": 28,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 3,
+      "shots_on_target": 12,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "bel_1986_nico_claesen",
+    "name": "Nico Claesen",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 56,
+      "pas": 52,
+      "dri": 52,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 4,
+      "assists": 1,
+      "shots_on_target": 10,
+      "minutes_played": 450,
+      "goals_per90": 0.8
+    }
+  },
+  {
+    "id": "bel_1986_degryse",
+    "name": "Marc Degryse",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 56,
+      "pas": 58,
+      "dri": 56,
+      "def": 36,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bel_1986_preud_homme",
+    "name": "Michel Preud'homme",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 80,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 28,
+      "def": 62,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1986_baecke",
+    "name": "Luc Millecamps",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 28,
+      "dri": 20,
+      "def": 54,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1986_vervoort",
+    "name": "Marc Vervoort",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 50,
+      "dri": 44,
+      "def": 40,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1986_broos",
+    "name": "Hugo Broos",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 36,
+      "dri": 26,
+      "def": 62,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bel_1986_nilis",
+    "name": "Luc Nilis",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 48,
+      "dri": 50,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "bel_1986_emmers",
+    "name": "Leo Emmers",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 28,
+      "dri": 20,
+      "def": 52,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1986_desmet",
+    "name": "Stef Desmet",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 30,
+      "pas": 38,
+      "dri": 34,
+      "def": 26,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1986_wilmots",
+    "name": "Marc Wilmots",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 60,
+      "pas": 50,
+      "dri": 52,
+      "def": 24,
+      "phy": 64
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bel_1986_demol",
+    "name": "Stef Demol",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 20,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 30,
+      "dri": 22,
+      "def": 60,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1986_bodart",
+    "name": "Gilbert Bodart",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 30,
+      "dri": 20,
+      "def": 50,
+      "phy": 50
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bel_1986_clijsters",
+    "name": "Leo Clijsters",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 34,
+      "pas": 40,
+      "dri": 38,
+      "def": 28,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bel_1986_smeets",
+    "name": "Danny Smeets",
+    "nation": "Belgium",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 26,
+      "dri": 18,
+      "def": 52,
+      "phy": 44
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_1986_larios",
+    "name": "Pablo Larios",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 50,
+      "sho": 10,
+      "pas": 42,
+      "dri": 28,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 3,
+      "goals_conceded": 3,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "mex_1986_amador",
+    "name": "Fernando Quirarte",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 44,
+      "dri": 34,
+      "def": 66,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1986_trejo",
+    "name": "Agustin Manzo",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 36,
+      "dri": 26,
+      "def": 62,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mex_1986_servin",
+    "name": "Guadalupe Servin",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 32,
+      "dri": 22,
+      "def": 60,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mex_1986_felix",
+    "name": "Felix Cruz",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 30,
+      "dri": 22,
+      "def": 58,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mex_1986_negrete",
+    "name": "Manuel Negrete",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 60,
+      "dri": 58,
+      "def": 36,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "mex_1986_espana",
+    "name": "Enrique Espana",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 40,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "mex_1986_flores",
+    "name": "Alberto Flores",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 38,
+      "pas": 48,
+      "dri": 42,
+      "def": 36,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mex_1986_sanchez",
+    "name": "Hugo Sanchez",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 90,
+    "stats": {
+      "pac": 78,
+      "sho": 90,
+      "pas": 62,
+      "dri": 76,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 3,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "mex_1986_quirarte",
+    "name": "Carlos Hermosillo",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 62,
+      "pas": 50,
+      "dri": 54,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "mex_1986_jara",
+    "name": "Javier Jara",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 68,
+      "sho": 52,
+      "pas": 46,
+      "dri": 48,
+      "def": 18,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "mex_1986_campos",
+    "name": "Jorge Campos",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 78,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 48,
+      "dri": 42,
+      "def": 62,
+      "phy": 62
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_1986_chavez",
+    "name": "Miguel Chaves",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 28,
+      "dri": 20,
+      "def": 54,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1986_servin2",
+    "name": "Luis Flores",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 32,
+      "pas": 38,
+      "dri": 34,
+      "def": 24,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1986_tena",
+    "name": "Ignacio Tena",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 26,
+      "dri": 18,
+      "def": 52,
+      "phy": 44
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1986_espinoza",
+    "name": "Jose Espinoza",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 48,
+      "pas": 44,
+      "dri": 46,
+      "def": 18,
+      "phy": 52
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_1986_davino",
+    "name": "Salvador Davino",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 34,
+      "dri": 30,
+      "def": 22,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1986_aguilar",
+    "name": "Jose Aguilar",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 24,
+      "dri": 16,
+      "def": 50,
+      "phy": 42
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_1986_galindo",
+    "name": "Juan Galindo",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 30,
+      "pas": 36,
+      "dri": 32,
+      "def": 24,
+      "phy": 42
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mex_1986_aguirre",
+    "name": "Antonio Aguirre",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 44,
+      "pas": 42,
+      "dri": 42,
+      "def": 16,
+      "phy": 50
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mex_1986_briones",
+    "name": "Arsenio Briones",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 42,
+      "sho": 6,
+      "pas": 28,
+      "dri": 20,
+      "def": 46,
+      "phy": 46
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_1986_garcia",
+    "name": "Jose Luis Garcia",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 22,
+      "dri": 16,
+      "def": 50,
+      "phy": 40
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mex_1986_espinosa",
+    "name": "Javier Espinosa",
+    "nation": "Mexico",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 34,
+      "dri": 30,
+      "def": 22,
+      "phy": 42
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1986_zubizarreta",
+    "name": "Andoni Zubizarreta",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 42,
+      "dri": 28,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 69.0,
+      "clean_sheets": 3,
+      "goals_conceded": 4,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "esp_1986_tomas",
+    "name": "Tomas",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 40,
+      "dri": 30,
+      "def": 66,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_1986_camacho",
+    "name": "Jose Antonio Camacho",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "esp_1986_sanchis",
+    "name": "Martin Vasquez",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 36,
+      "def": 70,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1986_julio_alberto",
+    "name": "Julio Alberto",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 68,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1986_victor",
+    "name": "Victor",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 56,
+      "dri": 52,
+      "def": 44,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1986_carrasco",
+    "name": "Francisco Carrasco",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 50,
+      "pas": 60,
+      "dri": 56,
+      "def": 40,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "esp_1986_michel",
+    "name": "Michel",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 66,
+      "pas": 74,
+      "dri": 68,
+      "def": 46,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 1,
+      "progressive_passes": 32,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1986_butrageno",
+    "name": "Emilio Butragueno",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 86,
+    "stats": {
+      "pac": 74,
+      "sho": 82,
+      "pas": 62,
+      "dri": 70,
+      "def": 24,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 5,
+      "assists": 2,
+      "shots_on_target": 14,
+      "minutes_played": 540,
+      "goals_per90": 0.83
+    }
+  },
+  {
+    "id": "esp_1986_martin",
+    "name": "Julio Salinas",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 66,
+      "pas": 54,
+      "dri": 58,
+      "def": 20,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_1986_gordillo",
+    "name": "Rafael Gordillo",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 46,
+      "pas": 60,
+      "dri": 56,
+      "def": 50,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "esp_1986_arconada",
+    "name": "Luis Arconada",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 80,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 38,
+      "dri": 24,
+      "def": 62,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_1986_gallego",
+    "name": "Andoni Goikoetxea",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 40,
+      "dri": 30,
+      "def": 68,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_1986_eloy",
+    "name": "Eloy",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1986_clos",
+    "name": "Ramon Maria Caldere",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 50,
+      "dri": 52,
+      "def": 20,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "esp_1986_bakero",
+    "name": "Jose Mari Bakero",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 62,
+      "dri": 56,
+      "def": 40,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "esp_1986_vazquez",
+    "name": "Martin Vazquez",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 17,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 38,
+      "dri": 28,
+      "def": 64,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1986_senor",
+    "name": "Juan Antonio Senor",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 32,
+      "pas": 40,
+      "dri": 36,
+      "def": 26,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1986_rincon",
+    "name": "Juan Carlos",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 44,
+      "pas": 40,
+      "dri": 40,
+      "def": 16,
+      "phy": 48
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "esp_1986_hierro",
+    "name": "Fernando Hierro",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 60,
+      "dri": 52,
+      "def": 72,
+      "phy": 70
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "esp_1986_garcia",
+    "name": "Jose Garcia",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 6,
+      "pas": 26,
+      "dri": 18,
+      "def": 46,
+      "phy": 44
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "esp_1986_alkorta",
+    "name": "Rafael Alkorta",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 34,
+      "dri": 24,
+      "def": 64,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "esp_1986_uralde",
+    "name": "Quique Setien",
+    "nation": "Spain",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 26,
+      "pas": 42,
+      "dri": 36,
+      "def": 18,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "eng_1986_shilton",
+    "name": "Peter Shilton",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 86,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 32,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 3,
+      "goals_conceded": 6,
+      "minutes_played": 630
+    }
+  },
+  {
+    "id": "eng_1986_stevens",
+    "name": "Gary Stevens",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 72,
+      "sho": 30,
+      "pas": 50,
+      "dri": 44,
+      "def": 70,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1986_fenwick",
+    "name": "Terry Fenwick",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 34,
+      "def": 72,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_1986_butcher",
+    "name": "Terry Butcher",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 82,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1986_sansom",
+    "name": "Kenny Sansom",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 48,
+      "dri": 42,
+      "def": 70,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1986_hoddle",
+    "name": "Glenn Hoddle",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 86,
+    "stats": {
+      "pac": 66,
+      "sho": 66,
+      "pas": 88,
+      "dri": 78,
+      "def": 42,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 2,
+      "progressive_passes": 50,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "eng_1986_reid",
+    "name": "Peter Reid",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 62,
+      "dri": 54,
+      "def": 58,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1986_wilkins",
+    "name": "Ray Wilkins",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 80,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 74,
+      "dri": 62,
+      "def": 54,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "eng_1986_hateley",
+    "name": "Mark Hateley",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 70,
+      "pas": 52,
+      "dri": 54,
+      "def": 22,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "eng_1986_lineker",
+    "name": "Gary Lineker",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 78,
+      "sho": 88,
+      "pas": 60,
+      "dri": 70,
+      "def": 26,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 2,
+      "shots_on_target": 16,
+      "minutes_played": 630,
+      "goals_per90": 0.86
+    }
+  },
+  {
+    "id": "eng_1986_waddle",
+    "name": "Chris Waddle",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 60,
+      "pas": 70,
+      "dri": 74,
+      "def": 36,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 14,
+      "assists": 2,
+      "progressive_passes": 32,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "eng_1986_woods",
+    "name": "Chris Woods",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 22,
+      "def": 58,
+      "phy": 58
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1986_martin",
+    "name": "Alvin Martin",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 42,
+      "dri": 34,
+      "def": 64,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1986_steven",
+    "name": "Trevor Steven",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 52,
+      "pas": 62,
+      "dri": 60,
+      "def": 42,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "eng_1986_hodge",
+    "name": "Steve Hodge",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 52,
+      "dri": 48,
+      "def": 40,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1986_beardsley",
+    "name": "Peter Beardsley",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 82,
+    "stats": {
+      "pac": 74,
+      "sho": 68,
+      "pas": 68,
+      "dri": 72,
+      "def": 28,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "eng_1986_robson",
+    "name": "Bryan Robson",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 86,
+    "stats": {
+      "pac": 70,
+      "sho": 58,
+      "pas": 72,
+      "dri": 64,
+      "def": 62,
+      "phy": 72
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1986_wright",
+    "name": "Mark Wright",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 18,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 28,
+      "pas": 48,
+      "dri": 40,
+      "def": 74,
+      "phy": 70
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "eng_1986_regis",
+    "name": "Cyrille Regis",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 58,
+      "pas": 44,
+      "dri": 48,
+      "def": 18,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "eng_1986_webb",
+    "name": "Neil Webb",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 54,
+      "dri": 48,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "eng_1986_seaman",
+    "name": "David Seaman",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 40,
+      "dri": 26,
+      "def": 60,
+      "phy": 60
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "eng_1986_pallister",
+    "name": "Gary Pallister",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 70,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "eng_1986_Hodge2",
+    "name": "Stuart Pearce",
+    "nation": "England",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 36,
+      "pas": 50,
+      "dri": 44,
+      "def": 68,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mar_1986_zaki",
+    "name": "Badou Zaki",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 80,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 64,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 70.0,
+      "clean_sheets": 3,
+      "goals_conceded": 1,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "mar_1986_lamriss",
+    "name": "Khalid Lamriss",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 40,
+      "dri": 30,
+      "def": 62,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mar_1986_dolmy",
+    "name": "Lahcen Abrami",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 18,
+      "pas": 34,
+      "dri": 24,
+      "def": 58,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mar_1986_el_hadrioui",
+    "name": "Mahmoud El Hadrioui",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 32,
+      "def": 66,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mar_1986_el_biyaz",
+    "name": "Lahcen El Biyaz",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 30,
+      "dri": 20,
+      "def": 58,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mar_1986_timoumi",
+    "name": "Mohammed Timoumi",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 62,
+      "dri": 58,
+      "def": 44,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mar_1986_krimau",
+    "name": "Abdelmajid Krimau",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 38,
+      "pas": 48,
+      "dri": 44,
+      "def": 36,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mar_1986_bouderbala",
+    "name": "Aziz Bouderbala",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 58,
+      "dri": 56,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "mar_1986_merry",
+    "name": "Abderrazak Merry",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 50,
+      "dri": 54,
+      "def": 20,
+      "phy": 54
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 360,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "mar_1986_el_khatabi",
+    "name": "Mohammed El Khatabi",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 48,
+      "pas": 44,
+      "dri": 48,
+      "def": 18,
+      "phy": 50
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "mar_1986_el_haddaoui",
+    "name": "Mohammed El Haddaoui",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 36,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "mar_1986_essoumaila",
+    "name": "Essoumaila",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 30,
+      "dri": 18,
+      "def": 50,
+      "phy": 48
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mar_1986_khalifa",
+    "name": "Khalifa Amar",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 24,
+      "dri": 16,
+      "def": 52,
+      "phy": 44
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mar_1986_metoui",
+    "name": "Youssef Metoui",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 36,
+      "pas": 46,
+      "dri": 42,
+      "def": 32,
+      "phy": 48
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mar_1986_naybet",
+    "name": "Noureddine Naybet",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 40,
+      "dri": 30,
+      "def": 64,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "mar_1986_khairi",
+    "name": "Omar Khairi",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 42,
+      "pas": 40,
+      "dri": 40,
+      "def": 16,
+      "phy": 46
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mar_1986_laarabi",
+    "name": "Mustapha Laarabi",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 30,
+      "pas": 36,
+      "dri": 32,
+      "def": 22,
+      "phy": 42
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mar_1986_bouyahyaoui",
+    "name": "Mohamed Bouyahyaoui",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 22,
+      "dri": 14,
+      "def": 50,
+      "phy": 40
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mar_1986_elmaati",
+    "name": "Ibrahim El Maati",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 32,
+      "dri": 28,
+      "def": 20,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "mar_1986_el_azhar",
+    "name": "Mohammed El Azhar",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 38,
+      "dri": 38,
+      "def": 16,
+      "phy": 44
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "mar_1986_el_moubarki",
+    "name": "Driss El Moubarki",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 26,
+      "dri": 16,
+      "def": 44,
+      "phy": 42
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mar_1986_el_filali",
+    "name": "Mohammed El Filali",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 20,
+      "dri": 12,
+      "def": 48,
+      "phy": 38
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "mar_1986_el_ansari",
+    "name": "Aziz El Ansari",
+    "nation": "Morocco",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 26,
+      "pas": 30,
+      "dri": 26,
+      "def": 18,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "den_1986_rasmussen",
+    "name": "Troels Rasmussen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 22,
+      "def": 56,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 67.0,
+      "clean_sheets": 2,
+      "goals_conceded": 6,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "den_1986_andersen",
+    "name": "Ivan Nielsen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 40,
+      "dri": 30,
+      "def": 64,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 4,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "den_1986_busk",
+    "name": "Soren Busk",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 32,
+      "def": 68,
+      "phy": 60
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_1986_olsen_m",
+    "name": "Morten Olsen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 72,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_1986_bertelsen",
+    "name": "John Bertelsen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 30,
+      "dri": 20,
+      "def": 60,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "den_1986_lerby",
+    "name": "Soren Lerby",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 62,
+      "dri": 56,
+      "def": 50,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 20,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "den_1986_elkjaer",
+    "name": "Jesper Olsen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 48,
+      "pas": 58,
+      "dri": 56,
+      "def": 38,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 0,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "den_1986_brylle",
+    "name": "Jan Brylle",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 36,
+      "pas": 46,
+      "dri": 42,
+      "def": 32,
+      "phy": 48
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "den_1986_elkjaer_larsen",
+    "name": "Preben Elkjaer",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 86,
+    "stats": {
+      "pac": 78,
+      "sho": 80,
+      "pas": 60,
+      "dri": 70,
+      "def": 24,
+      "phy": 72
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 2,
+      "shots_on_target": 16,
+      "minutes_played": 450,
+      "goals_per90": 1.2
+    }
+  },
+  {
+    "id": "den_1986_michael_laudrup",
+    "name": "Michael Laudrup",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 90,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 86,
+      "dri": 84,
+      "def": 40,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 22,
+      "assists": 4,
+      "progressive_passes": 50,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "den_1986_molby",
+    "name": "Jan Molby",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 80,
+    "stats": {
+      "pac": 62,
+      "sho": 64,
+      "pas": 76,
+      "dri": 68,
+      "def": 46,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 6,
+      "assists": 1,
+      "shots_on_target": 14,
+      "minutes_played": 270,
+      "goals_per90": 2.0
+    }
+  },
+  {
+    "id": "den_1986_schmeichel",
+    "name": "Peter Schmeichel",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 84,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 28,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "den_1986_nielsen",
+    "name": "Henning Nielsen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 28,
+      "dri": 18,
+      "def": 58,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "den_1986_arnesen",
+    "name": "Frank Arnesen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 50,
+      "pas": 58,
+      "dri": 56,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "den_1986_berggreen",
+    "name": "Klaus Berggreen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 74,
+    "stats": {
+      "pac": 70,
+      "sho": 44,
+      "pas": 50,
+      "dri": 50,
+      "def": 30,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "den_1986_simonsen",
+    "name": "Allan Simonsen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 76,
+      "pas": 58,
+      "dri": 64,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 270,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "den_1986_olsen_j",
+    "name": "Jesper Olsen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 46,
+      "pas": 56,
+      "dri": 54,
+      "def": 36,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "den_1986_frimann",
+    "name": "Thomas Frimann",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 24,
+      "dri": 16,
+      "def": 54,
+      "phy": 44
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "den_1986_frandsen",
+    "name": "Lars Frandsen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 32,
+      "dri": 28,
+      "def": 20,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "den_1986_johansen",
+    "name": "Kim Johansen",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 62,
+      "sho": 40,
+      "pas": 38,
+      "dri": 38,
+      "def": 16,
+      "phy": 44
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "den_1986_gronkjaer",
+    "name": "Henrik Gronkjaer",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 26,
+      "dri": 16,
+      "def": 44,
+      "phy": 42
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "den_1986_heintze",
+    "name": "Jan Heintze",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 18,
+      "pas": 30,
+      "dri": 22,
+      "def": 56,
+      "phy": 48
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "den_1986_hogh",
+    "name": "Erik Hogh",
+    "nation": "Denmark",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 32,
+      "dri": 28,
+      "def": 20,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ussr_1986_dasayev",
+    "name": "Rinat Dasayev",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 84,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 46,
+      "dri": 32,
+      "def": 68,
+      "phy": 66
+    },
+    "wc_stats": {
+      "save_pct": 71.0,
+      "clean_sheets": 3,
+      "goals_conceded": 3,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ussr_1986_bessonov",
+    "name": "Vladimir Bessonov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 78,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 52,
+      "dri": 44,
+      "def": 72,
+      "phy": 66
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 8,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ussr_1986_bubnov",
+    "name": "Alexander Bubnov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 42,
+      "dri": 32,
+      "def": 68,
+      "phy": 62
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 5,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ussr_1986_demianenko",
+    "name": "Anatoli Demianenko",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 46,
+      "dri": 38,
+      "def": 72,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ussr_1986_morozov",
+    "name": "Vagif Sadykhov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 28,
+      "dri": 18,
+      "def": 60,
+      "phy": 52
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1986_zavarov",
+    "name": "Alexander Zavarov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 82,
+    "stats": {
+      "pac": 70,
+      "sho": 62,
+      "pas": 74,
+      "dri": 70,
+      "def": 46,
+      "phy": 62
+    },
+    "wc_stats": {
+      "key_passes": 10,
+      "assists": 0,
+      "progressive_passes": 22,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ussr_1986_yakovenko",
+    "name": "Pavlo Yakovenko",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 44,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ussr_1986_rats",
+    "name": "Vasyl Rats",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 44,
+      "pas": 54,
+      "dri": 52,
+      "def": 42,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ussr_1986_belanov",
+    "name": "Igor Belanov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 86,
+    "stats": {
+      "pac": 84,
+      "sho": 78,
+      "pas": 62,
+      "dri": 78,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 360,
+      "goals_per90": 0.75
+    }
+  },
+  {
+    "id": "ussr_1986_aleinikov",
+    "name": "Sergei Aleinikov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 64,
+      "sho": 46,
+      "pas": 58,
+      "dri": 52,
+      "def": 50,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ussr_1986_blohin",
+    "name": "Oleg Blohin",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 84,
+    "stats": {
+      "pac": 76,
+      "sho": 72,
+      "pas": 58,
+      "dri": 66,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "ussr_1986_cherchesov",
+    "name": "Stanislav Cherchesov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 22,
+      "def": 56,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ussr_1986_larionov",
+    "name": "Victor Onopko",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 40,
+      "dri": 30,
+      "def": 64,
+      "phy": 58
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1986_gotsmanov",
+    "name": "Sergei Gotsmanov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 42,
+      "pas": 52,
+      "dri": 48,
+      "def": 36,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1986_bal",
+    "name": "Anatoli Bal",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 26,
+      "dri": 16,
+      "def": 56,
+      "phy": 48
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ussr_1986_protasov",
+    "name": "Oleg Protasov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 80,
+    "stats": {
+      "pac": 72,
+      "sho": 72,
+      "pas": 56,
+      "dri": 60,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 0,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "ussr_1986_litovchenko",
+    "name": "Gennadi Litovchenko",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 46,
+      "pas": 54,
+      "dri": 50,
+      "def": 38,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1986_baltacha",
+    "name": "Sergei Baltacha",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 26,
+      "dri": 16,
+      "def": 56,
+      "phy": 48
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ussr_1986_mikhailichenko",
+    "name": "Alexei Mikhailichenko",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 50,
+      "pas": 60,
+      "dri": 56,
+      "def": 42,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ussr_1986_rodionov",
+    "name": "Sergei Rodionov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 58,
+      "pas": 48,
+      "dri": 50,
+      "def": 18,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ussr_1986_uvarov",
+    "name": "Alexei Uvarov",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 72,
+    "stats": {
+      "pac": 44,
+      "sho": 6,
+      "pas": 28,
+      "dri": 18,
+      "def": 48,
+      "phy": 48
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ussr_1986_chivadze",
+    "name": "Alexander Chivadze",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 22,
+      "pas": 38,
+      "dri": 28,
+      "def": 62,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ussr_1986_kondratiev",
+    "name": "Andrei Kondratiev",
+    "nation": "USSR",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 26,
+      "pas": 30,
+      "dri": 26,
+      "def": 18,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1986_alvez",
+    "name": "Fernando Alvez",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 36,
+      "dri": 22,
+      "def": 56,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 64.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "uru_1986_gutierrez",
+    "name": "Eduardo Gutierrez",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 28,
+      "dri": 18,
+      "def": 58,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "uru_1986_acevedo",
+    "name": "Nelson Acevedo",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 24,
+      "dri": 14,
+      "def": 56,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1986_perdomo",
+    "name": "Jose Perdomo",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 36,
+      "dri": 24,
+      "def": 62,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "uru_1986_gutierre",
+    "name": "Ruben Herrera",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 22,
+      "dri": 12,
+      "def": 54,
+      "phy": 44
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1986_francescoli",
+    "name": "Enzo Francescoli",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 88,
+    "stats": {
+      "pac": 70,
+      "sho": 70,
+      "pas": 80,
+      "dri": 76,
+      "def": 44,
+      "phy": 66
+    },
+    "wc_stats": {
+      "key_passes": 18,
+      "assists": 3,
+      "progressive_passes": 40,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "uru_1986_alzamendi",
+    "name": "Antonio Alzamendi",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 50,
+      "pas": 54,
+      "dri": 52,
+      "def": 30,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "uru_1986_sosa",
+    "name": "Ruben Sosa",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 78,
+    "stats": {
+      "pac": 76,
+      "sho": 58,
+      "pas": 58,
+      "dri": 64,
+      "def": 24,
+      "phy": 54
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "uru_1986_aguilera",
+    "name": "Carlos Aguilera",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 50,
+      "dri": 52,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 5,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "uru_1986_da_silva",
+    "name": "Antonio da Silva",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 36,
+      "pas": 44,
+      "dri": 40,
+      "def": 30,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "uru_1986_paz",
+    "name": "Wilmar Cabrera",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 46,
+      "pas": 42,
+      "dri": 42,
+      "def": 16,
+      "phy": 48
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "uru_1986_soca",
+    "name": "Gustavo Soca",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 4,
+      "pas": 26,
+      "dri": 16,
+      "def": 46,
+      "phy": 44
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_1986_diogo",
+    "name": "Pedro Petrone",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 20,
+      "dri": 12,
+      "def": 48,
+      "phy": 38
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_1986_perez",
+    "name": "Jose Pedro Perez",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 24,
+      "pas": 30,
+      "dri": 26,
+      "def": 16,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1986_dominguez",
+    "name": "Pedro Dominguez",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 15,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 22,
+      "dri": 14,
+      "def": 52,
+      "phy": 42
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_1986_fonseca",
+    "name": "Daniel Fonseca",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 64,
+      "pas": 48,
+      "dri": 52,
+      "def": 20,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "uru_1986_saralegui",
+    "name": "Carlos Saralegui",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 22,
+      "pas": 28,
+      "dri": 24,
+      "def": 18,
+      "phy": 36
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1986_revelez",
+    "name": "Jorge Revelez",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 18,
+      "dri": 10,
+      "def": 48,
+      "phy": 36
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_1986_olivera",
+    "name": "Ruben Olivera",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 20,
+      "pas": 26,
+      "dri": 22,
+      "def": 14,
+      "phy": 34
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "uru_1986_cabrera",
+    "name": "Wilmar Cabrera",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 40,
+      "pas": 36,
+      "dri": 34,
+      "def": 12,
+      "phy": 44
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "uru_1986_garcia_r",
+    "name": "Jorge Garcia",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 38,
+      "sho": 4,
+      "pas": 22,
+      "dri": 14,
+      "def": 42,
+      "phy": 38
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_1986_marchena",
+    "name": "Walter Machado",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 16,
+      "dri": 8,
+      "def": 44,
+      "phy": 32
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "uru_1986_silva_2",
+    "name": "Rodolfo Silva",
+    "nation": "Uruguay",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 22,
+      "pas": 26,
+      "dri": 22,
+      "def": 12,
+      "phy": 34
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ita_1986_galli",
+    "name": "Giovanni Galli",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 82,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 30,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 68.0,
+      "clean_sheets": 2,
+      "goals_conceded": 5,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1986_bergomi",
+    "name": "Giuseppe Bergomi",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 82,
+    "stats": {
+      "pac": 68,
+      "sho": 30,
+      "pas": 54,
+      "dri": 44,
+      "def": 82,
+      "phy": 74
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 12,
+      "clearances": null,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "ita_1986_baresi",
+    "name": "Franco Baresi",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 90,
+    "stats": {
+      "pac": 72,
+      "sho": 40,
+      "pas": 66,
+      "dri": 58,
+      "def": 92,
+      "phy": 78
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 18,
+      "clearances": null,
+      "minutes_played": 540
+    }
+  },
+  {
+    "id": "ita_1986_cabrini",
+    "name": "Antonio Cabrini",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 80,
+    "stats": {
+      "pac": 70,
+      "sho": 36,
+      "pas": 54,
+      "dri": 48,
+      "def": 72,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ita_1986_maldini",
+    "name": "Paolo Maldini",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 6,
+    "base_rating": 84,
+    "stats": {
+      "pac": 78,
+      "sho": 40,
+      "pas": 64,
+      "dri": 58,
+      "def": 82,
+      "phy": 72
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 10,
+      "clearances": null,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ita_1986_bagni",
+    "name": "Salvatore Bagni",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 4,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 50,
+      "phy": 60
+    },
+    "wc_stats": {
+      "key_passes": 5,
+      "assists": 0,
+      "progressive_passes": 12,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1986_ancelotti",
+    "name": "Carlo Ancelotti",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 82,
+    "stats": {
+      "pac": 64,
+      "sho": 52,
+      "pas": 80,
+      "dri": 68,
+      "def": 58,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 12,
+      "assists": 0,
+      "progressive_passes": 28,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ita_1986_tardelli",
+    "name": "Marco Tardelli",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 80,
+    "stats": {
+      "pac": 66,
+      "sho": 54,
+      "pas": 66,
+      "dri": 60,
+      "def": 58,
+      "phy": 64
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 0,
+      "progressive_passes": 18,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1986_altobelli",
+    "name": "Alessandro Altobelli",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 78,
+      "pas": 56,
+      "dri": 60,
+      "def": 24,
+      "phy": 68
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 1,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "ita_1986_conti",
+    "name": "Bruno Conti",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 82,
+    "stats": {
+      "pac": 72,
+      "sho": 56,
+      "pas": 64,
+      "dri": 64,
+      "def": 38,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 8,
+      "assists": 1,
+      "progressive_passes": 18,
+      "minutes_played": 360
+    }
+  },
+  {
+    "id": "ita_1986_vialli",
+    "name": "Gianluca Vialli",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 82,
+    "stats": {
+      "pac": 76,
+      "sho": 76,
+      "pas": 58,
+      "dri": 66,
+      "def": 24,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "ita_1986_zenga",
+    "name": "Walter Zenga",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 84,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 44,
+      "dri": 28,
+      "def": 66,
+      "phy": 64
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1986_vierchowod",
+    "name": "Pietro Vierchowod",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 13,
+    "base_rating": 80,
+    "stats": {
+      "pac": 64,
+      "sho": 24,
+      "pas": 44,
+      "dri": 34,
+      "def": 78,
+      "phy": 68
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 6,
+      "clearances": null,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "ita_1986_de_napoli",
+    "name": "Fernando De Napoli",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 15,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 44,
+      "pas": 54,
+      "dri": 50,
+      "def": 44,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1986_ferri",
+    "name": "Riccardo Ferri",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 16,
+    "base_rating": 76,
+    "stats": {
+      "pac": 62,
+      "sho": 24,
+      "pas": 44,
+      "dri": 36,
+      "def": 70,
+      "phy": 64
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "ita_1986_baggio_r",
+    "name": "Roberto Baggio",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 86,
+    "stats": {
+      "pac": 72,
+      "sho": 80,
+      "pas": 76,
+      "dri": 82,
+      "def": 28,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 2,
+      "assists": 1,
+      "shots_on_target": 6,
+      "minutes_played": 270,
+      "goals_per90": 0.67
+    }
+  },
+  {
+    "id": "ita_1986_donadoni",
+    "name": "Roberto Donadoni",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 78,
+    "stats": {
+      "pac": 70,
+      "sho": 50,
+      "pas": 64,
+      "dri": 58,
+      "def": 44,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1986_galderisi",
+    "name": "Giuseppe Galderisi",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 64,
+      "sho": 46,
+      "pas": 44,
+      "dri": 46,
+      "def": 20,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ita_1986_serena",
+    "name": "Aldo Serena",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 68,
+      "sho": 64,
+      "pas": 46,
+      "dri": 50,
+      "def": 18,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "ita_1986_evani",
+    "name": "Alberico Evani",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 56,
+      "dri": 50,
+      "def": 30,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "ita_1986_tacconi",
+    "name": "Stefano Tacconi",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 78,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 22,
+      "def": 58,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "ita_1986_de_agostini",
+    "name": "Luigi De Agostini",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 22,
+    "base_rating": 72,
+    "stats": {
+      "pac": 66,
+      "sho": 26,
+      "pas": 44,
+      "dri": 36,
+      "def": 60,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "ita_1986_schillaci",
+    "name": "Salvatore Schillaci",
+    "nation": "Italy",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 76,
+    "stats": {
+      "pac": 70,
+      "sho": 72,
+      "pas": 48,
+      "dri": 56,
+      "def": 22,
+      "phy": 62
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "pol_1986_mlynarczyk",
+    "name": "Jozef Mlynarczyk",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 78,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 22,
+      "def": 58,
+      "phy": 56
+    },
+    "wc_stats": {
+      "save_pct": 66.0,
+      "clean_sheets": 1,
+      "goals_conceded": 4,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "pol_1986_przybysz",
+    "name": "Marek Przybysz",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 26,
+      "dri": 16,
+      "def": 58,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "pol_1986_wojcicki",
+    "name": "Marek Wojcicki",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 22,
+      "dri": 14,
+      "def": 56,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1986_kubicki",
+    "name": "Dariusz Kubicki",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 36,
+      "dri": 24,
+      "def": 64,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "pol_1986_wdowczyk",
+    "name": "Dariusz Wdowczyk",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 14,
+      "pas": 22,
+      "dri": 12,
+      "def": 56,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1986_dziekanowski",
+    "name": "Dariusz Dziekanowski",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 58,
+      "pas": 60,
+      "dri": 58,
+      "def": 34,
+      "phy": 58
+    },
+    "wc_stats": {
+      "key_passes": 6,
+      "assists": 1,
+      "progressive_passes": 14,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "pol_1986_tarasiewicz",
+    "name": "Roman Tarasiewicz",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 36,
+      "pas": 50,
+      "dri": 44,
+      "def": 36,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "pol_1986_matysik",
+    "name": "Stefan Majewski",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 40,
+      "dri": 34,
+      "def": 28,
+      "phy": 42
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1986_boniek",
+    "name": "Zbigniew Boniek",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 88,
+    "stats": {
+      "pac": 74,
+      "sho": 76,
+      "pas": 62,
+      "dri": 72,
+      "def": 24,
+      "phy": 66
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 270,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "pol_1986_smolarek",
+    "name": "Wlodzimierz Smolarek",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 74,
+      "sho": 64,
+      "pas": 52,
+      "dri": 58,
+      "def": 22,
+      "phy": 58
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "pol_1986_urban",
+    "name": "Jan Urban",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 48,
+      "pas": 52,
+      "dri": 50,
+      "def": 32,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 2,
+      "assists": 0,
+      "progressive_passes": 6,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "pol_1986_bako",
+    "name": "Stanislaw Bako",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 4,
+      "pas": 26,
+      "dri": 16,
+      "def": 46,
+      "phy": 44
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1986_ostrowski",
+    "name": "Henryk Ostrowski",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 18,
+      "dri": 10,
+      "def": 50,
+      "phy": 38
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1986_furtok",
+    "name": "Jan Furtok",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 38,
+      "pas": 42,
+      "dri": 38,
+      "def": 24,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1986_wieczorek",
+    "name": "Janusz Wieczorek",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 16,
+      "dri": 8,
+      "def": 48,
+      "phy": 34
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1986_zgutczynski",
+    "name": "Waldemar Zgutczynski",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 60,
+      "sho": 40,
+      "pas": 34,
+      "dri": 34,
+      "def": 12,
+      "phy": 42
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "pol_1986_prusik",
+    "name": "Piotr Prusik",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 22,
+      "pas": 26,
+      "dri": 22,
+      "def": 12,
+      "phy": 34
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1986_nawrocki",
+    "name": "Pawel Nawrocki",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 6,
+      "pas": 14,
+      "dri": 6,
+      "def": 46,
+      "phy": 32
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1986_gach",
+    "name": "Miroslaw Gach",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 20,
+      "pas": 24,
+      "dri": 20,
+      "def": 10,
+      "phy": 30
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "pol_1986_komornicki",
+    "name": "Henryk Komornicki",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 58,
+      "sho": 36,
+      "pas": 30,
+      "dri": 30,
+      "def": 10,
+      "phy": 40
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "pol_1986_wandzik",
+    "name": "Tomasz Wandzik",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 38,
+      "sho": 4,
+      "pas": 20,
+      "dri": 12,
+      "def": 40,
+      "phy": 36
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1986_lukasik",
+    "name": "Ryszard Lukasik",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 12,
+      "dri": 6,
+      "def": 44,
+      "phy": 30
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "pol_1986_matysik2",
+    "name": "Jacek Matysik",
+    "nation": "Poland",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 18,
+      "pas": 22,
+      "dri": 18,
+      "def": 8,
+      "phy": 28
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "por_1986_bento",
+    "name": "Manuel Bento",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "pac": 48,
+      "sho": 8,
+      "pas": 34,
+      "dri": 22,
+      "def": 56,
+      "phy": 54
+    },
+    "wc_stats": {
+      "save_pct": 66.0,
+      "clean_sheets": 1,
+      "goals_conceded": 6,
+      "minutes_played": 450
+    }
+  },
+  {
+    "id": "por_1986_alvaro",
+    "name": "Alvaro",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 26,
+      "dri": 16,
+      "def": 58,
+      "phy": 50
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "por_1986_inacio",
+    "name": "Inacio",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 20,
+      "pas": 38,
+      "dri": 26,
+      "def": 64,
+      "phy": 56
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "por_1986_frederico",
+    "name": "Frederico",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 72,
+    "stats": {
+      "pac": 56,
+      "sho": 14,
+      "pas": 22,
+      "dri": 12,
+      "def": 56,
+      "phy": 46
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 2,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "por_1986_carlos_manuel",
+    "name": "Carlos Manuel",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 74,
+    "stats": {
+      "pac": 62,
+      "sho": 22,
+      "pas": 38,
+      "dri": 26,
+      "def": 62,
+      "phy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "por_1986_diamantino",
+    "name": "Diamantino",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 66,
+      "sho": 44,
+      "pas": 52,
+      "dri": 50,
+      "def": 34,
+      "phy": 52
+    },
+    "wc_stats": {
+      "key_passes": 4,
+      "assists": 0,
+      "progressive_passes": 10,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "por_1986_gomes",
+    "name": "Gomes",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 32,
+      "pas": 44,
+      "dri": 40,
+      "def": 28,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "por_1986_oliveira",
+    "name": "Oliveira",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 38,
+      "dri": 34,
+      "def": 24,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "por_1986_chalana",
+    "name": "Chalana",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 10,
+    "base_rating": 80,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 60,
+      "dri": 64,
+      "def": 24,
+      "phy": 52
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 1,
+      "shots_on_target": 4,
+      "minutes_played": 270,
+      "goals_per90": 0.33
+    }
+  },
+  {
+    "id": "por_1986_futre",
+    "name": "Paulo Futre",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 84,
+    "stats": {
+      "pac": 80,
+      "sho": 68,
+      "pas": 60,
+      "dri": 76,
+      "def": 22,
+      "phy": 60
+    },
+    "wc_stats": {
+      "goals": 3,
+      "assists": 2,
+      "shots_on_target": 8,
+      "minutes_played": 450,
+      "goals_per90": 0.6
+    }
+  },
+  {
+    "id": "por_1986_sousa",
+    "name": "Jaime Pacheco",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 11,
+    "base_rating": 72,
+    "stats": {
+      "pac": 62,
+      "sho": 34,
+      "pas": 42,
+      "dri": 38,
+      "def": 28,
+      "phy": 46
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "por_1986_pereira",
+    "name": "Vitor Damas",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 42,
+      "sho": 4,
+      "pas": 26,
+      "dri": 14,
+      "def": 44,
+      "phy": 40
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_1986_eurico",
+    "name": "Eurico",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 8,
+      "pas": 14,
+      "dri": 8,
+      "def": 46,
+      "phy": 32
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_1986_costa",
+    "name": "Jaime Costa",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 20,
+      "pas": 22,
+      "dri": 18,
+      "def": 8,
+      "phy": 30
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "por_1986_joao",
+    "name": "Joao",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 12,
+      "dri": 6,
+      "def": 44,
+      "phy": 28
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_1986_nene",
+    "name": "Nene",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 74,
+    "stats": {
+      "pac": 66,
+      "sho": 52,
+      "pas": 46,
+      "dri": 48,
+      "def": 18,
+      "phy": 50
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "por_1986_frasco",
+    "name": "Frasco",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 20,
+      "pas": 22,
+      "dri": 18,
+      "def": 8,
+      "phy": 28
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "por_1986_oceano",
+    "name": "Oceano",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 18,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 16,
+      "pas": 22,
+      "dri": 14,
+      "def": 52,
+      "phy": 42
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_1986_rui_agua",
+    "name": "Rui Agua",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 19,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 50,
+      "pas": 44,
+      "dri": 46,
+      "def": 18,
+      "phy": 48
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 3,
+      "minutes_played": 90,
+      "goals_per90": 1.0
+    }
+  },
+  {
+    "id": "por_1986_acosta",
+    "name": "Acosta",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 20,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 18,
+      "pas": 20,
+      "dri": 16,
+      "def": 6,
+      "phy": 26
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "por_1986_damas",
+    "name": "Vitor Damas2",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 38,
+      "sho": 4,
+      "pas": 18,
+      "dri": 10,
+      "def": 38,
+      "phy": 34
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_1986_vermelho",
+    "name": "Vermelho",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 6,
+      "pas": 10,
+      "dri": 4,
+      "def": 42,
+      "phy": 26
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "por_1986_ernesto",
+    "name": "Ernesto",
+    "nation": "Portugal",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 34,
+      "pas": 28,
+      "dri": 26,
+      "def": 8,
+      "phy": 36
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bul_1986_mikhailov",
+    "name": "Borislav Mikhailov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 1,
+    "base_rating": 76,
+    "stats": {
+      "pac": 46,
+      "sho": 8,
+      "pas": 32,
+      "dri": 20,
+      "def": 54,
+      "phy": 52
+    },
+    "wc_stats": {
+      "save_pct": 65.0,
+      "clean_sheets": 1,
+      "goals_conceded": 5,
+      "minutes_played": 270
+    }
+  },
+  {
+    "id": "bul_1986_zdravkov",
+    "name": "Zanko Zdravkov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 2,
+    "base_rating": 70,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 20,
+      "dri": 12,
+      "def": 54,
+      "phy": 44
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1986_arabov",
+    "name": "Rumen Arabov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 3,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 10,
+      "pas": 18,
+      "dri": 10,
+      "def": 52,
+      "phy": 42
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1986_dimitrov",
+    "name": "Trifon Ivanov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 4,
+    "base_rating": 74,
+    "stats": {
+      "pac": 60,
+      "sho": 20,
+      "pas": 34,
+      "dri": 22,
+      "def": 62,
+      "phy": 54
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 3,
+      "clearances": null,
+      "minutes_played": 90
+    }
+  },
+  {
+    "id": "bul_1986_petkov",
+    "name": "Emil Spasov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "DEF",
+    "squad_number": 5,
+    "base_rating": 72,
+    "stats": {
+      "pac": 54,
+      "sho": 12,
+      "pas": 20,
+      "dri": 12,
+      "def": 54,
+      "phy": 44
+    },
+    "wc_stats": {
+      "tackles": null,
+      "interceptions": 1,
+      "clearances": null,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1986_sadkov",
+    "name": "Kostadin Sadkov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 6,
+    "base_rating": 72,
+    "stats": {
+      "pac": 60,
+      "sho": 32,
+      "pas": 42,
+      "dri": 38,
+      "def": 26,
+      "phy": 44
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1986_jeliazkov",
+    "name": "Nasko Sirakov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 7,
+    "base_rating": 76,
+    "stats": {
+      "pac": 64,
+      "sho": 44,
+      "pas": 50,
+      "dri": 48,
+      "def": 32,
+      "phy": 50
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bul_1986_getov",
+    "name": "Plamen Getov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 8,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 38,
+      "dri": 34,
+      "def": 24,
+      "phy": 40
+    },
+    "wc_stats": {
+      "key_passes": 1,
+      "assists": 0,
+      "progressive_passes": 4,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1986_stoichkov",
+    "name": "Hristo Stoichkov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 9,
+    "base_rating": 88,
+    "stats": {
+      "pac": 82,
+      "sho": 84,
+      "pas": 62,
+      "dri": 82,
+      "def": 26,
+      "phy": 70
+    },
+    "wc_stats": {
+      "goals": 1,
+      "assists": 0,
+      "shots_on_target": 4,
+      "minutes_played": 180,
+      "goals_per90": 0.5
+    }
+  },
+  {
+    "id": "bul_1986_kostadinov",
+    "name": "Emil Kostadinov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 10,
+    "base_rating": 78,
+    "stats": {
+      "pac": 66,
+      "sho": 58,
+      "pas": 60,
+      "dri": 58,
+      "def": 34,
+      "phy": 56
+    },
+    "wc_stats": {
+      "key_passes": 3,
+      "assists": 0,
+      "progressive_passes": 8,
+      "minutes_played": 180
+    }
+  },
+  {
+    "id": "bul_1986_sirakov",
+    "name": "Nasko Sirakov2",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 11,
+    "base_rating": 76,
+    "stats": {
+      "pac": 68,
+      "sho": 60,
+      "pas": 52,
+      "dri": 56,
+      "def": 22,
+      "phy": 56
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 2,
+      "minutes_played": 90,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bul_1986_petrov",
+    "name": "Georgi Petrov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 12,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 24,
+      "dri": 14,
+      "def": 42,
+      "phy": 38
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bul_1986_iliev",
+    "name": "Plamen Iliev",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 13,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 6,
+      "pas": 12,
+      "dri": 6,
+      "def": 46,
+      "phy": 32
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bul_1986_iskrenov",
+    "name": "Georgi Iskrenov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 14,
+    "base_rating": 70,
+    "stats": {
+      "pac": 52,
+      "sho": 18,
+      "pas": 20,
+      "dri": 16,
+      "def": 6,
+      "phy": 26
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1986_markov",
+    "name": "Milcho Yordanov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 15,
+    "base_rating": 70,
+    "stats": {
+      "pac": 46,
+      "sho": 6,
+      "pas": 10,
+      "dri": 4,
+      "def": 42,
+      "phy": 26
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bul_1986_zhelyazkov",
+    "name": "Georgi Zhelyazkov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 16,
+    "base_rating": 70,
+    "stats": {
+      "pac": 56,
+      "sho": 34,
+      "pas": 28,
+      "dri": 26,
+      "def": 8,
+      "phy": 36
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bul_1986_lechkov",
+    "name": "Jordan Lechkov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 17,
+    "base_rating": 72,
+    "stats": {
+      "pac": 58,
+      "sho": 28,
+      "pas": 34,
+      "dri": 30,
+      "def": 18,
+      "phy": 38
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1986_karadzov",
+    "name": "Nikolai Karadzov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 18,
+    "base_rating": 70,
+    "stats": {
+      "pac": 44,
+      "sho": 4,
+      "pas": 8,
+      "dri": 4,
+      "def": 40,
+      "phy": 24
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bul_1986_semkov",
+    "name": "Lyubomir Semkov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 19,
+    "base_rating": 70,
+    "stats": {
+      "pac": 50,
+      "sho": 16,
+      "pas": 18,
+      "dri": 14,
+      "def": 4,
+      "phy": 22
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  },
+  {
+    "id": "bul_1986_penev",
+    "name": "Luboslav Penev",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "FWD",
+    "squad_number": 20,
+    "base_rating": 74,
+    "stats": {
+      "pac": 64,
+      "sho": 56,
+      "pas": 44,
+      "dri": 48,
+      "def": 18,
+      "phy": 52
+    },
+    "wc_stats": {
+      "goals": 0,
+      "assists": 0,
+      "shots_on_target": 1,
+      "minutes_played": 45,
+      "goals_per90": 0.0
+    }
+  },
+  {
+    "id": "bul_1986_grancharov",
+    "name": "Plamen Grancharov",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 21,
+    "base_rating": 68,
+    "stats": {
+      "pac": 36,
+      "sho": 4,
+      "pas": 16,
+      "dri": 8,
+      "def": 36,
+      "phy": 30
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bul_1986_kindev",
+    "name": "Emil Kindev",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "GK",
+    "squad_number": 22,
+    "base_rating": 70,
+    "stats": {
+      "pac": 40,
+      "sho": 4,
+      "pas": 6,
+      "dri": 2,
+      "def": 38,
+      "phy": 20
+    },
+    "wc_stats": {
+      "save_pct": 0.0,
+      "clean_sheets": 0,
+      "goals_conceded": 0,
+      "minutes_played": 0
+    }
+  },
+  {
+    "id": "bul_1986_yanchev",
+    "name": "Ancho Yanchev",
+    "nation": "Bulgaria",
+    "wc_year": 1986,
+    "position": "MID",
+    "squad_number": 23,
+    "base_rating": 70,
+    "stats": {
+      "pac": 48,
+      "sho": 14,
+      "pas": 16,
+      "dri": 12,
+      "def": 2,
+      "phy": 18
+    },
+    "wc_stats": {
+      "key_passes": 0,
+      "assists": 0,
+      "progressive_passes": 2,
+      "minutes_played": 45
+    }
+  }
+]
