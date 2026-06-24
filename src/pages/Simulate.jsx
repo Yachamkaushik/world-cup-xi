@@ -53,6 +53,9 @@ export default function Simulate() {
     if (!location.state?.selectedPlayers) { navigate('/'); return null }
     const selectedPlayers = location.state.selectedPlayers
     const mode = location.state.mode
+    const accentColor = mode === 'purist' ? '#3b82f6' : '#F5C518'
+    const accentGlow = mode === 'purist' ? '#3b82f640' : '#F5C51840'
+    const accentBorder = mode === 'purist' ? '#3b82f6' : '#F5C518'
     const ratings = calculateTeamRatings(selectedPlayers)
     const positionScores = buildPositionScores(allPlayersData)
     const myTeam = calculateEffectiveTeamRatings(selectedPlayers, positionScores)
@@ -68,9 +71,9 @@ export default function Simulate() {
             <div className="flex flex-col items-center px-6 py-10" style={{flex: 1}}>
 
                 <div className="flex items-center gap-3 mb-3">
-                    <div style={{height: '1px', width: '40px', background: 'linear-gradient(to right, transparent, #F5C518)'}} />
-                    <p className="text-xs tracking-widest font-semibold" style={{color: '#F5C518'}}>THE DRAFT IS COMPLETE</p>
-                    <div style={{height: '1px', width: '40px', background: 'linear-gradient(to left, transparent, #F5C518)'}} />
+                    <div style={{height: '1px', width: '40px', background: `linear-gradient(to right, transparent, ${accentColor})`}} />
+                    <p className="text-xs tracking-widest font-semibold" style={{color: accentColor}}>THE DRAFT IS COMPLETE</p>
+                    <div style={{height: '1px', width: '40px', background: `linear-gradient(to left, transparent, ${accentColor})`}} />
                 </div>
                 <h1 className="font-black mb-2 text-center" style={{fontSize: 'clamp(2rem, 6vw, 4rem)', color: 'white', letterSpacing: '-0.02em'}}>
                     YOUR WORLD CUP XI
@@ -88,11 +91,11 @@ export default function Simulate() {
                     ].map(({ label, value, gold }) => (
                         <div key={label} className="flex flex-col items-center px-8 py-5 rounded-2xl" style={{
                             backgroundColor: '#111827',
-                            border: `1px solid ${gold ? '#F5C518' : '#ffffff15'}`,
-                            boxShadow: gold ? '0 0 20px #F5C51820' : 'none'
+                            border: `1px solid ${gold ? accentBorder : '#ffffff15'}`,
+                            boxShadow: gold ? `0 0 20px ${accentGlow}` : 'none'
                         }}>
                             <span className="text-xs tracking-widest mb-1" style={{color: '#4b5563'}}>{label}</span>
-                            <span className="text-4xl font-black" style={{color: gold ? '#F5C518' : 'white'}}>{value}</span>
+                            <span className="text-4xl font-black" style={{color: gold ? accentColor : 'white'}}>{value}</span>
                         </div>
                     ))}
                 </div>
@@ -157,9 +160,9 @@ export default function Simulate() {
                         navigate('/result', { state: { results, selectedPlayers, mode } })
                     }}
                     className="px-16 py-5 rounded-full font-black tracking-widest text-lg"
-                    style={{backgroundColor: '#F5C518', color: '#0a0a0f', transition: 'all 0.2s ease'}}
+                    style={{backgroundColor: accentColor, color: '#0a0a0f', transition: 'all 0.2s ease'}}
                     onMouseEnter={e => {
-                        e.currentTarget.style.boxShadow = '0 0 40px #F5C51840'
+                        e.currentTarget.style.boxShadow = `0 0 40px ${accentGlow}`
                         e.currentTarget.style.transform = 'scale(1.03)'
                     }}
                     onMouseLeave={e => {

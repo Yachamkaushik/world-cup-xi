@@ -68,6 +68,11 @@ export default function Draft() {
 
     if (!mode) return null
 
+    const accentColor = mode === 'purist' ? '#3b82f6' : '#F5C518'
+    const accentBg = mode === 'purist' ? '#3b82f615' : '#F5C51815'
+    const accentBorder = mode === 'purist' ? '#3b82f630' : '#F5C51830'
+    const accentGlow = mode === 'purist' ? '#3b82f625' : '#F5C51825'
+
     const currentPosition = positions[round]
     const broadPosition = currentPosition
 
@@ -107,6 +112,96 @@ export default function Draft() {
             setIsSpinning(false)
         }, 600)
     }
+    const pickPlayer = (player) => {
+        const finalTeam = [...selectedPlayers, player]
+        setSelectedPlayers(finalTeam)
+        setRound(round + 1)
+        setCurrentSquad([])
+        setCurrentNation(null)
+        if (round + 1 === 11) {
+            navigate('/simulate', { state: { selectedPlayers: finalTeam, mode } })
+        }
+    }
+
+    const squadRating = currentNation
+        ? Math.ceil(allPlayersData.filter(p => p.nation === currentNation && p.wc_year === currentYear).reduce((sum, p) => sum + p.base_rating, 0) / 23)
+        : null
+
+    /* ── shared player card renderer ───────────────────── */
+    const renderCard = (player) => {
+        const colors = positionColors[player.position] || { bg: '#1f2937', text: '#9ca3af' }
+        const isCurrentPos = player.position === broadPosition
+        return (
+            <button
+                key={player.id}
+                onClick={() => isCurrentPos && pickPlayer(player)}
+                className="text-left rounded-xl"
+                style={{
+                    backgroundColor: '#111827',
+                    border: `1px solid ${isCurrentPos ? colors.text + '40' : '#ffffff08'}`,
+                    opacity: isCurrentPos ? 1 : 0.22,
+                    cursor: isCurrentPos ? 'pointer' : 'default',
+                    transition: 'box-shadow 0.2s ease, border-color 0.2s ease',
+                    padding: '14px 16px',
+                    minHeight: '96px',
+                }}
+                onMouseEnter={e => {
+                    if (isCurrentPos) {
+                        e.currentTarget.style.boxShadow = `0 0 22px ${colors.text}55`
+                        e.currentTarget.style.borderColor = `${colors.text}80`
+                    }
+                }}
+                onMouseLeave={e => {
+                    e.currentTarget.style.boxShadow = 'none'
+                    e.currentTarget.style.borderColor = isCurrentPos ? `${colors.text}40` : '#ffffff08'
+                }}>
+                <div className="flex justify-between items-start mb-2">
+                    <span className="text-xs font-bold px-2 py-1 rounded-full" style={{ backgroundColor: colors.bg, color: colors.text }}>{player.position}</span>
+                    <span className="text-xs font-black" style={{color: '#374151'}}>#{player.squad_number}</span>
+                </div>
+                <p className="font-bold text-white mb-1" style={{fontSize: '0.9rem', lineHeight: 1.3}}>{player.name}</p>
+                <p className="text-xs mb-1" style={{color: '#4b5563'}}>{player.nation} · {player.wc_year}</p>
+                {mode === 'classic' && isCurrentPos && (
+                    <div className="mt-2 pt-2" style={{borderTop: '1px solid #ffffff08'}}>
+                        {Object.entries(getPlayerStats(player)).map(([key, val]) => (
+                            <div key={key} className="flex justify-between text-xs mt-1">
+                                <span style={{ color: '#4b5563' }}>{key}</span>
+                                <span style={{ color: colors.text, fontWeight: 700 }}>{val ?? 'N/A'}</span>
+                            </div>
+                        ))}
+                    </div>
+                )}
+            </button>
+        )
+    }
+
+    /* ── position slot chip ─────────────────────────────── */
+    const renderSlot = (pos, i) => {
+        const filled = selectedPlayers[i]
+        const isCurrent = i === round
+        return (
+            <div key={i} className="flex flex-col items-center rounded-xl p-2 text-center flex-shrink-0" style={{
+                backgroundColor: '#111827',
+                border: `1px solid ${isCurrent ? accentColor : filled ? '#ffffff15' : '#ffffff08'}`,
+                minHeight: '76px', minWidth: '68px',
+                boxShadow: isCurrent ? `0 0 12px ${accentGlow}` : 'none'
+            }}>
+                <p style={{color: isCurrent ? accentColor : '#1f2937', fontSize: '0.55rem'}} className="font-bold mb-1">{isCurrent ? pos : filled ? pos : '?'}</p>
+                {filled ? (
+                    <>
+                        <p className="font-bold text-white" style={{fontSize: '0.55rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
+                        <p style={{color: '#4b5563', fontSize: '0.48rem', marginTop: '2px'}}>{filled.nation.split(' ').slice(-1)[0]} '{String(filled.wc_year).slice(2)}</p>
+                    </>
+                ) : isCurrent ? (
+                    <p className="font-black" style={{color: accentColor + '99', fontSize: '0.75rem'}}>{pos}</p>
+                ) : (
+                    <p className="font-black" style={{color: '#1f2937', fontSize: '0.75rem'}}>?</p>
+                )}
+                <p className="mt-auto" style={{color: '#374151', fontSize: '0.5rem'}}>{String(i + 1).padStart(2, '0')}</p>
+            </div>
+        )
+    }
+
     return (
         <div className="h-screen w-full overflow-hidden text-white flex flex-col" style={{ backgroundColor: '#0a0a0f' }}>
             <Navbar />
@@ -117,8 +212,8 @@ export default function Draft() {
                 <div className="flex justify-between items-start mb-4 shrink-0">
                     <div>
                         <div className="flex items-center gap-3 mb-2">
-                            <div style={{height: '2px', width: '20px', backgroundColor: '#F5C518'}} />
-                            <p className="text-xs tracking-widest font-semibold" style={{color: '#F5C518'}}>
+                            <div style={{height: '2px', width: '20px', backgroundColor: accentColor}} />
+                            <p className="text-xs tracking-widest font-semibold" style={{color: accentColor}}>
                                 THE DRAW · ROUND {round + 1} / 11
                             </p>
                         </div>
@@ -150,9 +245,7 @@ export default function Draft() {
                             </button>
                         )}
                         <span className="text-xs font-bold px-3 py-2 rounded" style={{
-                            backgroundColor: '#F5C51815',
-                            color: '#F5C518',
-                            border: '1px solid #F5C51830'
+                            backgroundColor: accentBg, color: accentColor, border: `1px solid ${accentBorder}`
                         }}>
                             {mode.toUpperCase()} MODE
                         </span>
@@ -164,53 +257,31 @@ export default function Draft() {
 
                     {/* left — the pot */}
                     <div className="flex flex-col items-center justify-center rounded-2xl p-8 overflow-y-auto" style={{
-                        backgroundColor: '#111827',
-                        border: '1px solid #ffffff10',
-                        minWidth: '260px',
-                        width: '260px'
+                        backgroundColor: '#111827', border: '1px solid #ffffff10', minWidth: '280px', width: '280px'
                     }}>
                         {!currentNation ? (
                             <div className="flex flex-col items-center gap-6">
                                 <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>THE POT</p>
-                                <div style={{
-                                    width: '80px', height: '80px', borderRadius: '50%',
-                                    border: '2px dashed #ffffff15',
-                                    display: 'flex', alignItems: 'center', justifyContent: 'center'
-                                }}>
-                                    <span style={{fontSize: '2rem', opacity: 0.3}}>?</span>
+                                <div style={{ width: '90px', height: '90px', borderRadius: '50%', border: `2px dashed ${accentBorder}`, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                                    <span style={{fontSize: '2.2rem', opacity: 0.3}}>?</span>
                                 </div>
                                 {isSpinning ? (
-                                    <motion.div
-                                        animate={{ rotate: 360 }}
-                                        transition={{ duration: 0.8, repeat: Infinity, ease: "linear" }}
-                                        style={{ fontSize: '1.2rem' }}>
-                                        ⚽
-                                    </motion.div>
+                                    <motion.div animate={{ rotate: 360 }} transition={{ duration: 0.8, repeat: Infinity, ease: "linear" }} style={{ fontSize: '1.4rem' }}>⚽</motion.div>
                                 ) : (
-                                    <button
-                                        onClick={() => doSpin(false)}
-                                        className="px-8 py-3 rounded-full font-black tracking-widest text-sm transition-all hover:opacity-80"
-                                        style={{ backgroundColor: '#F5C518', color: '#0a0a0f' }}>
-                                        SPIN
-                                    </button>
+                                    <button onClick={() => doSpin(false)} className="px-10 py-3 rounded-full font-black tracking-widest text-sm transition-all hover:opacity-80"
+                                        style={{ backgroundColor: accentColor, color: '#0a0a0f' }}>SPIN</button>
                                 )}
                             </div>
                         ) : (
                             <div className="flex flex-col items-center gap-4 text-center">
                                 <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>THE POT</p>
-                                <motion.span
-                                    key={currentNation}
-                                    initial={{ scale: 0, opacity: 0 }}
-                                    animate={{ scale: 1, opacity: 1 }}
-                                    transition={{ duration: 0.4, type: "spring", bounce: 0.5 }}
-                                    style={{fontSize: '4rem', display: 'inline-block'}}>
+                                <motion.span key={currentNation} initial={{scale:0,opacity:0}} animate={{scale:1,opacity:1}}
+                                    transition={{duration:0.4,type:'spring',bounce:0.5}} style={{fontSize: '4.5rem', display: 'inline-block'}}>
                                     {nationFlags[currentNation] || '🏳️'}
                                 </motion.span>
                                 <h2 className="font-black text-2xl text-white">{currentNation}</h2>
-                                <p className="text-xs font-bold tracking-widest" style={{color: '#F5C518'}}>{currentYear}</p>
-                                <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>
-                                    SQUAD RATING · {Math.ceil(allPlayersData.filter(p => p.nation === currentNation && p.wc_year === currentYear).reduce((sum, p) => sum + p.base_rating, 0) / 23)}
-                                </p>
+                                <p className="text-xs font-bold tracking-widest" style={{color: accentColor}}>{currentYear}</p>
+                                <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>SQUAD RATING · {squadRating}</p>
                                 <p className="text-xs mt-2" style={{color: '#374151'}}>PICK A PLAYER →</p>
                             </div>
                         )}
@@ -223,63 +294,8 @@ export default function Draft() {
                                 <p className="text-sm tracking-widest">SPIN TO REVEAL SQUAD</p>
                             </div>
                         ) : (
-                            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
-                                {currentSquad.map(player => {
-                                    const colors = positionColors[player.position] || { bg: '#1f2937', text: '#9ca3af' }
-                                    const isCurrentPos = player.position === broadPosition
-                                    return (
-                                        <button
-                                            key={player.id}
-                                            onClick={() => {
-                                                if (!isCurrentPos) return
-                                                const finalTeam = [...selectedPlayers, player]
-                                                setSelectedPlayers(finalTeam)
-                                                setRound(round + 1)
-                                                setCurrentSquad([])
-                                                setCurrentNation(null)
-                                                if (round + 1 === 11) {
-                                                    navigate('/simulate', { state: { selectedPlayers: finalTeam, mode } })
-                                                }
-                                            }}
-                                            className="text-left p-4 rounded-xl transition-all"
-                                            style={{
-                                                backgroundColor: '#111827',
-                                                border: `1px solid ${isCurrentPos ? colors.text + '40' : '#ffffff08'}`,
-                                                opacity: isCurrentPos ? 1 : 0.25,
-                                                cursor: isCurrentPos ? 'pointer' : 'default',
-                                                transition: 'all 0.2s ease'
-                                            }}
-                                            onMouseEnter={e => {
-                                                if (isCurrentPos) {
-                                                    e.currentTarget.style.boxShadow = `0 0 25px ${colors.text}60`
-                                                    e.currentTarget.style.border = `1px solid ${colors.text}80`
-                                                }
-                                            }}
-                                            onMouseLeave={e => {
-                                                e.currentTarget.style.boxShadow = 'none'
-                                                e.currentTarget.style.border = `1px solid ${isCurrentPos ? colors.text + '40' : '#ffffff08'}`
-                                            }}>
-                                            <div className="flex justify-between items-start mb-2">
-                                                <span className="text-xs font-bold px-2 py-1 rounded-full" style={{
-                                                    backgroundColor: colors.bg,
-                                                    color: colors.text
-                                                }}>{player.position}</span>
-                                                <span className="text-xs font-black" style={{color: '#4b5563'}}>#{player.squad_number}</span>
-                                            </div>
-                                            <p className="font-bold text-white text-sm mb-2">{player.name}</p>
-                                            {mode === 'classic' && isCurrentPos && (
-                                                <div className="mt-2">
-                                                    {Object.entries(getPlayerStats(player)).map(([key, val]) => (
-                                                        <div key={key} className="flex justify-between text-xs mt-1">
-                                                            <span style={{ color: '#4b5563' }}>{key}</span>
-                                                            <span style={{ color: colors.text }}>{val ?? 'N/A'}</span>
-                                                        </div>
-                                                    ))}
-                                                </div>
-                                            )}
-                                        </button>
-                                    )
-                                })}
+                            <div className="grid gap-3" style={{gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))'}}>
+                                {currentSquad.map(renderCard)}
                             </div>
                         )}
                     </div>
@@ -292,35 +308,11 @@ export default function Draft() {
                         <p className="text-xs tracking-widest" style={{color: '#4b5563'}}>{11 - round} ROUNDS REMAINING</p>
                     </div>
                     <div className="flex gap-2 overflow-x-auto pb-1">
-                        {positions.map((pos, i) => {
-                            const filled = selectedPlayers[i]
-                            const isCurrent = i === round
-                            return (
-                                <div key={i} className="flex flex-col items-center rounded-xl p-2 text-center flex-shrink-0" style={{
-                                    backgroundColor: '#111827',
-                                    border: `1px solid ${isCurrent ? '#F5C518' : filled ? '#ffffff15' : '#ffffff08'}`,
-                                    minHeight: '80px',
-                                    minWidth: '72px',
-                                    boxShadow: isCurrent ? '0 0 15px #F5C51825' : 'none'
-                                }}>
-                                    <p style={{color: isCurrent ? '#F5C518' : '#1f2937', fontSize: '0.6rem'}} className="font-bold mb-1">{isCurrent ? pos : filled ? pos : '?'}</p>
-                                    {filled ? (
-                                        <>
-                                            <p className="font-bold text-white" style={{fontSize: '0.6rem', lineHeight: 1.3}}>{filled.name.split(' ').slice(-1)[0]}</p>
-                                            <p style={{color: '#4b5563', fontSize: '0.5rem', marginTop: '2px'}}>{filled.nation.split(' ').slice(-1)[0]} '{String(filled.wc_year).slice(2)}</p>
-                                        </>
-                                    ) : isCurrent ? (
-                                        <p className="font-black" style={{color: '#F5C51860', fontSize: '0.8rem'}}>{pos}</p>
-                                    ) : (
-                                        <p className="font-black" style={{color: '#1f2937', fontSize: '0.8rem'}}>?</p>
-                                    )}
-                                    <p className="mt-1" style={{color: '#374151', fontSize: '0.55rem'}}>{String(i + 1).padStart(2, '0')}</p>
-                                </div>
-                            )
-                        })}
+                        {positions.map((pos, i) => renderSlot(pos, i))}
                     </div>
                 </div>
             </div>
+
             <Footer />
         </div>
     )

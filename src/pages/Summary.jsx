@@ -25,6 +25,8 @@ export default function Summary(){
     const mode = location.state?.mode ?? ''
     const eliminated = location.state?.eliminated ?? true
     const eliminatedAt = location.state?.eliminatedAt ?? ''
+    const accentColor = mode === 'purist' ? '#3b82f6' : '#F5C518'
+    const accentGlow = mode === 'purist' ? '#3b82f640' : '#F5C51840'
 
     let leaguePoints = 0
     for(let i = 0; i < 3; i++){
@@ -157,12 +159,12 @@ export default function Summary(){
                 ) : (
                     <div className="flex flex-col items-center mb-10 text-center">
                         <span style={{fontSize: '3rem'}}>🏆</span>
-                        <p className="text-xs tracking-widest font-bold mt-3 mb-2" style={{color: '#F5C518'}}>TOURNAMENT RESULT</p>
+                        <p className="text-xs tracking-widest font-bold mt-3 mb-2" style={{color: accentColor}}>TOURNAMENT RESULT</p>
                         <motion.h1
                             initial={{ scale: 0.5, opacity: 0 }}
                             animate={{ scale: 1, opacity: 1 }}
                             transition={{ type: "spring", bounce: 0.4 }}
-                            className="font-black mb-4" style={{fontSize: 'clamp(3rem, 9vw, 6rem)', color: '#F5C518', letterSpacing: '-0.02em'}}>
+                            className="font-black mb-4" style={{fontSize: 'clamp(3rem, 9vw, 6rem)', color: accentColor, letterSpacing: '-0.02em'}}>
                             CHAMPION.
                         </motion.h1>
                         <p className="text-base max-w-md" style={{color: '#6b7280'}}>
@@ -174,7 +176,7 @@ export default function Summary(){
                 {/* tournament run */}
                 <div className="w-full mb-10" style={{maxWidth: '750px'}}>
                     <div className="flex items-center gap-3 mb-4">
-                        <div style={{height: '2px', width: '20px', backgroundColor: '#F5C518'}} />
+                        <div style={{height: '2px', width: '20px', backgroundColor: accentColor}} />
                         <p className="text-xs tracking-widest font-bold" style={{color: '#9ca3af'}}>TOURNAMENT RUN</p>
                     </div>
                     <div className="rounded-2xl overflow-hidden" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
@@ -202,19 +204,19 @@ export default function Summary(){
                 {/* stats row */}
                 <div className="w-full mb-10" style={{maxWidth: '750px'}}>
                     <div className="flex items-center gap-3 mb-4">
-                        <div style={{height: '2px', width: '20px', backgroundColor: '#F5C518'}} />
+                        <div style={{height: '2px', width: '20px', backgroundColor: accentColor}} />
                         <p className="text-xs tracking-widest font-bold" style={{color: '#9ca3af'}}>CAMPAIGN STATS</p>
                     </div>
                     <div className="grid grid-cols-3 gap-3">
                         <div className="flex flex-col items-center justify-center px-4 py-6 rounded-2xl" style={{backgroundColor: '#111827', border: '1px solid #ffffff10'}}>
-                            <span className="text-4xl font-black" style={{color: '#F5C518'}}>{totalGoalsScored}</span>
+                            <span className="text-4xl font-black" style={{color: accentColor}}>{totalGoalsScored}</span>
                             <span className="text-xs tracking-widest mt-2" style={{color: '#4b5563'}}>GOALS SCORED</span>
                         </div>
                         {mvp && (
-                            <div className="flex flex-col items-center justify-center px-4 py-6 rounded-2xl text-center" style={{backgroundColor: '#111827', border: '1px solid #F5C51830'}}>
+                            <div className="flex flex-col items-center justify-center px-4 py-6 rounded-2xl text-center" style={{backgroundColor: '#111827', border: `1px solid ${accentColor}30`}}>
                                 <span style={{fontSize: '1.3rem'}}>{nationFlags[mvp.nation] || '🏳️'}</span>
                                 <p className="font-bold text-sm text-white mt-2">{mvp.name}</p>
-                                <span className="text-xs tracking-widest mt-1" style={{color: '#F5C518'}}>TOURNAMENT MVP</span>
+                                <span className="text-xs tracking-widest mt-1" style={{color: accentColor}}>TOURNAMENT MVP</span>
                             </div>
                         )}
                         {topScorer && (
@@ -232,8 +234,8 @@ export default function Summary(){
                     <button
                         onClick={() => navigate('/')}
                         className="px-12 py-4 rounded-full font-black tracking-widest"
-                        style={{backgroundColor: '#F5C518', color: '#0a0a0f', transition: 'all 0.2s ease'}}
-                        onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 0 40px #F5C51840'; e.currentTarget.style.transform = 'scale(1.03)' }}
+                        style={{backgroundColor: accentColor, color: '#0a0a0f', transition: 'all 0.2s ease'}}
+                        onMouseEnter={e => { e.currentTarget.style.boxShadow = `0 0 40px ${accentGlow}`; e.currentTarget.style.transform = 'scale(1.03)' }}
                         onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'scale(1)' }}>
                         {eliminated ? 'BUILD ANOTHER' : 'PLAY AGAIN'}
                     </button>
@@ -257,16 +259,16 @@ export default function Summary(){
                 <div style={{display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '24px'}}>
                     <div style={{
                         width: '36px', height: '36px', borderRadius: '50%',
-                        backgroundColor: '#F5C518', display: 'flex', alignItems: 'center',
+                        backgroundColor: accentColor, display: 'flex', alignItems: 'center',
                         justifyContent: 'center', fontWeight: 900, color: '#0a0a0f',
                         fontSize: '13px', letterSpacing: '0px', lineHeight: 1
                     }}>XI</div>
-                    <span style={{fontWeight: 900, color: '#F5C518', letterSpacing: '2px', fontSize: '14px'}}>WORLD CUP XI</span>
+                    <span style={{fontWeight: 900, color: accentColor, letterSpacing: '2px', fontSize: '14px'}}>WORLD CUP XI</span>
                 </div>
                 <h2 style={{fontWeight: 900, fontSize: '48px', letterSpacing: '-1px', marginBottom: '8px'}}>
                     {eliminated
                         ? <><span style={{color: 'white'}}>ELIM</span><span style={{color: '#e63946'}}>INATED.</span></>
-                        : <span style={{color: '#F5C518'}}>CHAMPION.</span>
+                        : <span style={{color: accentColor}}>CHAMPION.</span>
                     }
                 </h2>
                 <p style={{color: '#6b7280', fontSize: '14px', marginBottom: '24px'}}>

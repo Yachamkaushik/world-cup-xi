@@ -16,6 +16,9 @@ export default function Result() {
     const results = location.state.results
     const selectedPlayers = location.state.selectedPlayers
     const mode = location.state.mode
+    const accentColor = mode === 'purist' ? '#3b82f6' : '#F5C518'
+    const accentBg = mode === 'purist' ? '#3b82f615' : '#F5C51815'
+    const accentGlow = mode === 'purist' ? '#3b82f840' : '#F5C51840'
     const roundNames = ['Round of 32', 'Round of 16', 'Quarter Final', 'Semi Final', 'Final']
 
     const containerVariants = {
@@ -47,9 +50,9 @@ export default function Result() {
                 {phase === 'group' && (
                     <div className="flex flex-col items-center w-full" style={{maxWidth: '700px'}}>
                         <div className="flex items-center gap-3 mb-3">
-                            <div style={{height: '1px', width: '40px', background: 'linear-gradient(to right, transparent, #F5C518)'}} />
-                            <p className="text-xs tracking-widest font-semibold" style={{color: '#F5C518'}}>GROUP STAGE</p>
-                            <div style={{height: '1px', width: '40px', background: 'linear-gradient(to left, transparent, #F5C518)'}} />
+                            <div style={{height: '1px', width: '40px', background: `linear-gradient(to right, transparent, ${accentColor})`}} />
+                            <p className="text-xs tracking-widest font-semibold" style={{color: accentColor}}>GROUP STAGE</p>
+                            <div style={{height: '1px', width: '40px', background: `linear-gradient(to left, transparent, ${accentColor})`}} />
                         </div>
                         <h1 className="font-black mb-10 text-center" style={{fontSize: 'clamp(2.5rem, 6vw, 4rem)', color: 'white', letterSpacing: '-0.02em'}}>
                             MATCHDAY RESULTS
@@ -59,7 +62,7 @@ export default function Result() {
                             <motion.div variants={containerVariants} initial="hidden" animate="visible" className="flex flex-col gap-3 mb-6">
                                 {results.slice(0,3).map((item, i) => {
                                     const badge = item.outcome === 'win' ? 'W' : item.outcome === 'draw' ? 'D' : 'L'
-                                    const badgeColor = badge === 'W' ? '#1a9e5c' : badge === 'D' ? '#F5C518' : '#e63946'
+                                    const badgeColor = badge === 'W' ? '#1a9e5c' : badge === 'D' ? accentColor : '#e63946'
                                     return (
                                         <motion.div key={i} variants={rowVariants} className="flex justify-between items-center px-6 py-4 rounded-xl" style={{
                                             backgroundColor: '#0a0a0f',
@@ -90,7 +93,7 @@ export default function Result() {
                             <div className="flex justify-between items-center">
                                 <div>
                                     <p className="text-xs tracking-widest mb-1" style={{color: '#4b5563'}}>POINTS</p>
-                                    <p className="text-4xl font-black" style={{color: '#F5C518'}}>{leaguePoints}</p>
+                                    <p className="text-4xl font-black" style={{color: accentColor}}>{leaguePoints}</p>
                                 </div>
                                 <p className="font-black text-2xl" style={{color: advanced ? '#1a9e5c' : '#e63946'}}>
                                     {advanced ? 'ADVANCED ✓' : 'ELIMINATED ✗'}
@@ -102,8 +105,8 @@ export default function Result() {
                             <button
                                 onClick={() => { setPhase('knockout'); setCurrentMatch(3) }}
                                 className="px-12 py-4 rounded-full font-black tracking-widest mt-8"
-                                style={{backgroundColor: '#F5C518', color: '#0a0a0f', transition: 'all 0.2s ease'}}
-                                onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 0 40px #F5C51840'; e.currentTarget.style.transform = 'scale(1.03)' }}
+                                style={{backgroundColor: accentColor, color: '#0a0a0f', transition: 'all 0.2s ease'}}
+                                onMouseEnter={e => { e.currentTarget.style.boxShadow = `0 0 40px ${accentGlow}`; e.currentTarget.style.transform = 'scale(1.03)' }}
                                 onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'scale(1)' }}>
                                 TO THE KNOCKOUTS →
                             </button>
@@ -121,9 +124,9 @@ export default function Result() {
                 {phase === 'knockout' && results[currentMatch] && (
                     <div className="flex flex-col items-center w-full" style={{maxWidth: '700px'}}>
                         <div className="flex items-center gap-3 mb-3">
-                            <div style={{height: '1px', width: '40px', background: 'linear-gradient(to right, transparent, #F5C518)'}} />
-                            <p className="text-xs tracking-widest font-semibold" style={{color: '#F5C518'}}>KNOCKOUT STAGE</p>
-                            <div style={{height: '1px', width: '40px', background: 'linear-gradient(to left, transparent, #F5C518)'}} />
+                            <div style={{height: '1px', width: '40px', background: `linear-gradient(to right, transparent, ${accentColor})`}} />
+                            <p className="text-xs tracking-widest font-semibold" style={{color: accentColor}}>KNOCKOUT STAGE</p>
+                            <div style={{height: '1px', width: '40px', background: `linear-gradient(to left, transparent, ${accentColor})`}} />
                         </div>
                         <h1 className="font-black mb-10 text-center" style={{fontSize: 'clamp(2.5rem, 6vw, 4rem)', color: 'white', letterSpacing: '-0.02em'}}>
                             {roundNames[currentMatch-3].toUpperCase()}
@@ -164,8 +167,8 @@ export default function Result() {
                             <button
                                 onClick={() => navigate('/summary', { state: { results, selectedPlayers, mode, eliminated: false, eliminatedAt: 'Final' } })}
                                 className="px-12 py-4 rounded-full font-black tracking-widest mt-8"
-                                style={{backgroundColor: '#F5C518', color: '#0a0a0f', transition: 'all 0.2s ease'}}
-                                onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 0 40px #F5C51840'; e.currentTarget.style.transform = 'scale(1.03)' }}
+                                style={{backgroundColor: accentColor, color: '#0a0a0f', transition: 'all 0.2s ease'}}
+                                onMouseEnter={e => { e.currentTarget.style.boxShadow = `0 0 40px ${accentGlow}`; e.currentTarget.style.transform = 'scale(1.03)' }}
                                 onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'scale(1)' }}>
                                 🏆 YOU WON THE WORLD CUP
                             </button>
@@ -174,8 +177,8 @@ export default function Result() {
                             <button
                                 onClick={() => setCurrentMatch(currentMatch + 1)}
                                 className="px-12 py-4 rounded-full font-black tracking-widest mt-8"
-                                style={{backgroundColor: '#F5C518', color: '#0a0a0f', transition: 'all 0.2s ease'}}
-                                onMouseEnter={e => { e.currentTarget.style.boxShadow = '0 0 40px #F5C51840'; e.currentTarget.style.transform = 'scale(1.03)' }}
+                                style={{backgroundColor: accentColor, color: '#0a0a0f', transition: 'all 0.2s ease'}}
+                                onMouseEnter={e => { e.currentTarget.style.boxShadow = `0 0 40px ${accentGlow}`; e.currentTarget.style.transform = 'scale(1.03)' }}
                                 onMouseLeave={e => { e.currentTarget.style.boxShadow = 'none'; e.currentTarget.style.transform = 'scale(1)' }}>
                                 NEXT: {roundNames[currentMatch - 2].toUpperCase()} →
                             </button>
